@@ -1,0 +1,57 @@
+#+SETUPFILE:./hugo_setup.org
+#+TITLE: Ancestry
+
+Ancestry is a company providing [[file:geneology.org][§Geneology]] and [[file:directtoconsumer_genetic_testing.org][§Direct-to-Consumer (DTC) Autosomal Genetic Testing]] services.
+ 
+
+Ancestry offers two major genealogical services based on a saliva test: identity-by-descent analysis (see community detection) and genetic ancestry. cite:ethnicity
+
+- Autosome :: non-sex chromosomes.
+* Sequencing Technology
+- Like [[file:23andme.org][§23andMe]], AncestryDNA uses SNP-chip technology, which probes for 730,525 genomic variants. cite:ethnicity
+  - Specifically, they use the Illumina OmniExpress Chip. cite:han2017clustering
+- The genomic variants chosen for the array were selected based on the Human HapMap Consortium, an international effort to catalogue global SNP variation. cite:ethnicity
+  - *The array only detects SNPs with an allele frequency > 5% cite:ethnicity*
+  - The majority of the SNPs are designed to target European populations.
+    
+* Genetic ancestry
+- Until recently, AncestryDNA tests only provided an analysis of an individual's distant ancestry. cite:curtis2017estimation
+  - This is achieved by comparing SNPs across the individual's genome with those characteristic of various ethnic groups.
+  - Each ethinic group has characteristic SNPs as result of mating barriers between these ethnic groups.
+- Ancesty uses a program known as ADMIXTURE which estimates the proportion of an individual's membership in a set of ancestral populations based on his or her genotype. cite:ethnicity
+* Community detection 
+ - Now, Ancestry is working on a service to identify an individual's more recent ancestral groups using identity-by-descent inference. cite:han2017clustering
+
+ - Ancestry's large dataset permits them to identify individuals who share haplotypes from a common ancestor. cite:han2017clustering
+   - The probability that a particular region in the genome is shared between two descendants of a common ancestor four generations ago is <1%.
+   - However, Ancestry has collected over 500 million such pairs.
+
+ - Recent ancestry is analyzed using haplotype variation. cite:curtis2017estimation
+   - Haplotype :: group of alleles inherited by a single ancestor.
+
+   - The familial relationship between two individuals can be determined using the length of shared DNA between them.
+     - e.g. a parent and a child will share half of the genome.
+
+   - This is achieved in two steps:
+     1. A genetic network of 742,394 consenting individuals was created. An unsupervised [[file:machine_learning.org][§Machine Learning]] *community detection* i.e. clustering algorithm was used to identify *haplotypes* characteristic of various genetic groups.
+        - The Louvain method was used.
+        - Community detection was performed *recursively* to discover sub-communities.
+
+     2. The communities discovered through clustering of the 742,394 individuals are used as *training data* for unsupervised classification algorithms. One algorithm is used for each community so that an individual may be assigned to multiple communities.
+
+** Challenges of community detection cite:curtis2017estimation
+1. Clustering is computationally intensive and is not feasible to perform regularly.
+2. Clustering algorithms typically assign nodes to only the single most suitable cluster.
+   - To solve this, Ancestry built a classification algorithm for each community.
+3. While clustering is consistent across an entire database, individual assignments may change across repetitions. 
+   
+* Privacy
+- Ancesty offers identity-by-descent genotyping with the goal of allowing customer's to reunite with lost relatives.
+- However, this very promise has the potential for exploitation by law-enforcement agencies—nearly 60% of searches for individuals of European descent will result in a third-cousin or closer match. cite:identity
+- Notably, in a recent case, law enforcement used a genetic search to trace the Golden State Killer—authorities were able to locate the killer's third cousin.
+  - Although this particular case is positive, the same technique could be used for nefarious purposes, such as re-identifying subjects of research studies from their genetic data.
+  - *Currently, the U.S department of Health and Human Services does not consider genome-wide datasets as identifiable information.*
+ 
+- DTC genetic testing companies provide customers with their raw DNA files which can then be uploaded to other services.
+
+bibliography:./bib/ancestry.bib

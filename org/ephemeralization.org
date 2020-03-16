@@ -1,0 +1,7 @@
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: ephemeralization
+#+TITLE: Ephemeralization
+
+A term coined by Buckminister Fuller.
+
+- Ephermeralization :: The ability of technological advancement to do "more and more with less and less until eventually you can do everything with nothing".

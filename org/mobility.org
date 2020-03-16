@@ -1,0 +1,6 @@
+#+SETUPFILE:./hugo_setup.org
+#+TITLE: Mobility
+
+- The need for mobility arises from two things:
+  1. Too much sitting (inactivity).
+  2. Repetitive movement (hiking, cycling, running etc.).

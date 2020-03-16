@@ -1,0 +1,17 @@
+#+SETUPFILE:./hugo_setup.org
+#+TITLE: Productivity
+
+- Be careful not to spend to much time organizing. According to [[https://pca.st/xuvhy4qq#t=748][Neil Pasricha]], we now spend 31% of our days bookmarking, prioritizing, and switching between tasks.
+- It's not a work-life balance, it's a flywheel. The more energy you can pour into one side of your life, the more energy you'll have for the rest. ([[https://pca.st/xuvhy4qq#t=5080][link]])
+- Find small ponds. In our vast world, you'll never be as good as other people if you're in an ocean. Find something specific, do it well, and you will be rewarded.
+- According to [[https://dcgross.com/improvising-for-productivity/?utm_campaign=Sunday%2520Snippets&utm_medium=email&utm_source=Revue%2520newsletter][Daniel Gross]], the more time we spend thinking about a task, the less likely we are to do it.
+  - He states that it becomes less /novel/ — we have removed all of the interesting aspects of it and all that is left is work.
+  - This is why when you have a novel idea, it is easier to enter the [[file:flow_state.org][§Flow State]] than if you come back to it at a later time—it then feels like work.
+    
+#+BEGIN_QUOTE
+“Time lost trying to optimise your workflow is time lost, period.”
+
+— Reddit user
+#+END_QUOTE
+
+

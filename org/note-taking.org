@@ -1,0 +1,7 @@
+#+SETUPFILE:./hugo_setup.org
+#+TITLE: Note-Taking
+
+* Note-taking philosophies
+** [[file:../../../Dropbox/Tasks/brain/progressive-summarization.org][§progressive-summarization]] 
+
+

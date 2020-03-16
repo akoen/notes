@@ -1,0 +1,7 @@
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: feedback_loops
+#+TITLE: Feedback Loops
+
+- tags :: [[file:deliberate_practice.org][§Deliberate Practice]]
+
+Feedback loops are an integral part of improvement and [[file:deliberate_practice.org][§Deliberate Practice]]. Without feedback loops, our practice is aimless and unstructured.

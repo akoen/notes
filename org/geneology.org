@@ -1,0 +1,4 @@
+#+SETUPFILE:./hugo_setup.org
+#+TITLE: Geneology
+
+- Geneology :: The study of family history.

@@ -1,0 +1,8 @@
+#+SETUPFILE:./hugo_setup.org
+#+TITLE: Happiness
+
+- Currently, my favourite definition of happiness is:
+#+BEGIN_QUOTE
+“Happiness is the feeling of contribution to something worthwhile.”
+#+END_QUOTE
+

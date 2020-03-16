@@ -1,0 +1,8 @@
+#+SETUPFILE:./hugo_setup.org
+#+TITLE: Writing
+
+- First drafts should be messy, experimental, and rushed. Spend your time rewriting, not getting it right the first time.
+  
+- It is a common flaw in essay writing (notably [[file:academic_writing.org][§Academic Writing]]) to make a statement accurate by making it vague. You may say that the issue is complex or that there are many factors involved. In general, avoid this.
+
+  - _Strive to make your writing as bold as possible without being false._

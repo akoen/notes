@@ -1,0 +1,7 @@
+#+SETUPFILE:./hugo_setup.org 
+#+HUGO_SECTION: notes
+#+HUGO_SLUG: acceptance_and_commitment_therapy
+#+TITLE: Acceptance and Commitment Therapy
+#+ROAM_ALIAS: "ACT"
+
+- The principle behind ACT is to focus on how your current actions will impact your future yourself, rather than how you're currently feeling.

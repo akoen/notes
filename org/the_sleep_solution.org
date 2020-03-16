@@ -1,0 +1,9 @@
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SECTION: Notes
+#+HUGO_SLUG: the_sleep_solution
+#+TITLE: The Sleep Solution
+
+* Ideas
+
+- We have four primary drives: the drives to eat, drink, sleep, and procreate.
+  - Unlike the other drives, however, we do not have a choice about whether or not to sleep. When we become tired enough, our body will force sleep upon us, whether we like it or not.

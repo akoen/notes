@@ -1,0 +1,3 @@
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: sönke_ahrens
+#+TITLE: Sönke Ahrens

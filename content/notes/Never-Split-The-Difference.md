@@ -1,0 +1,324 @@
++++
+title = "Never Split The Difference"
+author = ["Chris Voss"]
+date = 2019-11-08T00:00:00-08:00
+lastmod = 2020-03-11T21:05:49-07:00
+draft = false
++++
+
+These notes are adapted from both Chris Voss' book _Never Split The Difference_ and from his Masterclass on negotiation.
+
+After watching Chris' Masterclass, I am enthralled by the presence he commands. This is a valuable book.
+
+
+## Book: {#book}
+
+
+### Chapter 1: The new rules {#chapter-1-the-new-rules}
+
+-   Life is negotiation. Their will always be inevitable conflict in a relationship, and so it's important to be able to get what you want while inflicting minimal damage.
+-   Negotiation is just communication with results.
+
+
+### Chapter 2: Be a mirror {#chapter-2-be-a-mirror}
+
+-   Great negotiators are always looking for new information and questioning their assumptions. They remain more emotionally open.
+-   They most important thing you can do is **listen**:
+
+> “Instead of prioritizing your argument—in fact, instead of doing any thinking at all in the early goings about what you’re going to say—make your sole and all encompassing focus the other person and what they have to say. In that mode of true active listening—aided by the tactics you’ll learn in the following chapters—you’ll disarm your counterpart. You’ll make them feel safe. The voice in their head will begin to quiet down.”
+
+-   Most negotiators make the mistake of going too fast. **Slow it down**.
+
+-   Radiate positivity. People make more deals when they're in a good mood.
+
+-   In order to keep someone talking, use **mirroring** — the act of repeating the last 3 words of what they just said.
+    -   They will never notice.
+    -   This encourages them to elaborate on what they just said.
+    -   Shows empathy—that you really cared about what they have to say.
+    -   Use silence effectively, people will tend to elaborate.
+
+-   There are three voices available to negotiators:
+    1.  Late-night FM DJ voice: creates a sense of authority and trustworthiness. Speak calmly and with a downward inflection.
+
+    2.  The positive/playful voice: this should be your default voice—that of a pleasant, easy-going person. Keep a smile on your face.
+
+    3.  The assertive voice. Use sparingly. Will create resistance.
+
+-   Here's how to confront someone and get your way peacefully:
+    1.  Use the late-night FM DJ voice: calm yet sure with a downward inflection.
+
+    2.  Start with "I'm sorry...".
+
+    3.  Mirror.
+
+    4.  Use silence to get them to keep talking
+
+    5.  Repeat.
+
+
+### Chapter 3: Don't feel their pain, label it {#chapter-3-don-t-feel-their-pain-label-it}
+
+-   There is nothing more frustrating than being in a conversation where you feel like the other person isn't listening.
+-   Empathy is "the ability to recognize the perspective of a counterpart, and the vocalization of that recognition."
+-   **Labeling:** Identifying someone's feelings, turning them into words, and then repeating them back to the person.
+-   Labels usually start with "It seems like", "It sounds like", "It looks like" etc.
+    -   Avoid the word "I"
+-   **Reinforce positive emotions, fearlessly neutralize negative emotions.**
+-   The fastest way to establish a quick relationship is to acknowledge the negative it and diffuse it.
+-   Say: "Look, I'm an asshole".
+-   **Accusation audit**: As soon as possible, list every terrible thing your counterpart could say about you.
+
+
+### Chapter 4: Beware "Yes"—master "No" {#chapter-4-beware-yes-master-no}
+
+
+### Chapter 5: Trigger the two words that immediately transform any negotiation {#chapter-5-trigger-the-two-words-that-immediately-transform-any-negotiation}
+
+
+### Chapter 6: Bend their reality {#chapter-6-bend-their-reality}
+
+
+### Chapter 7: Create the illusion of control {#chapter-7-create-the-illusion-of-control}
+
+
+### Chapter 8: Guarantee execution {#chapter-8-guarantee-execution}
+
+
+### Chapter 9: Bargain hard {#chapter-9-bargain-hard}
+
+-   People often shy away from the least glamorous phase of negotiation, bargaining.
+-   This can be the difference between getting a good deal and not.
+-   There are three types of negotiators:
+    1.  The analyst: This person uses all their time to analyze. Let them think.
+    2.  The accomodator: for this person, time is spent building relationships.
+    3.  The assertive: for this person, time is money. They can often come off as unintentionally harsh.
+-   Don't be afraid to take a punch—when someone gives you an extreme offer. This can be used to destabilize you.
+-   Often it is best to start off with an offer way above what you're expect to frame it in their mind.
+
+**Ackerman Bargaining:** An exact bargaining technique.
+
+This is a technique used when it eventually comes down to making offers and counteroffers. It works as follows:
+
+1.  Offer 65% of what you're willing to pay.
+    -   This is an extreme anchor and will throw them off their feet.
+2.  Offer 85%
+    -   This will feel much more reasonable after your extreme anchor.
+    -   Before making a second offer, use techniques such as mirroring and labeling to get them to bet against themselves.
+3.  Offer 95%
+    -   Notice how the interval gets smaller each time. They'll feel as if their really squeezing you for everything you've got.
+4.  Offer 100%, but specific.
+    -   If it really comes down to it, offer exactly what you're willing to pay.
+    -   Use a specific number, such as $1,732.00
+
+
+### Chapter 10: Find the black swan {#chapter-10-find-the-black-swan}
+
+
+### How to get someone to keep talking {#how-to-get-someone-to-keep-talking}
+
+**Mirroring:** the act of repeating the last few words of what a person just said.
+
+
+### The three voices {#the-three-voices}
+
+1.  The assertive voice
+    -   Always counterproductive
+2.  The pleasant and cheerful person
+    -   Should be your default voice
+3.  The late-night FM DJ voice
+    -   All sentences end with a downward inflection
+    -   Gently assures the person that you're in control.
+    -   Doesn't give them the opportunity to resist.
+    -   They won't notice.
+    -   Calm's people down - use when people are upset
+    -   Best used for points that are immovable
+4.  The analyst voice
+    -   Much like the late-night FM DJ voice but lacks warmth
+
+
+### Labeling {#labeling}
+
+Labeling is the act of cleanly identifying the emotions that someone is faced with.
+
+-   Always directly confront the _underlying_ emotions that a person has.
+-   Never use _I_. Always say \`\`it seems'' or \`\`it sounds like''.
+-   A surprisingly useful phrase: \`\`Well, I'm an asshole!''
+
+
+### The power of no {#the-power-of-no}
+
+-   No is a powerful word, and we should be striving to get to no
+-   Think of the salesman trying to sell you a water purifier and asking you, "Do you like drinking water?". It feels insincere.
+-   No gives them a feeling a control and they'll be more receptive to further discussion.
+-   It sets the bar.
+
+
+### Getting them to say "that's right" {#getting-them-to-say-that-s-right}
+
+-   The two best words you can hear during a negotiation are "that's right".
+    -   When someone says this, they're letting go of their emotional baggage and can focus on the negotiation itself.
+-   The two worst words you can hear are "you're right"—this is a sign that they just want to get you to go away.
+-   The way to get someone to say "that's right" is to **summarize**, which is a combination of **paraphrasing** and **labeling**.
+    -   Paraphrasing is when you repeat what someone just said back to them in your own words.
+    -   This lets them see the absurdity of what they just said, and will be forced to correct themselves.
+
+In summary, in order to get someone to say "that's right", summarize what they said by paraphrasing their arguments while labeling their emotions.
+
+
+### The power of open-ended questions {#the-power-of-open-ended-questions}
+
+-   When you ask a direct question, you inherently owe the other person. This is the law of reciprocity.
+-   Instead, use open-ended questions starting with "how" or "what".
+    -   The most powerful of these is "How am I supposed to do that?"
+
+
+## Masterclass {#masterclass}
+
+
+### Tactical empathy {#tactical-empathy}
+
+-   Great negotiation is about great collaboration.
+
+-   Remember: your counterpart is struggling with the same problem you are.
+
+-   Use empathy to get at what someone is really wants.
+
+-   **Build report with your counterpart by demonstrating an understanding of their viewpoint**
+
+
+### Mirroring {#mirroring}
+
+-   **Repeat the last few words of what the person said. Then go silent!**
+
+-   You don't need to make your case. You need to listen.
+
+> “Negotiation is the art of letting the other side have your way”
+>
+> — Chris Voss
+
+-   Use mirroring to gather information.
+
+-   Mirroring lets the other side know that what they've said is inadequate, without being accusatory.
+
+    > “Awkwardness is an indicator of learning”
+    >
+    > — Chris Voss
+
+
+### Labeling {#labeling}
+
+-   By labelling emotions, electrical activity in the amygdala decreases.
+
+-   **Step 1**: Use your gut to uncover what the other person is feeling
+
+-   **Step 2:** Label it
+    -   Never say "I".
+
+-   **Step 3:** Shut up. Don't keep talking. Let it sink in.
+
+-   A lack of response to a negative label is a good think. You just need more.
+
+
+### Exercise: Mirroring and Labeling {#exercise-mirroring-and-labeling}
+
+-   Chris almost never asks questions. Instead, he makes statements (labels) such as "It sounds like you really like intellectual stimulation".
+-   _Assumption:_ When you ask a question, people typically expect something in return.
+
+
+### Mastering Delivery {#mastering-delivery}
+
+-   Your tone of voice conveys your feelings.
+-   By saying "how am I supposed to do that" in a genuinely inquisitive manner, you are saying "look. I'm trying to help. I'll do anything I can to help but I just can't do that."
+-   In all forms of communication: digital, in-person, etc., always try to end positively.
+-   **Digital communication:** Be concise, only state one point.
+
+
+### Case Study: Manhattan Bank Robbery {#case-study-manhattan-bank-robbery}
+
+-   The person who keeps claiming that they have little power is usually important and hiding it.
+    -   e.g. "I'm not the one making the decision" or "I'll have to talk to the other guys."
+    -   Conversely, the person who uses singular pronouns (I, my, me) has little power—this is the only time they get to use those words.
+
+
+### Body language and speech patterns {#body-language-and-speech-patterns}
+
+-   7-38-55 rule (words, tone of voice, body language)
+-   Your tone of voice is much more important than the words you say.
+-   People who aren't being spoken to (people listening) will have much more honest body language.
+-   Your gut instinct (subconscious pattern recognition) processes much more than your conscious mind i.e. trust your gut.
+
+**How to respond to a lie:**
+
+-   Use labels; don't accuse.
+-   "I hear that you've said yes, but it seems like there's something else that's bothering you?"
+-   Them lying signals that they've identified you as a potential threat. Use the FM DJ voice to reassure them.
+
+
+### Creating the illusion of control {#creating-the-illusion-of-control}
+
+-   Use calibrated questions. "How" and "What".
+-   "Why?" causes defensivness.  Change why's to what's.
+-   The golden question: "How am I supposed to do that?"
+    -   This forces them to empathize with your situation.
+
+-   This gives yourself the upper hand by giving the other side the illusion of the control.
+-   Ask questions that prove legitimacy:
+    -   \`\`How do we know the hostage is still alive?''
+    -   \`\`How do we know that you're committed to this deal?''
+    -   \`\`How to I know you're not just looking for free labour?''
+
+
+### The accusation audit {#the-accusation-audit}
+
+-   The accusation audit brings attention to the elephant in the room:
+    -   This may be fears that the other party has about you or who you represent.
+-   **The elephant in the room doesn't dissapear by pretending it's not there.**
+
+
+### The value of "no" {#the-value-of-no}
+
+-   We are naturally averse to the word "yes" because "yes" feels like a commitment.
+-   Instead, use the word "no"
+    -   This gives them the feeling of control.
+
+Here is a sample [§email]({{< relref "20200223174453_email" >}}) sent by Chris to a client who was not committing to buying tickets to their negotiation class before a deadline:
+
+Are you against committing to 3 tickets now? Is it a ridiculous idea for you to pay for the tickets before the business day starts tomorrow?
+
+
+### Bending reality {#bending-reality}
+
+Bending their reality is in reference to [§Loss Aversion]({{< relref "20200226202947_loss_aversion" >}}).
+
+-   Frame negotiations in a way that emphasizes what the other side has to lose by not working with you.
+    -   Don't say "We'll increase your sales by 23%", say "by not working with us, you risk your sales falling by 23%."
+
+-   Humans naturally want what's [§Fair]({{< relref "20200228181630_fairness" >}}), even if it means losing out.
+    -   Thought experiment: Imagine you and a friend find $10 on the sidewalk and you friend offers to give you $3 while he takes $7. Would you rather take the $3 or nothing?
+
+-   If someone says, "I've given you a fair deal", say "I'm sorry. Could you please explain why you find my deal to be unfair?"
+
+-   Deadlines are almost never strict. Deadlines are used to apply pressure.
+
+
+### Bargaining {#bargaining}
+
+-   Mentally prepare your counterpart for an extreme anchor.
+    -   Say: "I've got a price in mind but you're not going to like it. It might even make you angry."
+    -   This way, they'll give you permission to say your price and even if it is extreme, it won't catch them off guard.
+    -   As you perform Ackerman bargaining, they'll fell like they're really winning.
+
+-   At the end, always throw in something non-monetary.
+    -   "I've got a really nice bike. Do you want it?"
+    -   Choose something that they probably don't want.
+    -   Car dealers will often throw in a pair of nice headphones, for example.
+
+-   Take the time to discuss the terms of the deal before saying a number. They will be more flexible with non-monetary terms that with the price.
+    -   For example, ask if they give you free maintenance.
+
+
+### Black Swans {#black-swans}
+
+-   Black swans are variables which completely change the negotiation—factors which could have never been predicted but which are vital to getting the best deal.
+
+-   Approach the negotiation with the intent to learn and to listen, not to speak.

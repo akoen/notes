@@ -1,0 +1,15 @@
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SECTION: books
+#+HUGO_SLUG: the_mind_illuminated
+#+TITLE: The Mind Illuminated
+
+- tags :: [[file:mindfulness.org][§Mindfulness]], [[file:meditation.org][§Meditation]]
+
+* Stage 3
+- The first goal is to clearly distinguish the in and out breaths and the pauses between with equal clarity.
+  - /Note:/ you may find that you breath naturally change to accentuate parts of this cycle. If you did not intentionally cause this, accept it.
+    
+- Next, try to identify as many individual sensations of the in and out breaths as possible.
+  - Strive to distinguish each sensation with the utmost clarity.
+
+- *Maintain extrospective awareness (of the body & external stimuli).* This prevents drowsiness and improves the mind's ability to recognize distraction before it becomes complete/
