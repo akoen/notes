@@ -1,7 +1,7 @@
 +++
 title = "Active Recall"
 author = ["Alex Koen"]
-lastmod = 2020-02-27T19:34:34-08:00
+lastmod = 2020-03-17T11:34:04-07:00
 draft = false
 +++
 
@@ -11,28 +11,28 @@ Active recall is reading with intention, asking yourself how the information con
 
 > “When you read a book, you haven't learned anything. You have a plan, that's it. Only when you put in into practice do you know whether you've learned anything.”
 >
-> —[§Tiago Forte]({{< relref "20200224202234_tiago_forte" >}})
+> —[§Tiago Forte]({{< relref "tiago_forte" >}})
 
 -   According to <a id="a583e7c175d537c0442da246e5184fe1" href="#bjork">(Bjork et al., 2011)</a>, effective learning is often unintuitive.
     -   It is easy to be misled into thinking that we are using effective learning techniques, such as highlighting and rereading, when we are **merely becoming more familiar with the material, not learning it.**
 -   There is a distinction between current performance and learning.
     -   It is very possible to have high performance without learning (such as cramming), and vice-versa.
 -   There is a key distinction between **storage strength** and **retrieval strength**.
-    -   **storage strength:** how well ingrained our mental representations are of a given topic.
+    -   **storage strength:** how well ingrained our [§Mental Representations]({{< relref "mental_representations" >}}) are of a given topic.
         -   Storage strength is accumulated; it never decreases.
     -   **retrieval strength:** the ease with which we can **currently** access these mental representations.
         -   Retrieval strenght decreases with time.
         -   **Current performance is entirely a function of retrieval strength.**
 
 -   When studying, the worse our current retrieval strength, the greater our storage strength increases. Thus, it is favourable to introduce **desirable difficulties** to our learning.
-    -   This is the principle behind [§spaced repetition]({{< relref "20200224121011_spaced_repetition" >}})— <span class="underline">ideally, we should revisit a topic just as we are about to forget it.</span>
+    -   This is the principle behind [§Spaced Repetition]({{< relref "spaced_repetition" >}})— <span class="underline">ideally, we should revisit a topic just as we are about to forget it.</span>
 
 Desirable difficulties can be introduced in several ways:
 
 1.  **By learning under novel conditions:** our ability to retrieve information is influenced by the environments in which we have practiced it. By varying study conditions, we maximize the chance that we will be able to recall the information in a novel environment.
     -   For example, study in two different libraries.
 
-2.  **By applying [§spaced repetition]({{< relref "20200224121011_spaced_repetition" >}}).**
+2.  **By applying [§Spaced Repetition]({{< relref "spaced_repetition" >}}).**
 
 3.  **By interleaving your practice:** Alternate between subjects, and when studying a particular subject, alternate between different methods of studying.
     -   For example, when studying math, alternate between textbook questions and practice tests.

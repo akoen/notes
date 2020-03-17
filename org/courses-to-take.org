@@ -1,4 +1,0 @@
-#+TITLE: Courses that I should take
-* PHIL 321 - Induction, Decision and Game Theory
-- Recommended by Emma Gray
-- Explores rationality

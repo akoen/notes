@@ -1,7 +1,7 @@
 #+SETUPFILE:./hugo_setup.org
 #+TITLE: Org-Roam
 
-- tags :: [[file:zettelkasten.org][§Zettelkasten]], [[file:How-to-Take-Smart-Notes.org][§How to Take Smart Notes]]
+- tags :: [[file:zettelkasten.org][§Zettelkasten]], [[file:books/How-to-Take-Smart-Notes.org][§How to Take Smart Notes]]
 
 [[https://github.com/jethrokuan/org-roam][Org-Roam]] is an [[file:../../../Dropbox/Tasks/brain/emacs.org][§emacs]] package which tries to emulate the behaviour of [[https://roamresearch.com/][Roam Research]] in emacs.
 

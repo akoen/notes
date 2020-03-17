@@ -2,7 +2,7 @@
 #+TITLE: Tags
 
 - People often feel a pressure to tag content so that they may find it more easily in the future.
-- Tagging is useful, but only if one tags the keywords for which the given note may add to the discussion. ([[file:How-to-Take-Smart-Notes.org][§How to Take Smart Notes]])
+- Tagging is useful, but only if one tags the keywords for which the given note may add to the discussion. ([[file:books/How-to-Take-Smart-Notes.org][§How to Take Smart Notes]])
   - e.g. for a note about the Dunning-Kruger effect, tag it "mistrust of science" instead of "cognitive biases". You are much more likely to write about mistrust of science than to make a compendium of cognitive biases (unless you are an archivist).
     
 #+BEGIN_QUOTE

@@ -2,13 +2,13 @@
 title = "Peak: Secrets from the New Science of Expertise"
 author = ["Anders Ericsson and Robert Pool"]
 date = 2019-08-22T00:00:00-07:00
-lastmod = 2020-03-11T16:12:12-07:00
+lastmod = 2020-03-17T11:33:37-07:00
 draft = false
 +++
 
 _Note: These notes are not complete as I have just started univerity and they are not a priority._
 
-**Mental representations:**
+**[§Mental Representations]({{< relref "mental_representations" >}})**:
 
 Learning is about creating mental representations—mental modals that can be used to make sense of complex information which would seem quasi-random to a layperson. For example, a professional pianist is able to look a sheet of music and without ever having heard it, know what it will sound like. These mental representations exist as neural structures inside your brain which are solidified and developed through practice.
 
@@ -35,3 +35,8 @@ Deliberate practice expands of the principles of purposeful practice by adding t
 
 1.  **Develops skills that have been mastered by experts and for which effective training techniques have already been developed.** This way, you can be assured that you are creating effective mental representations.
 2.  **Employs teachers to guide a student's practice and to give effective feedback.** Teachers can ensure that you have a solid foundation of fundamental skills before advancing to ensure expert performance. Furthermore, they can provide professional feedback to identify weaknesses and develop a plan for improving them.
+
+
+## Backlinks {#backlinks}
+
+-   [Deliberate Practice]({{< relref "deliberate_practice" >}})

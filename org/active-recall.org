@@ -16,7 +16,7 @@ _In short, active recall is about spending less time on the input side of learni
 - There is a distinction between current performance and learning.
   - It is very possible to have high performance without learning (such as cramming), and vice-versa.
 - There is a key distinction between *storage strength* and *retrieval strength*.
-  - storage strength :: how well ingrained our mental representations are of a given topic.
+  - storage strength :: how well ingrained our [[file:mental_representations.org][§Mental Representations]] are of a given topic.
     - Storage strength is accumulated; it never decreases.
   - retrieval strength :: the ease with which we can *currently* access these mental representations.
     - Retrieval strenght decreases with time.
