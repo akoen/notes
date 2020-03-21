@@ -25,7 +25,7 @@ This book is divided into 4 rules:
 
 - Fulfilled professionals don't ask themselves, "what can my career do for me," but rather "what can I do for my career?". This is the *craftsman mindset.*
 
-- Career capital is best acquired through *deliberate practice* (see [[file:books/Peak.org][Peak: Secrets from the New Science of Expertise]] )
+- Career capital is best acquired through *deliberate practice* (see [[file:../Peak.org][§Peak: Secrets from the New Science of Expertise]])
   - While musicians, athletes etc. are intimately familiar with deliberate practice, knowledge workers are not. This is a huge advantage for you.
 
 #+BEGIN_QUOTE

@@ -3,7 +3,7 @@
 
 - tags :: [[file:zettelkasten.org][§Zettelkasten]], [[file:books/How-to-Take-Smart-Notes.org][§How to Take Smart Notes]]
 
-[[https://github.com/jethrokuan/org-roam][Org-Roam]] is an [[file:../../../Dropbox/Tasks/brain/emacs.org][§emacs]] package which tries to emulate the behaviour of [[https://roamresearch.com/][Roam Research]] in emacs.
+[[https://github.com/jethrokuan/org-roam][Org-Roam]] is an [[file:emacs.org][§Emacs]] package which tries to emulate the behaviour of [[https://roamresearch.com/][Roam Research]] in emacs.
 
 * Advantages of org-roam
 1. Notes are stored in a flat hierarchy. This minimizes the cognitive demand of trying to organize complex information (this is delegated to creating links).

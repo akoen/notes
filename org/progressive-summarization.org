@@ -1,4 +1,6 @@
 #+SETUPFILE:./hugo_setup.org
 #+TITLE: Progressive Summarization
 
+- tags :: [[file:note-taking.org][§Note-Taking]]
+
 [[https://praxis.fortelabs.co/progressive-summarization-a-practical-technique-for-designing-discoverable-notes-3459b257d3eb/]]

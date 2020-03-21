@@ -3,7 +3,7 @@
 #+HUGO_SLUG: article_augmenting_long_term_memory
 #+TITLE: Article: Augmenting Long-term Memory
 
-- author :: [[file:michael_nielsen.org][§Michael Nielsen]]
+- author :: [[file:../michael_nielsen.org][§Michael Nielsen]]
 - source :: [[http://augmentingcognition.com/ltm.html]]
 
 - Nielsen estimates that he only spends 4 to 7 minutes reviewing cards in a 20 year period.
@@ -26,7 +26,7 @@
 — [[file:../richard_feynman.org][§Richard Feynman]]
 #+END_QUOTE
 
-- Nielsen argues that it is more valuable to read a few important papers on a topic than to read a large number of papers. ([[file:syntopic_reading.org][§Syntopic reading]])
+- Nielsen argues that it is more valuable to read a few important papers on a topic than to read a large number of papers. [[file:../syntopic_reading.org][(§Syntopic reading]])
   
 - Make [[file:../anki.org][§Anki]] cards atomic. *It is critical to be able to quickly identify your precise mistake when you fail a card.* Otherwise you're mind will not know where to focus.
 
