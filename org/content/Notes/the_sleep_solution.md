@@ -1,0 +1,27 @@
++++
+title = "The Sleep Solution"
+author = ["Alex Koen"]
+lastmod = 2020-03-21T09:23:38-07:00
+slug = "the_sleep_solution"
+draft = false
++++
+
+## Ideas {#ideas}
+
+-   We have four primary drives: the drives to eat, drink, sleep, and procreate.
+    -   Unlike the other drives, however, we do not have a choice about whether or not to sleep. When we become tired enough, our body will force sleep upon us, whether we like it or not.
+
+-   **The difference between sleepy and fatigues:**
+    -   **Sleepy:** when your body wants to sleep.
+
+    -   **Fatigued:** when your body is low on energy e.g. after a hard day of exercise.
+
+    -   It is easy to confuse the two. If we go to bed when we are fatigued, but not sleepy, we will lie awake.
+
+-   **6 – 7 hours of sleep are typically adequate. Those who struggle with sleep believe they need more because their sleep quality is poor.**
+
+-   There are two regulatory systems that drive sleep:
+    1.  The homeostatic system of sleep (the system that urges us to sleep the longer we stay awake) is driven by adenosine.
+        -   Caffeine inhibits adenosine
+
+    2.  The circadian rhythm system of sleep is driven by melatonin.
