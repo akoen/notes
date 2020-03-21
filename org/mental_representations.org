@@ -1,0 +1,5 @@
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: mental_representations
+#+ROAM_ALIAS: "Chunks"
+#+TITLE: Mental Representations
+

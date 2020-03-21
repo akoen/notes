@@ -1,7 +1,7 @@
 +++
 title = "Shame"
 author = ["Alex Koen"]
-lastmod = 2020-02-28T18:16:32-08:00
+lastmod = 2020-03-17T16:10:07-07:00
 draft = false
 +++
 
@@ -11,6 +11,6 @@ In _Is Shame Necessary?: New Uses For An Old Tool_, Jennifer Jacquet argues that
 
 Guilt does not instigate change because it is personal, shame does because there is the threat of an audience. If one can expose harmful practices of a large company for instance, they can be shamed into changing.
 
-Shame works best when it is the only available tool—when the public has no other power. Our natural sense of [§Fairness]({{< relref "20200228181630_fairness" >}})
+Shame works best when it is the only available tool—when the public has no other power. Our natural sense of [§Fairness]({{< relref "fairness" >}})
 
 e.g. We cannot punish other countries for human rights abuses with the law, and so shame is a powerful tool.

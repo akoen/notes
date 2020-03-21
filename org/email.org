@@ -1,5 +1,12 @@
 #+SETUPFILE:./hugo_setup.org
+#+ROAM_ALIAS: "Writing Email"
 #+TITLE: Email
+
+- Many times people use email to shift responsability onto others. They say, "what do you think about this?" or even simply, "thoughts?"
+  - If you want to be respected, make emails *atomic*, *specific*, and *easy to read*.
+
+* Techniques for writing better emails
+- Use precise dates. Instead of saying /tomorrow/, say /tomorrow (January 6th)/.
 
 * A great example cold email from [[file:time_ferriss.org][§Time Ferriss]] ([[https://tim.blog/2008/05/19/5-tips-for-e-mailing-busy-people/][tim.blog]])
 
@@ -18,3 +25,4 @@
     Best,
 
     Robert J. Moore ‘06
+   

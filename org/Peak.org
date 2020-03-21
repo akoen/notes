@@ -6,7 +6,7 @@
 
 /Note: These notes are not complete as I have just started univerity and they are not a priority./
 
-*Mental representations:*
+*[[file:mental_representations.org][§Mental Representations]]*:
 
 Learning is about creating mental representations—mental modals that can be used to make sense of complex information which would seem quasi-random to a layperson. For example, a professional pianist is able to look a sheet of music and without ever having heard it, know what it will sound like. These mental representations exist as neural structures inside your brain which are solidified and developed through practice.
 
