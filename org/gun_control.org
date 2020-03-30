@@ -1,0 +1,6 @@
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: gun_control
+#+TITLE: Gun Control
+
+- In America, there are real problems that mandate the availability of firearms.
+- For example, in Texas, [[https://www.smithsonianmag.com/science-nature/a-plague-of-pigs-in-texas-73769069/][feral hogs]] cause over $400 million in damages annually and number in the millions.

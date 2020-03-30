@@ -1,0 +1,6 @@
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: deep_work
+#+TITLE: Deep Work
+
+- Creative output is not limited by a lack of inputs. It is limited by a lack of time spent contemplating and reworking important ideas.
+- We must establish routines and systems to limit the amount of willpower required to maintain unbroken concentration.

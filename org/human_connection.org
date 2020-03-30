@@ -1,0 +1,5 @@
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: human_connection
+#+TITLE: Human Connection
+
+- You never connect with anyone in their best moments. You connect with people when they're beaten, when they're exhausted, when they're afraid.

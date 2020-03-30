@@ -8,13 +8,13 @@
 - We have four primary drives: the drives to eat, drink, sleep, and procreate.
   - Unlike the other drives, however, we do not have a choice about whether or not to sleep. When we become tired enough, our body will force sleep upon us, whether we like it or not.
 
-- *The difference between sleepy and fatigues:*
+- *The difference between sleepy and fatigued:*
 
   - Sleepy :: when your body wants to sleep.
 
   - Fatigued :: when your body is low on energy e.g. after a hard day of exercise.
 
-  - It is easy to confuse the two. If we go to bed when we are fatigued, but not sleepy, we will lie awake.
+  - It is easy to confuse the two. If we go to bed when we are fatigued, but not sleepy, then we will lie awake.
 
 - *6 – 7 hours of sleep are typically adequate. Those who struggle with sleep believe they need more because their sleep quality is poor.*
 
@@ -29,3 +29,78 @@
 
 #+DOWNLOADED: screenshot @ 2020-03-21 09:24:48
 [[file:img/the_sleep_solution/screenshot2020-03-21_09-24-48_.png]]
+
+  - In rare instances dreams can occur during deep sleep.
+
+  - During N3 sleep growth hormone is secreted.
+
+  - Waking up from REM sleep is often unpleasant.
+  - Nightmares are often a result of waking up directly from REM sleep.
+
+  - The opposite of sleepiness is *vigilance*.
+
+  - Sleepiness always increases. Typically, the source of sleep difficulty is vigilance.
+
+  - When people are anxious about sleeping, they become more vigilant and consequently cannot sleep.
+
+    #+BEGIN_SRC mermaid 
+graph LR
+    N1 --> N2
+    N2 ==> REM & N3
+    #+END_SRC
+
+    #+RESULTS:
+    [[file:test.png]]
+
+  - Paradoxical insomnia :: the condition where a patient feels that he or she is sleeping less than he or she actually is.
+
+    - People will say that they watched the clock the entire night, but they in fact slept for many hours. This is because it is easy to fall asleep and not notice the passage of time. *It is easy to sleep without perceiving it.*
+
+*Sleep hygiene:* 
+What follow is an ideal sleep routine. It may not be possible to perform all of these tasks daily, but each one individually has the potential to improve your sleep. *The secret to being sleepy at night is to be as awake as possible during the day.*
+
+    - Exercise in the morning to expose yourself to natural light. This regulates the circadian rhythm.
+
+    - Eat a high-protein breakfast. Low-calorie, high protein diets have been shown to improve sleep.
+
+    - Eat lunch at a consistent time.
+
+    - Do not eat 2–3 hours before bed.
+
+    - Take a hot shower/bath an hour before going to bed.
+
+    - Dim lights.
+
+    - Perform light exercise or meditation as part of your bedtime routine.
+
+    - Dim the lights.
+
+    - Read a book (ideally paper) until you fall asleep.
+
+    - Make your room as dark as possible. *If you can see your hands in front of your face it's not dark enough.*
+   
+    - The 20-minute rule :: people often believe that if you cannot fall asleep after 20 minutes, you should get up and perform a relaxing activity until you feel sleepy again. This is fine, unless you develop anxiety about not falling asleep within this artificial time constraint. *However, there is nothing wrong with simply lying there; resting without sleeping is still beneficial.*
+
+    - *If you consistently cannot fall asleep and don't feel particularly sleepy, go to bed later.*
+
+*Insomnia:*
+
+- Insomnia :: A self-diagnosed condition characterized by a patient simply not being satisfied with the quality or duration of his or her sleep.
+
+  - Those with anxiety disorders, even slight, are predisposed to insomnia.
+
+  - When we are anxious about going to sleep, the anxiety is self-propelling. The more we struggle to fall asleep, the more anxious we become, and the more vigilant we find ourselves.
+
+  - The most effective treatment by far for insomnia is [[file:../cognitive_behavioural_therapy.org][§Cognitive Behavioural Therapy]] for insomnia (CBT-I). It is composed of six critical components:
+
+    1. Sleep education.
+
+    2. Sleep hygiene.
+
+    3. Stimulus control (the bedroom is for sleep, and sleep only).
+
+    4. Sleep restriction (reducing the amount of time we spend in bed not sleeping by going to bed later).
+
+    5. Relaxation training. This entails contracting and releasing parts of the body.
+
+    6. Cognitive therapy. This involves retraining our negative thoughts about sleeping, and is best facilitated by a CBT-I therapist.
