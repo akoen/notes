@@ -1,7 +1,7 @@
 +++
 title = "Gun Control"
 author = ["Alex Koen"]
-lastmod = 2020-03-28T09:59:27-07:00
+lastmod = 2020-03-30T06:46:13-07:00
 slug = "gun_control"
 draft = false
 +++

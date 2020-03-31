@@ -1,7 +1,7 @@
 +++
 title = "Progressive Summarization"
 author = ["Alex Koen"]
-lastmod = 2020-03-21T08:52:43-07:00
+lastmod = 2020-03-30T06:46:07-07:00
 draft = false
 +++
 

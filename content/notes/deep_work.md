@@ -1,7 +1,7 @@
 +++
 title = "Deep Work"
 author = ["Alex Koen"]
-lastmod = 2020-03-28T20:59:30-07:00
+lastmod = 2020-03-30T20:59:21-07:00
 slug = "deep_work"
 draft = false
 +++
