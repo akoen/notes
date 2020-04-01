@@ -1,3 +1,5 @@
 #+TITLE: Reading
 
+- More than 50% of high school graduates in the US will never read a book again.
+  
 - [[file:elon_musk.org][§Elon Musk]] claims that most of what he has learned has been through reading—he complains about the "ridiculously" slow download speed of sitting in a classroom.
