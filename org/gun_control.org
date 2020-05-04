@@ -1,5 +1,3 @@
-#+SETUPFILE:./hugo_setup.org
-#+HUGO_SLUG: gun_control
 #+TITLE: Gun Control
 
 - In America, there are real problems that mandate the availability of firearms.

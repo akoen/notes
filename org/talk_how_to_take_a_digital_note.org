@@ -1,6 +1,3 @@
-#+SETUPFILE:./hugo_setup.org
-#+HUGO_SLUG: talk_how_to_take_a_digital_note
-#+HUGO_SECTION: talks
 #+TITLE: Talk: How to Take a Digital Note
 
 - author :: [[file:tiago_forte.org][§Tiago Forte]]

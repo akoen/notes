@@ -1,5 +1,3 @@
-#+SETUPFILE:./hugo_setup.org
-#+HUGO_SLUG: fuel_cell
 #+TITLE: Fuel Cell
 
 - tags :: [[file:hydrogen.org][§Hydrogen]]

@@ -1,5 +1,3 @@
-#+SETUPFILE:./hugo_setup.org
-#+HUGO_SLUG: simplicity
 #+ROAM_ALIAS: "Simple"
 #+TITLE: Simplicity
 

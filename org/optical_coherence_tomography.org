@@ -1,5 +1,3 @@
-#+SETUPFILE:./hugo_setup.org
-#+HUGO_SLUG: optical_coherence_tomography
 #+TITLE: Optical Coherence Tomography
 
 * Overview

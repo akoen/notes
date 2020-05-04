@@ -1,4 +1,2 @@
-#+SETUPFILE:./hugo_setup.org
-#+HUGO_SLUG: carbon_capture
 #+TITLE: Carbon Capture
 
