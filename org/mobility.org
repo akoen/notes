@@ -1,4 +1,3 @@
-#+SETUPFILE:./hugo_setup.org
 #+TITLE: Mobility
 
 - The need for mobility arises from two things:

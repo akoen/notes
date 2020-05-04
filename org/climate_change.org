@@ -1,9 +1,8 @@
-#+SETUPFILE:./hugo_setup.org
 #+TITLE: Climate Change
 
 - One day at a temperature of 58ºC would kill most of Earth's crops and animals.
 - We would collectively be better off if we took the necessary measures to fight climate change, but for each CEO, politician, and lobbyist with the power to make the change, /they/ are better off if they maintain the status quo.
-  - This is the same reason we struggle with [[file:consistency.org][§Consistency]]. Whenever we are faced with the choice of whether of whether or not to skip the gym in favour of studying, it is most likely a better immediate choice to do so. However, like with climate change, we need to force ourselves to take action in favour of our collective wellbeing.
+  - This is the same reason we struggle with [[file:consistency.org][§Consistency]]. Whenever we are faced with the choice of whether of whether or not to skip the gym in favour of studying, it is most likely a better immediate choice to do so. However, like with climate change, we need to force ourselves to take immediate action in favour of our collective wellbeing.
 
 #+DOWNLOADED: https://28oa9i1t08037ue3m1l0i861-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/temp-spectrum.png @ 2020-02-21 20:09:12
 [[file:img/20200221200731_climate_change/temp-spectrum2020-02-21_20-09-12_.png]]
@@ -12,4 +11,8 @@
 #+DOWNLOADED: https://flowcharts.llnl.gov/content/assets/images/charts/Energy/ENERGY_2011_WORLD.png @ 2020-02-21 20:15:20
 [[file:img/20200221200731_climate_change/ENERGY_2011_WORLD2020-02-21_20-15-20_.png]]
 
-- 95% of the world's transportation runs on oil.
+- 95% of the world's [[file:transportation.org][§Transportation]] runs on oil.
+
+- CO₂ in the atmosphere has increased from 0.02% in the pre-industrial era to 0.04% today.
+
+- CO₂ composes just 0.04% of the Earth's atmosphere. Human activities are responsible for 0.02% of that amount.

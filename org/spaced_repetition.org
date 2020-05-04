@@ -1,3 +1,1 @@
-#+SETUPFILE:./hugo_setup.org
 #+TITLE: Spaced Repetition
-

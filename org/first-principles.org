@@ -1,8 +1,7 @@
-#+SETUPFILE:./hugo_setup.org
 #+TITLE: First Principles
 
 - In his [[https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html][article]] on [[file:tesla.org][§Tesla]], [[file:tim_urban.org][§Tim Urban]] compares knowledge to a tree: if you don't have a solid trunk of information on which to scaffold new ideas, the "branches" will fall down.
-  - This is echoed by [[file:michael_nielsen.org][§Michael Nielsen]] in [[file:websites/article_augmenting_long_term_memory.org][§Article: Augmenting Long-term Memory]], who claims that people need to spend more time focusing on the basic before worrying about complex issues.
+  - This is echoed by [[file:michael_nielsen.org][§Michael Nielsen]] in [[file:articles/augmenting-long-term-memory.org][§Article: Augmenting Long-term Memory]] who claims that people need to spend more time focusing on the basic before worrying about complex issues.
   
 - This way of thinking is shared by many successful entrepreneurs such as [[file:elon_musk.org][§Elon Musk]] and [[file:steve_jobs.org][§Steve Jobs]]
   - *When Jobs was designing the iPhone, he asked "What should a mobile phone be?" instead of "How do we make a better blackberry."*

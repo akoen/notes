@@ -1,0 +1,17 @@
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: qubit
+#+TITLE: Qubit
+
+- The quantum state of a qubit is a vector of unit length in a 2-dimensional complex vector space known as state space. It is typically represented as \alpha|0\rangle + \beta|1\rangle.
+  
+  - |0\rangle and |1\rangle represent the two standard basis vectors of R^2.
+    
+  - unit length :: |\alpha|^2 + |\beta|^2 = 1
+
+  - complex vector space :: \alpha and \beta can be complex numbers.
+
+- It is *impossible* to directly observe the state of a qubit.
+
+- When a qubit is measured, the qubit collapses to either |0\rangle or |1\rangle with probabilities |\alpha|^2 and |\beta|^2 respectively.
+
+  - This is a fundamental consequence of physics. If this were not the case, infinite information could be encoded in a single qubit.

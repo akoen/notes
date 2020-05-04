@@ -1,7 +1,9 @@
 #+TITLE: How to Become a Straight-A Student
 #+Author: Cal Newport
 #+Date: <2019-08-12 Mon>
-#+Filetags: 
+
+- author :: [[file:../cal_newport.org][§Cal Newport]]
+- tags :: [[file:../productivity.org][§Productivity]] [[file:../studying.org][§Studying]]
 
 *About the author:* Cal Newport is a computer science professor at Georgetown University who writes about the effect of technology on our daily lives and techniques for getting more work done quickly.
 

@@ -1,5 +1,3 @@
-#+SETUPFILE:./hugo_setup.org
-#+HUGO_SLUG: deliberate_practice
 #+TITLE: Deliberate Practice
 
 - It is often assumed that improvement takes place naturally as a result of repetition. This is not true.
@@ -8,7 +6,7 @@
 
 * Deliberate practice vs purposeful practice.
 
-Technically, according to the author's of [[file:Peak.org][§Peak]], there is a distinction between purposeful practice and deliberate practice.
+Technically, according to the author's of [[file:books/Peak.org][§Peak]], there is a distinction between purposeful practice and deliberate practice.
 
 Purposeful practice:
 1. Has well-defined, specific goals.

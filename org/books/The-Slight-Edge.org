@@ -1,7 +1,7 @@
 #+TITLE: The Slight Edge
-#+Author: Jeff Olson
-#+Date: <2019-11-08 Fri>
-#+Filetags: 
+
+- author :: Jeff Olson
+- tags :: [[file:../consistency.org][§Consistency]]
 
 This book's premise is extremely simple: the direction of your life is entirely determined by the small actions that you take every single day. The actions that are easy to do, but equally easy not to do. These /simple daily disciplines/ compound over time, and can be summarised by the following graph:
 

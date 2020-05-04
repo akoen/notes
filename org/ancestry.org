@@ -1,4 +1,3 @@
-#+SETUPFILE:./hugo_setup.org
 #+TITLE: Ancestry
 
 Ancestry is a company providing [[file:geneology.org][§Geneology]] and [[file:directtoconsumer_genetic_testing.org][§Direct-to-Consumer (DTC) Autosomal Genetic Testing]] services.

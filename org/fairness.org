@@ -1,4 +1,2 @@
-#+SETUPFILE:./hugo_setup.org
-#+HUGO_SLUG: fairness
 #+TITLE: Fairness
 #+ROAM_ALIAS: "Fair"

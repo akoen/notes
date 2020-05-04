@@ -1,0 +1,33 @@
+#+ROAM_KEY: cite:alves
+#+TITLE: Paper: Overview of hydrogen production technologies from biogas and the applications in fuel cells
+
+- source :: cite:alves
+
+- Hydrogen has the highest energy density of any known substance (120,000 kJ/kg).
+    
+- Biogas is a mixture of mainly CH₄ and CO_2 with trace amounts of H₂S, NH_3, H₂, N₂, O₂ and H₂O.
+
+  - Produced by microorganisms that anaerobically decompose organic matter such as animal waste, sewage, landfills etc.
+
+- 90% of [[file:../hydrogen.org][§Hydrogen]] is derived from CH₄ (methane reforming). The most common processes are "steam reforming", "partial oxidation reforming", and "auto thermal reforming".
+  - Require temperatures of 600–1000 ℃.
+
+*Methane reforming chemical reactions*
+#+DOWNLOADED: screenshot @ 2020-04-18 17:10:33
+[[file:img/paper_hydrogen_and_biogas/screenshot2020-04-18_17-10-33_.png]]
+
+- SR (eq. 1) is low efficiency, but most commonly used.
+  - Mandates the separation of CO from H₂, which is costly.
+  - Requires external power supply.
+    
+- POR (eq. 7) is slightly exothermic but requires high temperatures.
+  - Lower CO to H_2 ratio.
+
+- ATR is a combination of the two (eq. 9)
+  - Reactor can be quickly stopped and restarted.
+
+- The greatest challenge in reforming biogas is the formation of coke on the surface of the catalyst.
+  
+- The H₂S must be removed from biogas before reforming.
+
+bibliography:./bib/paper_hydrogen_and_biogas.bib

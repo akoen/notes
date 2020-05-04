@@ -1,4 +1,3 @@
-#+SETUPFILE:./hugo_setup.org
 #+TITLE: Anxiety
 - No one ever failed in life because they weren't good enough; they failed because they gave up.
   - Honestly, I still don't quite believe this.

@@ -1,5 +1,4 @@
 
-#+SETUPFILE:./hugo_setup.org
 #+TITLE: Genome-wide Association Study (GWAS)
 #+ROAM_ALIAS: "GWAS"
 

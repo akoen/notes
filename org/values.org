@@ -1,0 +1,14 @@
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: values
+#+TITLE: Values
+
+- tags :: [[file:happiness.org][§Happiness]]
+
+- According to [[file:naval_ravikant.org][§Naval Ravikant]], values are behaviours or habits of yours that you are not willing to compromise on.
+
+#+BEGIN_QUOTE
+“Foundational values to me are things that I’ve looked at very, very carefully about myself and I’ve deliberately chosen and said, “You know what, this is a habit. This is a way of life. I’m not going to compromise on it. I’m going to stay this way forever. I don’t want to live life any other way.”
+
+— [[file:naval_ravikant.org][§Naval Ravikant]]
+#+END_QUOTE
+

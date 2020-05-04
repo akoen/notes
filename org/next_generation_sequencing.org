@@ -1,5 +1,3 @@
-#+SETUPFILE:./hugo_setup.org
-#+HUGO_SLUG: next_generation_sequencing
 #+TITLE: Next Generation Sequencing
 
 * NGS and [[file:machine_learning.org][§Machine Learning]] 

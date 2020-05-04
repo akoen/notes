@@ -1,6 +1,3 @@
-#+SETUPFILE:./hugo_setup.org
-#+HUGO_SECTION: books
-#+HUGO_SLUG: the_mind_illuminated
 #+TITLE: The Mind Illuminated
 
 - tags :: [[file:mindfulness.org][§Mindfulness]], [[file:meditation.org][§Meditation]]

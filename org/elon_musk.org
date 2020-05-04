@@ -1,4 +1,3 @@
-#+SETUPFILE:./hugo_setup.org
 #+TITLE: Elon Musk
 - Elon Musk's approach to business: "Here we look at it the other way around—the product is successful when it’s great, and the company becomes great because of that."
   - This reminds me of [[file:derek_sivers.org][§Derek Sivers]].

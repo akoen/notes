@@ -1,7 +1,8 @@
-#+SETUPFILE:./hugo_setup.org
 #+TITLE: Note-Taking
 
-* Note-taking philosophies
-** [[file:../../../Dropbox/Tasks/brain/progressive-summarization.org][§progressive-summarization]] 
+- If you don't write something down or otherwise record it, you will invariably forget it. By recording your ideas, you unburden your mind from the responsibility of remembering and allow it to think.
 
+- Keep your note-taking system [[file:simplicity.org][§Simple]]. Standardization allows for creativity. When we have no restrictions on the format of our thinking, our brain must think constantly about how to record its thoughts. By imposing such restrictions, we are free to focus on the content. [[file:books/How-to-Take-Smart-Notes.org][§How to Take Smart Notes]]
+  - Many of the most creative people are incredibly ritualistic.
 
+  - Nobody is asking for more letters in the alphabet, because those 26 characters are capable of writing love letters, legal jargon, and manifestos.

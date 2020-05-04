@@ -1,8 +1,6 @@
-#+SETUPFILE:./hugo_setup.org
-#+HUGO_SECTION: books
 #+TITLE: How to Take Smart Notes
 
-- author :: [[file:sönke_ahrens.org][§Sönke Ahrens]]
+- author :: [[file:../sönke_ahrens.org][§Sönke Ahrens]]
  
 * Ideas
 - Keep your notes and your system simple. Do not overcomplicate it.
@@ -14,16 +12,15 @@
 - Notes should be *brief and too the point.*
 - *Learn to enjoy the process of working.* Do not give yourself rewards for completing a difficult task, because you will soon learn to circumvent the task but still give yourself the reward.
 - Do not take mediocre notes. Do not take fleeting notes if you will not come back to them.
-- Writing is everything. Do everything as if nothing counts except writing. ([[file:How-to-Take-Smart-Notes.org][§How to Take Smart Notes]])
+- Writing is everything. Do everything as if nothing counts except writing.
 - *No editor can improve an argument.* 
   - Writing forces us to confront our ignorance of a topic. We must think through our ideas to record them concise and specific.
   - Our brain tends to ignore inconsistencies in our thinking.
 - Students who rely on textbooks or secondary literature have no chance of becoming "worldly wise".
-- When we decide on a hypothesis, we immediately disregard any contradictory information and look only for arguments which support our thesis.
-  - This is an example of the [[file:belief-bias.org][§Belief bias]]
+- When we decide on a hypothesis, we immediately disregard any contradictory information and look only for arguments which support our thesis. ([[file:../belief-bias.org][§Belief bias]])
   - For this reason, research should be conducted before choosing a thesis.
 - *Collecting quotes without context is an ineffective research technique.*
-  - It is much more valuable to take "Smart Notes" on the main point. ([[file:20200218112318.org][#active-recall]])
+  - It is much more valuable to take "Smart Notes" on the main point.
   - Reading is ineffective because we are only presented with the material with which we are familiar—not with the gaps in our understanding.
 - Active recall is an example of *elaboration* — thinking about how the material you're currently learning relates to other topics.
   - Try to answer questions before learning the material.
@@ -45,13 +42,13 @@
   - This is typically whatever information is the most /recent/, as recent ideas feel more concrete and are laden with emotion.
   - The slipbox provides a permanent record of your thinking. Therefore, it helps to circumvent the feature positive effect since all the information is readily available.
 
-- [[file:flashcards.org][§Flashcards]] are effective because they implement [[file:spaced_repetition.org][§Spaced Repetition]]. However, the disadvantage of flashcards is that the information they contain loses context, and thus it is challenging to /elaborate/ on this information to create connections between topics.
+- [[file:../flashcards.org][§Flashcards]] are effective because they implement [[file:../spaced_repetition.org][§Spaced Repetition]]. However, the disadvantage of flashcards is that the information they contain loses context, and thus it is challenging to /elaborate/ on this information to create connections between topics.
 
 - *Context is critical for learning.* Creating links between chunks of knowledge is essential.
 
 - According to Dr. James Zull, Professor of Biology at Case Western University, our natural form of perception is comparing.
   - Our brain's are incredibly adept at perceiving differences between two of anything, in this case notes.
-  - The [[file:zettelkasten.org][§Zettelkasten]] system forces us to compare notes.
+  - The [[file:../zettelkasten.org][§Zettelkasten]] system forces us to compare notes.
   - /However/, *comparison does not uncover ideas that are not already there.*
   
 - To uncover new ideas, ask about the problems, not the solutions.
@@ -63,13 +60,9 @@
 
 — Sönke Ahrens 
 #+END_QUOTE
-- This is thinking with [[file:first-principles.org][§First Principles]]
+- This is thinking with [[file:../first-principles.org][§First Principles]]
   
-- Simple does not mean easy. Take simple ideas seriously.
-
-- Standardization allows for creativity. Nobody is asking for more letters in the alphabet, because those 26 characters are capable of writing love letters, legal jargon, and manifestos. When we have no restrictions on the format of our thinking, our brain must think continuously about the format in which to think. By imposing restrictions on the format of our note-taking, we are to free to focus on what matters—the content.
-  - Many of the most creative people are incredibly ritualistic.
-  - When using [[file:zettelkasten.org][§Zettelkasten]], Ahrens recommends limiting the length of a note, even while using the computer program.
+  - When using [[file:../zettelkasten.org][§Zettelkasten]], Ahrens recommends limiting the length of a note, even while using the computer program.
 
 - Evolution happens through trial and error, not planning.
 
@@ -78,7 +71,7 @@
 - The worst thing is to be stuck working on a project that you aren't sure is worth doing. Therefore, it is important to follow your interests in life.
 
 - Your knowledge and interests are complimentary to one another. When you follow your interest, you slowly build a scaffolding of knowledge that—like a sunflower—grows to support this new direction of thought.
-  - The important thing here to keep in mind is that the scaffolding is critical to support new knowledge, as argued by [[file:cal_newport.org][§Cal Newport]] in [[file:So-Good-They-Can't-Ignore-You.org][§So Good They Can't Ignore You]]
+  - The important thing here to keep in mind is that the scaffolding is critical to support new knowledge, as argued by [[file:../cal_newport.org][§Cal Newport]] in [[file:So-Good-They-Can't-Ignore-You.org][§So Good They Can't Ignore You]]
 
 - Luhnmann would write several books simultaneously, always switching between them whenever he felt stuck.
 
@@ -86,9 +79,9 @@
 
 - Trick yourself into discarding unecessary passages from a paper by moving them to a separate file and telling yourself that you'll come back to them later.
 
-* The note-taking process from [[file:How-to-Take-Smart-Notes.org][§How to Take Smart Notes]]:
+* The note-taking process:
 
-This workflow is described by Sönke Ahrens in his book, /How to Take Smart Notes/, which is based on the [[file:zettelkasten.org][§Zettelkasten]] system.
+This workflow is described by Sönke Ahrens in his book, /How to Take Smart Notes/, which is based on the [[file:../zettelkasten.org][§Zettelkasten]] system.
 
 #+DOWNLOADED: file:///home/alex/Downloads/diagram.svg @ 2020-02-18 11:08:15
 [[file:img/how-to-take-smart-notes/diagram2020-02-18_11-08-15_.svg]]
@@ -103,7 +96,7 @@ This workflow is described by Sönke Ahrens in his book, /How to Take Smart Note
    - These notes are then placed in the slipbox, where your are most likely to stumble upon them again.
    - These notes should be self-explanatory. *Write them as if you are teaching them to yourself for the first time.*
 
-4. Literature notes are placed in a reference management system (note: I am not exactly clear on what that entails).
+4. Literature notes are placed in a reference management system.
 
 * Highlights 
 

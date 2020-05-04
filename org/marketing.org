@@ -1,0 +1,5 @@
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: marketing
+#+TITLE: Marketing
+
+- Marketing is not the same thing as promotion. Entrepreneurs often feel that marketing is somehow 'dirty', yet marketing can be deeply respectful to the consumer.

@@ -1,4 +1,2 @@
-#+SETUPFILE:./hugo_setup.org
-#+HUGO_SLUG: three_pass_method
 #+TITLE: Three-Pass Method
 

@@ -1,3 +1,2 @@
-#+SETUPFILE:./hugo_setup.org
 #+TITLE: Michael Nielsen
 

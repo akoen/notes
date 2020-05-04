@@ -1,2 +1,1 @@
-#+SETUPFILE:./hugo_setup.org
 #+TITLE: Belief bias

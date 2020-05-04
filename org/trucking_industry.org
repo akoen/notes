@@ -1,0 +1,8 @@
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: trucking_industry
+#+TITLE: Trucking Industry
+
+- In the United States, there are 350,000 owner-operator truck drivers
+  - Must of them lease from a carrier.
+
+- 3.9 million truck drivers

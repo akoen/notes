@@ -1,0 +1,5 @@
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: societal_complexity
+#+TITLE: Societal Complexity
+
+Joseph Tainter presents the argument that complexity invariably increases continuously in a society because new problems require increasingly costly solutions. These solutions have diminishing returns, however, and eventually the costs exceed the capacity of the society, and it collapses.

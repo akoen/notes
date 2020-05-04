@@ -1,8 +1,16 @@
-#+SETUPFILE:./hugo_setup.org
 #+TITLE: Happiness
 
-- Currently, my favourite definition of happiness is:
+- Clearly, the concept of happiness is subjective. That being said, here are various definitions that I like
+  
 #+BEGIN_QUOTE
 “Happiness is the feeling of contribution to something worthwhile.”
 #+END_QUOTE
+
+#+BEGIN_QUOTE
+“(Happiness) is the absence of desire. The fewer desires I can have, the more I can accept the current state of things, the less my mind is moving because the mind really exists in motion towards the future or the past.”
+
+— [[file:naval_ravikant.org][§Naval Ravikant]]
+#+END_QUOTE
+
+
 

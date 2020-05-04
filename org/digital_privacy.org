@@ -1,0 +1,9 @@
+#+SETUPFILE:./hugo_setup.org
+#+HUGO_SLUG: digital_privacy
+#+TITLE: Digital Privacy
+
+- People often defend violations of privacy with the phrase, "if you have nothing to hide you have nothing to fear."
+
+  - Privacy is the right to choose what information you share and with whom you share it.
+
+  - You may fear these violations of privacy not because your actions are questionable, but because their judgment and intentions are.

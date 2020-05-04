@@ -1,7 +1,8 @@
-#+SETUPFILE:./hugo_setup.org
 #+TITLE: Mental Models
 #+ROAM_ALIAS: "Interpretation Schemes"
 
 A mental model is a way of thinking that comes from having the requisite knowledge.
 
 - [[file:charlie_munger.org][§Charlie Munger]] advocates for having a wide range of mental models—distilling the most important principles from every discipline and knowing them so deeply that they become a part of our thinking. ([[file:books/How-to-Take-Smart-Notes.org][§How to Take Smart Notes]])
+  
+- Mental models are composed of one or more [[file:mental_representations.org][§Mental Representations]].

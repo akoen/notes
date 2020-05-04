@@ -1,8 +1,7 @@
-#+TITLE: Deep Work
-#+Author: Cal Newport
-#+Date: <2019-08-16 Fri>
-#+toc: nil
-#+Filetags:
+#+TITLE: Deep Work: Rules for Focused Success in a Distracted World
+
+- author :: [[file:../cal_newport.org][§Cal Newport]]
+- tags :: [[file:../deep_work.org][§Deep Work]]
 
 #+BEGIN_QUOTE
 “Who you are, what you think, feel, and do, what you love—is the sum of what you focus on.”

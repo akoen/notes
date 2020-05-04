@@ -1,4 +1,3 @@
-#+SETUPFILE:./hugo_setup.org
 #+TITLE: Direct-to-Consumer (DTC) Genetic Testing
 
 - As of 2019, more than 26 million people have willingly undergone at-home genetic testing. cite:mit

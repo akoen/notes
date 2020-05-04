@@ -1,4 +1,8 @@
-#+SETUPFILE:./hugo_setup.org
-#+HUGO_SLUG: anki
 #+TITLE: Anki
 
+** Flaws of Anki
+
+- There is no good way of collaborating on decks. AnkiWeb is poor.
+  
+- Consequently, there are very few high quality shared decks.
+  - However, one must consider that there is value in making your own cards.

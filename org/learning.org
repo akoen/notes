@@ -1,0 +1,3 @@
+#+TITLE: Learning
+
+- Andy Matuschak argues that storytelling is an especially effective way to learn.

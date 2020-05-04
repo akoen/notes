@@ -1,3 +1,5 @@
-#+SETUPFILE:./hugo_setup.org
-#+HUGO_SLUG: meditation
 #+TITLE: Meditation
+
+- The reason meditation is hard and often frustrating is because you can't apply [[file:deliberate_practice.org][§Deliberate Practice]]: you can't watch anyone else do it and there's no way to tell if you're doing it right. For this reason, people often give up.
+
+- Meditation is the most effective way to accumulate [[file:mindfulness.org][§Mindfulness]].

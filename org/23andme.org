@@ -1,8 +1,8 @@
-#+SETUPFILE:./hugo_setup.org
 #+TITLE: 23andMe
 
 - 23andMe is slowly transitioning from superficial level genetic analysis targeted at consumers to drug discovery. 
-- They use [[file:genomewide_association_study_gwas.org][§Genome-wide Association Study (GWAS)]] 
+- They use [[file:genomewide_association_study_gwas.org][§Genome-wide Association Study (GWAS)]]
+  
 * SNP Chip
 - They use "SNP Chips" to test for SNPs.
   - Specifically, the Illumina Infinum Global Screening Array. cite:research

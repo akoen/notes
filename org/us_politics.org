@@ -1,4 +1,3 @@
-#+SETUPFILE:./hugo_setup.org
 #+TITLE: US Politics
 
 #+BEGIN_QUOTE

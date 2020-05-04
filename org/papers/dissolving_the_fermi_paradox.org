@@ -1,4 +1,1 @@
-#+SETUPFILE:./hugo_setup.org
-#+HUGO_SECTION: Paradox
-#+HUGO_SLUG: dissolving_the_fermi_paradox
 #+TITLE: Dissolving the Fermi Paradox
