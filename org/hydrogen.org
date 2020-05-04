@@ -1,5 +1,3 @@
-#+SETUPFILE:./hugo_setup.org
-#+HUGO_SLUG: hydrogen
 #+TITLE: Hydrogen
 
 - tags :: [[file:climate_change.org][§Climate Change]] [[file:transportation.org][§Transportation]]
