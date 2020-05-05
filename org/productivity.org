@@ -13,4 +13,8 @@
 — Reddit user
 #+END_QUOTE
 
+#+BEGIN_QUOTE
+“Life's not all about productivity, but productivity is about managing time and time makes up life.”
 
+— Ali Abdaal
+#+END_QUOTE
