@@ -1,0 +1,8 @@
+#+TITLE: Conservation of Momentum
+
+- tags :: [[file:physics.org][§Physics]]
+  
+- The conceptualization of the conservation of momentum marked the transition from pre-modern to modern physics.
+
+- Because momentum is a vector, and not a scalar like [[file:energy.org][§Energy]],  it is easier to observe experimentally.
+  - For example, in an inelastic collision, momentum is conserved but kinetic energy is not.
