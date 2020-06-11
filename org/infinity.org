@@ -1,0 +1,5 @@
+#+TITLE: Infinity
+
+- tags :: [[file:physics.org][§Physics]]
+  
+- There are an equal number of numbers between 0 and 1 as there are between -∞ and ∞. 
