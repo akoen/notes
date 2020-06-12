@@ -1,2 +1,2 @@
-#+TITLE: Loss Aversion
+#+title: Loss Aversion
 

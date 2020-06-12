@@ -1,4 +1,4 @@
-#+TITLE: Peak: Secrets from the New Science of Expertise
+#+title: Peak: Secrets from the New Science of Expertise
 #+Author: Anders Ericsson and Robert Pool
 #+Date: <2019-08-22 Thu>
 #+ROAM_ALIAS: "Peak"

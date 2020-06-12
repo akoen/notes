@@ -1,4 +1,4 @@
-#+TITLE: Article: Augmenting Long-term Memory
+#+title: Article: Augmenting Long-term Memory
 #+roam_key: http://augmentingcognition.com/ltm.html
 
 - author :: [[file:../michael_nielsen.org][§Michael Nielsen]]

@@ -1,4 +1,4 @@
-#+TITLE: 23andMe
+#+title: 23andMe
 
 - 23andMe is slowly transitioning from superficial level genetic analysis targeted at consumers to drug discovery. 
 - They use [[file:genomewide_association_study_gwas.org][§Genome-wide Association Study (GWAS)]]

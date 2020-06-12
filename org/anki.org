@@ -1,4 +1,4 @@
-#+TITLE: Anki
+#+title: Anki
 
 ** Flaws of Anki
 

@@ -1,4 +1,4 @@
-#+TITLE: Poise
+#+title: Poise
 
 - Poise is a mix of confidence and self-control.
 

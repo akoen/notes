@@ -1,4 +1,4 @@
-#+TITLE: Active Recall
+#+title: Active Recall
 
 Active recall is reading with intention, asking yourself how the information connects to what you already know, and testing yourself on what you learn.
 

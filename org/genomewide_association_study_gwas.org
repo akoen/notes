@@ -1,5 +1,5 @@
 
-#+TITLE: Genome-wide Association Study (GWAS)
+#+title: Genome-wide Association Study (GWAS)
 #+ROAM_ALIAS: "GWAS"
 
 - A large number of genetic variants-typically SNPs (hundreds of thousands to millions) are tested across many individuals to identify genotype-phenotype associations.

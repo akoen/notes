@@ -1,4 +1,4 @@
-#+TITLE: Tags
+#+title: Tags
 
 - People often feel a pressure to tag content so that they may find it more easily in the future.
 - Tagging is useful, but only if one tags the keywords for which the given note may add to the discussion. ([[file:books/How-to-Take-Smart-Notes.org][§How to Take Smart Notes]])

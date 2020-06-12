@@ -1,4 +1,4 @@
-#+TITLE: Artificial Intelligence
+#+title: Artificial Intelligence
 
 - tags :: [[file:machine_learning.org][§Machine Learning]]
 

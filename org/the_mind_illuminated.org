@@ -1,4 +1,4 @@
-#+TITLE: The Mind Illuminated
+#+title: The Mind Illuminated
 
 - tags :: [[file:mindfulness.org][§Mindfulness]], [[file:meditation.org][§Meditation]]
 

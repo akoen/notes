@@ -1,4 +1,4 @@
-#+TITLE: The Sleep Solution
+#+title: The Sleep Solution
 
 - author :: Chris Winter
 - tags :: [[file:../sleep.org][§Sleep]]

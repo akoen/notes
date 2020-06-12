@@ -1,5 +1,5 @@
 #+ROAM_KEY: cite:alves
-#+TITLE: Paper: Overview of hydrogen production technologies from biogas and the applications in fuel cells
+#+title: Paper: Overview of hydrogen production technologies from biogas and the applications in fuel cells
 
 - source :: cite:alves
 

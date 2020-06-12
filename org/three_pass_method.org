@@ -1,2 +1,2 @@
-#+TITLE: Three-Pass Method
+#+title: Three-Pass Method
 

@@ -1,4 +1,4 @@
-#+TITLE: Consistency
+#+title: Consistency
 
 * Ali Abdaal - A Reminder about Consistency
 

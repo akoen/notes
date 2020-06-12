@@ -1,5 +1,5 @@
 #+ROAM_ALIAS: "Writing Email"
-#+TITLE: Email
+#+title: Email
 
 - Many times people use email to shift responsability onto others. They say, "what do you think about this?" or even simply, "thoughts?"
   - If you want to be respected, make emails *atomic*, *specific*, and *easy to read*.

@@ -1,4 +1,4 @@
-#+TITLE: Conservation of Momentum
+#+title: Conservation of Momentum
 
 - tags :: [[file:physics.org][§Physics]]
   

@@ -1,4 +1,4 @@
-#+TITLE: Progressive Summarization
+#+title: Progressive Summarization
 
 - tags :: [[file:note-taking.org][§Note-Taking]]
 

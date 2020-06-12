@@ -1,4 +1,4 @@
-#+TITLE: Talk: How to Take a Digital Note
+#+title: Talk: How to Take a Digital Note
 
 - author :: [[file:tiago_forte.org][§Tiago Forte]]
 - tags :: [[file:note-taking.org][§Note-Taking]] [[file:productivity.org][§Productivity]]

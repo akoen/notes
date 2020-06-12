@@ -1,4 +1,4 @@
-#+TITLE: Mindfulness
+#+title: Mindfulness
 
 #+BEGIN_QUOTE
 “So many have allowed the contours of their existence outside of work, family obligations and school to shrink down to the comforting numbness of a screen, that it can be bracing at first to encounter the intense engagement of a life that’s lived free from passive consumption, and instead rich in so much that’s so real.”

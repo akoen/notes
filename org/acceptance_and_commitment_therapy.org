@@ -1,4 +1,4 @@
-#+TITLE: Acceptance and Commitment Therapy
+#+title: Acceptance and Commitment Therapy
 #+ROAM_ALIAS: "ACT"
 
 - The principle behind ACT is to focus on how your current actions will impact your future yourself, rather than how you're currently feeling.

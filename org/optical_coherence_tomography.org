@@ -1,4 +1,4 @@
-#+TITLE: Optical Coherence Tomography
+#+title: Optical Coherence Tomography
 
 * Overview
 - Optical coherence tomography consists of measuring the optical reflections of biological structures using low-coherence light. cite:optical

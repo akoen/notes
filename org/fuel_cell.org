@@ -1,4 +1,4 @@
-#+TITLE: Fuel Cell
+#+title: Fuel Cell
 
 - tags :: [[file:hydrogen.org][§Hydrogen]]
 

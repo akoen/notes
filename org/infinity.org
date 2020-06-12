@@ -1,4 +1,4 @@
-#+TITLE: Infinity
+#+title: Infinity
 
 - tags :: [[file:physics.org][§Physics]]
   

@@ -1,2 +1,2 @@
-#+TITLE: Fairness
+#+title: Fairness
 #+ROAM_ALIAS: "Fair"

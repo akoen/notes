@@ -1,5 +1,5 @@
 #+ROAM_ALIAS: "Simple"
-#+TITLE: Simplicity
+#+title: Simplicity
 
 - Simple does not mean easy. Take simple ideas seriously. [[file:books/How-to-Take-Smart-Notes.org][§How to Take Smart Notes]]
   

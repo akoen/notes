@@ -1,4 +1,4 @@
-#+TITLE: Feedback Loops
+#+title: Feedback Loops
 
 - tags :: [[file:deliberate_practice.org][§Deliberate Practice]]
 

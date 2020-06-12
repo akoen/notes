@@ -1,4 +1,4 @@
-#+TITLE: Electric Vehicles
+#+title: Electric Vehicles
 
 - Fallacy: Electic vehicles are responsible for [[file:climate_change.org][§Climate Change]] because their electricity is sourced from fossil fuels. This is wrong because:
   1. Energy production is no greater than 25% efficient, while natural gas is about 60% efficient.

@@ -1,2 +1,2 @@
-#+TITLE: Michael Nielsen
+#+title: Michael Nielsen
 

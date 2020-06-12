@@ -1,5 +1,5 @@
 #+ROAM_KEY: cite:birol
-#+TITLE: Paper: The Future of Hydrogen
+#+title: Paper: The Future of Hydrogen
 
 - tags :: [[file:../hydrogen.org][§Hydrogen]]
 - source :: cite:birol

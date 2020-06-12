@@ -1,4 +1,4 @@
-#+TITLE: The Slight Edge
+#+title: The Slight Edge
 
 - author :: Jeff Olson
 - tags :: [[file:../consistency.org][§Consistency]]

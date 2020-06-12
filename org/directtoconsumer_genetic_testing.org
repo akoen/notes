@@ -1,4 +1,4 @@
-#+TITLE: Direct-to-Consumer (DTC) Genetic Testing
+#+title: Direct-to-Consumer (DTC) Genetic Testing
 
 - As of 2019, more than 26 million people have willingly undergone at-home genetic testing. cite:mit
 - Two companies, [[file:23andme.org][§23andMe]] and [[file:ancestry.org][§Ancestry]], dominate the market and now posess severa of the world's largest databases of human genetic information.

@@ -1,4 +1,4 @@
-#+TITLE: Mental Models
+#+title: Mental Models
 #+ROAM_ALIAS: "Interpretation Schemes"
 
 A mental model is a way of thinking that comes from having the requisite knowledge.

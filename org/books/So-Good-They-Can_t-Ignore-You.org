@@ -1,4 +1,4 @@
-#+TITLE: So Good They Can't Ignore You
+#+title: So Good They Can't Ignore You
 #+Date: <2019-12-23 Mon>
 
 - author :: [[file:../cal_newport.org][§Cal Newport]]

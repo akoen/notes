@@ -1,4 +1,4 @@
-#+TITLE: Next Generation Sequencing
+#+title: Next Generation Sequencing
 
 * NGS and [[file:machine_learning.org][§Machine Learning]] 
 

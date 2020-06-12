@@ -1,4 +1,4 @@
-#+TITLE: Ammonia
+#+title: Ammonia
 
 - Like [[file:hydrogen.org][§Hydrogen]], ammonia is carbon free, assuming that it is produced using renewable sources.
 

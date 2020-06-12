@@ -1,5 +1,5 @@
 #+ROAM_ALIAS: "CBT"
-#+TITLE: Cognitive Behavioural Therapy
+#+title: Cognitive Behavioural Therapy
 
 - tags :: [[file:anxiety.org][§Anxiety]]
 
