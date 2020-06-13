@@ -1,2 +1,0 @@
-#+hugo_auto_set_lastmod: t
-#+OPTIONS: H:2
