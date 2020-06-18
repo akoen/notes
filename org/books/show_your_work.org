@@ -1,0 +1,15 @@
+#+title: Show Your Work
+
+- author :: [[file:../austin_kleon.org][§Austin Kleon]]
+- tags :: [[file:../productivity.org][§Productivity]], [[file:../learning.org][§Learning]]
+
+  The thesis of Austin Kleon's book /Show Your Work/ is that [[file:../learning_in_public.org][§Learning in Public]] is the most effective way to learn faster and gain an audience.
+
+* Notes
+
+- All of the most influential creative people incorporate sharing into their work.
+  - For example, [[file:../tiago_forte.org][§Tiago Forte]] and [[file:../ali_abdaal.org][§Ali Abdaal]] always share what courses they are taking, what projects they are working on etc.
+- Surround yourself with others with whom you can share and compare work. This could be in person on or on the internet.
+  - Find niches.
+
+- We are not drawn to art, we are drawn to the stories behind works of art. This is why a copy of a painting is never as beautiful as the original work.
