@@ -3,6 +3,8 @@
 - author :: [[file:../austin_kleon.org][§Austin Kleon]]
 - tags :: [[file:../productivity.org][§Productivity]], [[file:../learning.org][§Learning]]
 
+  Note: I wrote a blog post about this book [[https://blog.alexkoen.com/posts/show-your-work/][here]].
+  
   “Find your voice, shout it from the rooftops, and keep doing it until the people that are looking for you find you.” — Dan Harmon
    
   It is intimidating to show your work online. While we have no reservations about sharing our candid photos on Instagram or our thoughts on Twitter, something about sharing our /work/ under our own name is scary. For some reason, we believe that whatever material we publish online must be complete, and that anything less than perfection has no value.
