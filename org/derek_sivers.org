@@ -1,1 +1,3 @@
 #+title: Derek Sivers
+
+- Derek Sivers wrote /Anything You Want/ in 10 days. #[[file:writing.org][§Writing]]
