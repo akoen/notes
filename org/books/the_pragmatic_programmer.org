@@ -32,3 +32,5 @@
 - Avoid global data.
   
 - Use getters and setters whenever possible to protect private values.
+
+- All decisions and implementations should be reversible. Abstract database functionality so that the choice of vendor is interchangeable, or even allow for changes in language.

@@ -1,0 +1,5 @@
+#+title: Goal-Setting
+
+- tags :: [[file:productivity.org][§Productivity]]
+
+- The future is simply the name we give to our imagination. Goals are only effective if they influence the decisions we make in the present. #[[file:derek_sivers.org][§Derek Sivers]]
