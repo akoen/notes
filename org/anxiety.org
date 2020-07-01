@@ -1,4 +1,7 @@
 #+title: Anxiety
 
-- No one ever failed in life because they weren't good enough; they failed because they gave up.
-  - Honestly, I still don't quite believe this.
+#+BEGIN_QUOTE
+“I often feel like I can't properly participate in conversation because everything I say has to be filtered through the sieve of my anxiety.”
+
+— [[file:john_greene.org][§John Greene]]
+#+END_QUOTE

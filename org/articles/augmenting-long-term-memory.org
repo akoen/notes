@@ -3,6 +3,7 @@
 
 - author :: [[file:../michael_nielsen.org][§Michael Nielsen]]
 - source :: [[http://augmentingcognition.com/ltm.html]]
+- tags :: [[file:../ephemerality_of_memory.org][§Ephemerality of Memory]]
 
 - Nielsen estimates that he only spends 4 to 7 minutes reviewing cards in a 20 year period.
 

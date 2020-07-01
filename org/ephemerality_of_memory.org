@@ -1,0 +1,7 @@
+#+title: Ephemerality of Memory
+
+#+BEGIN_QUOTE
+“Memory is not so much a camera as a filter, the particulates it holds on to are nothing compared to what leaks through.”
+
+— [[file:john_greene.org][§John Greene]]
+#+END_QUOTE
