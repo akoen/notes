@@ -1,1 +1,3 @@
 #+title: Spaced Repetition
+
+- By spacing out your practice sessions and allowing yourself to struggle with the material, you develop more durable and versatile neural connections.

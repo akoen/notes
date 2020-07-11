@@ -1,0 +1,3 @@
+#+title: Fraternity
+
+- tags :: [[file:university.org][§University]]
