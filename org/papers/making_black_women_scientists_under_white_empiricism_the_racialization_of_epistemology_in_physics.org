@@ -1,17 +1,35 @@
 #+TITLE: Making Black Women Scientists under White Empiricism: The Racialization of Epistemology in Physics
 #+ROAM_KEY: cite:prescod-weinsteinMakingBlackWomen2020
 
-- tags ::
+- tags :: [[file:../racism_in_america.org][§Racism in America]]
 - keywords :: 
 - author :: Prescod-Weinstein, Chandra
 
-- The author argues that in physics, the once principled system of scientific reasoning has been contaminated by the biases of gender and race.
+  
+- The author argues that in physics, the once principled system of scientific reasoning has been contaminated by racial and gender biases.
 
-- She introduces the concept of /white empiricism/ —the flawed belief that certain groups of people have a capacity for objectivity not present in others. This capacity is typically associated with white men, and is often viewed to be lacking in black women.
+- She introduces the concept of /white empiricism/ —the flawed belief that certain groups of people, especially white men, have a capacity for objectivity not found in other groups of people, especially black women.
 
-- There are very few African women in physics.
+- While white men are expected to be able to self-evaluate for bias, the research and experiences of black women are considered to be incompetent and are not given due consideration.
+
+- These white men have an intrinsic belief that they are free from bias, going so far as to fail to apply the scientific method to their research while selectively resisting the entry of black women into physics.
+
+- Fewer than one hundred black American women have been granted PhDs from a department of physics or astronomy.
+
+- These men claim that physics is a ``culture of no culture'', a phrase that is used to discredit any potential criticism against field.
+
+- Nowadays, physicists use this term to posture that a black woman can work in physics, while ignoring the barriers that make it possible for her to become one.
 
 - High energy physics is regarded as the most prestigious branch of physics, and the developing subdiscipline of quantum gravity is a the forefront of this research.
+
+  - Even within physics, high energy physics is especially white and especially male.
+
+  - Within this field, there is a correlation between aggression and success, and more objectively rational theories are overshadowed by weak theories backed by confidence.
+
+  - String theory—a proposed theory that would unify the four fundamental forces—is an example of this asymmetry.
+    - Recently, there has been a lack of empirical evidence to support many of its claims. Rather than to admit that this may be due to a lack of heterogeneity and inclusion within the field, many researchers are contemplating abandoning the scientific method—the epitome of scientific reasoning—in favour of a purely logical, unsubstatiable approach.
+
+    - This bias fundamentally alters to 
 
 * Highlights
 

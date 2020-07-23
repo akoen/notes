@@ -1,0 +1,17 @@
+#+TITLE: Neural Based Statement Classification for Biased Language
+#+ROAM_KEY: cite:hubeNeuralBasedStatement2019
+
+- tags ::
+- keywords :: Computer Science - Computation and Language,WRDS150
+- author :: Hube, C., & Fetahu, B.
+
+The purpose of this study was to quantify biased phrasing in Wikipedia articles using [[file:../machine_learning.org][§Machine Learning]]—rather than feature-based—techniques.
+
+
+- Their model was able to detect biased statements with a precision of P = 91.7%.
+  - This outperforms feature-based models by over 30%.
+  - They specifically targeted words that were /inflammatory/ or /partial./
+
+- The use of language is shaped around the needs and characteristics of a given group.
+
+- "in Wikipedia's case , most NPOV violations are w.r.t biased language (i) - (iv), and often onesided statements (v), specifically in the form of epistemological and framing bias. Epistemological refers to linguistic cues that have impact in the believability of a statement, while framing refers to the terms and phrases that are one-sided in the case where a topic may have multiple viewpoints."
