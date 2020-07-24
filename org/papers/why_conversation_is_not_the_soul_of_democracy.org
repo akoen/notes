@@ -4,7 +4,6 @@
 - tags ::
 - keywords :: WRDS150
 - author :: Schudson, M.
-
   
 - In the 20th century, the press separated itself from public conversation in the name of objectivity.
   - "The press no longer facilitated or animated a public conversation, for public conversation had disappeared." [[cite:munsonJamesCareyCritical1997][p. 246]

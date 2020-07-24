@@ -1,0 +1,16 @@
+#+TITLE: Self-awareness and transgression in children: Two field studies.
+#+ROAM_KEY: cite:beamanSelfawarenessTransgressionChildren1979
+
+- tags ::
+- keywords :: _tablet,WRDS150
+- author :: Beaman, A. L., Klentz, B., Diener, E., & Svanum, S.
+
+This study explored the effects of self-awareness on transgression.
+
+- Two studies of 363 and 349 children respectively were performed.
+
+- These studies examined the transgressive behaviour of these children when trick-or-treating during Halloween.
+  
+- In both studies, an examiner asked the children to take only a single candy before leaving the room. In half the cases, a large mirror was placed behind the children so that they were forced to look at themselves while they took either a single candy, as requested, or multiple candies.
+
+- Both studies found that when a child was forced to identify themselves—by name and address—the presence of a mirror lowered their rates of transgression.
