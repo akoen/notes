@@ -1,0 +1,5 @@
+#+title: The Importance of Arts Education
+
+- tags :: [[file:university.org][§University]]
+  
+- Science breeds narrow minds that over-rely on facts. Facts can be manipulated to support any agenda; it is the analysis and synthesis of facts with ideas that creates true understanding.

@@ -9,7 +9,7 @@
 — Cal Newport
 #+END_QUOTE
 
-The thesis of Cal Newport's book is very simple: deep, focused work without distraction is more valuable than shallow, distracted work. While this may seem self evident, it is the extent to which this meaningless work pervades our daily lives that Newport describes, along with strategies to maximize our productivity through deep work.
+The thesis of Cal Newport's book is very simple: deep, focused work without distraction is more valuable than shallow, distracted work. While this may seem self evident, it is the extent to which this meaningless work pervades our daily lives that Newport describes, along with strategies to maximize our [[file:../productivity.org][§Productivity]] through deep work.
 
 *** *Part 1: The Idea*
 
