@@ -1,7 +1,7 @@
 #+TITLE: Making Black Women Scientists under White Empiricism: The Racialization of Epistemology in Physics
 #+ROAM_KEY: cite:prescod-weinsteinMakingBlackWomen2020
 
-- tags :: [[file:../racism_in_america.org][§Racism in America]]
+- tags :: [[file:../racial_inequality_in_western_societies.org][§Racial Inequality in Western Societies]]
 - keywords :: 
 - author :: Prescod-Weinstein, Chandra
 

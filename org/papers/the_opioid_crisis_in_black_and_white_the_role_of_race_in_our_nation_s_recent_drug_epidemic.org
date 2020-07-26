@@ -1,7 +1,7 @@
 #+TITLE: The opioid crisis in black and white: the role of race in our nation's recent drug epidemic
 #+ROAM_KEY: cite:omOpioidCrisisBlack2018
 
-- tags :: [[file:../racial_bias_in_the_treament_of_drug_epidemics.org][§Racial Bias in the Treament of Drug Epidemics]]
+- tags :: [[file:../racial_inequality_in_western_societies.org][§Racial Inequality in Western Societies]]
 - keywords :: WRDS150
 - author :: Om, A.
 
