@@ -30,7 +30,7 @@ The author continues by arguing that these two abilities are deeply intertwined 
 
 **** *Deep work is rare*
 
-Our lives nowadays are constantly filled with distractions. E-mail, social media, instant messaging etc. occupy a great deal of our time without providing much benefit in return. Employers expect us answer messages within minutes without understanding the following key point: *every time we switch from one context to another, we sacrifice concentration. Society nowadays equates busyness with productivity, which is almost completely orthogonal from the truth.* If you can learn to work deeply, you can outperform almost everyone.
+Our lives nowadays are constantly filled with distractions. E-mail, [[file:../social_media.org][§Social Media]], instant messaging etc. occupy a great deal of our time without providing much benefit in return. Employers expect us answer messages within minutes without understanding the following key point: *every time we switch from one context to another, we sacrifice concentration. Society nowadays equates busyness with productivity, which is almost completely orthogonal from the truth.* If you can learn to work deeply, you can outperform almost everyone.
 
 **** *Deep work is meaningful*
 
@@ -86,7 +86,7 @@ Finally, Newport suggests learning how to memorize a deck of cards using the mem
 
 **** *Quit social media*
 
-Evaluate the importance of each social media tool on your life. *Only use it if it brings significant value to your work or happiness.*
+Evaluate the importance of each [[file:../social_media.org][§Social Media]] tool on your life. *Only use it if it brings significant value to your work or happiness.*
 
 /*The Craftsman Approach to Tool Selection*: Identify the core factors that determine success and happiness in your professional and personal life. Adopt a tool only if its positive impacts on these factors substantially outweigh its negative impacts./ 
 

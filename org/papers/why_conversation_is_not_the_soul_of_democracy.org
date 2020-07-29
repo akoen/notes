@@ -6,7 +6,8 @@
 - author :: Schudson, M.
   
 - In the 20th century, the press separated itself from public conversation in the name of objectivity.
-  - "The press no longer facilitated or animated a public conversation, for public conversation had disappeared." [[cite:munsonJamesCareyCritical1997][p. 246]
+  - "The press no longer facilitated or animated a public conversation, for public conversation had disappeared." [[cite:munsonJamesCareyCritical1997][p. 246]]
+    
   - Mine: nowadays, however, the press /is/ the public.
     - How can we restore objectivity to public discussion.
 

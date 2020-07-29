@@ -1,0 +1,12 @@
+#+title: Separation Between Public and Press
+
+- There is a conscious association between the press and democracy.
+  
+- According to [cite:munsonJamesCareyCritical1997],
+  in the 20th century it became an operative principle for the press to serve as the voice of a public that had lost its own to the pressure of interest groups and the private sector.
+  - "Objectivity was a defensive measure, an attempt to secure by quasi-scientific means a method for recording the world independent of the political and social forces that were shaping it" (p. 246).
+  - Yet this oath to objectivity mandated a separation from the public—the public conversation could no longer be facilitated because effective public conversation had been lost to secrecy and bias. 
+
+- Nowadays, with the popularization of [[file:social_media.org][§Social Media]], [[file:journalism.org][§Journalism]] is inextricably tied to public discourse and opinion and these platforms have "pivotal roles in supporting new production and diffusion" [[cite:leeNewsSharingSocial2012][p.246]].
+
+- 37% of internet users have shared news items online. cite:leeNewsSharingSocial2012
