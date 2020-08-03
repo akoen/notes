@@ -2,5 +2,5 @@
 - tags :: [[file:social_media.org][§Social Media]]
 
   - The large diversity of opinions on the internet allow like-minded individuals to form /echo chambers/ that insulate members from other viewpoints and polarize their views cite:allcottSocialMediaFake2017.
-
+    
   - As of 2016, "62% of US adults get news on social media" [[cite:allcottSocialMediaFake2017][[p. 212]]. #[[file:journalism.org][§Journalism]]

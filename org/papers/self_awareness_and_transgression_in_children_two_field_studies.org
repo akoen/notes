@@ -5,7 +5,7 @@
 - keywords :: _tablet,WRDS150
 - author :: Beaman, A. L., Klentz, B., Diener, E., & Svanum, S.
 
-This study explored the effects of self-awareness on transgression.
+This study explored the effects of self-awareness on transgression. #[[file:../deindividualization_theory.org][§Deindividualization Theory]]
 
 - Two studies of 363 and 349 children respectively were performed.
 

@@ -3,5 +3,5 @@
 #+BEGIN_QUOTE
 “I often feel like I can't properly participate in conversation because everything I say has to be filtered through the sieve of my anxiety.”
 
-— [[file:john_greene.org][§John Greene]]
+— [[file:john_green.org][§John Green]]
 #+END_QUOTE

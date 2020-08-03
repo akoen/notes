@@ -1,6 +1,8 @@
 #+ROAM_ALIAS: "Simple"
 #+title: Simplicity
 
+- Good tools don't add features; they remove all distractions from the main task, which is thinking. #[[file:productivity.org][§Productivity]]
+
 - Simple does not mean easy. Take simple ideas seriously. [[file:books/How-to-Take-Smart-Notes.org][§How to Take Smart Notes]]
   
 - There are three stages of learning. In the first stage, our knowledge is superficial and uncomplicated. As we learn more about the intricacies of the subject, however, we learn how messy and complicated it really is. Only when we have reached mastery does everything seem simple again, because it has become a part of our thinking. [[file:learning.org][§Learning]]

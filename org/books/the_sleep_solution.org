@@ -5,8 +5,8 @@
 
 * Ideas
 
-- We have four primary drives: the drives to eat, drink, sleep, and procreate.
-  - Unlike the other drives, however, we do not have a choice about whether or not to sleep. When we become tired enough, our body will force sleep upon us, whether we like it or not.
+- We have four primary drives: the drives to eat, drink, [[file:../sleep.org][§Sleep]], and procreate.
+  - Unlike the other drives, however, we do not have a choice about whether or not to [[file:../sleep.org][§Sleep]]. When we become tired enough, our body will force sleep upon us, whether we like it or not.
 
 - *The difference between sleepy and fatigued:*
 
@@ -16,7 +16,7 @@
 
   - It is easy to confuse the two. If we go to bed when we are fatigued, but not sleepy, then we will lie awake.
 
-- *6 – 7 hours of sleep are typically adequate. Those who struggle with sleep believe they need more because their sleep quality is poor.*
+- *6 – 7 hours of [[file:../sleep.org][§Sleep]] are typically adequate. Those who struggle with sleep believe they need more because their sleep quality is poor.*
 
 - There are two regulatory systems that drive sleep:
 

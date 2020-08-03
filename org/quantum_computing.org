@@ -1,4 +1,5 @@
 #+title: Quantum Computing
 
-- In contrast to traditional computing, which uses bits, quantum computers use [[file:qubit.org][§Qubit]]s.
+- tags :: [[file:quantum_mechanics.org][§Quantum Mechanics]]
 
+- In contrast to traditional computing, which uses bits, quantum computers use [[file:qubit.org][§Qubit]]s.

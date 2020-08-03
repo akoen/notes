@@ -11,7 +11,7 @@ Two minutes ago, I was snuggled up in bed under my newly-laundered sheets, hopin
 
 Then, out of the blue, I realisation hit me like Hermione slapping Malfoy in The Prisoner of Azkaban. 'Oh no, it’s Sunday and I haven’t written this week’s email newsletter’.
 
-Part of me thought 'it’s fine, you’re tired and in bed and you need a good night’s sleep. No one’s going to care about a single missed email. Just skip it this week’.
+Part of me thought 'it’s fine, you’re tired and in bed and you need a good night’s [[file:sleep.org][§Sleep]]. No one’s going to care about a single missed email. Just skip it this week’.
 
 But the better part of me thought 'You’ve been doing these weekly emails for 95 weeks now, and you haven’t missed a single one. Don’t let today be the first’.
 

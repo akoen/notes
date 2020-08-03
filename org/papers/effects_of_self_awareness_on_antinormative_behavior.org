@@ -1,0 +1,16 @@
+#+TITLE: Effects of self-awareness on antinormative behavior
+#+ROAM_KEY: cite:dienerEffectsSelfawarenessAntinormative1976
+
+- tags ::
+- keywords :: Text_Analysis
+- author :: Diener, E., & Wallbom, M.
+
+  - This study attempted to be the first to find a direct causal relationship between deindividualization in participants and an increase in antinormative behaviour. [[file:../deindividualization_theory.org][§Deindividualization Theory]]
+
+  - Two groups of students were given the opportunity to cheat on a test described as an evaluation of general intelligence.
+
+  - During the test, half of the students were both seated in front of a large mirror and were played voice recordings of themselves in order to increase self-awareness.
+
+  - The other half of the students (the control group) were seated orthogonal to the mirror and were played voice recordings of a different man.
+
+  - Only 7% of the self-aware students cheated while 69% of the deindividualized students cheated.
