@@ -1,0 +1,8 @@
+#+title: Linguistic Hedging
+
+In linguistics, hedges signal uncertainty:
+
+- Instead of "this fact is true", a hedge would imply "/it seems/ that this face /may/ be true".
+
+cite:zhangConversationsGoneAwry2018 found that in conversations on [[file:social_media.org][§Social Media]] (or in this case Wikipedia talk pages), conversations that use more hedges and less direct language are more likely to maintain their civility.
+

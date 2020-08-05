@@ -1,0 +1,7 @@
+#+title: Politeness
+
+- There are two main types of politeness: cite:zhangConversationsGoneAwry2018
+  1. Positive politeness :: shows gratitude and connection.
+     e.x. "I appreciate it" and "Thanks for your help"
+  2. Negative politeness :: minimizes imposition
+     e.x. "I don't think" and "I think you may have overlooked"
