@@ -1,0 +1,7 @@
+#+title: Daily Highlight
+
+The daily highlight is a concept introduced in [[file:books/make_time.org][§Make Time]]. They believe that in order to maximize [[file:happiness.org][§Happiness]] and [[file:productivity.org][§Productivity]], it is important to chose a single focus for the day.
+
+- Optimize your daily highlight for urgency, satisfaction, and joy.
+
+- By choosing a daily highlight that aligns with your [[file:goal_setting.org][§goals]], you take ownership of your time and prioritize your needs, not those of others. 

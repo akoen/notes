@@ -10,6 +10,12 @@ _In short, active recall is about spending less time on the input side of learni
 —[[file:tiago_forte.org][§Tiago Forte]] 
 #+END_QUOTE
 
+#+BEGIN_QUOTE
+“Remembering and idea is some combination of the number of connections you can draw and [[file:spaced_repetition.org][§Spaced Repetition]]”
+
+— Simon Eskildsen
+#+END_QUOTE
+
 - According to cite:bjork, effective learning is often unintuitive.
   - It is easy to be misled into thinking that we are using effective learning techniques, such as highlighting and rereading, when we are *merely becoming more familiar with the material, not learning it.*
 - There is a distinction between current performance and learning.

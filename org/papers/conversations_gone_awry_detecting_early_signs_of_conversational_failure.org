@@ -13,4 +13,11 @@
 - The models were trained using a corpus of Wikipedia talk page discussions.
   - 50 million conversations across 16 million talk pages.
 
+  - The dataset comprised of 1,270 distinct conversations with an average length of 4.6 comments each.
+
   - The dataset included only conversations that were initially identified as civil.
+
+* Politeness Strategies
+
+- An unsupervised neural network was trained to identify a set of linguistic markers of politeness outlined by cite:brown2009politeness. These include gratitude, greetings, and hedging.
+- Markers of impoliteness were also considered, including direct questions and the usage of second person pronouns (e.g. "/Your/ opinion is invalid...").

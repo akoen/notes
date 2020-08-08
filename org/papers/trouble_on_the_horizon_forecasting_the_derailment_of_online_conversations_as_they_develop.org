@@ -1,0 +1,26 @@
+#+TITLE: Trouble on the Horizon: Forecasting the Derailment of Online Conversations as they Develop
+#+ROAM_KEY: cite:changTroubleHorizonForecasting2019
+
+- tags ::
+- keywords :: _tablet,Computer Science - Artificial Intelligence,Computer Science - Computation and Language,Computer Science - Computers and Society,Computer Science - Human-Computer Interaction,Physics - Physics and Society,Text_Analysis
+- author :: Chang, J. P., & Danescu-Niculescu-Mizil, Cristian
+
+* Notes
+
+- This paper expands on the work of cite:zhangConversationsGoneAwry2018
+  - They tripled the size of the 'Conversations Gone Awry' dataset.
+
+- The CRAFT model is trained for the purpose of /moderation/, not to promote self-awareness.
+  - It's purpose is "to provide more timely notice to human moderators\ldots [and] to preemptively detect that a conversation is heading towards derailment before it actually turns toxic."
+
+- Separates the act of analyzing conversational dynamics from the act of [[file:../conversational_forecasting.org][§Conversational Forecasting]].
+
+  *Result*: the model can notify moderators of a conversation on the brink of toxicity an average of three hours or three comments beforehand.
+
+** Details of CRAFT model
+- Comprised of an unsupervised neural network trained on a large dataset that analyzes conversational dynamics and a supervised model which then predicts the outcome of a conversation.
+- Has an accuracy of 66.5% in predicting the outcome of a conversation compared to 58.9% for the Conversations Gone Awry model.
+
+** Conversations Gone Awry dataset
+- Contains 4,188 conversations from Wikipedia Editors.
+- Each conversation was classified by crowdworks as either remaining civil or devolving into personal attacks.
