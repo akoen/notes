@@ -5,7 +5,7 @@
   #+BEGIN_QUOTE
   “While speed makes a good story, velocity makes an outcome.”
 
-  — Shane Parrish
+  — [[file:shane_parrish.org][§Shane Parrish]]
   #+END_QUOTE
 
 - The future is simply the name we give to our imagination. Goals are only effective if they influence the decisions we make in the present. #[[file:derek_sivers.org][§Derek Sivers]]

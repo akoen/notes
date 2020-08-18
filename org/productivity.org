@@ -11,7 +11,7 @@
 #+BEGIN_QUOTE
 “While speed makes a good story, velocity makes an outcome.”
 
-— Shane Parrish
+— [[file:shane_parrish.org][§Shane Parrish]] 
 #+END_QUOTE
   
 - It's not a work-life balance, it's a flywheel. The more energy you can pour into one side of your life, the more energy you'll have for the rest. ([[https://pca.st/xuvhy4qq#t=5080][link]])
