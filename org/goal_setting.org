@@ -1,6 +1,6 @@
 #+title: Goal-Setting
 
-- tags :: [[file:productivity.org][§Productivity]]
+- tags :: [[file:productivity.org][§Productivity]], [[file:self_improvement.org][§Self-Improvement]]
 
   #+BEGIN_QUOTE
   “While speed makes a good story, velocity makes an outcome.”
