@@ -1,2 +1,8 @@
 #+title: Educational Reform
 
+#+BEGIN_QUOTE
+“School’s don’t show you the world, they just show you a bunch of careers.”
+
+— Michelle Obama
+#+END_QUOTE
+
