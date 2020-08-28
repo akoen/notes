@@ -1,0 +1,6 @@
+#+title: Generalized Perspective Projection
+
+* Links
+https://stackoverflow.com/questions/16723674/skewed-frustum-off-axis-projection-for-head-tracking-in-opengl
+
+http://ivl.calit2.net/wiki/images/7/70/CSE190_S19_Discussion5.pdf

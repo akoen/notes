@@ -1,0 +1,4 @@
+#+title: Magnetic Confinement Fusion
+
+- Uses a strong magnetic field to contain the [[file:plasma.org][§Plasma]] used in a fusion reaction.
+  - The field keeps the plasma away from the walls.

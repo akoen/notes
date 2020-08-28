@@ -1,0 +1,3 @@
+#+title: General Fusion
+
+General Fusion is a Vancouver-based company trying to achieve economical [[file:nuclear_fusion.org][§Nuclear Fusion]].

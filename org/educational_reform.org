@@ -6,3 +6,10 @@
 — Michelle Obama
 #+END_QUOTE
 
+#+BEGIN_QUOTE
+“Is state education designed to encourage more Darwins and Newtons, or to create middle-management civil servants and workers? What tensions are brought into being when a child’s natural proclivity to question everything in their own unique way comes into contact with a one-size-fits-all mode of education?”
+
+— Akala
+#+END_QUOTE
+
+
