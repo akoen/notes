@@ -2,6 +2,8 @@
 #+Author: Chris Voss
 #+Date: <2019-11-08 Fri>
 
+- tags :: [[file:../negotiation.org][§Negotiation]]
+
 These notes are adapted from both Chris Voss' book /Never Split The Difference/ and from his Masterclass on negotiation.
 
 After watching Chris' Masterclass, I am enthralled by the presence he commands. This is a valuable book.
@@ -11,7 +13,7 @@ After watching Chris' Masterclass, I am enthralled by the presence he commands. 
 - Life is negotiation. Their will always be inevitable conflict in a relationship, and so it's important to be able to get what you want while inflicting minimal damage.
 - Negotiation is just communication with results.
 
-** Chapter 2: Be a mirror
+** Chapter 2: Be a [[file:../mirroring.org][§mirror]] 
 
 - Great negotiators are always looking for new information and questioning their assumptions. They remain more emotionally open.
 - They most important thing you can do is *listen*:
@@ -88,7 +90,6 @@ This is a technique used when it eventually comes down to making offers and coun
 4. Offer 100%, but specific.
    - If it really comes down to it, offer exactly what you're willing to pay.
    - Use a specific number, such as $1,732.00
-** Chapter 10: Find the black swan
 ** How to get someone to keep talking
 
 *Mirroring:* the act of repeating the last few words of what a person just said.
@@ -224,17 +225,17 @@ In summary, in order to get someone to say "that's right", summarize what they s
 - Instead, use the word "no"
   - This gives them the feeling of control.
 
-Here is a sample [[file:email.org][§Email]] sent by Chris to a client who was not committing to buying tickets to their negotiation class before a deadline:
+Here is a sample [[file:../email.org][§Email]] sent by Chris to a client who was not committing to buying tickets to their negotiation class before a deadline:
 
 Are you against committing to 3 tickets now? Is it a ridiculous idea for you to pay for the tickets before the business day starts tomorrow?
 ** Bending reality
 
-Bending their reality is in reference to [[file:loss_aversion.org][§Loss Aversion]].
+Bending their reality is in reference to [[file:../loss_aversion.org][§Loss Aversion]].
 
 - Frame negotiations in a way that emphasizes what the other side has to lose by not working with you.
   - Don't say "We'll increase your sales by 23%", say "by not working with us, you risk your sales falling by 23%."
  
-- Humans naturally want what's [[file:fairness.org][§Fair]], even if it means losing out.
+- Humans naturally want what's [[file:../fairness.org][§Fair]], even if it means losing out.
   - Thought experiment: Imagine you and a friend find $10 on the sidewalk and you friend offers to give you $3 while he takes $7. Would you rather take the $3 or nothing?
 
 - If someone says, "I've given you a fair deal", say "I'm sorry. Could you please explain why you find my deal to be unfair?"

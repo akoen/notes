@@ -1,1 +1,7 @@
 #+title: Derek Sivers
+
+#+BEGIN_QUOTE
+“Most days I don't look at the web or any apps. I just write, text friends, call friends, and check email. That's enough.”
+
+— Derek Sivers
+#+END_QUOTE

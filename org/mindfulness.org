@@ -7,6 +7,7 @@
 #+END_QUOTE
 
 - In his blog post [[https://www.raptitude.com/2019/11/do-what-youre-doing/][Do What You're Doing]], David Cain promotes the importance of being present with every task that you do, no matter how monotonous.
-  - For example, when cleaning, be present. Really feel the texture of the countertop and focus on washing the dirt off of the dishes. When you do so, you're mind will feel reinvigorated, and you may find yourself in [[file:flow_state.org][§Flow State.]] 
+  - For example, when cleaning, be present. Really feel the texture of the countertop and focus on washing the dirt off of the dishes. When you do so, you're mind will feel reinvigorated, and you may find yourself in [[file:flow_state.org][§Flow State.]]
+  - Don't talk about what you've done or what you're going to do. Talk about what you're working on right now. #[[file:goal_setting.org][§Goal-Setting]]
     
 - In a recent study from Harvard, it was shown that mindfulness is a significant indicator of [[file:happiness.org][§Happiness]]. Overall, those who found themselves mind-wandering at any given moment were less happy than those who were present with their tasks, regardless of whether their mind-wandering was positive or negative.
