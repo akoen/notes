@@ -1,3 +1,9 @@
 #+title: General Fusion
 
-General Fusion is a Vancouver-based company trying to achieve economical [[file:nuclear_fusion.org][§Nuclear Fusion]].
+General Fusion is a Vancouver-based company trying to achieve economical [[file:nuclear_fusion.org][§Nuclear Fusion]] using [[file:magnetized_target_fusion.org][§Magnetized Target Fusion]].
+
+* Plasma target
+- The compressed plasma is in the shape of a spherical tokamak.
+
+#+DOWNLOADED: screenshot @ 2020-08-31 08:55:37
+[[file:img/general_fusion/screenshot2020-08-31_08-55-37_.png]]

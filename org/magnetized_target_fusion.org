@@ -1,3 +1,7 @@
 #+title: Magnetized Target Fusion
 
 Magnetized Target Fusion is a way of performing [[file:nuclear_fusion.org][§Nuclear Fusion]] that combines the concepts of [[file:magnetic_confinement_fusion.org][§Magnetic Confinement Fusion]] and [[file:inertial_confinement_fusion.org][§Inertial Confinement Fusion]].
+
+- A spherical shell of molten lead-lithium is used to compress hydrogen [[file:plasma.org][§Plasma]] to the temperature required for fusion.
+
+- The heat captured by this metal is then used to run a steam turbine.
