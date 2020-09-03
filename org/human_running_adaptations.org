@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Human Running Adaptations
 
 The endurance running hypothesis states that endurance running played an important role for early humans in finding food. These adaptations include:

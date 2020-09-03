@@ -1,3 +1,4 @@
+#+setupfile: .../hugo_setup.org
 #+TITLE: Self-awareness and transgression in children: Two field studies.
 #+ROAM_KEY: cite:beamanSelfawarenessTransgressionChildren1979
 

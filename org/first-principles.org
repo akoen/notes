@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: First Principles
 
 - In his [[https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html][article]] on [[file:tesla.org][§Tesla]], [[file:tim_urban.org][§Tim Urban]] compares knowledge to a tree: if you don't have a solid trunk of information on which to scaffold new ideas, the "branches" will fall down.

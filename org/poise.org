@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Poise
 
 - Poise is a mix of confidence and self-control.

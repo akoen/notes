@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Procrastination
 
 - Procrastination is not a result of boredom, it's a consequence of not knowing exactly what you should be doing in the moment.

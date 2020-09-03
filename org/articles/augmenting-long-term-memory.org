@@ -1,3 +1,4 @@
+#+setupfile: ../../hugo_setup.org
 #+title: Article: Augmenting Long-term Memory
 #+roam_key: http://augmentingcognition.com/ltm.html
 

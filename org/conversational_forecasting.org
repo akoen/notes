@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Conversational Forecasting
 
 - Conversational forecasting is the task of using computer models to predict various properties of a conversation.

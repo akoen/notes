@@ -1,3 +1,4 @@
+#+setupfile: ../../hugo_setup.org
 #+title: Show Your Work
 
 - author :: [[file:../austin_kleon.org][§Austin Kleon]]

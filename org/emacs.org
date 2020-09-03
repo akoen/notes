@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Emacs
 
 - tags :: [[file:programming.org][§Programming]]

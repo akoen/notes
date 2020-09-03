@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Specialization Versus Generalization
 
 - We are more impressed by specialists upon first meeting them, but we admire generalists more over time.

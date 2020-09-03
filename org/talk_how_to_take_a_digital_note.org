@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Talk: How to Take a Digital Note
 
 - author :: [[file:tiago_forte.org][§Tiago Forte]]

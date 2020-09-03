@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Tags
 
 - People often feel a pressure to tag content so that they may find it more easily in the future.

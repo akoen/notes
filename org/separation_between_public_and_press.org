@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Separation Between Public and Press
 
 - There is a conscious association between the press and democracy.

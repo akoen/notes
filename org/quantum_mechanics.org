@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Quantum Mechanics
 
 - tags :: [[file:physics.org][§Physics]]

@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Progressive Summarization
 
 - tags :: [[file:note-taking.org][§Note-Taking]]

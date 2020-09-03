@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Personal Networking
 
 - The value of personal networks is often understated. For example, a 2016 study published in the journal of Contemporary Economic Policy showed that [[file:fraternity.org][§Fraternity]] membership increased a student's future income by an average of 36%.

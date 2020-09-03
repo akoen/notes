@@ -1,3 +1,4 @@
+#+setupfile: .../hugo_setup.org
 #+TITLE: ConvoKit: A Toolkit for the Analysis of Conversations
 #+ROAM_KEY: cite:changConvoKitToolkitAnalysis2020
 

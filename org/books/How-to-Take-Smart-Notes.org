@@ -1,3 +1,4 @@
+#+setupfile: ../../hugo_setup.org
 #+title: How to Take Smart Notes
 
 - author :: [[file:../sönke_ahrens.org][§Sönke Ahrens]]
@@ -71,7 +72,7 @@
 - The worst thing is to be stuck working on a project that you aren't sure is worth doing. Therefore, it is important to follow your interests in life.
 
 - Your knowledge and interests are complimentary to one another. When you follow your interest, you slowly build a scaffolding of knowledge that—like a sunflower—grows to support this new direction of thought.
-  - The important thing here to keep in mind is that the scaffolding is critical to support new knowledge, as argued by [[file:../cal_newport.org][§Cal Newport]] in [[file:So-Good-They-Can't-Ignore-You.org][§So Good They Can't Ignore You]]
+  - The important thing here to keep in mind is that the scaffolding is critical to support new knowledge, as argued by [[file:../cal_newport.org][§Cal Newport]] in [[file:So-Good-They-Can_t-Ignore-You.org][§So Good They Can't Ignore You]]
 
 - Luhnmann would write several books simultaneously, always switching between them whenever he felt stuck.
 

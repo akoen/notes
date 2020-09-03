@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: How to decide what to do with your time
 
 - tags :: [[file:consistency.org][§Consistency]]

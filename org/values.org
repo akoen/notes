@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Values
 
 - tags :: [[file:happiness.org][§Happiness]]

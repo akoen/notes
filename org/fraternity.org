@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Fraternity
 
 - tags :: [[file:university.org][§University]]

@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Conservation of Momentum
 
 - tags :: [[file:physics.org][§Physics]]

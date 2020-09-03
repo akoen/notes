@@ -1,3 +1,4 @@
+#+setupfile: .../hugo_setup.org
 #+TITLE: Neural Based Statement Classification for Biased Language
 #+ROAM_KEY: cite:hubeNeuralBasedStatement2019
 

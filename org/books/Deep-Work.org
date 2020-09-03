@@ -1,3 +1,4 @@
+#+setupfile: ../../hugo_setup.org
 #+title: Deep Work: Rules for Focused Success in a Distracted World
 
 - author :: [[file:../cal_newport.org][§Cal Newport]]

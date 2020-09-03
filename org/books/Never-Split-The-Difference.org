@@ -1,3 +1,4 @@
+#+setupfile: ../../hugo_setup.org
 #+title: Never Split The Difference
 #+Author: Chris Voss
 #+Date: <2019-11-08 Fri>

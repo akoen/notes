@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+TITLE: Causes of Modern-Day Racism in America
 
 - In brief: for a century after the abolition of slavery in 1865, policies still restricted where black families could live. Then, most manufacturing jobs migrated to the suburbs which were overwhelmingly white. As the rate of unemployment and consequently violence and drug abuse rose among black communities, extreme punishments were enacted against drug users.

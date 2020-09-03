@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Small Web
 
 The Small Web is a term coined by [[https://ar.al/2020/08/07/what-is-the-small-web/][Aral Balkan]] to describe an internet ideology in which individuals own their own personal spaces online.

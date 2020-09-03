@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Elaboration
 
 - tags :: [[file:reading.org][§Reading]]

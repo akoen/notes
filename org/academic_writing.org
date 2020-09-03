@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Academic Writing
 
 - tags :: [[file:writing.org][§Writing]]

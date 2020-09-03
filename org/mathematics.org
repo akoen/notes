@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Mathematics
 
 - According to researchers at [[https://news.mit.edu/2012/thinking-logarithmically-1005][MIT]], humans naturally perceive numbers logarithmically, not linearly. If you ask a child what number falls between 0 and 9, they will likely answer 3.

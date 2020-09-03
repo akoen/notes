@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Nuclear Fusion
 
 - Fusion occurs when the nuclei of two atoms are forced close enough together that the attraction of the strong force overcomes the electromagnetic repulsion.

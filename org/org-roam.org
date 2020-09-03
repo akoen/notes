@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Org-Roam
 
 - tags :: [[file:zettelkasten.org][§Zettelkasten]], [[file:books/How-to-Take-Smart-Notes.org][§How to Take Smart Notes]]

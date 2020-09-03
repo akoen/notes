@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Concern Trolling
 
 - tags ::

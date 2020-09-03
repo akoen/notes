@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Exercise
 
 - The harder the workout, the easier the day.

@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Productivity
 
 - Be careful not to spend too much time organizing. According to [[https://pca.st/xuvhy4qq#t=748][Neil Pasricha]], we now spend 31% of our days bookmarking, prioritizing, and switching between tasks.

@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Writing
 
 - First drafts should be messy, experimental, and rushed. Spend your time rewriting, not getting it right the first time.

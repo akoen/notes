@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Mental Models
 #+ROAM_ALIAS: "Interpretation Schemes"
 

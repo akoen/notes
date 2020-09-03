@@ -1,3 +1,4 @@
+#+setupfile: ../../hugo_setup.org
 #+title: The Pragmatic Programmer
 
 - author :: David Thomas, Andrew Hunt

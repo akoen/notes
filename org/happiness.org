@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Happiness
 
 - Clearly, the concept of happiness is subjective. That being said, here are various definitions that I like

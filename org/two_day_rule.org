@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Two-Day Rule
 
 - tags :: [[file:productivity.org][§Productivity]]

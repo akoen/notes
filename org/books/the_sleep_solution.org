@@ -1,3 +1,4 @@
+#+setupfile: ../../hugo_setup.org
 #+title: The Sleep Solution
 
 - author :: Chris Winter

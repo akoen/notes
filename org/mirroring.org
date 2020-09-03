@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Mirroring
 
 Mirroring is a [[file:negotiation.org][§Negotiation]] technique in which you repeat back the last few words of what the other person said.

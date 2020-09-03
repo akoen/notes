@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Magnetized Target Fusion
 
 Magnetized Target Fusion is a way of performing [[file:nuclear_fusion.org][§Nuclear Fusion]] that combines the concepts of [[file:magnetic_confinement_fusion.org][§Magnetic Confinement Fusion]] and [[file:inertial_confinement_fusion.org][§Inertial Confinement Fusion]].

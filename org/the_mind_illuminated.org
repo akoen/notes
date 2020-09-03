@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: The Mind Illuminated
 
 - tags :: [[file:mindfulness.org][§Mindfulness]], [[file:meditation.org][§Meditation]]

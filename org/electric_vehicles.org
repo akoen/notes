@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Electric Vehicles
 
 - Fallacy: Electic vehicles are responsible for [[file:climate_change.org][§Climate Change]] because their electricity is sourced from fossil fuels. This is wrong because:

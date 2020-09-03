@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Grid Energy Storage
 
 - Grid energy storage is the means by which excess energy is stored when there is a surplus of production.

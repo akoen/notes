@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Spherical Cow
 
 - tags :: [[file:physics.org][§Physics]]

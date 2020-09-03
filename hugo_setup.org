@@ -1,2 +1,3 @@
+#+hugo_base_dir: ~/Brain
 #+hugo_auto_set_lastmod: t
 #+OPTIONS: H:2

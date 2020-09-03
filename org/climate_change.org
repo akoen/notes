@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Climate Change
 
 - One day at a temperature of 58ºC would kill most of Earth's crops and animals.

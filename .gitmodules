@@ -1,3 +1,3 @@
 [submodule "themes/cortex"]
 	path = themes/cortex
-	url = https://github.com/jethrokuan/cortex
+	url = https://github.com/jethrokuan/cortex/tree/db2cecac7c5e4bf2adcc6c3e2da9eb50a74cfec2

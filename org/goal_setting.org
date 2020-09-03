@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Goal-Setting
 
 - tags :: [[file:productivity.org][§Productivity]], [[file:self_improvement.org][§Self-Improvement]]

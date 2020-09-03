@@ -1,3 +1,4 @@
+#+setupfile: .../hugo_setup.org
 #+TITLE: Making Black Women Scientists under White Empiricism: The Racialization of Epistemology in Physics
 #+ROAM_KEY: cite:prescod-weinsteinMakingBlackWomen2020
 

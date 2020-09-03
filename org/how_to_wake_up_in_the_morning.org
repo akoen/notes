@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: How to Wake Up In The Morning
 
 - tags :: [[file:sleep.org][§Sleep]]

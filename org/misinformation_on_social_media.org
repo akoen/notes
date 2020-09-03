@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Misinformation on Social Media
 - tags :: [[file:social_media.org][§Social Media]]
 

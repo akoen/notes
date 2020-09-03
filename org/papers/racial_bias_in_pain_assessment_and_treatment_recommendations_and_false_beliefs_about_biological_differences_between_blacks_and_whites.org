@@ -1,3 +1,4 @@
+#+setupfile: .../hugo_setup.org
 #+TITLE: Racial bias in pain assessment and treatment recommendations, and false beliefs about biological differences between blacks and whites
 #+ROAM_KEY: cite:hoffmanRacialBiasPain2016
 

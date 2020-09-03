@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Infinity
 
 - tags :: [[file:physics.org][§Physics]]

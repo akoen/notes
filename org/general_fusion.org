@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: General Fusion
 
 General Fusion is a Vancouver-based company trying to achieve economical [[file:nuclear_fusion.org][§Nuclear Fusion]] using [[file:magnetized_target_fusion.org][§Magnetized Target Fusion]].

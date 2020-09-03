@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Aspect-Orientated Programming
 
 - tags :: [[file:programming.org][§Programming]]

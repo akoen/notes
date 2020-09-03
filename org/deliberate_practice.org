@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Deliberate Practice
 
 - It is often assumed that improvement takes place naturally as a result of repetition. This is not true.

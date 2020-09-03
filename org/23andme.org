@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: 23andMe
 
 - 23andMe is slowly transitioning from superficial level genetic analysis targeted at consumers to drug discovery. 

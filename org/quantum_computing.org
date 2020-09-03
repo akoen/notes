@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Quantum Computing
 
 - tags :: [[file:quantum_mechanics.org][§Quantum Mechanics]]

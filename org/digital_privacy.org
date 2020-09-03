@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Digital Privacy
 
 - People often defend violations of privacy with the phrase, "if you have nothing to hide you have nothing to fear."

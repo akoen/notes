@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: University
 
 - tags :: [[file:learning.org][§Learning]]

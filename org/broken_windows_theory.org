@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Broken Windows Theory
 
 - Broken Windows Theory is a criminology theory which observes that a single minor sign of unresolved criminal activity, like broken windows, leads to rampant crime.

@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Deindividualization Theory
 
 Deindividualization theory is the idea that a lack of self-awareness promotes transgressive behaviour. cite:dienerEffectsSelfawarenessAntinormative1976

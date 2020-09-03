@@ -1,3 +1,4 @@
+#+setupfile: ../hugo_setup.org
 #+title: Feedback Loops
 
 - tags :: [[file:deliberate_practice.org][§Deliberate Practice]]
