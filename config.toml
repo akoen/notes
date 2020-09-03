@@ -1,4 +1,4 @@
-baseURL = "https://braindump.jethro.dev/"
+baseURL = "https://notes.alexkoen.com/"
 languageCode = "en-us"
 title = "Alex's Braindump"
 theme = "cortex"
