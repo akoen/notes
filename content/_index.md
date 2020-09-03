@@ -1,3 +1,3 @@
-When I want to understand, I write. This is my brain:
+These are my notes---a central hub for all that I learn.
 
-Why don't you start [here](./notes/spaced_repetition):
+Eventually there will be a better index, but for now you can start [here](./notes/spaced_repetition). It all connects.
