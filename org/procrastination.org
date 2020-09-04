@@ -7,4 +7,3 @@
   - *Strive to reduce friction between tasks.*
 
 - Nobody enjoys procrastination—we would all rather be [[file:productivity.org][§Productive]].
-     

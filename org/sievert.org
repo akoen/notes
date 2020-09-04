@@ -1,0 +1,6 @@
+#+setupfile: ../hugo_setup.org
+#+title: Sievert
+
+The Sievert is a unit of ionizing radiation dose.
+
+One sievert corresponds to a 5.5% likelihood of developing fatal cancer.

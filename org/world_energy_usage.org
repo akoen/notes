@@ -1,0 +1,8 @@
+#+setupfile: ../hugo_setup.org
+#+title: World Energy Usage
+
+- tags :: [[file:climate_change.org][§Climate Change]]
+
+*2011 Word Energy Flow*
+#+DOWNLOADED: https://flowcharts.llnl.gov/content/assets/images/charts/Energy/ENERGY_2011_WORLD.png @ 2020-02-21 20:15:20
+[[file:img/20200221200731_climate_change/ENERGY_2011_WORLD2020-02-21_20-15-20_.png]]
