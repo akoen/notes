@@ -1,7 +1,7 @@
 +++
 title = "Writing"
 author = ["Alex Koen"]
-lastmod = 2020-09-02T16:46:33-07:00
+lastmod = 2020-09-04T15:30:23-07:00
 draft = false
 +++
 
@@ -13,3 +13,7 @@ draft = false
 
 -   It is a common flaw in essay writing (notably [§Academic Writing]({{< relref "academic_writing" >}})) to make a statement accurate by making it vague. You may say that the issue is complex or that there are many factors involved. In general, avoid this.
     -   <span class="underline">Strive to make your writing as bold as possible without being false.</span>
+
+<!--listend-->
+
+-   Writing is everything. Do everything as if nothing counts except writing. [§How to Take Smart Notes]({{< relref "How-to-Take-Smart-Notes" >}})

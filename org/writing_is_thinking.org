@@ -1,0 +1,6 @@
+#+setupfile: ../hugo_setup.org
+#+title: Writing is Thinking
+
+- Thinking is done on paper. It is not merely a record of thought. [[file:writing.org][§Writing]] is thinking. [[file:books/How-to-Take-Smart-Notes.org][#§How to Take Smart Notes]]
+
+  - [[file:writing.org][§Writing]] provides us with the distance required to analyze an argument. Otherwise, it would occupy the same mental resources required for this scrutiny.

@@ -1,0 +1,7 @@
+#+setupfile: ../hugo_setup.org
+#+title: Feature-Positive Effect
+
+- Feature-positive effect :: we naturally prioritize information that is the most readily available to us over that which is the most relevant. [[file:books/How-to-Take-Smart-Notes.org][§How to Take Smart Notes]]
+  - This is typically whatever information is the most /recent/, as recent ideas feel more concrete and are laden with emotion.
+  - The slipbox provides a permanent record of your thinking. Therefore, it helps to circumvent the feature positive effect since all the information is readily available.
+

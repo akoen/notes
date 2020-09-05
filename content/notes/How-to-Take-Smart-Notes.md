@@ -1,7 +1,7 @@
 +++
 title = "How to Take Smart Notes"
 author = ["Alex Koen"]
-lastmod = 2020-09-02T16:48:27-07:00
+lastmod = 2020-09-04T15:46:49-07:00
 draft = false
 +++
 
@@ -20,7 +20,6 @@ author
 -   Notes should be **brief and too the point.**
 -   **Learn to enjoy the process of working.** Do not give yourself rewards for completing a difficult task, because you will soon learn to circumvent the task but still give yourself the reward.
 -   Do not take mediocre notes. Do not take fleeting notes if you will not come back to them.
--   Writing is everything. Do everything as if nothing counts except writing.
 -   **No editor can improve an argument.**
     -   Writing forces us to confront our ignorance of a topic. We must think through our ideas to record them concise and specific.
     -   Our brain tends to ignore inconsistencies in our thinking.
@@ -44,14 +43,8 @@ author
 |                                                     | Facilitates active learning                                     |
 
 -   While language is inherently limiting, Ahrens claims that no argument can be made without a fixed language.
-    -   Writing provides us with the distance required to analyze an argument. Otherwise, it would occupy the same mental resources required for this scrutiny.
--   **Thinking is done on paper. It is not merely a record of thought.**
 
--   we naturally prioritize information that is the most readily available to us over that which is the most relevant.
-    -   This is typically whatever information is the most _recent_, as recent ideas feel more concrete and are laden with emotion.
-    -   The slipbox provides a permanent record of your thinking. Therefore, it helps to circumvent the feature positive effect since all the information is readily available.
-
--   [§Flashcards]({{< relref "flashcards" >}}) are effective because they implement [§Spaced Repetition]({{< relref "spaced_repetition" >}}). However, the disadvantage of flashcards is that the information they contain loses context, and thus it is challenging to _elaborate_ on this information to create connections between topics.
+<!--listend-->
 
 -   **Context is critical for learning.** Creating links between chunks of knowledge is essential.
 

@@ -1,0 +1,4 @@
+#+setupfile: ../hugo_setup.org
+#+title: Privacy Creates Stagnancy
+
+When we work in private, we are protected from the potential embarrassment of creating subpar work. Conversely, by [[file:learning_in_public.org][§Working in Public]], this fear pushes us to improve our ideas.

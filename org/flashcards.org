@@ -1,3 +1,5 @@
 #+setupfile: ../hugo_setup.org
 #+title: Flashcards
 
+
+- Flashcards are effective because they implement [[file:spaced_repetition.org][§Spaced Repetition]]. However, the disadvantage of flashcards is that the information they contain loses context, and thus it is challenging to [[file:elaboration.org][§Elaborate]] on this information to create connections between topics.

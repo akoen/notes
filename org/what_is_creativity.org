@@ -1,0 +1,10 @@
+#+setupfile: ../hugo_setup.org
+#+title: What is Creativity?
+
+#+BEGIN_QUOTE
+“Creativity is just connecting things.”
+
+— [[file:steve_jobs.org][§Steve Jobs]]
+#+END_QUOTE
+
+
