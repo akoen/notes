@@ -1,7 +1,7 @@
 #+setupfile: ../hugo_setup.org
 #+title: Algorithmic Policing
 
-Algorithmic policing is the practice of using computer algorithms to assist police departments with crime prevention. These algorithms include /Predictive Policing/ and /Algorithmic Surveillance/ technologies.
+Algorithmic policing is the practice of using computer algorithms and [[file:machine_learning.org][§Machine Learning]] to assist police departments with crime prevention. These algorithms include /Predictive Policing/ and /Algorithmic Surveillance/ technologies.
 
 *Predictive Policing Technologies* are used to predict where and by whom crimes will be committed in the future.
 - E.g. The VPD uses GeoDASH to predict the areas in Vancouver which are most likely to experience break-and-enters within a given time period.
@@ -18,7 +18,7 @@ This table shows the algorithmic policing technologies in use by police departme
 
 * Ethical implications
 
-- The neural networks used by these tools are generally trained on historical data which is invariably biased and discriminatory.
+- The [[file:machine_learning.org][§neural networks]] used by these tools are generally trained on historical data which is invariably biased and discriminatory.
 
 - These technologies may create positive [[file:feedback_loops.org][§Feedback Loops]]: a pattern of crime is noticed so police pay special attention to that sector, leading to more arrests and a more evident pattern.
 
