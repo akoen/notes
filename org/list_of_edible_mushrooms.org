@@ -1,0 +1,11 @@
+#+setupfile: ../hugo_setup.org
+#+title: List of Edible Mushrooms
+
+- tags :: [[file:cooking.org][§Cooking]]
+
+* Chicken of the Woods
+
+#+DOWNLOADED: https://images-na.ssl-images-amazon.com/images/I/51RDlUQAkxL._AC_.jpg @ 2020-09-05 21:39:32
+[[file:img/list_of_edible_mushrooms/51RDlUQAkxL._AC_2020-09-05_21-39-32_.jpg]]
+
+- Easy to identify: no similar looking inedible mushrooms.
