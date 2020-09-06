@@ -1,4 +1,5 @@
 #+setupfile: ../hugo_setup.org
+#+roam_alias: "Slipbox"
 #+Title: Zettelkasten
 
 

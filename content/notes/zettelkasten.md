@@ -1,7 +1,7 @@
 +++
 title = "Zettelkasten"
 author = ["Alex Koen"]
-lastmod = 2020-09-04T15:24:22-07:00
+lastmod = 2020-09-05T22:03:57-07:00
 draft = false
 +++
 
