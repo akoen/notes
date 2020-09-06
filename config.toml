@@ -1,6 +1,6 @@
 baseURL = "https://notes.alexkoen.com/"
 languageCode = "en-us"
-title = "Alex's Braindump"
+title = "Alex's working notes"
 theme = "cortex"
 
 [params]
