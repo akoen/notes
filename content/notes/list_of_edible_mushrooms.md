@@ -1,7 +1,7 @@
 +++
 title = "List of Edible Mushrooms"
 author = ["Alex Koen"]
-lastmod = 2020-09-05T21:40:27-07:00
+lastmod = 2020-09-05T21:53:01-07:00
 draft = false
 +++
 
