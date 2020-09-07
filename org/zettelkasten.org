@@ -3,6 +3,7 @@
 #+Title: Zettelkasten
 
 
+
 - How can I make this idea detailed enough to stand on its own, without the context of the book or the associated highlight? (How to Take Smart Notes)
   
 * Process

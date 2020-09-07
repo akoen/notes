@@ -1,9 +1,13 @@
 +++
 title = "Simplicity"
 author = ["Alex Koen"]
-lastmod = 2020-09-02T16:46:31-07:00
+lastmod = 2020-09-06T12:05:23-07:00
 draft = false
 +++
+
+> “Simplicity is the end result of long, hard work; not the starting point.”
+>
+> — Frederick Maitland
 
 -   Good tools don't add features; they remove all distractions from the main task, which is thinking. #[§Productivity]({{< relref "productivity" >}})
 

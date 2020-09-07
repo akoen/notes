@@ -1,11 +1,13 @@
 +++
 title = "Writing"
 author = ["Alex Koen"]
-lastmod = 2020-09-04T15:30:23-07:00
+lastmod = 2020-09-06T17:50:48-07:00
 draft = false
 +++
 
 -   First drafts should be messy, experimental, and rushed. Spend your time rewriting, not getting it right the first time.
+
+-   The ultimate goal is to make your writing so [§Simple]({{< relref "simplicity" >}}) that the reader believes they could have done it themselves.
 
     > “Separate the processes of creation from improving. You can’t write and edit, or sculpt and polish, or make and analyze at the same time. If you do, the editor stops the creator. While you invent, don’t select. While you sketch, don’t inspect. While you write the first draft, don’t reflect. At the start, the creator mind must be unleashed from judgment.”
     >
