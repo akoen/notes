@@ -1,6 +1,8 @@
 #+setupfile: ../hugo_setup.org
 #+title: Nuclear Fusion
 
+- Nuclear Fusion is [[file:clean_energy.org][§Clean Energy]]
+
 - Fusion occurs when the nuclei of two atoms are forced close enough together that the attraction of the strong force overcomes the electromagnetic repulsion.
   - The kinetic-energy barrier required to achieve fusion is known as the Coulomb barrier
   - Requires a temperature of ~100 million K

@@ -1,0 +1,4 @@
+#+setupfile: ../hugo_setup.org
+#+title: Clean Energy
+
+Clean energy refers to energy generated from renewable resources and which contributes minimally to [[file:climate_change.org][§Climate Change]].

@@ -1,9 +1,11 @@
 +++
 title = "Nuclear Fusion"
 author = ["Alex Koen"]
-lastmod = 2020-09-02T16:46:29-07:00
+lastmod = 2020-09-07T21:57:34-07:00
 draft = false
 +++
+
+-   Nuclear Fusion is [§Clean Energy]({{< relref "clean_energy" >}})
 
 -   Fusion occurs when the nuclei of two atoms are forced close enough together that the attraction of the strong force overcomes the electromagnetic repulsion.
     -   The kinetic-energy barrier required to achieve fusion is known as the Coulomb barrier
