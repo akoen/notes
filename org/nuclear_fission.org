@@ -1,0 +1,5 @@
+#+setupfile: ../hugo_setup.org
+#+title: Nuclear Fission
+
+#+DOWNLOADED: file:///home/alex/Downloads/nuclear-energy-electricity-production.png @ 2020-09-09 16:09:16
+[[file:img/nuclear_fission/nuclear-energy-electricity-production2020-09-09_16-09-16_.png]]

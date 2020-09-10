@@ -1,11 +1,16 @@
 +++
 title = "Nuclear Fusion"
 author = ["Alex Koen"]
-lastmod = 2020-09-07T21:57:34-07:00
+lastmod = 2020-09-09T16:26:19-07:00
 draft = false
 +++
 
 -   Nuclear Fusion is [§Clean Energy]({{< relref "clean_energy" >}})
+
+
+## How does it work {#how-does-it-work}
+
+When atoms are brought close together, there are two opposing forces at play: the attractive and aptly-named strong force and the repulsive electromagnetic force. The strong force only acts at very short distances, and so the challenge is to get the two nuclei close enough for it to activate. The electromagnetic force does not like this, and so an enormous amount of energy in the form of heat must be provided for fusion to occur. Only once a certain temperature threshold, called the Coulomb barrier, is achieved at around 100 million ℃ do the atoms fuse. The two hydrogen nuclei smash together and release an enormous amount of energy (~17.6 MeV).
 
 -   Fusion occurs when the nuclei of two atoms are forced close enough together that the attraction of the strong force overcomes the electromagnetic repulsion.
     -   The kinetic-energy barrier required to achieve fusion is known as the Coulomb barrier
