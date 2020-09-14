@@ -3,3 +3,13 @@
 
 #+DOWNLOADED: file:///home/alex/Downloads/nuclear-energy-electricity-production.png @ 2020-09-09 16:09:16
 [[file:img/nuclear_fission/nuclear-energy-electricity-production2020-09-09_16-09-16_.png]]
+
+* Advantages
+- Fuel is cheap
+- The life cycle [[file:emission_intensity.org][§GHG Intensity]] of nuclear is estimated to be ~12g CO₂/kWh ([[https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-iii.pdf#page=7][source]])
+
+* Disadvantages
+
+- Average construction time of 6 years.
+- Difficult to turn off.
+- Nuclear power plants depend on social capital. If public opinion sways such that citizens are uncomfortable with [[file:nuclear_energy.org][§Nuclear Energy]], the plant will shut down. 
