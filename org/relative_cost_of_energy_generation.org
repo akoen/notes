@@ -1,0 +1,7 @@
+#+setupfile: ../hugo_setup.org
+#+title: Relative Cost of Energy Generation
+
+- tags :: [[file:clean_energy.org][§Clean Energy]], [[file:world_energy_usage.org][§World Energy Usage]]
+
+#+DOWNLOADED: https://www.lazard.com/media/451081/lcoe-2.png @ 2020-09-12 11:46:47
+[[file:img/relative_cost_of_energy_generation/lcoe-22020-09-12_11-46-47_.png]]

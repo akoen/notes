@@ -1,0 +1,13 @@
+#+setupfile: ../hugo_setup.org
+#+title: Solar Power
+
+Solar power is a source of [[file:clean_energy.org][§Clean Energy]].
+
+* Advantages
+
+* Disadvantages
+:PROPERTIES:
+:ID:       68d72821-e63b-473d-bfeb-482d32a5eec0
+:END:
+
+- Footprint ::  To match the energy output of a 1GW and 1mi² [[file:nuclear_fission.org][§Nuclear Fission]] power plant, a solar farm would need to produce 3.3–5.4 GW of power (because of intermittency) and would require 35–75 mi² of land ([[https://www.nei.org/news/2015/land-needs-for-wind-solar-dwarf-nuclear-plants][source]])

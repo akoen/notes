@@ -1,13 +1,19 @@
 +++
 title = "Simplicity"
 author = ["Alex Koen"]
-lastmod = 2020-09-06T12:05:23-07:00
+lastmod = 2020-09-10T07:19:26-07:00
 draft = false
 +++
 
 > “Simplicity is the end result of long, hard work; not the starting point.”
 >
 > — Frederick Maitland
+
+<!--quoteend-->
+
+> “Mastering the mundane tasks of everyday life seems to be a gateway to living an extraordinary life.”
+>
+> — [§Tiago Forte]({{< relref "tiago_forte" >}})
 
 -   Good tools don't add features; they remove all distractions from the main task, which is thinking. #[§Productivity]({{< relref "productivity" >}})
 

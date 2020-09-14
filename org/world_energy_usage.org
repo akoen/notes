@@ -6,3 +6,7 @@
 *2011 Word Energy Flow*
 #+DOWNLOADED: https://flowcharts.llnl.gov/content/assets/images/charts/Energy/ENERGY_2011_WORLD.png @ 2020-02-21 20:15:20
 [[file:img/20200221200731_climate_change/ENERGY_2011_WORLD2020-02-21_20-15-20_.png]]
+
+The percentage of energy produced by [[file:clean_energy.org][§low-carbon sources]] is decreasing:
+#+DOWNLOADED: file:///home/alex/Downloads/global-electricity-production-by-source.png @ 2020-09-12 09:04:43
+[[file:img/world_energy_usage/global-electricity-production-by-source2020-09-12_09-04-43_.png]]

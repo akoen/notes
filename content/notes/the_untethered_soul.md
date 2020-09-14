@@ -1,7 +1,7 @@
 +++
 title = "The Untethered Soul"
 author = ["Alex Koen"]
-lastmod = 2020-09-02T16:39:08-07:00
+lastmod = 2020-09-12T07:10:36-07:00
 draft = false
 +++
 
@@ -16,6 +16,8 @@ rating
 
 
 ## Review {#review}
+
+> “Most people just go from day to day protecting themselves and making sure nothing goes too wrong.”
 
 This is a book about listening—listening to yourself and to the constant flows of energy within your mind. The author does a fantastic job of explaining the universal principles of spiritually and [§Mindfulness]({{< relref "mindfulness" >}}) while separating them from the mystical words with which they are often accompanied. Here are the most important lessons:
 

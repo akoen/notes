@@ -1,6 +1,8 @@
 #+setupfile: ../hugo_setup.org
 #+title: Why Little is Done About Climate Change
 
+In 205, only 0.2% of the US's GDP was invested in renewable energy ([[https://ourworldindata.org/energy#investment-in-renewable-technologies][source]]). Why? 
+
 - The market always does what is cheap and simple.
 
 - We would collectively be better off if we took the necessary measures to fight [[file:climate_change.org][§Climate Change]], but for each CEO, politician, and lobbyist with the power to make the change, /they/ are better off if they maintain the status quo.

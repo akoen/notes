@@ -1,9 +1,11 @@
 +++
 title = "Why Little is Done About Climate Change"
 author = ["Alex Koen"]
-lastmod = 2020-09-09T16:05:49-07:00
+lastmod = 2020-09-12T11:41:55-07:00
 draft = false
 +++
+
+In 205, only 0.2% of the US's GDP was invested in renewable energy ([source](https://ourworldindata.org/energy#investment-in-renewable-technologies)). Why?
 
 -   The market always does what is cheap and simple.
 
