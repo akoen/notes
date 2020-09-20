@@ -1,0 +1,13 @@
+#+setupfile: ../hugo_setup.org
+#+title: Fukushima Nuclear Disaster
+
+- tags :: [[file:nuclear_energy.org][§Nuclear Energy]]
+
+  It was the flooding, not radiation, that killed people.
+
+  #+BEGIN_QUOTE
+  “A crappy old plant with inadequate safety features was hit by a monster earthquake and a vast tsunami. The electricity supply failed, knocking out the cooling system. The reactors began to explode and melt down. The disaster exposed a familiar legacy of poor design and corner-cutting. Yet, as far as we know, no one has yet received a lethal dose of radiation.”
+
+  — George Monbiot (source)
+  #+END_QUOTE
+
