@@ -9,6 +9,8 @@
   — [[file:shane_parrish.org][§Shane Parrish]]
   #+END_QUOTE
 
+- The problem with goal-setting is that when we're working towards a goal, we tend to measure the gap between it and our current ability and when we achieve it, it only feels good for a moment. Instead, consider measuring the gap between where you are and where your started.
+
 - The future is simply the name we give to our imagination. Goals are only effective if they influence the decisions we make in the present. #[[file:derek_sivers.org][§Derek Sivers]]
 
 - _[[file:derek_sivers.org][§Derek Sivers]] believes that we overestimate what we can accomplish in one year, and underestimate what we can accomplish in ten years._
