@@ -1,0 +1,9 @@
+#+setupfile: ../hugo_setup.org
+#+title: Atrial Fibrillation
+
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/a/a8/RapidAFib150_%28cropped%29.jpg @ 2020-09-24 17:58:41
+[[file:img/atrial_fibrillation/RapidAFib150_%28cropped%292020-09-24_17-58-41_.jpg]]
+
+- AF is the most common serious abnormal heart rhythm, affecting an estimated 30 million people worldwide.
+
+  
