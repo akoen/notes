@@ -2,7 +2,9 @@
 #+title: The Inner Game of Tennis
 
 - author :: Timothy Gallwey
-- tags :: 
+- tags ::
+
+  
 
 * Highlights 
 
@@ -15,12 +17,6 @@
 - Self 1 does not trust Self 2, even though it embodies all the potential you have developed up to that moment and is far more competent to control the muscle system than Self 1.
 
 - By thinking too much and trying too hard, Self 1 has produced tension and muscle conflict in the body. He is responsible for the error, but he heaps the blame on Self 2 and then, by condemning it further, undermines his own confidence in Self 2. As a result the stroke grows worse and frustration builds.
-
-- Quieting Self 1
-
-- **Note:** .c1
-
-- **Tags:** c1
 
 - IT IS THE CONSTANT “THINKING” activity of Self 1, the ego-mind, which causes interference with the natural capabilities of Self 2.
 
