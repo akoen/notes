@@ -1,10 +1,20 @@
 #+setupfile: ../hugo_setup.org
 #+title: The Inner Game of Tennis
 
-- author :: Timothy Gallwey
-- tags ::
+  - author :: Timothy Gallwey
+  - tags ::
 
-  
+    The central premise of the /Inner Game of Tennis/ is that there are two selves. Self 1 is the thinking, judgmental self who consciously controls our actions. Self 2, in contrast. is our intuition.
+
+    Self 2 is naturally capable and embodies our childlike ability to learn through natural feedback loops.
+
+    When people struggle to perform under pressure, talk about "choking", or try as hard as possible to execute a task perfectly, they are letting their first self interfere with their natural abilities.
+
+People often try to learn a skill by identifying flaws in their performance and then trying to intentionally correct for them.
+
+*Nonjudgmental awareness:*
+
+Imagine you're trying to become a better public speaker. Instead of looking for flaws in your ability ("I speak to quickly and stumble over my words"), simply notice, without judgment, the sensations associated with public speaking (e.g. "I feel my throat tightening and my heart racing"). Now, instead of trying to correct for this
 
 * Highlights 
 

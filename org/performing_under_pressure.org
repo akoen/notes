@@ -1,0 +1,6 @@
+#+setupfile: ../hugo_setup.org
+#+title: Performing Under Pressure
+
+The secret to performing under pressure is not to try too hard. When you reach a state of *relaxed concentration*, you perform at your best. #[[file:books/the_inner_game_of_tennis.org][§The Inner Game of Tennis]]
+
+
