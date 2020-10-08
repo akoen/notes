@@ -1,7 +1,7 @@
 +++
 title = "Test-Driven Development"
 author = ["Alex Koen"]
-lastmod = 2020-09-22T12:25:57-07:00
+lastmod = 2020-10-07T21:46:44-07:00
 draft = false
 +++
 
@@ -21,3 +21,5 @@ draft = false
     		count = old count + 1
     	end
     ```
+
+    -   This is somewhat implemented in languages like Java with assert() statements

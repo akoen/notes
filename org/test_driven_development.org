@@ -18,3 +18,5 @@ put (x: ELEMENT; key: STRING) is
 	end
   #+END_SRC
 
+ - This is somewhat implemented in languages like Java with assert() statements
+
