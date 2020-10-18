@@ -12,7 +12,7 @@ _In short, active recall is about spending less time on the input side of learni
 #+END_QUOTE
 
 #+BEGIN_QUOTE
-“Remembering and idea is some combination of the number of connections you can draw and [[file:spaced_repetition.org][§Spaced Repetition]]”
+“Remembering and idea is some combination of the number of connections you can draw ([[file:elaboration.org][§Elaboration]]) and [[file:spaced_repetition.org][§Spaced Repetition]]”
 
 — Simon Eskildsen
 #+END_QUOTE

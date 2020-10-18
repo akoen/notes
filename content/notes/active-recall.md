@@ -1,7 +1,7 @@
 +++
 title = "Active Recall"
 author = ["Alex Koen"]
-lastmod = 2020-09-02T16:46:23-07:00
+lastmod = 2020-10-12T07:11:59-07:00
 draft = false
 +++
 
@@ -15,7 +15,7 @@ Active recall is reading with intention, asking yourself how the information con
 
 <!--quoteend-->
 
-> “Remembering and idea is some combination of the number of connections you can draw and [§Spaced Repetition]({{< relref "spaced_repetition" >}})”
+> “Remembering and idea is some combination of the number of connections you can draw ([§Elaboration]({{< relref "elaboration" >}})) and [§Spaced Repetition]({{< relref "spaced_repetition" >}})”
 >
 > — Simon Eskildsen
 

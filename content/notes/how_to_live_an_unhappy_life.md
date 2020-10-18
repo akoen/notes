@@ -1,7 +1,7 @@
 +++
 title = "How to Live an Unhappy Life"
 author = ["Alex Koen"]
-lastmod = 2020-09-02T16:46:27-07:00
+lastmod = 2020-10-12T07:16:00-07:00
 draft = false
 +++
 
@@ -21,3 +21,11 @@ draft = false
 > -   Excessive leverage.
 >
 > — [§Shane Parrish]({{< relref "shane_parrish" >}})
+
+-   Live a sedentary life.
+-   Stop searching for purpose.
+-   Don't take needed breaks.
+-   Eat when you aren't hungry.
+-   Avoid vegetables.
+-   Ignore your family.
+-   Hang out with friends who drag you down.
