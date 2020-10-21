@@ -1,4 +1,4 @@
-#+setupfile: ../hugo_setup.org
+#+setupfile: ../../hugo_setup.org
 #+title: The Inner Game of Tennis
 
   - author :: Timothy Gallwey

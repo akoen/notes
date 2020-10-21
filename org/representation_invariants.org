@@ -1,0 +1,4 @@
+#+setupfile: ../hugo_setup.org
+#+title: Representation Invariants
+
+- Always check the representation invariant after calling a method if it is inexpensive.

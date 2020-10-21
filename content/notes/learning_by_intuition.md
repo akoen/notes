@@ -1,7 +1,7 @@
 +++
 title = "Learning by Intuition"
 author = ["Alex Koen"]
-lastmod = 2020-10-06T09:11:11-07:00
+lastmod = 2020-10-20T12:47:46-07:00
 draft = false
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Performing Under Pressure"
 author = ["Alex Koen"]
-lastmod = 2020-10-06T08:58:56-07:00
+lastmod = 2020-10-20T12:47:38-07:00
 draft = false
 +++
 
