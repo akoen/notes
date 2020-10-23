@@ -1,0 +1,6 @@
+#+setupfile: ../hugo_setup.org
+#+title: Quotes
+
+Quotes I like:
+
+- All the darkness in the world cannot extinguish the light of a single candle.
