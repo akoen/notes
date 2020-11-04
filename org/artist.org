@@ -1,3 +1,2 @@
 #+setupfile: ../hugo_setup.org
 #+title: Artist
-
