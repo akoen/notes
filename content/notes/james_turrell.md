@@ -1,11 +1,11 @@
 +++
 title = "James Turrell"
 author = ["Alex Koen"]
-lastmod = 2020-11-01T08:47:38-08:00
+lastmod = 2020-11-03T22:08:26-08:00
 draft = false
 +++
 
-James Turrell is an [§Artist]({{< relref "artist" >}}) famous for his exploration of the materiality of light.
+James Turrell is one of my [§Favourite Visual Artists]({{< relref "favourite_visual_artists" >}}) famous for his exploration of the materiality of light.
 
 Since 1979, he has worked almost exclusively on his _Roden Crater_
 project, a volcanic cinder cone that he is retrofitting into a naked-eye observatory and an art installation.

@@ -1,7 +1,7 @@
 #+setupfile: ../hugo_setup.org
 #+title: James Turrell
 
-James Turrell is an [[file:artist.org][§Artist]] famous for his exploration of the materiality of light.
+James Turrell is one of my [[file:favourite_visual_artists.org][§Favourite Visual Artists]] famous for his exploration of the materiality of light.
 
 Since 1979, he has worked almost exclusively on his /Roden Crater/
 project, a volcanic cinder cone that he is retrofitting into a naked-eye observatory and an art installation.
