@@ -3,4 +3,6 @@
 
 Quotes I like:
 
-- All the darkness in the world cannot extinguish the light of a single candle.
+#+begin_quote
+All the darkness in the world cannot extinguish the light of a single candle.
+#+end_quote

@@ -5,10 +5,7 @@
 - Tagging is useful, but only if one tags the keywords for which the given note may add to the discussion. ([[file:books/How-to-Take-Smart-Notes.org][§How to Take Smart Notes]])
   - e.g. for a note about the Dunning-Kruger effect, tag it "mistrust of science" instead of "cognitive biases". You are much more likely to write about mistrust of science than to make a compendium of cognitive biases (unless you are an archivist).
     
-#+BEGIN_QUOTE
+#+begin_quote
 “The real problem with tags, and why they not only fail to help, but actually even hurt people's creative self-esteem, is that they give the impression that creating such a system requires a heroic feat of comprehensive planning, followed by years of meticulous, unwavering cataloging and annotating. I see many creative people, justly overwhelmed at this task for which their minds are not well suited, give up on the idea altogether.”
-
 — [[file:tiago_forte.org][§Tiago Forte]]
-#+END_QUOTE
-
-
+#+end_quote

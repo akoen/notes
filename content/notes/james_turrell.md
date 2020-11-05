@@ -1,7 +1,7 @@
 +++
 title = "James Turrell"
 author = ["Alex Koen"]
-lastmod = 2020-11-03T22:08:26-08:00
+lastmod = 2020-11-04T10:19:37-08:00
 draft = false
 +++
 

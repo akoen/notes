@@ -1,0 +1,9 @@
+#+setupfile: ../hugo_setup.org
+#+title: Instant Runoff Voting
+
+Instant Runoff Voting is a [[file:voting_systems.org][§Voting System]] where voters rank their candidates in order of preference. Then, the following procedure is performed until a candidate reaches 50% of the vote and wins:
+
+- Anyone who voted for the last-place candidate has their vote transferred to their second-choice/third-choice etc.
+
+#+DOWNLOADED: 
+[[file:img/instant_runoff_voting/screenshot2020-11-04_22-10-01_.png]]
