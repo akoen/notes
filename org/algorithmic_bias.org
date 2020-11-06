@@ -1,0 +1,12 @@
+#+setupfile: ../hugo_setup.org
+#+title: Algorithmic Bias
+
+In her book [[file:books/hello_world.org][§Hello World]], [[file:hannah_fry.org][§Hannah Fry]] argues that when algorithms are trained on historical datasets, they learn to perpetuate the biases found within.
+
+#+begin_quote
+But however accurate the results might be, you could argue that using algorithms as a mirror to reflect the real world isn’t always helpful, especially when the mirror is reflecting a present reality that only exists because of centuries of bias.
+
+— [[file:hannah_fry.org][§Hannah Fry]] ([[file:books/hello_world.org][§Hello World]])
+#+end_quote
+
+

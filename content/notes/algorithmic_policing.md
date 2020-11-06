@@ -1,7 +1,7 @@
 +++
 title = "Algorithmic Policing"
 author = ["Alex Koen"]
-lastmod = 2020-09-04T21:57:09-07:00
+lastmod = 2020-11-06T08:54:36-08:00
 draft = false
 +++
 
@@ -22,8 +22,6 @@ This table shows the algorithmic policing technologies in use by police departme
 
 ## Ethical implications {#ethical-implications}
 
--   The [§neural networks]({{< relref "machine_learning" >}}) used by these tools are generally trained on historical data which is invariably biased and discriminatory.
+-   The [§neural networks]({{< relref "machine_learning" >}}) used by these tools are generally trained on historical data, leading to [§Algorithmic Bias]({{< relref "algorithmic_bias" >}}).
 
 -   These technologies may create positive [§Feedback Loops]({{< relref "feedback_loops" >}}): a pattern of crime is noticed so police pay special attention to that sector, leading to more arrests and a more evident pattern.
-
--   [§Digital Privacy]({{< relref "digital_privacy" >}})

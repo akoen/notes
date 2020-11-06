@@ -1,0 +1,94 @@
+#+setupfile: ../../hugo_setup.org
+#+title: Hello World
+
+- author :: [[file:../hannah_fry.org][§Hannah Fry]]
+- tags ::
+- rating :: 3/5
+
+  
+* The Book in 3 Sentences
+
+- Algorithms are insanely good at certain kinds of tasks, but they do not /think/, and thus often make irrational decisions.
+- We implicitly trust algorithms even when they contradict common sense (in a famous case, a man almost drove off a cliff because his GPS led him astray). Yet when an algorithm is wrong once, we completely lose faith in its ability [[file:../precautionary_principle.org][(§Precautionary Principle)]].
+- The author advocates that algorithms should be used not to replace human expertise, but to assist them.
+
+* Impressions
+/Hello World/ is both interesting and engaging, but was not in-depth enough to satiate my curiosity. I would have liked to learn more about the mathematics behind the algorithms and more about their ethical implications.
+
+All in all, it's a pop-science book—and a well-written one at that—but not an in-depth resource on algorithms.
+
+* How the Book Changed Me
+
+My main takeaway from /Hello World/ is that algorithms are rarely a replacement for humans—they complement us. Algorithms allow doctors to spend a quarter of the time examining a sample while still giving him or her the authority to make the final decision. In court, an algorithm might forecast the likelihood that a convict will relapse into undesirable behaviour while allowing the judge to make the final decision.
+
+* Top 3 Highlights
+
+#+begin_quote
+Although AI has come on in leaps and bounds of late, it is still only ‘intelligent’ in the narrowest sense of the word. It would probably be more useful to think of what we’ve been through as a revolution in computational statistics than a revolution in intelligence.
+
+— [[file:../hannah_fry.org][§Hannah Fry]]
+#+end_quote
+
+#+begin_quote
+It’s worth noting how the experiment suggests we feel about algorithms that are right most of the time. We end up believing that they always have superior judgement.
+
+— [[file:../hannah_fry.org][§Hannah Fry]]
+#+end_quote
+
+#+begin_quote
+As soon as we know an algorithm can make mistakes, we also have a rather annoying habit of over-reacting and dismissing it completely, reverting instead to our own flawed judgement. It’s known to researchers as algorithm aversion.
+
+— [[file:../hannah_fry.org][§Hannah Fry]] 
+#+end_quote
+
+
+
+
+* Highlights
+
+- The outcome of the match is well known, but the story behind how Deep Blue secured its win is less widely appreciated. That symbolic victory, of machine over man, which in many ways marked the start of the algorithmic age, was down to far more than sheer raw computing power.
+
+- For a start, the IBM engineers made the brilliant decision to design Deep Blue to appear more uncertain than it was.
+
+- Although AI has come on in leaps and bounds of late, it is still only ‘intelligent’ in the narrowest sense of the word. It would probably be more useful to think of what we’ve been through as a revolution in computational statistics than a revolution in intelligence.
+
+- ‘When people are unaware they are being manipulated, they tend to believe they have adopted their new thinking voluntarily,’
+
+- it’s worth noting how the experiment suggests we feel about algorithms that are right most of the time. We end up believing that they always have superior judgement.
+
+- It’s just this bias we all have for computerized results – we don’t question them.
+
+- If your task involves any kind of calculation, put your money on the algorithm every time: in making medical diagnoses or sales forecasts, predicting suicide attempts or career satisfaction, and assessing everything from fitness for military service to projected academic performance. The machine won’t be perfect, but giving a human a veto over the algorithm would just add more error.
+
+- as soon as we know an algorithm can make mistakes, we also have a rather annoying habit of over-reacting and dismissing it completely, reverting instead to our own flawed judgement. It’s known to researchers as algorithm aversion.
+
+- It’s a stance that’s echoed by Eric Schmidt, who, while serving as the executive chairman of Google, said he tries to think of things in terms of an imaginary creepy line. ‘The Google policy is to get right up to the creepy line but not cross it.’4
+
+- Palantir is just one example of a new breed of companies known as data brokers, who buy and collect people’s personal information and then resell it or share it for profit.
+
+- And there are concerns about this kind of data profiling being used against people, too: motorbike enthusiasts being deemed to have a risky hobby, or people who eat sugar-free sweets being flagged as diabetic and turned down for insurance as a result.
+
+- In the end, even with the best, most deviously micro-profiled campaigns, only a small amount of influence will leak through to the target.
+
+- Sesame Credit, a citizen scoring system used by the Chinese government.
+
+- If you’re Chinese, these scores matter. If your rating is over 600 points, you can take out a special credit card. Above 666 and you’ll be rewarded with a higher credit limit. Those with scores above 650 can hire a car without a deposit and use a VIP lane at Beijing airport. Anyone over 750 can apply for a fast-tracked visa to Europe.26
+
+- Across the Western world, sentencing guidelines tend to lay down a maximum sentence (as in Ireland) or a minimum sentence (as in Canada) or both (as in England and Wales),15 and allow judges latitude to adjust the sentence up or down between those limits.
+
+- Now, since the vast majority of murders are committed by men (in fact, worldwide, 96 per cent of murderers are male)
+
+- But however accurate the results might be, you could argue that using algorithms as a mirror to reflect the real world isn’t always helpful, especially when the mirror is reflecting a present reality that only exists because of centuries of bias.
+
+- Ninety per cent of the nuns who went on to develop Alzheimer’s had ‘low linguistic ability’ as young women, while only 13 per cent of the nuns who maintained cognitive ability into old age got a ‘low idea density’ score in their essays.
+
+- In fact, some estimate that, at any one time, around 9 per cent of women could be unwittingly walking around with tumours in their breasts – about ten times the proportion who actually get diagnosed with breast cancer.
+
+- It’s no exaggeration to say that Bayes’ theorem is one of the most influential ideas in history.
+
+- And in the UK, cameras mounted on vehicles that look like souped-up Google StreetView cars now drive around automatically cross-checking our likenesses with a database of wanted people.
+
+- eyewitness misidentification plays a role in more than 70 per cent of wrongful convictions.
+
+
+
