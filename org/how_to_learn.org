@@ -1,0 +1,13 @@
+#+setupfile: ../hugo_setup.org
+#+title: How To Learn
+
+[[https://www.drmaciver.com/2019/05/how-to-do-hard-things/][David R. MacIver]] proposes a framework for quickly learning challenging concepts:
+
+1. Find an easy version of whatever you find hard.
+2. Modify the easy version so that it is as hard as the challenging thing in /exactly/ one way.
+3. Practice the modified version until it is easy.
+4. Repeat this process until the hard thing becomes easy.
+
+While this framework is simple, it identifies a key point: the importance of tight [[file:feedback_loops.org][§Feedback Loops]] and [[file:deliberate_practice.org][§Purposeful/Deliberate Practice.]]
+
+- When you learn, don't focus on getting it right. Instead, focus on /how/ you're performing. Then, target the /specific areas/ where you're performing poorly.

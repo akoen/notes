@@ -5,7 +5,12 @@
 - author :: John Zeratsky and Jake Knapp
 - tags :: 
 
- This is a book about making time for what you care about. Nowadays, with the proliferation of instant communication.
+I wrote a post about this: https://alexkoen.com/writing/posts/more-time/
+
+* Favourite Highlights
+#+begin_quote
+If you reduce a few distractions, increase your physical and mental energy just a bit, and focus your attention on one bright spot, a blah day can become extraordinary.
+#+end_quote
 
 
 * Highlights

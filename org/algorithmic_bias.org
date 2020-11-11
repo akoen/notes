@@ -8,5 +8,3 @@ But however accurate the results might be, you could argue that using algorithms
 
 — [[file:hannah_fry.org][§Hannah Fry]] ([[file:books/hello_world.org][§Hello World]])
 #+end_quote
-
-

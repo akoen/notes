@@ -1,7 +1,7 @@
 +++
 title = "Hello World"
 author = ["Alex Koen"]
-lastmod = 2020-11-06T09:13:29-08:00
+lastmod = 2020-11-06T09:14:06-08:00
 draft = false
 +++
 
@@ -43,7 +43,7 @@ My main takeaway from _Hello World_ is that algorithms are rarely a replacement 
 
 <!--quoteend-->
 
-> It’s worth noting how the experiment suggests we feel about algorithms that are right most of the time. We end up believing that they always have superior judgement.
+> It’s worth noting how the experiment suggests we feel about algorithms that are right most of the time. We end up believing that they always have superior judgment.
 >
 > — [§Hannah Fry]({{< relref "hannah_fry" >}})
 

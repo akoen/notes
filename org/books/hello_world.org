@@ -30,7 +30,7 @@ Although AI has come on in leaps and bounds of late, it is still only ‘intelli
 #+end_quote
 
 #+begin_quote
-It’s worth noting how the experiment suggests we feel about algorithms that are right most of the time. We end up believing that they always have superior judgement.
+It’s worth noting how the experiment suggests we feel about algorithms that are right most of the time. We end up believing that they always have superior judgment.
 
 — [[file:../hannah_fry.org][§Hannah Fry]]
 #+end_quote

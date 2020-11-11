@@ -1,7 +1,7 @@
 +++
 title = "Make Time"
 author = ["Alex Koen"]
-lastmod = 2020-09-02T16:39:07-07:00
+lastmod = 2020-11-10T08:46:41-08:00
 draft = false
 +++
 
@@ -9,7 +9,14 @@ author
 : John Zeratsky and Jake Knapp
 
 tags
-: This is a book about making time for what you care about. Nowadays, with the proliferation of instant communication.
+:
+
+I wrote a post about this: <https://alexkoen.com/writing/posts/more-time/>
+
+
+## Favourite Highlights {#favourite-highlights}
+
+> If you reduce a few distractions, increase your physical and mental energy just a bit, and focus your attention on one bright spot, a blah day can become extraordinary.
 
 
 ## Highlights {#highlights}

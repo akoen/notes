@@ -2,4 +2,4 @@
 #+title: Learning
 
 - Andy Matuschak argues that storytelling is an especially effective way to learn.
-- [[file:deliberate_practice.org][§Deliberate Practice]] is especially effective because the repeat stimulation of specific neural pathways speeds up the myelination of those neurons.
+- [[file:deliberate_practice.org][§§Deliberate Practice]] is especially effective because the repeat stimulation of specific neural pathways speeds up the myelination of those neurons.
