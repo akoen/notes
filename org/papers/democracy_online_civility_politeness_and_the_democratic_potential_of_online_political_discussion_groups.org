@@ -2,7 +2,7 @@
 #+TITLE: Democracy online: civility, politeness, and the democratic potential of online political discussion groups
 #+ROAM_KEY: cite:papacharissiDemocracyOnlineCivility2004
 
-- tags ::
+
 - keywords :: WRDS150
 - author :: Papacharissi, Z.
 

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  {{ partial "head.html" . }}
+
+  <body class="note-wrapper"> 
+    <iframe id="mySidenav" name="split" class="sidenav" src=""></iframe>
+    <article id="main" class="content ">
+      {{ partial "content.html" . }}
+      <p>
+      These are my notes---a central hub for all that I learn. Press Ctrl + / to search, or scroll through the whole list (sorted by date edited).
+      </p>
+      {{ range .Site.RegularPages }}
+      <li>
+	<a href="{{ .Permalink | relURL }}">{{ .Title }}</a>
+      </li>
+      {{ end }}
+    </article>
+    {{ partial "search.html" }}
+    {{ partial "scripts.html"  }}
+
+  </body>
+</html>

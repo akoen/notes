@@ -1,6 +1,6 @@
 #+setupfile: ../hugo_setup.org
 #+title: Concern Trolling
 
-- tags ::
+
 
 - Concern trolling is a technique employed by many users on [[file:social_media.org][§Social Media]] where they pretend to be concerned but clearly have no regard for the issue.

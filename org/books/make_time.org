@@ -3,7 +3,6 @@
 
 
 - author :: John Zeratsky and Jake Knapp
-- tags :: 
 
 I wrote a post about this: https://alexkoen.com/writing/posts/more-time/
 

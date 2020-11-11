@@ -1,7 +1,7 @@
 +++
 title = "Show Your Work"
 author = ["Alex Koen"]
-lastmod = 2020-09-02T16:39:07-07:00
+lastmod = 2020-11-10T20:45:15-08:00
 draft = false
 +++
 
@@ -11,17 +11,17 @@ author
 tags
 : [§Productivity]({{< relref "productivity" >}}), [§Learning]({{< relref "learning" >}})
 
-    Note: I wrote a blog post about this book [here](https://blog.alexkoen.com/posts/show-your-work/).
+Note: I wrote a blog post about this book [here](https://blog.alexkoen.com/posts/show-your-work/).
 
-    “Find your voice, shout it from the rooftops, and keep doing it until the people that are looking for you find you.” — Dan Harmon
+“Find your voice, shout it from the rooftops, and keep doing it until the people that are looking for you find you.” — Dan Harmon
 
-    It is intimidating to show your work online. While we have no reservations about sharing our candid photos on Instagram or our thoughts on Twitter, something about sharing our _work_ under our own name is scary. For some reason, we believe that whatever material we publish online must be complete, and that anything less than perfection has no value.
+It is intimidating to show your work online. While we have no reservations about sharing our candid photos on Instagram or our thoughts on Twitter, something about sharing our _work_ under our own name is scary. For some reason, we believe that whatever material we publish online must be complete, and that anything less than perfection has no value.
 
-    The premise of Austin Kleon's book _Show Your Work_ is that [§Learning in Public]({{< relref "learning_in_public" >}}) is the most effective way to learn faster and gain an audience. By sharing what you're learning and how you're applying this newfound knowledge, you create tight [§Feedback Loops]({{< relref "feedback_loops" >}}) that propel you towards mastery.
+The premise of Austin Kleon's book _Show Your Work_ is that [§Learning in Public]({{< relref "learning_in_public" >}}) is the most effective way to learn faster and gain an audience. By sharing what you're learning and how you're applying this newfound knowledge, you create tight [§Feedback Loops]({{< relref "feedback_loops" >}}) that propel you towards mastery.
 
-    This is a great book that can easily be read in an afternoon. That being said, most of the lessons that the author is preaching were taught to me by the likes of [Ali Abdaal](https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg), and so I found it less thought-provoking than I might have otherwise.
+This is a great book that can easily be read in an afternoon. That being said, most of the lessons that the author is preaching were taught to me by the likes of [Ali Abdaal](https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg), and so I found it less thought-provoking than I might have otherwise.
 
-    My rating: 4/5.
+My rating: 4/5.
 
 
 ## Notes {#notes}

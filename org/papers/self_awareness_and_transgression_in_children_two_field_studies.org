@@ -2,7 +2,7 @@
 #+TITLE: Self-awareness and transgression in children: Two field studies.
 #+ROAM_KEY: cite:beamanSelfawarenessTransgressionChildren1979
 
-- tags ::
+
 - keywords :: _tablet,WRDS150
 - author :: Beaman, A. L., Klentz, B., Diener, E., & Svanum, S.
 

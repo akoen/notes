@@ -1,15 +1,12 @@
 +++
 title = "Make Time"
 author = ["Alex Koen"]
-lastmod = 2020-11-10T08:46:41-08:00
+lastmod = 2020-11-10T21:03:13-08:00
 draft = false
 +++
 
 author
 : John Zeratsky and Jake Knapp
-
-tags
-:
 
 I wrote a post about this: <https://alexkoen.com/writing/posts/more-time/>
 

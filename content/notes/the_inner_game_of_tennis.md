@@ -1,15 +1,12 @@
 +++
 title = "The Inner Game of Tennis"
 author = ["Alex Koen"]
-lastmod = 2020-10-20T21:06:37-07:00
+lastmod = 2020-11-10T21:03:11-08:00
 draft = false
 +++
 
 author
 : Timothy Gallwey
-
-tags
-:
 
 The central premise of the _Inner Game of Tennis_ is that there are two selves. Self 1 is the thinking, judgmental self who consciously controls our actions. Self 2, in contrast. is our intuition.
 

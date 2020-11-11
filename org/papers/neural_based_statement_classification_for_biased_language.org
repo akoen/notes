@@ -2,7 +2,7 @@
 #+TITLE: Neural Based Statement Classification for Biased Language
 #+ROAM_KEY: cite:hubeNeuralBasedStatement2019
 
-- tags ::
+
 - keywords :: Computer Science - Computation and Language,WRDS150
 - author :: Hube, C., & Fetahu, B.
 

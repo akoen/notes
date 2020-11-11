@@ -2,7 +2,7 @@
 #+TITLE: Racial bias in pain assessment and treatment recommendations, and false beliefs about biological differences between blacks and whites
 #+ROAM_KEY: cite:hoffmanRacialBiasPain2016
 
-- tags ::
+
 - keywords :: WRDS150
 - author :: Hoffman, K. M., Trawalter, S., Axt, J. R., & Oliver, M. N.
 

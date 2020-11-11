@@ -2,6 +2,7 @@ baseURL = "https://notes.alexkoen.com/"
 languageCode = "en-us"
 title = "Alex's working notes"
 theme = "Zettels"
+pymentsUseClasses=true
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 

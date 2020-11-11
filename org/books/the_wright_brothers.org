@@ -2,7 +2,7 @@
 #+title: The Wright Brothers
 
 - author :: David McCullough
-- tags ::
+
   
 * Summary in 3 sentences
 After several years of experimentation, Wilbur and Orville Wright made the first heavier than air flight in 1903. Their aircraft, named the /Wright Flyer,/ defied what was previously thought possible and left the world awestruck. They soon became famous, but never faltered from the humble character and passion for engineering.

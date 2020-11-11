@@ -1,15 +1,12 @@
 +++
 title = "Hello World"
 author = ["Alex Koen"]
-lastmod = 2020-11-06T09:14:06-08:00
+lastmod = 2020-11-10T21:02:35-08:00
 draft = false
 +++
 
 author
 : [§Hannah Fry]({{< relref "hannah_fry" >}})
-
-tags
-:
 
 
 rating

@@ -4,17 +4,17 @@
 - author :: [[file:../austin_kleon.org][§Austin Kleon]]
 - tags :: [[file:../productivity.org][§Productivity]], [[file:../learning.org][§Learning]]
 
-  Note: I wrote a blog post about this book [[https://blog.alexkoen.com/posts/show-your-work/][here]].
-  
-  “Find your voice, shout it from the rooftops, and keep doing it until the people that are looking for you find you.” — Dan Harmon
-   
-  It is intimidating to show your work online. While we have no reservations about sharing our candid photos on Instagram or our thoughts on Twitter, something about sharing our /work/ under our own name is scary. For some reason, we believe that whatever material we publish online must be complete, and that anything less than perfection has no value.
-  
-  The premise of Austin Kleon's book /Show Your Work/ is that [[file:../learning_in_public.org][§Learning in Public]] is the most effective way to learn faster and gain an audience. By sharing what you're learning and how you're applying this newfound knowledge, you create tight [[file:../feedback_loops.org][§Feedback Loops]] that propel you towards mastery.
+Note: I wrote a blog post about this book [[https://blog.alexkoen.com/posts/show-your-work/][here]].
 
-  This is a great book that can easily be read in an afternoon. That being said, most of the lessons that the author is preaching were taught to me by the likes of [[https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg][Ali Abdaal]], and so I found it less thought-provoking than I might have otherwise.
+“Find your voice, shout it from the rooftops, and keep doing it until the people that are looking for you find you.” — Dan Harmon
 
-  My rating: 4/5.
+It is intimidating to show your work online. While we have no reservations about sharing our candid photos on Instagram or our thoughts on Twitter, something about sharing our /work/ under our own name is scary. For some reason, we believe that whatever material we publish online must be complete, and that anything less than perfection has no value.
+
+The premise of Austin Kleon's book /Show Your Work/ is that [[file:../learning_in_public.org][§Learning in Public]] is the most effective way to learn faster and gain an audience. By sharing what you're learning and how you're applying this newfound knowledge, you create tight [[file:../feedback_loops.org][§Feedback Loops]] that propel you towards mastery.
+
+This is a great book that can easily be read in an afternoon. That being said, most of the lessons that the author is preaching were taught to me by the likes of [[https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg][Ali Abdaal]], and so I found it less thought-provoking than I might have otherwise.
+
+My rating: 4/5.
 
 * Notes
 

@@ -2,7 +2,7 @@
 #+title: Hello World
 
 - author :: [[file:../hannah_fry.org][§Hannah Fry]]
-- tags ::
+
 - rating :: 3/5
 
   

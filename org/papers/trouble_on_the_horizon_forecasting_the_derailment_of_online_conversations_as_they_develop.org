@@ -2,7 +2,7 @@
 #+TITLE: Trouble on the Horizon: Forecasting the Derailment of Online Conversations as they Develop
 #+ROAM_KEY: cite:changTroubleHorizonForecasting2019
 
-- tags ::
+
 - keywords :: _tablet,Computer Science - Artificial Intelligence,Computer Science - Computation and Language,Computer Science - Computers and Society,Computer Science - Human-Computer Interaction,Physics - Physics and Society,Text_Analysis
 - author :: Chang, J. P., & Danescu-Niculescu-Mizil, Cristian
 

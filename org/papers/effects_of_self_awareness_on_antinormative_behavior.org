@@ -2,7 +2,7 @@
 #+TITLE: Effects of self-awareness on antinormative behavior
 #+ROAM_KEY: cite:dienerEffectsSelfawarenessAntinormative1976
 
-- tags ::
+
 - keywords :: Text_Analysis
 - author :: Diener, E., & Wallbom, M.
 
