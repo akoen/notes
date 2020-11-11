@@ -1,7 +1,9 @@
 baseURL = "https://notes.alexkoen.com/"
 languageCode = "en-us"
 title = "Alex's working notes"
-theme = "cortex"
+theme = "Zettels"
+[outputs]
+home = ["HTML", "RSS", "JSON"]
 
 [params]
 email = "akoen@mailbox.org"

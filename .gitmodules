@@ -1,3 +1,6 @@
 [submodule "themes/cortex"]
 	path = themes/cortex
 	url = https://github.com/jethrokuan/cortex
+[submodule "themes/Zettels"]
+	path = themes/Zettels
+	url = https://github.com/akoen/Zettels
