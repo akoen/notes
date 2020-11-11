@@ -3,3 +3,4 @@
 /org/journal
 /node_modules/
 .project
+.log/
