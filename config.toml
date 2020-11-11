@@ -37,3 +37,7 @@ footer = "Icon by Freepik. Built with ♥ with Org-mode and Hugo."
     noClasses = true
     style = "github"
     tabWidth = 4
+
+
+# TODO Fix references
+# TODO Fix bullets
