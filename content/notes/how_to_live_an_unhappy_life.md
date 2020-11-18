@@ -1,7 +1,7 @@
 +++
 title = "How to Live an Unhappy Life"
 author = ["Alex Koen"]
-lastmod = 2020-10-12T07:16:00-07:00
+lastmod = 2020-11-16T08:51:18-08:00
 draft = false
 +++
 
@@ -29,3 +29,7 @@ draft = false
 -   Avoid vegetables.
 -   Ignore your family.
 -   Hang out with friends who drag you down.
+
+    > Don't be on your deathbed someday, having squandered your one chance at life, full of regret because you pursued little distractions instead of big dreams.
+    >
+    > — [§Derek Sivers]({{< relref "derek_sivers" >}})

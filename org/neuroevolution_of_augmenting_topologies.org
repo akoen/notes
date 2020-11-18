@@ -1,0 +1,63 @@
+#+setupfile: ../hugo_setup.org
+#+title: NeuroEvolution of Augmenting Topologies
+
+* Definitions
+
+- Hidden node :: a node that is neither an input nor an output node.
+- Bias unit :: An input that is always set to 1. Can connect to any node /other/ than an input.
+
+* Evolution
+
+Composed of:
+1. Selection
+2. Crossover
+3. Mutation
+
+* Augmenting
+We start with the smallest possible set of nodes containing inputs and outputs. This is called /minimal initialization/, and is a distinct advantage of NEAT.
+
+#+NAME: Init
+#+DOWNLOADED:
+[[file:img/neuroevolution_of_augmenting_topologies/screenshot2020-11-15_17-28-20_.png]]
+
+The /bias/ can be thought of as a y-intercept to our network: it allows us to shift our output up or down.
+
+* Mutations
+** Mutate Add Connection
+
+#+DOWNLOADED: 
+[[file:img/neuroevolution_of_augmenting_topologies/screenshot2020-11-15_17-34-54_.png]]
+
+* Speciation
+
+The compatibility distance \sigma between two genomes is given by:
+
+\begin{equation}
+\label{eq:1}
+\sigma=\frac{c_{1}E}{N}+\frac{c_{2}D}{N}+c_{3}\cdot \bar{W}
+\end{equation}
+
+where:
+$N$ is the number of genes in the larger genome.
+$E$ is the number of excess genes.
+$D$ is the number of disjoint genes.
+$\bar{W}$ is the /average/ difference in weight between all matching connections, including disabled ones.
+$c_1, c_2, c_3$ are hard-coded importance coefficients.
+
+* Adjusted Fitness
+
+The paper defines the adjusted fitness of a particular genome as:
+
+\begin{equation}
+\label{eq:2}
+f'=\frac{f_i}{\sum_{j=1}^n sh(\sigma(i,j))}
+\end{equation}
+
+Where $sh$ evaluates to 1 if the two genomes are similar enough to be classified as the same specifies. Thus, this equation simplifies to:
+
+\begin{equation}
+\label{eq:3}
+f'=\frac{f_i}{N},
+\end{equation}
+
+where $N$ is the number of genomes in the species.

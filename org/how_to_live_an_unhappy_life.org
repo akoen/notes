@@ -28,3 +28,11 @@ Things that reduce the odds of long-term success:
 - Ignore your family.
 - Hang out with friends who drag you down.
 
+  #+begin_quote
+Don't be on your deathbed someday, having squandered your one chance at life, full of regret because you pursued little distractions instead of big dreams.
+
+  — [[file:derek_sivers.org][§Derek Sivers]]
+  #+end_quote
+
+
+

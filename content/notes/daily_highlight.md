@@ -1,11 +1,13 @@
 +++
 title = "Daily Highlight"
 author = ["Alex Koen"]
-lastmod = 2020-11-10T08:52:10-08:00
+lastmod = 2020-11-16T08:46:43-08:00
 draft = false
 +++
 
-The daily highlight is a concept introduced in [§Make Time]({{< relref "make_time" >}}). They believe that in order to maximize [§Happiness]({{< relref "happiness" >}}) and [§Productivity]({{< relref "productivity" >}}), it is important to chose a single focus for the day.
+Nowadays, society associates productivity with busyness. The more tasks we complete in a given time, the more productive we are perceived to be. What we lose, however, is our consideration of which of these tasks are truly important.
+
+According to the authors of [§Make Time]({{< relref "make_time" >}}), something truly magic happens when you start the day with one high-priority goals. This _daily highlight_, as they call it, forces you to decide for yourself what is most important, and to work towards it irrespective of all the other urgent but less meaningful work you have to do.
 
 -   Optimize your daily highlight for urgency, satisfaction, and joy.
 

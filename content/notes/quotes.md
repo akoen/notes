@@ -1,7 +1,7 @@
 +++
 title = "Quotes"
 author = ["Alex Koen"]
-lastmod = 2020-11-04T09:38:11-08:00
+lastmod = 2020-11-17T09:39:54-08:00
 draft = false
 +++
 

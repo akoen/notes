@@ -1,4 +1,5 @@
 #+setupfile: ../hugo_setup.org
 #+title: Strategies for Collaborative Learning
 
+- Collaboration is an integral component of [[file:learning.org][§Learning]].
 - In Japan, they employ a specific approach to math education called /structured problem solving/. Students are posed a challenging math problem at the start of the lesson and are then asked to work on it individually for a short period of time. Then, crucially, there is a /whole class/ discussion of the various solutions, facilitated by the teacher whose job is to mediate the conversation and lead students to the best solution.
