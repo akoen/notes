@@ -2,7 +2,7 @@
 #+title: How to Take Smart Notes
 
 - author :: [[file:../sönke_ahrens.org][§Sönke Ahrens]]
- 
+  
 * Ideas
 :PROPERTIES:
 :ID:       83be79c0-4e4a-49ea-be2b-a69b37d5dd19

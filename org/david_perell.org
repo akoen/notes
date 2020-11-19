@@ -1,0 +1,7 @@
+#+setupfile: ../hugo_setup.org
+#+title: David Perell
+
+David Perell is my favourite online creator. He is a fantastic writer and an engaging interviewer, but above all, he is unmatched in his joy of learning.
+
+He writes at https://www.perell.com/, hosts the [[https://www.perell.com/podcast][North Star Podcast]]
+, and works closely with [[file:tiago_forte.org][§Tiago Forte]].

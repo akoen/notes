@@ -1,5 +1,5 @@
 #+setupfile: ../hugo_setup.org
-#+title: Writing is Thinking
+#+title: Writing refines thinking
 
 - [[file:writing.org][§Writing]] is the process by which ideas are transformed into concepts.
   
