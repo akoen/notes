@@ -1,7 +1,7 @@
 +++
 title = "NeuroEvolution of Augmenting Topologies"
 author = ["Alex Koen"]
-lastmod = 2020-11-15T21:04:05-08:00
+lastmod = 2020-11-23T20:28:25-08:00
 draft = false
 +++
 
@@ -55,6 +55,8 @@ where:
 \\(D\\) is the number of disjoint genes.
 \\(\bar{W}\\) is the _average_ difference in weight between all matching connections, including disabled ones.
 \\(c\_1, c\_2, c\_3\\) are hard-coded importance coefficients.
+
+TODO It is unclear what "Number of genes" means, so I am doing number of nodes + number of connections.
 
 
 ## Adjusted Fitness {#adjusted-fitness}

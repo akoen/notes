@@ -44,6 +44,8 @@ $D$ is the number of disjoint genes.
 $\bar{W}$ is the /average/ difference in weight between all matching connections, including disabled ones.
 $c_1, c_2, c_3$ are hard-coded importance coefficients.
 
+TODO It is unclear what "Number of genes" means, so I am doing number of nodes + number of connections.
+
 * Adjusted Fitness
 
 The paper defines the adjusted fitness of a particular genome as:

@@ -1,0 +1,4 @@
+#+setupfile: ../hugo_setup.org
+#+title: Discipline is Invisible
+
+- People who achieve their goals put in the work every single day, even when that work is painful and has no reward. [[file:books/The-Slight-Edge.org][§The Slight Edge]]

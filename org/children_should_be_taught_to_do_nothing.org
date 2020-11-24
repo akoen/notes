@@ -1,0 +1,4 @@
+#+setupfile: ../hugo_setup.org
+#+title: Children should be taught to do nothing
+
+In the quest to bring widespread [[file:educational_reform.org][§Educational Reform]], schools should teach children to do nothing—to sit quietly with their thoughts and resist distraction.

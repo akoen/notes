@@ -1,7 +1,7 @@
 +++
 title = "Goal-Setting"
 author = ["Alex Koen"]
-lastmod = 2020-09-20T19:18:31-07:00
+lastmod = 2020-11-22T09:49:38-08:00
 draft = false
 +++
 
@@ -11,6 +11,9 @@ tags
     > “While speed makes a good story, velocity makes an outcome.”
     >
     > — [§Shane Parrish]({{< relref "shane_parrish" >}})
+
+
+In order to achieve a specific, well-defined goal you must have a plan, you must write it down, and **you must look at it every day**.
 
 
 The problem with goal-setting is that when we're working towards a goal, we tend to measure the gap between it and our current ability and when we achieve it, it only feels good for a moment. Instead, consider measuring the gap between where you are and where your started.
