@@ -1,9 +1,11 @@
 +++
 title = "How to Live an Unhappy Life"
 author = ["Alex Koen"]
-lastmod = 2020-11-16T08:51:18-08:00
+lastmod = 2020-11-24T09:31:40-08:00
 draft = false
 +++
+
+-   Use your success to buy loneliness: big, suburban houses; exotic vacations; expensive cars that isolate your from public transportation.
 
 > Things that reduce the odds of long-term success:
 >

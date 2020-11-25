@@ -1,7 +1,7 @@
 +++
 title = "NeuroEvolution of Augmenting Topologies"
 author = ["Alex Koen"]
-lastmod = 2020-11-23T20:28:25-08:00
+lastmod = 2020-11-24T09:22:53-08:00
 draft = false
 +++
 

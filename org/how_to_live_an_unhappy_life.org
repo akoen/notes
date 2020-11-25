@@ -1,7 +1,9 @@
 #+setupfile: ../hugo_setup.org
 #+title: How to Live an Unhappy Life
 
-#+BEGIN_QUOTE
+- Use your success to buy loneliness: big, suburban houses; exotic vacations; expensive cars that isolate your from public transportation.
+
+#+begin_quote
 Things that reduce the odds of long-term success:
 
 - Saying yes to too many things.
@@ -18,7 +20,7 @@ Things that reduce the odds of long-term success:
 - Excessive leverage.
   
 — [[file:shane_parrish.org][§Shane Parrish]] 
-#+END_QUOTE
+#+end_quote
 
 - Live a sedentary life.
 - Stop searching for purpose.
@@ -33,6 +35,3 @@ Don't be on your deathbed someday, having squandered your one chance at life, fu
 
   — [[file:derek_sivers.org][§Derek Sivers]]
   #+end_quote
-
-
-

@@ -1,2 +1,4 @@
 #+setupfile: ../hugo_setup.org
 #+title: Favourite Visual Artists
+
+My favourite visual [[file:artist.org][§Artist]]s.
