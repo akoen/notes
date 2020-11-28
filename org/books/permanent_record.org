@@ -1,0 +1,5 @@
+#+setupfile: ../../hugo_setup.org
+#+title: Permanent Record
+
+- author :: [[file:../edward_snowden.org][§Edward Snowden]]
+- tags :: 

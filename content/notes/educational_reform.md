@@ -1,9 +1,13 @@
 +++
 title = "Educational Reform"
 author = ["Alex Koen"]
-lastmod = 2020-10-21T08:25:14-07:00
+lastmod = 2020-11-27T08:59:21-08:00
 draft = false
 +++
+
+It is clear that modern education is antiquated, and that much of what is taught in schools is a byproduct of the early-20^th century rush to train factory workers.
+
+-   Classes have not evolved to meet modern technological evolution. (see [§What classes should be taught in school?]({{< relref "what_classes_should_be_taught_in_school" >}}))
 
 > “School’s don’t show you the world, they just show you a bunch of careers.”
 >

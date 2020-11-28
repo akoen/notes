@@ -1,0 +1,8 @@
+#+setupfile: ../hugo_setup.org
+#+title: Anonymity facilitates changing opinions
+
+- tags :: [[file:digital_privacy.org][§Digital Privacy]]
+
+In his book [[file:books/permanent_record.org][§Permanent Record]], [[file:edward_snowden.org][§Edward Snowden]] argues that in the early days of the internet—before there was a commercial interest in linking your offline and online identities—the anonymity provided encouraged you to change your opinions.
+
+Nowadays, if your viewpoint is challenged on the internet, the natural tendency is to dig in and resist for fear of embarrassment. Online behaviour has become personal, and while much of the toxicity facilitated by anonymity has been tamed, words and actions have become much more /final/, leaving little room for experimentation.

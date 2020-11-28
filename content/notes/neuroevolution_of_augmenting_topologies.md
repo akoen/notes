@@ -1,7 +1,7 @@
 +++
 title = "NeuroEvolution of Augmenting Topologies"
 author = ["Alex Koen"]
-lastmod = 2020-11-24T09:22:53-08:00
+lastmod = 2020-11-27T15:07:06-08:00
 draft = false
 +++
 
@@ -26,6 +26,8 @@ Composed of:
 ## Augmenting {#augmenting}
 
 We start with the smallest possible set of nodes containing inputs and outputs. This is called _minimal initialization_, and is a distinct advantage of NEAT.
+
+The exact structure of your initial population is not set in stone, For simple networks, this could mean having a connection between each input node and output node.
 
 {{< figure src="/ox-hugo/screenshot2020-11-15_17-28-20_.png" >}}
 

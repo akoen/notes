@@ -1,0 +1,4 @@
+#+setupfile: ../hugo_setup.org
+#+title: What classes should be taught in school?
+
+According to Shane Parrish, there should be /mandatory/ digital literacy and [[file:digital_privacy.org][§Digital Privacy]] classes taught from early primary to the 12th grade.
