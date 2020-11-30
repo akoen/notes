@@ -1,7 +1,7 @@
 +++
 title = "The Slight Edge"
 author = ["Alex Koen"]
-lastmod = 2020-11-22T10:04:47-08:00
+lastmod = 2020-11-29T09:18:57-08:00
 draft = false
 +++
 
@@ -11,9 +11,7 @@ author
 tags
 : [§Consistency]({{< relref "consistency" >}})
 
-    > “The world is rife with hesitation, the cornerstone of mediocrity.”
-    >
-    > — Jeff Olson, _The Slight Edge_
+    > Everything you need to do to transform your life is easy to do. It's easy to before healthy, fit and vibrant. It's easy to become financially independent. It's easy to have a happy family and a life rich with meaningful friendships. It's just a matter of mastering the mundane—of repeating simple little disciplines that, done consistently over time, will add up to the very biggest accomplishments.
 
 This book's premise is extremely simple: the direction of your life is entirely determined by the small actions that you take every single day. The actions that are easy to do, but equally easy not to do. These _simple daily disciplines_ compound over time, and can be summarised by the following graph:
 

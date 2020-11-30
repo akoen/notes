@@ -1,7 +1,7 @@
 +++
 title = "NeuroEvolution of Augmenting Topologies"
 author = ["Alex Koen"]
-lastmod = 2020-11-27T15:07:06-08:00
+lastmod = 2020-11-29T11:41:11-08:00
 draft = false
 +++
 
@@ -78,3 +78,20 @@ f'=\frac{f\_i}{N},
 \end{equation}
 
 where \\(N\\) is the number of genomes in the species.
+
+
+## Breeding {#breeding}
+
+For each species in every generation, only the single highest-performing genome survives. The rest of the new population is randomly bred from the other highest performing genomes, but almost all of those parents still die.
+
+The number of offspring allocated to each species \\(k\\) is proportional to its relative performance in the generation.:
+
+\begin{equation}
+\label{eq:4}
+n\_k\_{}\_{}=\frac{\bar{F}\_k\_{}}{\bar{F}\_{tot}}\cdot|P|
+\end{equation}
+
+where:
+\\(\bar{F}\_k\\) is the average adjusted fitness of species \\(k\\).
+\\(\bar{F}\_{tot}\\) is the sum of the average adjusted fitnesses for each species.
+\\(|P|\\) is the constant population size.
