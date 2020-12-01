@@ -1,7 +1,7 @@
 +++
 title = "The Inner Game of Tennis"
 author = ["Alex Koen"]
-lastmod = 2020-11-10T21:03:11-08:00
+lastmod = 2020-11-30T08:09:16-08:00
 draft = false
 +++
 
@@ -12,13 +12,13 @@ The central premise of the _Inner Game of Tennis_ is that there are two selves. 
 
 Self 2 is naturally capable and embodies our childlike ability to learn through natural feedback loops.
 
-When people struggle to perform under pressure, talk about "choking", or try as hard as possible to execute a task perfectly, they are letting their first self interfere with their natural abilities.
-
-People often try to learn a skill by identifying flaws in their performance and then trying to intentionally correct for them.
+When people struggle to perform under pressure, talk about "choking", or try as hard as possible to execute a task perfectly, they are letting their first self interfere with their natural abilities. THey try to learn a skill by identifying flaws in their performance and then trying to correct for them. Instead, it is far more effective to practice what Gallwey refers to as _nonjudgmental awareness_.
 
 **Nonjudgmental awareness:**
 
 Imagine you're trying to become a better public speaker. Instead of looking for flaws in your ability ("I speak to quickly and stumble over my words"), simply notice, without judgment, the sensations associated with speaking (e.g. "I feel my throat tightening and my heart racing"). Now, instead of trying to deliberately correct for this, bring forth a clear mental picture of what smooth speaking looks like, and allow your body to follow.
+
+> When you toss the ball up, focus your attention on its seams, then let the serve serve itself.
 
 The key here is that by visualizing what optimal performance looks like instead of trying to manually correct for poor performance, you defer learning to your second self who improves much more naturally.
 
