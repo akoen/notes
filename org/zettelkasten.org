@@ -2,9 +2,9 @@
 #+roam_alias: "Slipbox"
 #+Title: Zettelkasten
 
-
-
 - How can I make this idea detailed enough to stand on its own, without the context of the book or the associated highlight? (How to Take Smart Notes)
+
+- Every time you touch a note, you should aspire to add value to it. (see [[file:progressive-summarization.org][§Progressive Summarization]])
   
 * Process
 ** Literature notes

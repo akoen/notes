@@ -1,0 +1,6 @@
+#+setupfile: ../hugo_setup.org
+#+title: Write for yourself
+
+Don't write for other people. Write for yourself. Other people have a diverse set of interests and passions, and striving to write for everyone will make your prose muddy and tame.
+
+Write to [[file:writing_refines_thinking.org][§refine your thinking]]
