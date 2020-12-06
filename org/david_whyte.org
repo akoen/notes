@@ -1,0 +1,12 @@
+#+setupfile: ../hugo_setup.org
+#+title: David Whyte
+
+David Whyte is an American poet.
+
+#+begin_quote
+Beauty is almost always found in symmetries and intriguing asymmetries.
+
+— David Whyte, /Consolations/
+#+end_quote
+
+
