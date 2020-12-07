@@ -1,7 +1,7 @@
 +++
 title = "Goal-Setting"
 author = ["Alex Koen"]
-lastmod = 2020-11-22T09:49:38-08:00
+lastmod = 2020-12-06T08:51:21-08:00
 draft = false
 +++
 
@@ -23,3 +23,6 @@ The future is simply the name we give to our imagination. Goals are only effecti
 
 
 <span class="underline">[§Derek Sivers]({{< relref "derek_sivers" >}}) believes that we overestimate what we can accomplish in one year, and underestimate what we can accomplish in ten years.</span>
+
+
+[§Don't dream small]({{< relref "don_t_dream_small" >}}). Set ambitious goals.

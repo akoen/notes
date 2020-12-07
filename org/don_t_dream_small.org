@@ -1,0 +1,9 @@
+#+setupfile: ../hugo_setup.org
+#+title: Don't dream small
+
+#+begin_quote
+Yes. Yes, yes, yes. Whenever you wonder, the answer is yes. People don't want to do small shit. You need to think bigger and think differently. Don't 'I wonder' through life. Just make it happen.
+
+— The Third Door
+#+end_quote
+

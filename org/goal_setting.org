@@ -16,3 +16,5 @@
 - The future is simply the name we give to our imagination. Goals are only effective if they influence the decisions we make in the present. #[[file:derek_sivers.org][§Derek Sivers]]
 
 - _[[file:derek_sivers.org][§Derek Sivers]] believes that we overestimate what we can accomplish in one year, and underestimate what we can accomplish in ten years._
+
+- [[file:don_t_dream_small.org][§Don't dream small]]. Set ambitious goals.
