@@ -1,7 +1,7 @@
 +++
 title = "Email"
 author = ["Alex Koen"]
-lastmod = 2020-09-02T16:46:25-07:00
+lastmod = 2020-12-08T09:29:22-08:00
 draft = false
 +++
 
@@ -14,7 +14,7 @@ draft = false
 -   Use precise dates. Instead of saying _tomorrow_, say _tomorrow (January 6th)_.
 
 
-## A great example cold email from [§Time Ferriss]({{< relref "time_ferriss" >}}) ([tim.blog](https://tim.blog/2008/05/19/5-tips-for-e-mailing-busy-people/)) {#a-great-example-cold-email-from-time-ferriss--time-ferriss-dot-md----tim-dot-blog}
+## A great example cold email from [§Tim Ferriss]({{< relref "tim_ferriss" >}}) ([tim.blog](https://tim.blog/2008/05/19/5-tips-for-e-mailing-busy-people/)) {#a-great-example-cold-email-from-tim-ferriss--tim-ferriss-dot-md----tim-dot-blog}
 
 Hi Tim,
 

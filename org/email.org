@@ -8,7 +8,7 @@
 * Techniques for writing better emails
 - Use precise dates. Instead of saying /tomorrow/, say /tomorrow (January 6th)/.
 
-* A great example cold email from [[file:time_ferriss.org][§Time Ferriss]] ([[https://tim.blog/2008/05/19/5-tips-for-e-mailing-busy-people/][tim.blog]])
+* A great example cold email from [[file:tim_ferriss.org][§Tim Ferriss]] ([[https://tim.blog/2008/05/19/5-tips-for-e-mailing-busy-people/][tim.blog]])
 
     Hi Tim,
 
