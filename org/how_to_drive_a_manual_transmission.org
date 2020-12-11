@@ -1,0 +1,6 @@
+#+setupfile: ../hugo_setup.org
+#+title: How to Drive a Manual Transmission
+
+The best resource for learning to drive a manual transmission is https://youtu.be/MhuLnE6iJSc
+
+- The car stalls when you bring it to a stop with the transmission still in gear.
