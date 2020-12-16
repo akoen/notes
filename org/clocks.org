@@ -1,0 +1,9 @@
+#+setupfile: ../hugo_setup.org
+#+title: Clocks
+
+It is unhealthy to always know what time it is: clocks lead to an ambient [[file:anxiety.org][§Anxiety]] that prevents you from getting into the [[file:flow_state.org][§Flow State]].
+
+[[file:david_perell.org][§David Perell]], in his weekly newsletter, proposed building a clock that would only display blocks of time. It his case, these blocks were:
+- 9am :: Time to start creative work.
+- 12pm :: Time to start non-creative work.
+- 10pm :: Time to sleep.

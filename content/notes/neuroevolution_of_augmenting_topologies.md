@@ -1,7 +1,7 @@
 +++
 title = "NeuroEvolution of Augmenting Topologies"
 author = ["Alex Koen"]
-lastmod = 2020-11-29T11:41:11-08:00
+lastmod = 2020-12-15T11:32:26-08:00
 draft = false
 +++
 
@@ -95,3 +95,21 @@ where:
 \\(\bar{F}\_k\\) is the average adjusted fitness of species \\(k\\).
 \\(\bar{F}\_{tot}\\) is the sum of the average adjusted fitnesses for each species.
 \\(|P|\\) is the constant population size.
+
+
+## Activation {#activation}
+
+The output of any given node is given by:
+
+\begin{align}
+\label{eq:5}
+y\_j=\sigma \left(\sum\_i w\_{ij}x\_i  \right)
+\end{align}
+
+Where \\(w\_{ij}\\) is the connection weight from node \\(i\\) to node \\(j\\), \\(x\_i\\) is the output of node \\(i\\), and \\(\sigma\\) is the activation function, which is typically the sigmoid function \\(\frac{1}{1+e^{-x}}\\).
+
+However, <https://neat-python.readthedocs.io/en/latest/glossary.html> and other implementations use a different formula, given by:
+
+_output = activation(bias+(response∗aggregation(inputs)))_
+
+where _response_ is a constant that may be subject to evolution.
