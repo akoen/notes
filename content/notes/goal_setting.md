@@ -1,7 +1,7 @@
 +++
 title = "Goal-Setting"
 author = ["Alex Koen"]
-lastmod = 2020-12-15T10:41:23-08:00
+lastmod = 2020-12-21T20:05:46-08:00
 draft = false
 +++
 
@@ -16,16 +16,16 @@ tags
 In order to achieve a specific, well-defined goal you must have a plan, you must write it down, and **you must look at it every day**.
 
 
-The problem with goal-setting is that when we're working towards a goal, we tend to measure the gap between it and our current ability and when we achieve it, it only feels good for a moment. Instead, consider measuring the gap between where you are and where your started.
+The problem with goals is that we work so hard to achieve them, but as soon as we do, it only feels good for a few moments before we ask ourselves once again, "what's next". We must learn to fall in love with the process and not merely the goal, for the goal is fleeting.
 
+{{< figure src="/ox-hugo/screenshot2020-12-21_20-05-29_.png" >}}
 
-[§Don't expect that progress will be easy]({{< relref "don_t_expect_that_progress_will_be_easy" >}})
+-   The problem with goal-setting is that when we're working towards a goal, we tend to measure the gap between it and our current ability and when we achieve it, it only feels good for a moment. Instead, consider measuring the gap between where you are and where your started.
 
+-   [§Don't expect that progress will be easy]({{< relref "don_t_expect_that_progress_will_be_easy" >}})
 
-The future is simply the name we give to our imagination. Goals are only effective if they influence the decisions we make in the present. #[§Derek Sivers]({{< relref "derek_sivers" >}})
+-   The future is simply the name we give to our imagination. Goals are only effective if they influence the decisions we make in the present. #[§Derek Sivers]({{< relref "derek_sivers" >}})
 
+-   <span class="underline">[§Derek Sivers]({{< relref "derek_sivers" >}}) believes that we overestimate what we can accomplish in one year, and underestimate what we can accomplish in ten years.</span>
 
-<span class="underline">[§Derek Sivers]({{< relref "derek_sivers" >}}) believes that we overestimate what we can accomplish in one year, and underestimate what we can accomplish in ten years.</span>
-
-
-[§Don't dream small]({{< relref "don_t_dream_small" >}}). Set ambitious goals.
+-   [§Don't dream small]({{< relref "don_t_dream_small" >}}). Set ambitious goals.

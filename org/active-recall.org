@@ -25,7 +25,7 @@ _In short, active recall is about spending less time on the input side of learni
   - storage strength :: how well ingrained our [[file:mental_representations.org][§Mental Representations]] are of a given topic.
     - Storage strength is accumulated; it never decreases.
   - retrieval strength :: the ease with which we can *currently* access these mental representations.
-    - Retrieval strenght decreases with time.
+    - Retrieval strength decreases with time.
     - *Current performance is entirely a function of retrieval strength.*
     
 - When studying, the worse our current retrieval strength, the greater our storage strength increases. Thus, it is favourable to introduce *desirable difficulties* to our learning.

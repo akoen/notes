@@ -1,7 +1,7 @@
 +++
 title = "Active Recall"
 author = ["Alex Koen"]
-lastmod = 2020-10-12T07:11:59-07:00
+lastmod = 2020-12-16T09:19:08-08:00
 draft = false
 +++
 
@@ -27,7 +27,7 @@ Active recall is reading with intention, asking yourself how the information con
     -   **storage strength:** how well ingrained our [§Mental Representations]({{< relref "mental_representations" >}}) are of a given topic.
         -   Storage strength is accumulated; it never decreases.
     -   **retrieval strength:** the ease with which we can **currently** access these mental representations.
-        -   Retrieval strenght decreases with time.
+        -   Retrieval strength decreases with time.
         -   **Current performance is entirely a function of retrieval strength.**
 
 -   When studying, the worse our current retrieval strength, the greater our storage strength increases. Thus, it is favourable to introduce **desirable difficulties** to our learning.

@@ -1,7 +1,7 @@
 +++
 title = "NeuroEvolution of Augmenting Topologies"
 author = ["Alex Koen"]
-lastmod = 2020-12-15T11:32:26-08:00
+lastmod = 2020-12-16T16:33:44-08:00
 draft = false
 +++
 
@@ -113,3 +113,10 @@ However, <https://neat-python.readthedocs.io/en/latest/glossary.html> and other 
 _output = activation(bias+(response∗aggregation(inputs)))_
 
 where _response_ is a constant that may be subject to evolution.
+
+
+## Normalizing Inputs {#normalizing-inputs}
+
+> If the input variables are combined linearly, as in an MLP [multilayer perceptron], then it is rarely strictly necessary to standardize the inputs, at least in theory. The reason is that any rescaling of an input vector can be effectively undone by changing the corresponding weights and biases, leaving you with the exact same outputs as you had before. However, there are a variety of practical reasons why standardizing the inputs can make training faster and reduce the chances of getting stuck in local optima. Also, weight decay and Bayesian estimation can be done more conveniently with standardized inputs.
+>
+> — <https://stackoverflow.com/questions/4674623/why-do-we-have-to-normalize-the-input-for-an-artificial-neural-network>

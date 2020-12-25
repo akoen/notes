@@ -1,7 +1,7 @@
 +++
 title = "Permanent Record"
 author = ["Alex Koen"]
-lastmod = 2020-12-13T20:58:03-08:00
+lastmod = 2020-12-17T10:21:39-08:00
 draft = false
 +++
 
@@ -10,6 +10,39 @@ author
 
 tags
 :
+
+
+## The Book in 3 Sentences {#the-book-in-3-sentences}
+
+This is the autobiography of Edward Snowden, the CIA and later NSA technologist who revealed the extent of the nation's mass surveillance program to the world. While it is well known that he leaked a huge archive of classified documents to the press, the extend to which the government was spying on its citizens and the repercussions of his actions are not as well understood.
+
+
+## Impressions {#impressions}
+
+I have always been concerned about privacy. To me, it seems like a hidden threat that is not well enough understood by the average person. Yet whenever I am asked to defend the importance of privacy and the dangers of mass surveillance to others, I struggle to find the right words. Snowden is both an eloquent writer and speaker, and his book is the best argument we have for the importance of privacy. The being said, I wish the book included a few pages describing exactly the problem we're facing, how it affects everyday people, and what we need to do to fix it.
+
+
+## How the Book Changed Me {#how-the-book-changed-me}
+
+This book didn't change me too profoundly, as through my own research and experience I've come to learn about many of the dangers he speaks of, yet it did convince me all the more of the importance of fighting for our right to privacy.
+
+
+## Top 3 Highlights {#top-3-highlights}
+
+> In the 1990s, the Internet had yet to fall victim to the greatest iniquity in digital history: the move by both government and businesses to link, as intimately as possible, users’ online personas to their offline legal identity.
+>
+> — [§Edward Snowden]({{< relref "edward_snowden" >}})
+
+<!--quoteend-->
+
+> Distance favors intimacy: no one talks more openly than when they’re alone in a room, chatting with an unseen someone alone in a different room. Meet that person, however, and you lose your latitude. Your talk becomes safer and tamer, a common conversation on neutral ground.
+>
+> — [§Edward Snowden]({{< relref "edward_snowden" >}})
+
+<!--quoteend-->
+
+> Saying that you don’t need or want privacy because you have nothing to hide is to assume that no one should have, or could have, to hide anything—including their immigration status, unemployment history, financial history, and health records.
+> — [§Edward Snowden]({{< relref "edward_snowden" >}})
 
 
 ## Highlights {#highlights}
@@ -26,8 +59,6 @@ tags
 
 -   It’s this egalitarian nature of hacking—which doesn’t care who you are, just how you reason—that makes it such a reliable method of dealing with the type of authority figures so convinced of their system’s righteousness that it never occurred to them to test it.
 
--   unrequited.
-
 -   Dunbar’s number, the famous estimate of how many relationships you can meaningfully maintain in life, is just 150.
 
 -   9/11 left holes. Holes in families, holes in communities. Holes in the ground. Now, consider this: over one million people have been killed in the course of America’s response.
@@ -42,9 +73,7 @@ tags
 
 -   My mind was a mash-up of the values I was raised with and the ideals I encountered online.
 
--   here was this wild, open new frontier that belonged to anyone bold enough to settle it, swiftly becoming colonized by governments and corporate interests that were seeking to regulate it for power and profit.
-
--   “A Declaration of the Independence of Cyberspace,”
+-   Here was this wild, open new frontier that belonged to anyone bold enough to settle it, swiftly becoming colonized by governments and corporate interests that were seeking to regulate it for power and profit.
 
 -   These sensationalist cases can lead the public to believe that the government employs contractors in order to maintain cover and deniability, off-loading the illegal or quasi-legal dirty work to keep its hands clean and conscience clear. But that’s not entirely true, or at least not entirely true in the IC, which tends to focus less on deniability and more on never getting caught in the first place.
 
@@ -72,7 +101,7 @@ tags
 
 -   To refuse to claim your privacy is actually to cede it, either to a state trespassing its constitutional restraints or to a “private” business.
 
--   saying that you don’t need or want privacy because you have nothing to hide is to assume that no one should have, or could have, to hide anything—including their immigration status, unemployment history, financial history, and health records.
+-   Saying that you don’t need or want privacy because you have nothing to hide is to assume that no one should have, or could have, to hide anything—including their immigration status, unemployment history, financial history, and health records.
 
 -   Ultimately, saying that you don’t care about privacy because you have nothing to hide is no different from saying you don’t care about freedom of speech because you have nothing to say.
 

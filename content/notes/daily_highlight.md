@@ -1,13 +1,15 @@
 +++
 title = "Daily Highlight"
 author = ["Alex Koen"]
-lastmod = 2020-11-16T08:46:43-08:00
+lastmod = 2020-12-17T10:12:15-08:00
 draft = false
 +++
 
-Nowadays, society associates productivity with busyness. The more tasks we complete in a given time, the more productive we are perceived to be. What we lose, however, is our consideration of which of these tasks are truly important.
+Nowadays, society associates productivity with busyness. The more tasks we complete in a given time, the more productive we are perceived to be. What we lose, however, is our ability to discern which of these tasks are truly important.
 
-According to the authors of [§Make Time]({{< relref "make_time" >}}), something truly magic happens when you start the day with one high-priority goals. This _daily highlight_, as they call it, forces you to decide for yourself what is most important, and to work towards it irrespective of all the other urgent but less meaningful work you have to do.
+According to the authors of [§Make Time]({{< relref "make_time" >}}), the secret to making progress on the projects that you never seem to have time for is to dedicate an hour each day to work on them. This _daily highlight_, as they call it, forces you to decide for yourself what is most important and to work towards it irrespective of all the other urgent but less meaningful work you have to do.
+
+Naturally, your highlight will not be the only task your work on throughout the day, but it will the most important. This allows you to decide for yourself what your priorities are, instead of simply reacting to those of other people.
 
 -   Optimize your daily highlight for urgency, satisfaction, and joy.
 

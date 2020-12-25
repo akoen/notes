@@ -11,6 +11,13 @@
 
 - In order to achieve a specific, well-defined goal you must have a plan, you must write it down, and *you must look at it every day*.
 
+- The problem with goals is that we work so hard to achieve them, but as soon as we do, it only feels good for a few moments before we ask ourselves once again, "what's next". We must learn to fall in love with the process and not merely the goal, for the goal is fleeting.
+
+
+[[file:img/goal_setting/screenshot2020-12-21_20-05-29_.png]]
+
+
+
 - The problem with goal-setting is that when we're working towards a goal, we tend to measure the gap between it and our current ability and when we achieve it, it only feels good for a moment. Instead, consider measuring the gap between where you are and where your started.
 
 - [[file:don_t_expect_that_progress_will_be_easy.org][§Don't expect that progress will be easy]]
