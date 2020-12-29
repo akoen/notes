@@ -1,7 +1,7 @@
 +++
 title = "Don't expect that progress will be easy"
 author = ["Alex Koen"]
-lastmod = 2020-12-15T10:51:35-08:00
+lastmod = 2020-12-25T11:46:07-08:00
 draft = false
 +++
 
@@ -18,3 +18,7 @@ In his book [§Atomic Habits]({{< relref "atomic_habits" >}}), James Clear calls
 {{< figure src="/ox-hugo/The-Plateau-of-Latent-Potential-12020-12-15_10-48-04_.png" >}}
 
 Progress is exponential, and until you cross the linear line that you expect to follow, you will always be disappointed. Only by following through with your habits and systems when they seem inconsequential will your reap the benefits of compounding growth.
+
+> The few times in my life I’ve made a real change like this, it felt awful on the surface. I wasn’t shallow-happy about it. I wasn’t smiling. I was annoyed and fighting it inside, but on the outside I did the work.
+>
+> — [§Derek Sivers]({{< relref "derek_sivers" >}})

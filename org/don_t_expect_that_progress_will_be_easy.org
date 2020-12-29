@@ -13,3 +13,9 @@ In his book [[file:books/atomic_habits.org][§Atomic Habits]], James Clear calls
 [[file:img/don_t_expect_that_progress_will_be_easy/The-Plateau-of-Latent-Potential-12020-12-15_10-48-04_.png]]
 
 Progress is exponential, and until you cross the linear line that you expect to follow, you will always be disappointed. Only by following through with your habits and systems when they seem inconsequential will your reap the benefits of compounding growth.
+
+#+begin_quote
+The few times in my life I’ve made a real change like this, it felt awful on the surface. I wasn’t shallow-happy about it. I wasn’t smiling. I was annoyed and fighting it inside, but on the outside I did the work.
+
+— [[file:derek_sivers.org][§Derek Sivers]]
+#+end_quote

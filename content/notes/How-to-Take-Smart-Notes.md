@@ -1,7 +1,7 @@
 +++
 title = "How to Take Smart Notes"
 author = ["Alex Koen"]
-lastmod = 2020-11-18T08:59:52-08:00
+lastmod = 2020-12-28T10:39:47-08:00
 draft = false
 +++
 
@@ -20,7 +20,6 @@ author
 -   Notes should be **brief and too the point.**
 -   **Learn to enjoy the process of working.** Do not give yourself rewards for completing a difficult task, because you will soon learn to circumvent the task but still give yourself the reward.
 -   Do not take mediocre notes. Do not take fleeting notes if you will not come back to them.
--   **No editor can improve an argument.**
     -   Writing forces us to confront our ignorance of a topic. We must think through our ideas to record them concise and specific.
     -   Our brain tends to ignore inconsistencies in our thinking.
 -   Students who rely on textbooks or secondary literature have no chance of becoming "worldly wise".

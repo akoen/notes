@@ -1,0 +1,8 @@
+#+setupfile: ../hugo_setup.org
+#+title: Slow Work
+
+Slow work is the mindful [[file:deliberate_practice.org][§Deliberate Practice]] that characterizes measurable progress. It is the work that is uncomfortable, repetitive, and which seems to have little effect in the moment. It is the polar opposite of performance, yet it is the foundation of every expert's skill.
+
+Examples include:
+- A pianist practising a single measure slowly, over and over.
+- A math student completing every exercise in a section even when she is confident in the material.
