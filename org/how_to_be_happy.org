@@ -1,0 +1,8 @@
+#+setupfile: ../hugo_setup.org
+#+title: How to be happy
+
+ A list:
+
+ - Do things that make you feel like a kid.
+ - Create and participate in rituals and routines.
+ - Breath intentionally and often.

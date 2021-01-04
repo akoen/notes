@@ -3,6 +3,14 @@
 
 - People often defend violations of privacy with the phrase, "if you have nothing to hide you have nothing to fear."
 
+  #+begin_quote
+  Privacy is about protecting things that matter to you.
+
+  — Electronic Frontier Foundation
+  #+end_quote
+
+
+
   - Privacy is the right to choose what information you share and with whom you share it.
 
   - You may fear these violations of privacy not because your actions are questionable, but because their judgment and intentions are.
