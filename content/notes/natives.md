@@ -1,7 +1,7 @@
 +++
 title = "Natives"
 author = ["Alex Koen"]
-lastmod = 2020-09-02T16:39:07-07:00
+lastmod = 2021-01-06T07:18:13-08:00
 draft = false
 +++
 
@@ -41,7 +41,7 @@ rating
 
 -   It would be easy for me to ignore these factors and claim myself to be a ‘self-made’ man, but in reality there is no such thing.
 
--   Most people, it seems to me at least, hate poor people more than they hate poverty.
+-   **Most people, it seems to me at least, hate poor people more than they hate poverty.**
 
 -   If tougher sentences alone worked to reduce crime, the USA would surely be crime free by now?
 
