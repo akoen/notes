@@ -1,9 +1,15 @@
 +++
 title = "Digital Privacy"
 author = ["Alex Koen"]
-lastmod = 2020-12-29T22:02:15-08:00
+lastmod = 2021-01-19T21:48:14-08:00
 draft = false
 +++
+
+Privacy is about preventing those in power from gaining more control. It is the right for you to choose what information you share, with whom you share it, and for your personal information not be used against you. Privacy is inalienable from freedom—without it you lose your autonomy.
+
+Privacy often comes at the cost of convenience. Corporations can use our information to provide us with incredible services—services like Google Maps, Instagram, and Zoom that provide unquestionable value to our lives. Nobody working at any of these companies _wants_ to exploit you, it's just that businesses need a business-model, and selling your data is currently the most profitable way to make money.
+
+The situation is dire, but we can make a change. We can chose to pay for our services, put our money where our mouth is and encourage more sustainable business practices.
 
 -   People often defend violations of privacy with the phrase, "if you have nothing to hide you have nothing to fear."
 
@@ -12,7 +18,5 @@ draft = false
     > — Electronic Frontier Foundation
 
 <!--listend-->
-
--   Privacy is the right to choose what information you share and with whom you share it.
 
 -   You may fear these violations of privacy not because your actions are questionable, but because their judgment and intentions are.
