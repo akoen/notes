@@ -1,0 +1,4 @@
+#+setupfile: ../hugo_setup.org
+#+title: Effective typography
+
+https://typographyhandbook.com/
