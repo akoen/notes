@@ -1,9 +1,8 @@
 #+setupfile: ../hugo_setup.org
 #+title:Digital Privacy
 
-Privacy is about preventing those in power from gaining more control. It is the right for you to choose what information you share, with whom you share it, and for your personal information not be used against you. Privacy is inalienable from freedom—without it you lose your autonomy.
 
-Privacy often comes at the cost of convenience. Corporations can use our information to provide us with incredible services—services like Google Maps, Instagram, and Zoom that provide unquestionable value to our lives. Nobody working at any of these companies /wants/ to exploit you, it's just that businesses need a business-model, and selling your data is currently the most profitable way to make money.
+- Convenience :: Privacy often comes at the cost of convenience. Corporations can use our information to provide us with incredible services—services like Google Maps, Instagram, and Zoom that provide unquestionable value to our lives. Nobody working at any of these companies /wants/ to exploit you, it's just that businesses need a business-model, and selling your data is currently the most profitable way to make money.
 
 The situation is dire, but we can make a change. There are two things we must do as citizens to take back control of our privacy. The first is to demand better regulation—laws that restrict what data companies can collect and how they can use it. The emphasis on the word /demand/ here is strong, as such legislation would go against the best interests of both corporations and the government.
 
