@@ -1,7 +1,7 @@
 +++
 title = "Note-Taking"
 author = ["Alex Koen"]
-lastmod = 2020-12-08T21:51:00-08:00
+lastmod = 2021-01-31T21:47:10-08:00
 draft = false
 +++
 
@@ -16,4 +16,6 @@ draft = false
 -   Keep your note-taking system [§Simple]({{< relref "simplicity" >}}). Standardization allows for creativity. When we have no restrictions on the format of our thinking, our brain must think constantly about how to record its thoughts. By imposing such restrictions, we are free to focus on the content. [§How to Take Smart Notes]({{< relref "How-to-Take-Smart-Notes" >}})
     -   Many of the most creative people are incredibly ritualistic.
 
-    -   Nobody is asking for more letters in the alphabet, because those 26 characters are capable of writing love letters, legal jargon, and manifestos.
+    -   Nobody feels the need to add more letters to the alphabet because the 26 we have are already capable of expressing anything: from love letters, to business contracts, to revolutionary manifestos.
+
+        > — [§Tiago Forte]({{< relref "tiago_forte" >}})

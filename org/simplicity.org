@@ -11,7 +11,6 @@
 
 #+BEGIN_QUOTE
 “Mastering the mundane tasks of everyday life seems to be a gateway to living an extraordinary life.”
-
 — [[file:tiago_forte.org][§Tiago Forte]]
 #+END_QUOTE
 
