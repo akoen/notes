@@ -1,5 +1,5 @@
 #+setupfile: ../../hugo_setup.org
 #+title: Atomic Habits
 
-- author :: James Clear
+- author :: [[file:../james_clear.org][§James Clear]]
 - tags ::

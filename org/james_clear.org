@@ -1,0 +1,2 @@
+#+setupfile: ../hugo_setup.org
+#+title: James Clear

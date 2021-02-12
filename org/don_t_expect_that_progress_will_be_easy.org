@@ -8,7 +8,7 @@ Nowadays, society promotes the idea that it is possible to make progress easily 
 
 This inflates people's expectations while masking the truth: progress is hard. It's going to take longer than you thought and require more energy than you thought to make /any/ measurable progress.
 
-In his book [[file:books/atomic_habits.org][§Atomic Habits]], James Clear calls this phenomenon the /Plateau of Latent Potential/ and the initial period the /Valley of Disappointment/.
+In his book [[file:books/atomic_habits.org][§Atomic Habits]], [[file:james_clear.org][§James Clear]] calls this phenomenon the /Plateau of Latent Potential/ and the initial period the /Valley of Disappointment/.
 
 [[file:img/don_t_expect_that_progress_will_be_easy/The-Plateau-of-Latent-Potential-12020-12-15_10-48-04_.png]]
 
