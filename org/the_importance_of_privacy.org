@@ -3,6 +3,9 @@
 
 *Privacy is about preventing those in power from gaining more control.* It is the right for you to choose what information you share, with whom you share it, and for your personal information not be used against you. Privacy is inalienable from freedom—without it you lose your autonomy.
 
+- Companies should be required by law to collect only the data that is strictly required to provide you with their services.
+  - Any other data is /never/ used to benefit you.
+
 * Why we shouldn't be able to sell our personal data
 
 Some argue that we should be able to see our personal data to companies. This is a bad idea for two reasons:

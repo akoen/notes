@@ -1,11 +1,14 @@
 +++
 title = "The importance of privacy"
 author = ["Alex Koen"]
-lastmod = 2021-01-27T09:10:44-08:00
+lastmod = 2021-02-12T09:11:02-08:00
 draft = false
 +++
 
 **Privacy is about preventing those in power from gaining more control.** It is the right for you to choose what information you share, with whom you share it, and for your personal information not be used against you. Privacy is inalienable from freedom—without it you lose your autonomy.
+
+-   Companies should be required by law to collect only the data that is strictly required to provide you with their services.
+    -   Any other data is _never_ used to benefit you.
 
 
 ## Why we shouldn't be able to sell our personal data {#why-we-shouldn-t-be-able-to-sell-our-personal-data}
