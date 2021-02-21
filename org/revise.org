@@ -1,0 +1,6 @@
+#+setupfile: ../hugo_setup.org
+#+title: Revise
+
+ - tags :: [[file:writing_refines_thinking.org][§Writing refines thinking]]
+
+ Good ideas don't come to you. They're hidden, obscured behind layers and layers of brain fog, poor rhetoric, and lack of understanding. To uncover them, you must dig—dig like hell, scrape away all the dirt like a truffle hog until you find what you're looking for. Only then will you have something worthwhile. Discard the unnecessary, find the [[file:simplicity.org][§Simple.]]
