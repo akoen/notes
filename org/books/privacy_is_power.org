@@ -1,0 +1,13 @@
+#+setupfile: ../../hugo_setup.org
+#+title: Privacy is Power
+
+- author ::
+- tags ::
+
+* The Book in 3 Sentences
+
+* Impressions
+
+* How the Book Changed Me
+
+* Top 3 Highlights

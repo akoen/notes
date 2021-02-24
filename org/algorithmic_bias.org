@@ -3,6 +3,8 @@
 
 In her book [[file:books/hello_world.org][§Hello World]], [[file:hannah_fry.org][§Hannah Fry]] argues that when algorithms are trained on historical datasets, they learn to perpetuate the biases found within.
 
+In [[file:books/privacy_is_power.org][§Privacy is Power]], philosopher Carissa Véliz argues that technology does not compensate for our shortcomings, it merely amplifies them.
+
 #+begin_quote
 But however accurate the results might be, you could argue that using algorithms as a mirror to reflect the real world isn’t always helpful, especially when the mirror is reflecting a present reality that only exists because of centuries of bias.
 
