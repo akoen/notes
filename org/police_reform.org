@@ -1,0 +1,6 @@
+#+setupfile: ../hugo_setup.org
+#+title: Police reform
+
+ - tags :: [[file:racial_inequality_in_western_societies.org][§Racial Inequality in Western Societies]]
+
+ - The primary function of police is to protect property (see [[file:books/natives.org][§Natives]]).
