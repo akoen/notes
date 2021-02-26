@@ -1,7 +1,7 @@
 +++
 title = "The importance of privacy"
 author = ["Alex Koen"]
-lastmod = 2021-02-12T09:11:02-08:00
+lastmod = 2021-02-25T10:00:11-08:00
 draft = false
 +++
 
@@ -11,9 +11,14 @@ draft = false
     -   Any other data is _never_ used to benefit you.
 
 
-## Why we shouldn't be able to sell our personal data {#why-we-shouldn-t-be-able-to-sell-our-personal-data}
+## Lack of regulation allows warrantless investigation of citizens {#lack-of-regulation-allows-warrantless-investigation-of-citizens}
 
-Some argue that we should be able to see our personal data to companies. This is a bad idea for two reasons:
+In 2020 it was revealed that the Department of Homeland Security had purchased a commercial database of location data which tracks the movement of millions of American cellphones ([source](https://www.wsj.com/articles/federal-agencies-use-cellphone-location-data-for-immigration-enforcement-11581078600)). This data was used to arrest immigrants suspected of crossing the border illegally.
+
+
+## Privacy should be inalienable {#privacy-should-be-inalienable}
+
+Some argue that we should be able to see our personal data to companies. While this is better than our current system, it is a bad idea for two reasons:
 
 1.  You don't know what you're consenting to. If you sell your health data to medical researchers, that data might be used to deny you insurance.
-2.  Privacy is a collective concern. If you expose your genetic data, you're also exposing the genetic data of your family, who may not have consented. If you expose your location data, you're also exposing the location of your coworkers.
+2.  Privacy is a collective concern. If you expose your genetic data, you're also exposing the genetic data of your family, who may not have consented. If you expose your location data, you're also exposing the location of your coworkers, because that data is also used to identify those you work with.
