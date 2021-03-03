@@ -1,5 +1,5 @@
 #+setupfile: ../hugo_setup.org
-#+title: Algorithmic Bias
+#+title:Algorithmic Bias
 
 In her book [[file:books/hello_world.org][§Hello World]], [[file:hannah_fry.org][§Hannah Fry]] argues that when algorithms are trained on historical datasets, they learn to perpetuate the biases found within.
 

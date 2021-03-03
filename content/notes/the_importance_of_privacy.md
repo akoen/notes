@@ -1,7 +1,7 @@
 +++
 title = "The importance of privacy"
 author = ["Alex Koen"]
-lastmod = 2021-02-25T10:00:11-08:00
+lastmod = 2021-03-02T18:57:54-08:00
 draft = false
 +++
 
@@ -13,7 +13,9 @@ draft = false
 
 ## Lack of regulation allows warrantless investigation of citizens {#lack-of-regulation-allows-warrantless-investigation-of-citizens}
 
-In 2020 it was revealed that the Department of Homeland Security had purchased a commercial database of location data which tracks the movement of millions of American cellphones ([source](https://www.wsj.com/articles/federal-agencies-use-cellphone-location-data-for-immigration-enforcement-11581078600)). This data was used to arrest immigrants suspected of crossing the border illegally.
+-   In 2020 it was revealed that the Department of Homeland Security had purchased a commercial database of location data which tracks the movement of millions of American cellphones ([source](https://www.wsj.com/articles/federal-agencies-use-cellphone-location-data-for-immigration-enforcement-11581078600)). This data was used to arrest immigrants suspected of crossing the border illegally.
+
+-   The governments of many countries collect extremely sensitive data from citizens including those not suspected of any crime. For example, the British OPTICNERVE program, leaked by [§Edward Snowden]({{< relref "edward_snowden" >}}) in 2013, covertly took pictures of Yahoo messenger users every 5 minutes through their webcams without their knowledge. In a six-month period, images of 1.8 million distinct users were collected.
 
 
 ## Privacy should be inalienable {#privacy-should-be-inalienable}

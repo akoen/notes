@@ -1,7 +1,7 @@
 +++
 title = "Algorithmic Bias"
 author = ["Alex Koen"]
-lastmod = 2021-02-22T09:48:54-08:00
+lastmod = 2021-03-02T21:50:16-08:00
 draft = false
 +++
 
