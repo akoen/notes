@@ -1,6 +1,8 @@
 #+setupfile: ../hugo_setup.org
 #+title: The importance of privacy
 
+- The power to target is the power to discriminate.
+
 *Privacy is about preventing those in power from gaining more control.* It is the right for you to choose what information you share, with whom you share it, and for your personal information not be used against you. Privacy is inalienable from freedom—without it you lose your autonomy.
 
 - Companies should be required by law to collect only the data that is strictly required to provide you with their services.
