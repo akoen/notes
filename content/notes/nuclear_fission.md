@@ -1,9 +1,11 @@
 +++
 title = "Nuclear Fission"
 author = ["Alex Koen"]
-lastmod = 2020-09-14T10:49:37-07:00
+lastmod = 2021-03-09T09:16:43-08:00
 draft = false
 +++
+
+In sum: nuclear fission is the only technology currently available that can produce large quantities of energy reliably, anywhere in the world, with effectively zero carbon emissions.
 
 {{< figure src="/ox-hugo/nuclear-energy-electricity-production2020-09-09_16-09-16_.png" >}}
 
