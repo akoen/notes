@@ -1,0 +1,6 @@
+#+setupfile: ../hugo_setup.org
+#+title: The value of minimalism
+
+ - tags :: [[file:simplicity.org][§Simplicity]]
+
+- When we relinquish the comfort of possessions, we must derive comfort from experiences.

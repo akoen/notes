@@ -1,7 +1,7 @@
 +++
 title = "Precautionary Principle"
 author = ["Alex Koen"]
-lastmod = 2020-12-26T11:28:54-08:00
+lastmod = 2021-03-15T21:47:01-07:00
 draft = false
 +++
 
@@ -12,3 +12,5 @@ For example, some would say that we shouldn't accept a new vaccine because there
 While it is always important to be cautious with new technology, this way of thinking often hinders progress towards technologies that have the potential to greatly help humanity. People will dismiss innovation because of it's harm while ignoring it's potential for good. ([§Digital Privacy]({{< relref "digital_privacy" >}}))
 
 -   The risks of _not_ taking action are often ignored. For example, it is estimated to that shutting down all [§Nuclear Power Plants]({{< relref "nuclear_energy" >}}) in Japan following the [§Fukushima Nuclear Disaster]({{< relref "fukushima_nuclear_disaster" >}}), more people died because they could no longer afford to heat their homes in winter than did from the disaster itself.
+
+-   A major problem with bureaucracies, especially governments, is that they care tremendously when their actions bring harm, but tend to ignore the much greater devastation that often comes with inaction.
