@@ -1,7 +1,7 @@
 +++
 title = "The importance of privacy"
 author = ["Alex Koen"]
-lastmod = 2021-03-04T11:58:44-08:00
+lastmod = 2021-03-17T14:17:19-07:00
 draft = false
 +++
 
@@ -16,6 +16,8 @@ draft = false
 ## Lack of regulation allows warrantless investigation of citizens {#lack-of-regulation-allows-warrantless-investigation-of-citizens}
 
 -   In 2020 it was revealed that the Department of Homeland Security had purchased a commercial database of location data which tracks the movement of millions of American cellphones ([source](https://www.wsj.com/articles/federal-agencies-use-cellphone-location-data-for-immigration-enforcement-11581078600)). This data was used to arrest immigrants suspected of crossing the border illegally.
+
+-   Moreover, in 2021 it was revealed that a similar dataset was purchased by the Iowa Air National Guard, a military unit that carries out international drone strikes ([source](https://www.vice.com/en/article/y3g97x/location-data-apps-drone-strikes-iowa-national-guard)). This dataset includes the precise location of millions of smartphone users collected without their knowledge from thousands of different apps, notably including several high-profile Muslim prayer apps ([source](https://www.vice.com/en/article/jgqm5x/us-military-location-data-xmode-locate-x)).
 
 -   The governments of many countries collect extremely sensitive data from citizens including those not suspected of any crime. For example, the British OPTICNERVE program, leaked by [§Edward Snowden]({{< relref "edward_snowden" >}}) in 2013, covertly took pictures of Yahoo messenger users every 5 minutes through their webcams without their knowledge. In a six-month period, images of 1.8 million distinct users were collected.
 
