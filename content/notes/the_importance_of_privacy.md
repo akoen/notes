@@ -1,11 +1,11 @@
 +++
 title = "The importance of privacy"
 author = ["Alex Koen"]
-lastmod = 2021-03-17T14:17:19-07:00
+lastmod = 2021-03-22T11:36:01-07:00
 draft = false
 +++
 
--   The power to target is the power to discriminate.
+Nowadays, governments and corporations have unprecedented ability to target—to target individuals not only based on their age and race, but also based on their browsing history, their location, and even their sexual orientation. This is a tremendous business opportunity, for advertising now accounts for 19% of the U.S. GDP, but it comes at an equally devastating cost. Because the power to target is also the power to discriminate.
 
 **Privacy is about preventing those in power from gaining more control.** It is the right for you to choose what information you share, with whom you share it, and for your personal information not be used against you. Privacy is inalienable from freedom—without it you lose your autonomy.
 
