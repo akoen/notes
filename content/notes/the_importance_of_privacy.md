@@ -1,11 +1,11 @@
 +++
 title = "The importance of privacy"
 author = ["Alex Koen"]
-lastmod = 2021-03-22T11:36:01-07:00
+lastmod = 2021-03-24T09:28:39-07:00
 draft = false
 +++
 
-Nowadays, governments and corporations have unprecedented ability to target—to target individuals not only based on their age and race, but also based on their browsing history, their location, and even their sexual orientation. This is a tremendous business opportunity, for advertising now accounts for 19% of the U.S. GDP, but it comes at an equally devastating cost. Because the power to target is also the power to discriminate.
+Nowadays, governments and corporations have unprecedented ability to target—to target individuals not only based on their age and race, but also based on their browsing history, their location, and even their sexual orientation. This is a tremendous business opportunity, for advertising now accounts for 19% of the U.S. GDP, but it comes at an equally devastating cost, because the power to target is also the power to discriminate.
 
 **Privacy is about preventing those in power from gaining more control.** It is the right for you to choose what information you share, with whom you share it, and for your personal information not be used against you. Privacy is inalienable from freedom—without it you lose your autonomy.
 
@@ -28,3 +28,5 @@ Some argue that we should be able to see our personal data to companies. While t
 
 1.  You don't know what you're consenting to. If you sell your health data to medical researchers, that data might be used to deny you insurance.
 2.  Privacy is a collective concern. If you expose your genetic data, you're also exposing the genetic data of your family, who may not have consented. If you expose your location data, you're also exposing the location of your coworkers, because that data is also used to identify those you work with.
+
+Data collection shouldn't be a "necessary evil" required for access to education, healthcare, and safety.
