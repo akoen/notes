@@ -1,0 +1,8 @@
+#+setupfile: ../hugo_setup.org
+#+title: Charisma is valued more than intelligence
+
+#+begin_quote
+I detest the policies of Bill Clinton and Barack Obama but I cannot deny they were both brilliant men; incredibly intelligent, charismatic, competent, and confident.
+— Akala
+#+end_quote
+
