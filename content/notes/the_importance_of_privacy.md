@@ -1,7 +1,7 @@
 +++
 title = "The importance of privacy"
 author = ["Alex Koen"]
-lastmod = 2021-03-24T09:28:39-07:00
+lastmod = 2021-03-30T09:20:52-07:00
 draft = false
 +++
 
@@ -30,3 +30,9 @@ Some argue that we should be able to see our personal data to companies. While t
 2.  Privacy is a collective concern. If you expose your genetic data, you're also exposing the genetic data of your family, who may not have consented. If you expose your location data, you're also exposing the location of your coworkers, because that data is also used to identify those you work with.
 
 Data collection shouldn't be a "necessary evil" required for access to education, healthcare, and safety.
+
+
+## The words used to describe privacy are misleading {#the-words-used-to-describe-privacy-are-misleading}
+
+> Privately owned advertising and surveillance networks are called ‘communities’, citizens are ‘users’, addiction to screens is labelled ‘engagement’, our most sensitive information is considered ‘data exhaust’ or ‘digital breadcrumbs’, spyware is called ‘cookies’, documents that describe our lack of privacy are titled ‘privacy policies’, and what used to be considered wiretapping is now the bedrock of the internet economy.
+> — Carissa Véliz
