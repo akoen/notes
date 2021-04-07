@@ -1,7 +1,7 @@
 +++
 title = "Procrastination"
 author = ["Alex Koen"]
-lastmod = 2020-09-03T07:36:04-07:00
+lastmod = 2021-04-01T09:24:40-07:00
 draft = false
 +++
 
@@ -10,4 +10,4 @@ draft = false
     -   Conversely, if you decided beforehand that the _next_ task required for your paper is to record six notes for a specific scholarly article, you would have no problem executing. [§Modularize Your Life]({{< relref "modularize_your_life" >}})
     -   **Strive to reduce friction between tasks.**
 
--   Nobody enjoys procrastination—we would all rather be [§Productive]({{< relref "productivity" >}}).
+-   As soon as you start to work on the problem at hand, your fear of failure goes down because you can influence the outcome.

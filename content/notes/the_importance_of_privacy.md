@@ -1,13 +1,20 @@
 +++
 title = "The importance of privacy"
 author = ["Alex Koen"]
-lastmod = 2021-03-30T09:20:52-07:00
+lastmod = 2021-04-06T20:06:14-07:00
 draft = false
 +++
 
-Nowadays, governments and corporations have unprecedented ability to target—to target individuals not only based on their age and race, but also based on their browsing history, their location, and even their sexual orientation. This is a tremendous business opportunity, for advertising now accounts for 19% of the U.S. GDP, but it comes at an equally devastating cost, because the power to target is also the power to discriminate.
+## Targeting = discrimination {#targeting-discrimination}
+
+Nowadays, governments and corporations have unprecedented ability to target—to target individuals not only based on their age and race, but also based on their browsing history, their location, and even their sexual orientation.
+
+This is a tremendous business opportunity, for advertising now accounts for 19% of the U.S. GDP, but it comes at an equally devastating cost, because **the power to target is also the power to discriminate.**
 
 **Privacy is about preventing those in power from gaining more control.** It is the right for you to choose what information you share, with whom you share it, and for your personal information not be used against you. Privacy is inalienable from freedom—without it you lose your autonomy.
+
+> Privacy is how we blind the system so that it treats us impartially and fairly
+> — Carissa Véliz, [§Privacy is Power]({{< relref "privacy_is_power" >}})
 
 -   Companies should be required by law to collect only the data that is strictly required to provide you with their services.
     -   Any other data is _never_ used to benefit you.

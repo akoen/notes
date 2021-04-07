@@ -3,3 +3,6 @@
 
  #+CAPTION: Deployment of the Perserverance Rover spacecraft's supersonic parachutes 11km above the surface of Mars.
 [[file:img/favourite_images/_117351778_04dcd6d5-52e8-444a-83a1-3fe05bd5bc1c2021-03-02_18-59-52_.jpg]]
+
+#+CAPTION:The airship Norge in Ny-Ålesund, Norway, on its flight from Europe to America over the north pole. See https://www.bbc.com/future/article/20180911-the-giant-hangar-built-for-an-arctic-airship
+[[file:img/favourite_images/norge_kingsbay2021-04-03_14-11-12_.jpg]]
