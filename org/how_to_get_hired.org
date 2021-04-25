@@ -1,0 +1,10 @@
+#+setupfile: ../hugo_setup.org
+#+title: How to get hired
+ 
+https://sive.rs/gethired
+
+#+begin_quote
+“The best properties are rarely for sale. The best employees are rarely job hunting. The best clients are rarely shopping. The best option is usually off the market. Most people think this means you can’t have it. What it really means is you have to go find it and sell yourself.”
+— [[file:james_clear.org][§James Clear]]
+#+end_quote
+
