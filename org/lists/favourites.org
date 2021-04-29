@@ -1,0 +1,6 @@
+#+setupfile: ../hugo_setup.org
+#+title:Favourites
+
+- [[file:../favourite_visual_artists.org][§Favourite Visual Artists]]
+- [[file:../favourite_paintings.org][§Favourite Paintings]]
+- [[file:../favourite_images.org][§Favourite Images]]

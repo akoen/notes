@@ -1,0 +1,6 @@
+#+setupfile: ../hugo_setup.org
+#+title: Prioritize content over tools
+
+- *No editor can improve an argument.* (from [[file:books/How-to-Take-Smart-Notes.org][§How to Take Smart Notes]])
+
+  It is much easier to spend time choosing the right music production software than to actually make music. In my case, it is much easier to tweak my [[file:emacs.org][§Emacs]] configuration than to actually spend time refining these notes.

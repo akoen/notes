@@ -1,7 +1,7 @@
 +++
 title = "Algorithmic Policing"
 author = ["Alex Koen"]
-lastmod = 2020-11-06T08:54:36-08:00
+lastmod = 2021-04-28T21:48:40-07:00
 draft = false
 +++
 
@@ -12,6 +12,8 @@ Algorithmic policing is the practice of using computer algorithms and [§Machine
 -   E.g. The VPD uses GeoDASH to predict the areas in Vancouver which are most likely to experience break-and-enters within a given time period.
 
 **Algorithmic Surveillance Technologies** assist police with monitoring and surveillance of citizens. These technologies included license-plate readers, social media surveillance tools, and face-recognition software.
+
+Note: The _Electronic Frontier Foundation_ maintains a database of police surveillance technology in use across the United States at <https://atlasofsurveillance.org/>.
 
 Law enforcement agencies across Canada have begun to use algorithmic policing software. However, many people are concerned about the ethical implications of these technologies.
 

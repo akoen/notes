@@ -1,0 +1,6 @@
+#+setupfile: ../hugo_setup.org
+#+title: Favourite Paintings
+
+- tags :: [[file:favourite_visual_artists.org][§Favourite Visual Artists]]
+
+  [[file:the_course_of_empire.org][§The Course of Empire]]

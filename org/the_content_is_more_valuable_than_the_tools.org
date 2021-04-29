@@ -1,5 +1,0 @@
-#+setupfile: ../hugo_setup.org
-#+title: The content is more valuable than the tools
-
-
-- *No editor can improve an argument.* (from [[file:books/How-to-Take-Smart-Notes.org][§How to Take Smart Notes]])

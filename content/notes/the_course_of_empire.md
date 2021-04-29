@@ -1,11 +1,11 @@
 +++
 title = "The Course of Empire"
 author = ["Alex Koen"]
-lastmod = 2020-11-24T09:13:25-08:00
+lastmod = 2021-04-28T21:37:05-07:00
 draft = false
 +++
 
-The _Course of Empire_ by [§Artist]({{< relref "artist" >}}) James Cole is a series of five paintings:
+The _Course of Empire_ by James Cole is a series of five paintings:
 
 **The Savage State**
 

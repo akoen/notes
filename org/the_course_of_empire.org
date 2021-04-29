@@ -1,8 +1,7 @@
 #+setupfile: ../hugo_setup.org
 #+title: The Course of Empire
 
-The /Course of Empire/ by [[file:artist.org][§Artist]] James Cole is a series of five paintings:
-
+The /Course of Empire/ by James Cole is a series of five paintings:
 
 *The Savage State*
 
