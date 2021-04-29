@@ -1,4 +1,4 @@
 #+setupfile: ../hugo_setup.org
-#+title: The Overton Window
+#+title:The Overton Window
 
 The Overton Window is the range of politically acceptable discourse. The prevalence of [[file:social_media.org][§Social Media]] enables vocal minorities to make extreme opinions seem more popular and thus artificially inflate the Overton Window, leading to outrage from the other side.

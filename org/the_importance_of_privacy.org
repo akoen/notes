@@ -2,7 +2,7 @@
 #+title: The importance of privacy
 
 * Targeting = discrimination
-Nowadays, governments and corporations have unprecedented ability to target—to target individuals not only based on their age and race, but also based on their browsing history, their location, and even their sexual orientation.
+Nowadays, governments and corporations have unprecedented ability to target—to target individuals not only based on their age and race, but also based on their browsing history, their location, and by extension even very personal traits like sexual orientation and medical conditions.
 
 This is a tremendous business opportunity, for advertising now accounts for 19% of the U.S. GDP, but it comes at an equally devastating cost, because *the power to target is also the power to discriminate.*
 
@@ -25,6 +25,7 @@ Privacy is how we blind the system so that it treats us impartially and fairly
 
 - The governments of many countries collect extremely sensitive data from citizens including those not suspected of any crime. For example, the British OPTICNERVE program, leaked by [[file:edward_snowden.org][§Edward Snowden]] in 2013, covertly took pictures of Yahoo messenger users every 5 minutes through their webcams without their knowledge. In a six-month period, images of 1.8 million distinct users were collected.
 
+* Privacy is not antiquated
 * Privacy should be inalienable
 
 Some argue that we should be able to see our personal data to companies. While this is better than our current system, it is a bad idea for two reasons:

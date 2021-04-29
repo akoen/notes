@@ -1,13 +1,13 @@
 +++
 title = "The importance of privacy"
 author = ["Alex Koen"]
-lastmod = 2021-04-06T20:06:14-07:00
+lastmod = 2021-04-29T09:17:53-07:00
 draft = false
 +++
 
 ## Targeting = discrimination {#targeting-discrimination}
 
-Nowadays, governments and corporations have unprecedented ability to target—to target individuals not only based on their age and race, but also based on their browsing history, their location, and even their sexual orientation.
+Nowadays, governments and corporations have unprecedented ability to target—to target individuals not only based on their age and race, but also based on their browsing history, their location, and by extension even very personal traits like sexual orientation and medical conditions.
 
 This is a tremendous business opportunity, for advertising now accounts for 19% of the U.S. GDP, but it comes at an equally devastating cost, because **the power to target is also the power to discriminate.**
 
@@ -27,6 +27,9 @@ This is a tremendous business opportunity, for advertising now accounts for 19% 
 -   Moreover, in 2021 it was revealed that a similar dataset was purchased by the Iowa Air National Guard, a military unit that carries out international drone strikes ([source](https://www.vice.com/en/article/y3g97x/location-data-apps-drone-strikes-iowa-national-guard)). This dataset includes the precise location of millions of smartphone users collected without their knowledge from thousands of different apps, notably including several high-profile Muslim prayer apps ([source](https://www.vice.com/en/article/jgqm5x/us-military-location-data-xmode-locate-x)).
 
 -   The governments of many countries collect extremely sensitive data from citizens including those not suspected of any crime. For example, the British OPTICNERVE program, leaked by [§Edward Snowden]({{< relref "edward_snowden" >}}) in 2013, covertly took pictures of Yahoo messenger users every 5 minutes through their webcams without their knowledge. In a six-month period, images of 1.8 million distinct users were collected.
+
+
+## Privacy is not antiquated {#privacy-is-not-antiquated}
 
 
 ## Privacy should be inalienable {#privacy-should-be-inalienable}
