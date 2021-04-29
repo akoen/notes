@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       93122ee5-d10c-414f-94f1-ff7f32d5beb8
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Ephemerality of Memory
 
 #+BEGIN_QUOTE
 “Memory is not so much a camera as a filter, the particulates it holds on to are nothing compared to what leaks through.”
 
-— [[file:john_green.org][§John Green]]
+— [[id:0ae2afed-88c3-4c4b-8130-e744d63fc646][§John Green]]
 #+END_QUOTE

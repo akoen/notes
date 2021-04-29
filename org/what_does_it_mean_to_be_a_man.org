@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       e95f05f6-c1e2-459b-aead-e4fb6c3e5fc4
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: What does it mean to be a man?
 

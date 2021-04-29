@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       ec1e5063-77f3-46f7-94d4-0bf1912e6d72
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Poise
 

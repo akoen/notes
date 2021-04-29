@@ -1,5 +1,9 @@
+:PROPERTIES:
+:ID:       0be8f491-1667-4387-b076-ede6ac2c68f5
+:ROAM_ALIASES: "\"Writing Email\""
+:END:
 #+setupfile: ../hugo_setup.org
-#+ROAM_ALIAS: "Writing Email"
+
 #+title: How to write an email
 
 - Many times people use email to shift responsability onto others. They say, "what do you think about this?" or even simply, "thoughts?"
@@ -8,7 +12,7 @@
 * Techniques for writing better emails
 - Use precise dates. Instead of saying /tomorrow/, say /tomorrow (January 6th)/.
 
-* A great example of a cold email from [[file:tim_ferriss.org][§Tim Ferriss]] ([[https://tim.blog/2008/05/19/5-tips-for-e-mailing-busy-people/][tim.blog]])
+* A great example of a cold email from [[id:88ddac25-070a-4cd4-a1c9-54e4de275fda][§Tim Ferriss]] ([[https://tim.blog/2008/05/19/5-tips-for-e-mailing-busy-people/][tim.blog]])
 
     Hi Tim,
 

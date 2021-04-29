@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       4bd6fcb2-1169-4ef9-b3e0-ce05858b6db0
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: How to Drive a Manual Transmission
 

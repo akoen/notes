@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       1e40db06-e1f6-405b-aaf3-d83af8cb1bd6
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Nuclear Energy

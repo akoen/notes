@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       14e972a5-3785-4ed4-b3f8-cd9464f1fb95
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Rachel Pohl
 
-Rachel Pohl is one of my [[file:favourite_visual_artists.org][§Favourite Visual Artists]]. She paints beautiful landscapes in a unique style.
+Rachel Pohl is one of my [[id:1a82a60d-b57c-45de-aaa4-e8a182097672][§Favourite Visual Artists]]. She paints beautiful landscapes in a unique style.
 
 #+DOWNLOADED: https://images.squarespace-cdn.com/content/v1/54add317e4b06e67bce64613/1470754367186-B6GZGIQLC2FGC4SP27MX/ke17ZwdGBToddI8pDm48kNMQVk7Gri5i865nkh-CqMR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k6sq9GEl9ZUDkp1sRKcAyLr3siHU4WUFmxpDl_wxMFZ6eKG-CWyKbYWjUigxHOpdQ/Yosemite.jpg?format=750w @ 2020-11-03 22:09:17
 [[file:img/rachel_pohl/Yosemite2020-11-03_22-09-17_.jpg]]

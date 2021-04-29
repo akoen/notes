@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       b4a5f74a-af12-44a0-b43f-9d39df6ad1a5
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: US Politics
 

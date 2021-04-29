@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       3a6ea48b-8699-46f6-97ca-6939fef9a82d
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Anxiety
 
 #+BEGIN_QUOTE
 “I often feel like I can't properly participate in conversation because everything I say has to be filtered through the sieve of my anxiety.”
 
-— [[file:john_green.org][§John Green]]
+— [[id:0ae2afed-88c3-4c4b-8130-e744d63fc646][§John Green]]
 #+END_QUOTE

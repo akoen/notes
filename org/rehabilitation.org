@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       12ed4f47-de15-423e-8720-db1d8a10ba39
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Rehabilitation
 

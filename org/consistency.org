@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       7c616579-0c7c-4436-9781-4f408738d161
+:END:
 #+setupfile: ../hugo_setup.org
 
 #+title: Consistency
@@ -10,5 +13,5 @@
   Exercising today is simple. Training every week is simply remarkable.
   Writing one essay rarely matters. Write every day and you're practically a hero.
   Unheroic days can make for heroic decades."
-  —  [[file:james_clear.org][§James Clear]]
+  —  [[id:aaa55533-7fa1-4caa-b587-1eb48a4f0ab4][§James Clear]]
   #+end_quote

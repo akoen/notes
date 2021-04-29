@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       0e88d7c4-2e90-406b-91aa-5f93fe24eefb
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Plurality Voting
 
-Plurality voting is a [[file:voting_systems.org][§Voting System]] where the candidate (or other choice) with the highest number of votes wins, and voters may only vote for a single candidate.
+Plurality voting is a [[id:895de7be-5ff8-477a-96d7-3bdc0376f248][§Voting System]] where the candidate (or other choice) with the highest number of votes wins, and voters may only vote for a single candidate.
 
 When voting for a single candidate, this is also known as first-past-the-post.
 

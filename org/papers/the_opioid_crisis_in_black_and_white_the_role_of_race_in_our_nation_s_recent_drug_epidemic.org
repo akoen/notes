@@ -1,8 +1,12 @@
+:PROPERTIES:
+:ID:       d1955467-079b-450c-8943-bdad843c61ba
+:ROAM_REFS: cite:omOpioidCrisisBlack2018
+:END:
 #+setupfile: .../hugo_setup.org
 #+TITLE: The opioid crisis in black and white: the role of race in our nation's recent drug epidemic
-#+ROAM_KEY: cite:omOpioidCrisisBlack2018
 
-- tags :: [[file:../racial_inequality_in_western_societies.org][§Racial Inequality in Western Societies]]
+
+- tags :: [[id:a1a36ae3-a7fb-4806-9e28-3a9ed4d22edc][§Racial Inequality in Western Societies]]
 - keywords :: WRDS150
 - author :: Om, A.
 

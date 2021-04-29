@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       8faaa5e2-7552-49ee-9abb-e439cd7b1509
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Fuel Cell
 
-- tags :: [[file:hydrogen.org][§Hydrogen]]
+- tags :: [[id:494cbc52-16af-4300-8a43-acc583688416][§Hydrogen]]
 
 - Unlike a heat engine, fuel cells are not limited by the Carnot efficiency. cite:shell
 

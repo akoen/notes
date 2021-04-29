@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       daaf7a0e-7b41-4929-a39e-4ea2c6a25fa6
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Tiago Forte

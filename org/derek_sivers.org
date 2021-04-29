@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       8a686a73-4ec4-4f1c-8747-faddecae432d
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Derek Sivers
 

@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       715be305-6060-4c71-a474-b762253b771a
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Emacs
 
-- tags :: [[file:programming.org][§Programming]]
+- tags :: [[id:ae6e5088-93af-496b-8f07-45ede80dec3f][§Programming]]

@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       4efc4c4f-e99b-4d28-afdc-c6a208f437a3
+:END:
 #+setupfile: ../../hugo_setup.org
 #+title: Rocket Men
 
 - author :: Robert Kurson
-- tags :: [[file:../physics.org][§Physics]]
+- tags :: [[id:83a06686-dab0-46f9-98ab-1c10e4afacb8][§Physics]]
 
 
 #+BEGIN_QUOTE

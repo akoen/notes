@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       f2d37ada-7cd5-4ece-a675-9ef15600376e
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Quotes
 

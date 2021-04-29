@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       d996b5ee-745d-437b-82e0-29372a36a7f5
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Productivity
 
@@ -12,7 +15,7 @@
 #+BEGIN_QUOTE
 “While speed makes a good story, velocity makes an outcome.”
 
-— [[file:shane_parrish.org][§Shane Parrish]] 
+— [[id:80c76fe9-9baa-40c4-82ff-a08e449d9f2a][§Shane Parrish]] 
 #+END_QUOTE
   
 - It's not a work-life balance, it's a flywheel. The more energy you can pour into one side of your life, the more energy you'll have for the rest. ([[https://pca.st/xuvhy4qq#t=5080][link]])
@@ -21,7 +24,7 @@
   
 - According to [[https://dcgross.com/improvising-for-productivity/?utm_campaign=Sunday%2520Snippets&utm_medium=email&utm_source=Revue%2520newsletter][Daniel Gross]], the more time we spend thinking about a task, the less likely we are to do it.
   - He states that it becomes less /novel/ — we have removed all the interesting aspects of it and all that is left is work.
-  - This is why when you have a novel idea, it is easier to enter the [[file:flow_state.org][§Flow State]] than if you come back to it at a later time—it then feels like work.
+  - This is why when you have a novel idea, it is easier to enter the [[id:426378ef-c65b-491d-a3ce-89e2068e3d2a][§Flow State]] than if you come back to it at a later time—it then feels like work.
     
 - It is imperative that we understand why the task at hand is important for our goals. Without this understanding, we will always follow the path of least resistance: lethargy.
 
@@ -40,7 +43,7 @@
 #+BEGIN_QUOTE
 “I'll never start a project that isn't already 80% finished.”
 
-— [[file:tiago_forte.org][§Tiago Forte]]
+— [[id:daaf7a0e-7b41-4929-a39e-4ea2c6a25fa6][§Tiago Forte]]
 #+END_QUOTE
 
 

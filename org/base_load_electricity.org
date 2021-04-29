@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       93d37076-6a31-4390-a472-fc1bcf4a80cc
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Base Load Electricity
 

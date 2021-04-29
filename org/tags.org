@@ -1,11 +1,14 @@
+:PROPERTIES:
+:ID:       af5728f0-2179-47ff-8f47-191d150765c6
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Tags
 
 - People often feel a pressure to tag content so that they may find it more easily in the future.
-- Tagging is useful, but only if one tags the keywords for which the given note may add to the discussion. ([[file:books/How-to-Take-Smart-Notes.org][§How to Take Smart Notes]])
+- Tagging is useful, but only if one tags the keywords for which the given note may add to the discussion. ([[id:a0b85e10-52ee-4f4f-b8b5-960875348749][§How to Take Smart Notes]])
   - e.g. for a note about the Dunning-Kruger effect, tag it "mistrust of science" instead of "cognitive biases". You are much more likely to write about mistrust of science than to make a compendium of cognitive biases (unless you are an archivist).
     
 #+begin_quote
 “The real problem with tags, and why they not only fail to help, but actually even hurt people's creative self-esteem, is that they give the impression that creating such a system requires a heroic feat of comprehensive planning, followed by years of meticulous, unwavering cataloging and annotating. I see many creative people, justly overwhelmed at this task for which their minds are not well suited, give up on the idea altogether.”
-— [[file:tiago_forte.org][§Tiago Forte]]
+— [[id:daaf7a0e-7b41-4929-a39e-4ea2c6a25fa6][§Tiago Forte]]
 #+end_quote

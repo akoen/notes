@@ -1,6 +1,10 @@
+:PROPERTIES:
+:ID:       ff9c2864-1f26-478b-9a25-98cc1e858df3
+:ROAM_ALIASES: "\"GWAS\""
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Genome-wide Association Study (GWAS)
-#+ROAM_ALIAS: "GWAS"
+
 
 - A large number of genetic variants-typically SNPs (hundreds of thousands to millions) are tested across many individuals to identify genotype-phenotype associations.
 - Usually SNPs are analyzed, although other types of mutations are possible.

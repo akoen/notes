@@ -1,13 +1,16 @@
+:PROPERTIES:
+:ID:       ed9d255d-9d6d-4759-8601-efd89eb9cca3
+:END:
 #+setupfile: ../../hugo_setup.org
 #+title: The Sleep Solution
 
 - author :: Chris Winter
-- tags :: [[file:../sleep.org][§Sleep]]
+- tags :: [[id:205fdd9a-e5b4-4141-b923-868be88f2499][§Sleep]]
 
 * Ideas
 
-- We have four primary drives: the drives to eat, drink, [[file:../sleep.org][§Sleep]], and procreate.
-  - Unlike the other drives, however, we do not have a choice about whether or not to [[file:../sleep.org][§Sleep]]. When we become tired enough, our body will force sleep upon us, whether we like it or not.
+- We have four primary drives: the drives to eat, drink, [[id:205fdd9a-e5b4-4141-b923-868be88f2499][§Sleep]], and procreate.
+  - Unlike the other drives, however, we do not have a choice about whether or not to [[id:205fdd9a-e5b4-4141-b923-868be88f2499][§Sleep]]. When we become tired enough, our body will force sleep upon us, whether we like it or not.
 
 - *The difference between sleepy and fatigued:*
 
@@ -17,7 +20,7 @@
 
   - It is easy to confuse the two. If we go to bed when we are fatigued, but not sleepy, then we will lie awake.
 
-- *6 – 7 hours of [[file:../sleep.org][§Sleep]] are typically adequate. Those who struggle with sleep believe they need more because their sleep quality is poor.*
+- *6 – 7 hours of [[id:205fdd9a-e5b4-4141-b923-868be88f2499][§Sleep]] are typically adequate. Those who struggle with sleep believe they need more because their sleep quality is poor.*
 
 - There are two regulatory systems that drive sleep:
 
@@ -88,7 +91,7 @@ What follow is an ideal sleep routine. It may not be possible to perform all of 
 
   - When we are anxious about going to sleep, the anxiety is self-propelling. The more we struggle to fall asleep, the more anxious we become, and the more vigilant we find ourselves.
 
-  - The most effective treatment by far for insomnia is [[file:../cognitive_behavioural_therapy.org][§Cognitive Behavioural Therapy]] for insomnia (CBT-I). It is composed of six critical components:
+  - The most effective treatment by far for insomnia is [[id:9596abb8-47b1-4b5d-9228-f8b521e7847d][§Cognitive Behavioural Therapy]] for insomnia (CBT-I). It is composed of six critical components:
 
     1. Sleep education.
 

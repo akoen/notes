@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       94d32160-d262-4074-ad3a-a4ab678363f8
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Don't be Shy
 

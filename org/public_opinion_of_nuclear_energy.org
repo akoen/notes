@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       56f1042e-155f-4ebe-b6b1-cb8c1829765a
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Public Opinion of Nuclear Energy
 
-Public opinion of [[file:nuclear_energy.org][§Nuclear Energy]] is largely negative. A study performed after the 2011 Fukishima disaster showed that 62% of the world's population is opposed to nuclear energy.
+Public opinion of [[id:1e40db06-e1f6-405b-aaf3-d83af8cb1bd6][§Nuclear Energy]] is largely negative. A study performed after the 2011 Fukishima disaster showed that 62% of the world's population is opposed to nuclear energy.
 
 #+DOWNLOADED: file:///home/alex/Downloads/public-opposition-to-nuclear-energy-production.png @ 2020-09-12 07:43:39
 [[file:img/public_opinion_of_nuclear_energy/public-opposition-to-nuclear-energy-production2020-09-12_07-43-39_.png]]

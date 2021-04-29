@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       8afb5c33-db02-426f-9d8b-fe283b555cd5
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Ali Abdaal
 

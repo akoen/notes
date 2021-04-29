@@ -1,10 +1,13 @@
+:PROPERTIES:
+:ID:       2c34c97d-5c5c-4041-8551-fdfe4358ae8b
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: How to decide what to do with your time
 
-- tags :: [[file:consistency.org][§Consistency]]
+- tags :: [[id:7c616579-0c7c-4436-9781-4f408738d161][§Consistency]]
 
   Be bold. Most people live each day just trying to ensure nothing goes too wrong.
 
   Take risks. Most people spend their lives protecting themselves from uncertainty.
 
-- [[file:derek_sivers.org][§Derek Sivers]] _advises you to ask not what you want to be doing, but what you hate not doing._
+- [[id:8a686a73-4ec4-4f1c-8747-faddecae432d][§Derek Sivers]] _advises you to ask not what you want to be doing, but what you hate not doing._

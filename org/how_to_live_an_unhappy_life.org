@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       ae40a68d-5156-4481-b45a-889811c96f3a
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: How to Live an Unhappy Life
 
@@ -19,7 +22,7 @@ Things that reduce the odds of long-term success:
 - Addiction to substances.
 - Excessive leverage.
   
-— [[file:shane_parrish.org][§Shane Parrish]] 
+— [[id:80c76fe9-9baa-40c4-82ff-a08e449d9f2a][§Shane Parrish]] 
 #+end_quote
 
 - Live a sedentary life.
@@ -33,5 +36,5 @@ Things that reduce the odds of long-term success:
   #+begin_quote
 Don't be on your deathbed someday, having squandered your one chance at life, full of regret because you pursued little distractions instead of big dreams.
 
-  — [[file:derek_sivers.org][§Derek Sivers]]
+  — [[id:8a686a73-4ec4-4f1c-8747-faddecae432d][§Derek Sivers]]
   #+end_quote

@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       b303f17b-ea06-44f5-bd9a-85172c7b7c7d
+:END:
 #+setupfile: ../../hugo_setup.org
 #+title: Permanent Record
 
-- author :: [[file:../edward_snowden.org][§Edward Snowden]]
+- author :: [[id:33e611d4-169a-4dd9-a441-e18fe284ba9b][§Edward Snowden]]
 - tags :: 
 
 
@@ -22,20 +25,20 @@ This book didn't change me too profoundly, as through my own research and experi
 #+begin_quote
 In the 1990s, the Internet had yet to fall victim to the greatest iniquity in digital history: the move by both government and businesses to link, as intimately as possible, users’ online personas to their offline legal identity.
 
-— [[file:../edward_snowden.org][§Edward Snowden]]
+— [[id:33e611d4-169a-4dd9-a441-e18fe284ba9b][§Edward Snowden]]
 #+end_quote
 
 
 #+begin_quote
  Distance favors intimacy: no one talks more openly than when they’re alone in a room, chatting with an unseen someone alone in a different room. Meet that person, however, and you lose your latitude. Your talk becomes safer and tamer, a common conversation on neutral ground.
 
-— [[file:../edward_snowden.org][§Edward Snowden]]
+— [[id:33e611d4-169a-4dd9-a441-e18fe284ba9b][§Edward Snowden]]
 #+end_quote
 
 
 #+begin_quote
 Saying that you don’t need or want privacy because you have nothing to hide is to assume that no one should have, or could have, to hide anything—including their immigration status, unemployment history, financial history, and health records.
-— [[file:../edward_snowden.org][§Edward Snowden]]
+— [[id:33e611d4-169a-4dd9-a441-e18fe284ba9b][§Edward Snowden]]
 #+end_quote
 
 

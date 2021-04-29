@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       ab702db9-73ea-45d1-851f-20ea1bef0221
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Fukushima Nuclear Disaster
 
-- tags :: [[file:nuclear_energy.org][§Nuclear Energy]]
+- tags :: [[id:1e40db06-e1f6-405b-aaf3-d83af8cb1bd6][§Nuclear Energy]]
 
   It was the flooding, not radiation, that killed people.
 

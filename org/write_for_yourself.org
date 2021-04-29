@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       9ec80130-a06c-4d55-95d4-a69e32fec755
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Write for yourself
 
 Don't write for other people. Write for yourself. Other people have a diverse set of interests and passions, and striving to write for everyone will make your prose muddy and tame.
 
-Write to [[file:writing_refines_thinking.org][§refine your thinking]]
+Write to [[id:1b25e8c7-0b2d-416a-b56f-f7a5f1e2b5a0][§refine your thinking]]

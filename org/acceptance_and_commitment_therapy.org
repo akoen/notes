@@ -1,5 +1,9 @@
+:PROPERTIES:
+:ID:       c7a259d9-3508-4ea6-8130-e051d7e04cc5
+:ROAM_ALIASES: "\"ACT\""
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Acceptance and Commitment Therapy
-#+ROAM_ALIAS: "ACT"
+
 
 - The principle behind ACT is to focus on how your current actions will impact your future yourself, rather than how you're currently feeling.

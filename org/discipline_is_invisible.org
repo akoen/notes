@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       2f1b7bee-a0c2-4832-82e0-0324b4180f5f
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Discipline is Invisible
 
-- People who achieve their goals put in the work every single day, even when that work is painful and has no reward. [[file:books/The-Slight-Edge.org][§The Slight Edge]]
+- People who achieve their goals put in the work every single day, even when that work is painful and has no reward. [[id:e927be7d-6f83-4afe-96f8-d5b2e14258a8][§The Slight Edge]]
 
-- In contrast, [[file:david_perell.org][§David Perell]] has this to say about discipline: "Success shouldn't be synonymous with how good you are at forcing yourself to do what you don't want to do."
+- In contrast, [[id:806a7fda-b943-4160-8af1-e71c19d6f9a7][§David Perell]] has this to say about discipline: "Success shouldn't be synonymous with how good you are at forcing yourself to do what you don't want to do."

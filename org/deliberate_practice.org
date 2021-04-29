@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       4c1fb45f-84c5-463f-98cc-caacd2979683
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Purposeful/Deliberate Practice
 

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       36141494-335b-437a-b2d6-c71077dc4107
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: COVID-19
 

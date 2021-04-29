@@ -1,12 +1,15 @@
+:PROPERTIES:
+:ID:       63f189f8-4cc2-4f29-b263-ec3cc4f52c6a
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Goal-Setting
 
-- tags :: [[file:productivity.org][§Productivity]], [[file:self_improvement.org][§Self-Improvement]]
+- tags :: [[id:d996b5ee-745d-437b-82e0-29372a36a7f5][§Productivity]], [[id:b3fb3efb-f4c8-42ab-bf54-7c420bd7100a][§Self-Improvement]]
 
   #+BEGIN_QUOTE
   “While speed makes a good story, velocity makes an outcome.”
 
-  — [[file:shane_parrish.org][§Shane Parrish]]
+  — [[id:80c76fe9-9baa-40c4-82ff-a08e449d9f2a][§Shane Parrish]]
   #+END_QUOTE
 
 - In order to achieve a specific, well-defined goal you must have a plan, you must write it down, and *you must look at it every day*.
@@ -20,10 +23,10 @@
 
 - The problem with goal-setting is that when we're working towards a goal, we tend to measure the gap between it and our current ability and when we achieve it, it only feels good for a moment. Instead, consider measuring the gap between where you are and where your started.
 
-- [[file:don_t_expect_that_progress_will_be_easy.org][§Don't expect that progress will be easy]]
+- [[id:eb52c50c-9146-4d59-9ecc-7d10a542c6fd][§Don't expect that progress will be easy]]
 
-- The future is simply the name we give to our imagination. Goals are only effective if they influence the decisions we make in the present. #[[file:derek_sivers.org][§Derek Sivers]]
+- The future is simply the name we give to our imagination. Goals are only effective if they influence the decisions we make in the present. #[[id:8a686a73-4ec4-4f1c-8747-faddecae432d][§Derek Sivers]]
 
-- _[[file:derek_sivers.org][§Derek Sivers]] believes that we overestimate what we can accomplish in one year, and underestimate what we can accomplish in ten years._
+- _[[id:8a686a73-4ec4-4f1c-8747-faddecae432d][§Derek Sivers]] believes that we overestimate what we can accomplish in one year, and underestimate what we can accomplish in ten years._
 
-- [[file:don_t_dream_small.org][§Don't dream small]]. Set ambitious goals.
+- [[id:b9a9b5d1-c6ba-4b72-ba8a-382af6485a66][§Don't dream small]]. Set ambitious goals.

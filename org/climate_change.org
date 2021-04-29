@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       5736cee7-7a57-42b1-a81c-341ea54c011d
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Climate Change
 
@@ -6,4 +9,4 @@
 #+DOWNLOADED: https://28oa9i1t08037ue3m1l0i861-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/temp-spectrum.png @ 2020-02-21 20:09:12
 [[file:img/20200221200731_climate_change/temp-spectrum2020-02-21_20-09-12_.png]]
 
-- 95% of the world's [[file:transportation.org][§Transportation]] runs on oil.
+- 95% of the world's [[id:3c422231-f385-4baf-8895-66984dc159d5][§Transportation]] runs on oil.

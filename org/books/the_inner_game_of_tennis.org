@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       41d61f01-5482-48d2-9b51-76471e432ef1
+:END:
 #+setupfile: ../../hugo_setup.org
 #+title: The Inner Game of Tennis
 

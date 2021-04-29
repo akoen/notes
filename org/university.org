@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       03a97f88-f4d2-4d38-997c-b63f733692ae
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: University
 
-- tags :: [[file:learning.org][§Learning]]
+- tags :: [[id:698a8d51-5a32-4e47-91b1-ee8984c860ab][§Learning]]
 

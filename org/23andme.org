@@ -1,16 +1,19 @@
+:PROPERTIES:
+:ID:       153b5472-6977-4e00-babe-be9dcdbce2d2
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: 23andMe
 
 - 23andMe is slowly transitioning from superficial level genetic analysis targeted at consumers to drug discovery. 
-- They use [[file:genomewide_association_study_gwas.org][§Genome-wide Association Study (GWAS)]]
+- They use [[id:ff9c2864-1f26-478b-9a25-98cc1e858df3][§Genome-wide Association Study (GWAS)]]
   
 * SNP Chip
 - They use "SNP Chips" to test for SNPs.
   - Specifically, the Illumina Infinum Global Screening Array. cite:research
 - These are credit card-sized chips containing DNA probes which are complementary to known DNA sequences.
 - SNPs are left exposed and can then be identified using fluorescent tags.
-- *Limitation:* SNP Chips are targeted towards common mutations, not rare mutations which are often responsible for disease.
-- _Limitation: Limited to known mutations only._
+- *Limitation*: SNP Chips are targeted towards common mutations, not rare mutations which are often responsible for disease.
+_- *Limitation*: Limited to known mutations only._
   - ~Why?~
 * Drug discovery
 - In 2014, they demonstrated a twofold increase in the chance that a drug would be approved by the FDA if 23andMe found a correlation between the targeted gene and disease. cite:have-it-all

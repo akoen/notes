@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       20a8b435-ae34-45cc-9dab-84aab85d91aa
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: The importance of privacy
 
@@ -10,9 +13,8 @@ This is a tremendous business opportunity, for advertising now accounts for 19% 
 
 #+begin_quote
 Privacy is how we blind the system so that it treats us impartially and fairly
-— Carissa Véliz, [[file:books/privacy_is_power.org][§Privacy is Power]]
+— Carissa Véliz, [[id:9967230e-a5fe-40de-83ed-18614c05c669][§Privacy is Power]]
 #+end_quote
-
 
 - Companies should be required by law to collect only the data that is strictly required to provide you with their services.
   - Any other data is /never/ used to benefit you.
@@ -23,7 +25,7 @@ Privacy is how we blind the system so that it treats us impartially and fairly
 
 - Moreover, in 2021 it was revealed that a similar dataset was purchased by the Iowa Air National Guard, a military unit that carries out international drone strikes ([[https://www.vice.com/en/article/y3g97x/location-data-apps-drone-strikes-iowa-national-guard][source]]). This dataset includes the precise location of millions of smartphone users collected without their knowledge from thousands of different apps, notably including several high-profile Muslim prayer apps ([[https://www.vice.com/en/article/jgqm5x/us-military-location-data-xmode-locate-x][source]]).
 
-- The governments of many countries collect extremely sensitive data from citizens including those not suspected of any crime. For example, the British OPTICNERVE program, leaked by [[file:edward_snowden.org][§Edward Snowden]] in 2013, covertly took pictures of Yahoo messenger users every 5 minutes through their webcams without their knowledge. In a six-month period, images of 1.8 million distinct users were collected.
+- The governments of many countries collect extremely sensitive data from citizens including those not suspected of any crime. For example, the British OPTICNERVE program, leaked by [[id:33e611d4-169a-4dd9-a441-e18fe284ba9b][§Edward Snowden]] in 2013, covertly took pictures of Yahoo messenger users every 5 minutes through their webcams without their knowledge. In a six-month period, images of 1.8 million distinct users were collected.
 
 * Privacy is not antiquated
 * Privacy should be inalienable

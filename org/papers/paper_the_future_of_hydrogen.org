@@ -1,8 +1,12 @@
+:PROPERTIES:
+:ID:       571b6a20-18e5-4536-8b10-2060c503e93f
+:ROAM_REFS: cite:birol
+:END:
 #+setupfile: .../hugo_setup.org
-#+ROAM_KEY: cite:birol
+
 #+title: Paper: The Future of Hydrogen
 
-- tags :: [[file:../hydrogen.org][§Hydrogen]]
+- tags :: [[id:494cbc52-16af-4300-8a43-acc583688416][§Hydrogen]]
 - source :: cite:birol
 
 - Today, hydrogen is primarily used for oil refining and ammonia production.
@@ -17,7 +21,7 @@ Figure pg. 33
 
 - *Hydrogen is a means of energy storage, not an energy-generation method.*
   
-- The crucial distinction between [[file:../hydrogen.org][§Hydrogen]] and electricity is that hydrogen is stock-based, while electricity is flow based.
+- The crucial distinction between [[id:494cbc52-16af-4300-8a43-acc583688416][§Hydrogen]] and electricity is that hydrogen is stock-based, while electricity is flow based.
   - Hydrogen can be stored and transported easily, and can match demand.
 
   - Electricity is challenging to store at scale, and energy production must vary to meet demand in real-time.
@@ -31,7 +35,7 @@ Figure pg. 33
   - Renewable electricity
   - Biomass
   - Nuclear
-  - Fossil fuels, rendered low-emissions through [[file:../carbon_capture.org][§Carbon Capture]]
+  - Fossil fuels, rendered low-emissions through [[id:a1b96972-79f3-4c19-8a1f-fb6905a2e81b][§Carbon Capture]]
 
 - To contribute to a more sustainable future, existing applications of hydrogen can make use of clean production methods or hydrogen can be used as an alternative to current high-emission fuels sources.
 

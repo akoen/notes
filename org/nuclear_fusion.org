@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       bd71fb64-03fd-4b55-90ce-46764a191b34
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Nuclear Fusion
 
-- Nuclear Fusion is [[file:clean_energy.org][§Clean Energy]]
+- Nuclear Fusion is [[id:c15f119b-dbc7-426c-a9fa-cc8f18d546dd][§Clean Energy]]
 
 * How does it work
 

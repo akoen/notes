@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       426378ef-c65b-491d-a3ce-89e2068e3d2a
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Flow State

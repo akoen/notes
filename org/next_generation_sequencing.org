@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       38c582ee-6513-4845-ada5-3335957417c3
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Next Generation Sequencing
 
-* NGS and [[file:machine_learning.org][§Machine Learning]] 
+* NGS and [[id:03f38845-378d-4a1e-82f1-e7c056f59f90][§Machine Learning]] 
 
 - The error rates of NGS reads range from ~0.1–10%. cite:poplin
 - The previous best variant calling algorithms were highly specialized to the Illumina platform, and are thus 

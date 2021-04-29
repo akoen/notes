@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       1a82a60d-b57c-45de-aaa4-e8a182097672
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Favourite Visual Artists
 
-My favourite visual [[file:artist.org][§Artist]]s.
+My favourite visual [[id:25ce6ebd-6ab7-46df-b954-6fed14500da4][§Artist]]s.

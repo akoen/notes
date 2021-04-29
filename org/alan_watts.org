@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       8af51433-f854-4690-a4dd-0829bdbf07b5
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Alan Watts

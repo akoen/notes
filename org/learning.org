@@ -1,11 +1,14 @@
+:PROPERTIES:
+:ID:       698a8d51-5a32-4e47-91b1-ee8984c860ab
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Learning
 
 - Andy Matuschak argues that storytelling is an especially effective way to learn.
-- [[file:deliberate_practice.org][§§Deliberate Practice]] is especially effective because the repeat stimulation of specific neural pathways speeds up the myelination of those neurons.
+- [[id:4c1fb45f-84c5-463f-98cc-caacd2979683][§§Deliberate Practice]] is especially effective because the repeat stimulation of specific neural pathways speeds up the myelination of those neurons.
 
   #+begin_quote
 When you first start to study a field, it seems like you have to memorize a zillion things. You don't. What you need is to identify the core principles – generally three to twelve of them – that govern the field. The million things you thought you had to memorize are simply various combinations of the core principles.
 
-  — John Reed (see [[file:first-principles.org][§First Principles]])
+  — John Reed (see [[id:c648454d-c239-4723-af3e-af1e6f648266][§First Principles]])
   #+end_quote

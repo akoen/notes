@@ -1,9 +1,12 @@
+:PROPERTIES:
+:ID:       cd1aa9a0-ca77-4cae-b880-17ebda7c2ae7
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: What classes should be taught in school?
 
 * Mandatory classes
 
-- Coding and [[file:digital_privacy.org][§Digital Privacy]] :: society is increasingly technology-dependent, and digital literacy /must/ become a core component of our education system.
+- Coding and [[id:690198da-5662-4141-a601-f93229f90675][§Digital Privacy]] :: society is increasingly technology-dependent, and digital literacy /must/ become a core component of our education system.
 
 - Basic life skills :: money, relationships, emotional intelligence.
 
@@ -30,4 +33,4 @@
 
 * Other
 
-More importantly, [[file:teachers_should_be_payed_more.org][§Teachers should be payed more]]
+More importantly, [[id:cebe9120-291d-42a7-a408-f324d85deed0][§Teachers should be payed more]]

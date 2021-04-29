@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       b3fb3efb-f4c8-42ab-bf54-7c420bd7100a
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Self-Improvement
 
@@ -9,7 +12,7 @@
 
 #+begin_quote
 The challenge for anyone interested in making progress is to simultaneously have (1) the confidence to go after what your want and (2) the humility to accept who you are right now and (3) the willingness to build skills that bridge the gap between 1 and 2.
-— [[file:james_clear.org][§James Clear]]
+— [[id:aaa55533-7fa1-4caa-b587-1eb48a4f0ab4][§James Clear]]
 #+end_quote
 
 #+begin_quote
@@ -18,5 +21,5 @@ The challenge for anyone interested in making progress is to simultaneously have
 2) Lots of iterations. Focus on one thing, but do it in different ways. Refine your method.
 3) Lots of repetitions. Stick with your method until it stops working.
 Research. Iterate. Repeat."
-— [[file:james_clear.org][§James Clear]]
+— [[id:aaa55533-7fa1-4caa-b587-1eb48a4f0ab4][§James Clear]]
 #+end_quote

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       e5eaef1b-c26a-42c3-9525-99c10c4d8035
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Plasma
 

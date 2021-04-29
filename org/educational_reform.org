@@ -1,9 +1,12 @@
+:PROPERTIES:
+:ID:       8c7dad95-3946-4dfd-a3ca-ba015d3a47ef
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Educational Reform
 
 It is clear that modern education is antiquated and that much of what is taught in schools is a byproduct of the early-20^th century rush to train factory workers. Students are taught to learn what others have already decided, whereas life is about making discoveries.
 
-- Classes have not evolved to meet modern technological evolution. (see [[file:what_classes_should_be_taught_in_school.org][§What classes should be taught in school?]])
+- Classes have not evolved to meet modern technological evolution. (see [[id:cd1aa9a0-ca77-4cae-b880-17ebda7c2ae7][§What classes should be taught in school?]])
 
 #+BEGIN_QUOTE
 “School’s don’t show you the world, they just show you a bunch of careers.”

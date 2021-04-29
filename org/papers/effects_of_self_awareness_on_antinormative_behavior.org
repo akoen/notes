@@ -1,12 +1,16 @@
+:PROPERTIES:
+:ID:       6e6810d6-8953-4e6b-8d5a-780619ffecc5
+:ROAM_REFS: cite:dienerEffectsSelfawarenessAntinormative1976
+:END:
 #+setupfile: .../hugo_setup.org
 #+TITLE: Effects of self-awareness on antinormative behavior
-#+ROAM_KEY: cite:dienerEffectsSelfawarenessAntinormative1976
+
 
 
 - keywords :: Text_Analysis
 - author :: Diener, E., & Wallbom, M.
 
-  - This study attempted to be the first to find a direct causal relationship between deindividualization in participants and an increase in antinormative behaviour. [[file:../deindividualization_theory.org][§Deindividualization Theory]]
+  - This study attempted to be the first to find a direct causal relationship between deindividualization in participants and an increase in antinormative behaviour. [[id:75215bdc-c1ec-4c29-9fbd-9c5a95c8dd14][§Deindividualization Theory]]
 
   - Two groups of students were given the opportunity to cheat on a test described as an evaluation of general intelligence.
 

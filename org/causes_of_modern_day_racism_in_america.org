@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       fb8cb9c9-65a7-40fd-9029-542017ec35c4
+:END:
 #+setupfile: ../hugo_setup.org
 #+TITLE: Causes of Modern-Day Racism in America
 

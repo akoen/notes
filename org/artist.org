@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       25ce6ebd-6ab7-46df-b954-6fed14500da4
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Artist

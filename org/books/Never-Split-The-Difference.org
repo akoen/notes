@@ -1,9 +1,12 @@
+:PROPERTIES:
+:ID:       4bfadc78-2cc5-4e40-87ca-645fa4d0c5c0
+:END:
 #+setupfile: ../../hugo_setup.org
 #+title: Never Split The Difference
 #+Author: Chris Voss
 #+Date: <2019-11-08 Fri>
 
-- tags :: [[file:../negotiation.org][§Negotiation]]
+- tags :: [[id:d1e3fa5e-3d92-4865-a088-c244a58246fb][§Negotiation]]
 
 These notes are adapted from both Chris Voss' book /Never Split The Difference/ and from his Masterclass on negotiation.
 
@@ -14,7 +17,7 @@ After watching Chris' Masterclass, I am enthralled by the presence he commands. 
 - Life is negotiation. Their will always be inevitable conflict in a relationship, and so it's important to be able to get what you want while inflicting minimal damage.
 - Negotiation is just communication with results.
 
-** Chapter 2: Be a [[file:../mirroring.org][§mirror]] 
+** Chapter 2: Be a [[id:a15059a7-bda0-441c-84a6-d66bc8c07194][§mirror]] 
 
 - Great negotiators are always looking for new information and questioning their assumptions. They remain more emotionally open.
 - They most important thing you can do is *listen*:
@@ -231,12 +234,12 @@ Here is a sample [[file:../email.org][§Email]] sent by Chris to a client who wa
 Are you against committing to 3 tickets now? Is it a ridiculous idea for you to pay for the tickets before the business day starts tomorrow?
 ** Bending reality
 
-Bending their reality is in reference to [[file:../loss_aversion.org][§Loss Aversion]].
+Bending their reality is in reference to [[id:a9c71a6a-ad6f-4da9-a76d-4255c877e07c][§Loss Aversion]].
 
 - Frame negotiations in a way that emphasizes what the other side has to lose by not working with you.
   - Don't say "We'll increase your sales by 23%", say "by not working with us, you risk your sales falling by 23%."
  
-- Humans naturally want what's [[file:../fairness.org][§Fair]], even if it means losing out.
+- Humans naturally want what's [[id:ec9cf64b-4884-4f04-bb27-a03f04f82390][§Fair]], even if it means losing out.
   - Thought experiment: Imagine you and a friend find $10 on the sidewalk and you friend offers to give you $3 while he takes $7. Would you rather take the $3 or nothing?
 
 - If someone says, "I've given you a fair deal", say "I'm sorry. Could you please explain why you find my deal to be unfair?"

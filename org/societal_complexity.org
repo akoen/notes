@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       ef802704-1cdc-4727-9d19-0a20ccfc7611
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Societal Complexity
 

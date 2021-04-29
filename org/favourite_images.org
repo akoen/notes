@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       a5f3b500-9189-4355-b002-d17ad8be3a0b
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Favourite Images
 

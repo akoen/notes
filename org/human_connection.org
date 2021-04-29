@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       a847ec41-e1a6-4ee9-8dba-d8ce405dfd26
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Human Connection
 

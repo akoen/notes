@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       ed64b25e-0281-4062-b7d4-598a0da1bc5b
+:END:
 #+setupfile: ../../hugo_setup.org
 #+title: Hello World
 
-- author :: [[file:../hannah_fry.org][§Hannah Fry]]
+- author :: [[id:0ad3030e-a0d0-43a7-94ad-a3f28f790dca][§Hannah Fry]]
 
 - rating :: 3/5
 
@@ -9,7 +12,7 @@
 * The Book in 3 Sentences
 
 - Algorithms are insanely good at certain kinds of tasks, but they do not /think/, and thus often make irrational decisions.
-- We implicitly trust algorithms even when they contradict common sense (in a famous case, a man almost drove off a cliff because his GPS led him astray). Yet when an algorithm is wrong once, we completely lose faith in its ability [[file:../precautionary_principle.org][(§Precautionary Principle)]].
+- We implicitly trust algorithms even when they contradict common sense (in a famous case, a man almost drove off a cliff because his GPS led him astray). Yet when an algorithm is wrong once, we completely lose faith in its ability [[id:9eb48257-c017-4f47-b2b4-025c01f99cef][(§Precautionary Principle)]].
 - The author advocates that algorithms should be used not to replace human expertise, but to assist them.
 
 * Impressions
@@ -26,19 +29,19 @@ My main takeaway from /Hello World/ is that algorithms are rarely a replacement 
 #+begin_quote
 Although AI has come on in leaps and bounds of late, it is still only ‘intelligent’ in the narrowest sense of the word. It would probably be more useful to think of what we’ve been through as a revolution in computational statistics than a revolution in intelligence.
 
-— [[file:../hannah_fry.org][§Hannah Fry]]
+— [[id:0ad3030e-a0d0-43a7-94ad-a3f28f790dca][§Hannah Fry]]
 #+end_quote
 
 #+begin_quote
 It’s worth noting how the experiment suggests we feel about algorithms that are right most of the time. We end up believing that they always have superior judgment.
 
-— [[file:../hannah_fry.org][§Hannah Fry]]
+— [[id:0ad3030e-a0d0-43a7-94ad-a3f28f790dca][§Hannah Fry]]
 #+end_quote
 
 #+begin_quote
 As soon as we know an algorithm can make mistakes, we also have a rather annoying habit of over-reacting and dismissing it completely, reverting instead to our own flawed judgement. It’s known to researchers as algorithm aversion.
 
-— [[file:../hannah_fry.org][§Hannah Fry]] 
+— [[id:0ad3030e-a0d0-43a7-94ad-a3f28f790dca][§Hannah Fry]] 
 #+end_quote
 
 

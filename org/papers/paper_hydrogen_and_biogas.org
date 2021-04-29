@@ -1,5 +1,9 @@
+:PROPERTIES:
+:ID:       98163346-7d25-402e-8f65-c0a2b4604ba0
+:ROAM_REFS: cite:alves
+:END:
 #+setupfile: .../hugo_setup.org
-#+ROAM_KEY: cite:alves
+
 #+title: Paper: Overview of hydrogen production technologies from biogas and the applications in fuel cells
 
 - source :: cite:alves
@@ -10,7 +14,7 @@
 
   - Produced by microorganisms that anaerobically decompose organic matter such as animal waste, sewage, landfills etc.
 
-- 90% of [[file:../hydrogen.org][§Hydrogen]] is derived from CH₄ (methane reforming). The most common processes are "steam reforming", "partial oxidation reforming", and "auto thermal reforming".
+- 90% of [[id:494cbc52-16af-4300-8a43-acc583688416][§Hydrogen]] is derived from CH₄ (methane reforming). The most common processes are "steam reforming", "partial oxidation reforming", and "auto thermal reforming".
   - Require temperatures of 600–1000 ℃.
 
 *Methane reforming chemical reactions*

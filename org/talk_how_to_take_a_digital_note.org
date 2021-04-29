@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       92cbdb03-89ea-4f09-8156-8d110efced02
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Talk: How to Take a Digital Note
 
-- author :: [[file:tiago_forte.org][§Tiago Forte]]
-- tags :: [[file:note-taking.org][§Note-Taking]] [[file:productivity.org][§Productivity]]
+- author :: [[id:daaf7a0e-7b41-4929-a39e-4ea2c6a25fa6][§Tiago Forte]]
+- tags :: [[id:a393e121-be96-47d7-8e7c-f3c68d6e3a24][§Note-Taking]] [[id:d996b5ee-745d-437b-82e0-29372a36a7f5][§Productivity]]
 
   
   Save a note if it meets one or more of the following 4 conditions:
@@ -13,6 +16,6 @@
   4. It's easily lost
 
      
-- In school, cheating is discouraged because they want to verify that you yourself have done the work. When you leave school, borrowing ideas from others becomes essential. ([[file:educational_reform.org][§Educational Reform]])
+- In school, cheating is discouraged because they want to verify that you yourself have done the work. When you leave school, borrowing ideas from others becomes essential. ([[id:8c7dad95-3946-4dfd-a3ca-ba015d3a47ef][§Educational Reform]])
 
 - A common sentiment is that note-taking is antiquated because everything can be found using Google. This is not true. *You can't Google emotions. The truly valuable notes are those that are personal to you.*

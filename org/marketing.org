@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       4448d33d-80ec-4b12-9ab2-4227878caddc
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Marketing
 

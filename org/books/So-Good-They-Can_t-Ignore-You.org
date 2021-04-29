@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       4eb56062-fa25-4301-9b63-5debbe2e5672
+:END:
 #+setupfile: ../../hugo_setup.org
 #+title: So Good They Can't Ignore You
 #+Date: <2019-12-23 Mon>
 
-- author :: [[file:../cal_newport.org][§Cal Newport]]
+- author :: [[id:c035a806-bd4d-45f3-82b0-8369b3ae117a][§Cal Newport]]
 
 *Thesis:* Career fulfillment is achieved by adopting the craftsman mindset. This mindset entails the acquisition of valuable skills over following a predetermined passion.
 
@@ -24,7 +27,7 @@ This book is divided into 4 rules:
 
 - Fulfilled professionals don't ask themselves, "what can my career do for me," but rather "what can I do for my career?". This is the *craftsman mindset.*
 
-- Career capital is best acquired through *deliberate practice* (see [[file:Peak.org][§Peak: Secrets from the New Science of Expertise]])
+- Career capital is best acquired through *deliberate practice* (see [[id:1ff88c66-b17d-40b3-aefe-70a96aa13831][§Peak: Secrets from the New Science of Expertise]])
   - While musicians, athletes etc. are intimately familiar with deliberate practice, knowledge workers are not. This is a huge advantage for you.
 
 #+BEGIN_QUOTE

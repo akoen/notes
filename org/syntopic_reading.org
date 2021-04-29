@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       04654f55-3c5c-447b-b93d-5ff96bb2aa04
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Syntopic reading

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       aaa55533-7fa1-4caa-b587-1eb48a4f0ab4
+:END:
 #+setupfile: ../hugo_setup.org
 #+title:James Clear
 

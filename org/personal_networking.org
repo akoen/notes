@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       f0cd526f-90de-4c88-90f6-85d1b5d45b03
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Personal Networking
 
-- The value of personal networks is often understated. For example, a 2016 study published in the journal of Contemporary Economic Policy showed that [[file:fraternity.org][§Fraternity]] membership increased a student's future income by an average of 36%.
+- The value of personal networks is often understated. For example, a 2016 study published in the journal of Contemporary Economic Policy showed that [[id:7d46e48a-1c56-4e1e-9525-1dc1d2e7a1fd][§Fraternity]] membership increased a student's future income by an average of 36%.

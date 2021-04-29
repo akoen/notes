@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       57385372-fd70-4162-8283-ddf4f37e07f1
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Artificial Intelligence
 
-- tags :: [[file:machine_learning.org][§Machine Learning]]
+- tags :: [[id:03f38845-378d-4a1e-82f1-e7c056f59f90][§Machine Learning]]
 
-- [[file:elon_musk.org][§Elon Musk]] is seriously concerned about AI and places AI safety in the top three things he thinks about most often.
+- [[id:25731e61-a3b9-4509-9c05-b80c96bd8281][§Elon Musk]] is seriously concerned about AI and places AI safety in the top three things he thinks about most often.

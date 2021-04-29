@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       1f64a171-1581-4db8-ac29-eae43a5bd929
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Ephemeralization
 

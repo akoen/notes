@@ -1,10 +1,13 @@
+:PROPERTIES:
+:ID:       33ea40a4-f351-4439-9dc0-5c180ea31f1c
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: What is Creativity?
 
 #+BEGIN_QUOTE
 “Creativity is just connecting things.”
 
-— [[file:steve_jobs.org][§Steve Jobs]]
+— [[id:2addfac9-33dc-44f2-922c-e6feb2624277][§Steve Jobs]]
 #+END_QUOTE
 
 

@@ -1,11 +1,14 @@
+:PROPERTIES:
+:ID:       a9a48174-518c-492b-900b-00e72b7790f6
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Ammonia
 
-- Like [[file:hydrogen.org][§Hydrogen]], ammonia is carbon free, assuming that it is produced using renewable sources.
+- Like [[id:494cbc52-16af-4300-8a43-acc583688416][§Hydrogen]], ammonia is carbon free, assuming that it is produced using renewable sources.
 
 - Work towards ammonia fuel cells is ongoing.
 
-- Ammonia has a much higher energy density than [[file:hydrogen.org][§Hydrogen]] cite:lan2012ammonia
+- Ammonia has a much higher energy density than [[id:494cbc52-16af-4300-8a43-acc583688416][§Hydrogen]] cite:lan2012ammonia
 
 #+DOWNLOADED: screenshot @ 2020-04-19 18:55:33
 [[file:img/ammonia/screenshot2020-04-19_18-55-33_.png]]

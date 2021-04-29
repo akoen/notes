@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       6459819a-7183-46cd-a9f8-6a81ec96c918
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Trucking Industry
 

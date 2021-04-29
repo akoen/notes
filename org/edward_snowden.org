@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       33e611d4-169a-4dd9-a441-e18fe284ba9b
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Edward Snowden
 

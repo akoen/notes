@@ -1,10 +1,13 @@
+:PROPERTIES:
+:ID:       96bcc797-5404-46b4-8cb9-3b7c73646617
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Aspect-Orientated Programming
 
-- tags :: [[file:programming.org][§Programming]]
+- tags :: [[id:ae6e5088-93af-496b-8f07-45ede80dec3f][§Programming]]
 
 Aspect orientated programming is a programming paradigm in which functionality may be added to existing code through the use of advice.
 
 - For example, you could add logging functionality to a set of functions functions using a single line of code.
   
-- AOP is generally considered to be antiquated and replaced by languages with built in support for such paradigms such as [[file:emacs_lisp.org][§Elisp]]'s advice-add function.
+- AOP is generally considered to be antiquated and replaced by languages with built in support for such paradigms such as [[id:72280684-1ef9-43c0-8e67-77db5c44d5be][§Elisp]]'s advice-add function.

@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       7ed53639-31b5-4cb0-88c6-0a553184d688
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Quantum Mechanics
 
-- tags :: [[file:physics.org][§Physics]]
+- tags :: [[id:83a06686-dab0-46f9-98ab-1c10e4afacb8][§Physics]]
 
 - As far as physicists are currently aware, the universe obeys the Newtonian notion that given sufficient information about a particle, its past and future can be perfectly predicted.

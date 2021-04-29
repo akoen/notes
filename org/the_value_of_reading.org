@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       745e9fef-c07d-4e96-98aa-3016c5888990
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: The value of reading
 

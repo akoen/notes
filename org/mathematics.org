@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       bebd2157-ce9d-49cb-961f-b363d6aa5f56
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Mathematics
 

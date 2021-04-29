@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       85a4f01e-204d-49c7-8c72-86e80b70286b
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Summarize content to build mental models
 
-When you read a book, listen to a podcast, or otherwise consume content made by experts, it is vital to summarize and rework their ideas into your own words. [[file:writing_refines_thinking.org][§Writing refines thinking]], and this process allows you to:
+When you read a book, listen to a podcast, or otherwise consume content made by experts, it is vital to summarize and rework their ideas into your own words. [[id:1b25e8c7-0b2d-416a-b56f-f7a5f1e2b5a0][§Writing refines thinking]], and this process allows you to:
 1. Inhabit their mind by imitating their thought patterns and language.
-2. Build durable neural connections by [[file:elaboration.org][§Elaborating]] on what you read.
-3. [[file:books/show_your_work.org][§Show Your Work]] with others and engage them in meaningful conversation.
+2. Build durable neural connections by [[id:6fd84cbe-adc9-4e86-a7fb-c182efa36e5e][§Elaborating]] on what you read.
+3. [[id:8e6238e2-6eaf-4703-ae4c-7d9ff93a1d40][§Show Your Work]] with others and engage them in meaningful conversation.

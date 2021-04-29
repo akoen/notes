@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       ced3d280-0f1c-4eda-baf6-4b81a1392ebb
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: How to Wake Up In The Morning
 
-- tags :: [[file:sleep.org][§Sleep]]
+- tags :: [[id:205fdd9a-e5b4-4141-b923-868be88f2499][§Sleep]]
 
 - Think: "It's going to be a great day!" By giving yourself something to look forward to, it becomes much easier to get yourself out of bed.

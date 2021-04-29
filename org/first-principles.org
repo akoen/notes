@@ -1,10 +1,13 @@
+:PROPERTIES:
+:ID:       c648454d-c239-4723-af3e-af1e6f648266
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: First Principles
 
-- In his [[https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html][article]] on [[file:tesla.org][§Tesla]], [[file:tim_urban.org][§Tim Urban]] compares knowledge to a tree: if you don't have a solid trunk of information on which to scaffold new ideas, the "branches" will fall down.
-  - This is echoed by [[file:michael_nielsen.org][§Michael Nielsen]] in [[file:articles/augmenting-long-term-memory.org][§Article: Augmenting Long-term Memory]] who claims that people need to spend more time focusing on the basic before worrying about complex issues.
+- In his [[https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html][article]] on [[id:4a4771ab-7ee0-44e1-825a-09764bf5b620][§Tesla]], [[id:751a3d5d-b78c-40cf-8760-c0de6f2b3f01][§Tim Urban]] compares knowledge to a tree: if you don't have a solid trunk of information on which to scaffold new ideas, the "branches" will fall down.
+  - This is echoed by [[id:a81f03ed-d584-4547-a1ed-89ad6aff2dcd][§Michael Nielsen]] in [[id:c0e6fa21-055c-4751-af6f-2ed5ecd09d84][§Article: Augmenting Long-term Memory]] who claims that people need to spend more time focusing on the basic before worrying about complex issues.
   
-- This way of thinking is shared by many successful entrepreneurs such as [[file:elon_musk.org][§Elon Musk]] and [[file:steve_jobs.org][§Steve Jobs]]
+- This way of thinking is shared by many successful entrepreneurs such as [[id:25731e61-a3b9-4509-9c05-b80c96bd8281][§Elon Musk]] and [[id:2addfac9-33dc-44f2-922c-e6feb2624277][§Steve Jobs]]
   - *When Jobs was designing the iPhone, he asked "What should a mobile phone be?" instead of "How do we make a better blackberry."*
 
 #+BEGIN_QUOTE

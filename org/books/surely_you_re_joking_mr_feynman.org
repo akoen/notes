@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       c394a023-5630-4ae5-8d47-64aae6a83fb7
+:END:
 #+setupfile: ../../hugo_setup.org
 #+title: Surely You're Joking Mr Feynman
 
-- author :: [[file:../richard_feynman.org][§Richard Feynman]]
+- author :: [[id:4bdd184b-5fe2-4f5b-bc49-e085d3269e52][§Richard Feynman]]
 * The Book in 3 Sentences
 Richard Feynman was a famous twentieth-century scientist who—among other accomplishments—won the Nobel Prize in physics for his work in quantum electrodynamics. More than just a genius, Feynman was equally a prankster and an altogether whimsical character. This book is a transcript of many of his stories.
 
@@ -17,7 +20,7 @@ I had a scheme, which I still use today when somebody is explaining something th
 
 I can’t understand anything in general unless I’m carrying along in my mind a specific example and watching it go.
 
-— [[file:../richard_feynman.org][§Richard Feynman]]
+— [[id:4bdd184b-5fe2-4f5b-bc49-e085d3269e52][§Richard Feynman]]
 #+end_quote
 
 

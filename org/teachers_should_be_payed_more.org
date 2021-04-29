@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       cebe9120-291d-42a7-a408-f324d85deed0
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Teachers should be payed more
 

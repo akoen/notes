@@ -1,12 +1,16 @@
+:PROPERTIES:
+:ID:       02ca221b-f6d8-4ca6-8a3e-3000bffa6892
+:ROAM_ALIASES: "\"Slipbox\""
+:END:
 #+setupfile: ../hugo_setup.org
-#+roam_alias: "Slipbox"
+
 #+Title: Zettelkasten
 
 - How can I make this idea detailed enough to stand on its own, without the context of the book or the associated highlight? (How to Take Smart Notes)
 
-- Every time you touch a note, you should aspire to add value to it. (see [[file:progressive-summarization.org][§Progressive Summarization]])
+- Every time you touch a note, you should aspire to add value to it. (see [[id:76ae3377-2ead-4c81-9057-645197822d2c][§Progressive Summarization]])
   
 * Process
 ** Literature notes
 
-- Some argue that you should never quote directly when taking literature notes as it is easy. Paraphrasing mandates [[file:elaboration.org][§Elaboration]].
+- Some argue that you should never quote directly when taking literature notes as it is easy. Paraphrasing mandates [[id:6fd84cbe-adc9-4e86-a7fb-c182efa36e5e][§Elaboration]].

@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       4a4771ab-7ee0-44e1-825a-09764bf5b620
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Tesla

@@ -1,12 +1,16 @@
+:PROPERTIES:
+:ID:       1ff88c66-b17d-40b3-aefe-70a96aa13831
+:ROAM_ALIASES: "\"Peak\""
+:END:
 #+setupfile: ../../hugo_setup.org
 #+title: Peak: Secrets from the New Science of Expertise
 #+Author: Anders Ericsson and Robert Pool
 #+Date: <2019-08-22 Thu>
-#+ROAM_ALIAS: "Peak"
+
 
 /Note: These notes are not complete as I have just started univerity and they are not a priority./
 
-*[[file:../mental_representations.org][§Mental Representations]]*:
+*[[id:a2857bde-9233-4ed3-97b1-8f0cc4bd6b44][§Mental Representations]]*:
 
 Learning is about creating mental representations—mental modals that can be used to make sense of complex information which would seem quasi-random to a layperson. For example, a professional pianist is able to look a sheet of music and without ever having heard it, know what it will sound like. These mental representations exist as neural structures inside your brain which are solidified and developed through practice.
 

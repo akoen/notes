@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       8ca26835-8c8e-423b-892d-f87c40d02c0b
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Journalism
 

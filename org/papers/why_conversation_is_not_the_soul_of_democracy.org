@@ -1,6 +1,10 @@
+:PROPERTIES:
+:ID:       ed62e7bb-f547-4f26-a2c8-fda306de2352
+:ROAM_REFS: cite:schudsonWhyConversationNot1997
+:END:
 #+setupfile: .../hugo_setup.org
 #+TITLE: Why conversation is not the soul of democracy
-#+ROAM_KEY: cite:schudsonWhyConversationNot1997
+
 
 
 - keywords :: WRDS150

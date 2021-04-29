@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       61a6b31f-1d25-4a40-8782-cf6b13c48964
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: How To Learn
 
@@ -8,6 +11,6 @@
 3. Practice the modified version until it is easy.
 4. Repeat this process until the hard thing becomes easy.
 
-While this framework is simple, it identifies a key point: the importance of tight [[file:feedback_loops.org][§Feedback Loops]] and [[file:deliberate_practice.org][§Purposeful/Deliberate Practice.]]
+While this framework is simple, it identifies a key point: the importance of tight [[id:2982ab90-d3ca-4e94-8969-0ff5855de721][§Feedback Loops]] and [[id:4c1fb45f-84c5-463f-98cc-caacd2979683][§Purposeful/Deliberate Practice.]]
 
 - When you learn, don't focus on getting it right. Instead, focus on /how/ you're performing. Then, target the /specific areas/ where you're performing poorly.

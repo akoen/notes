@@ -1,9 +1,12 @@
+:PROPERTIES:
+:ID:       eb67fe87-9cb9-466b-9212-767e1316b761
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Procrastination
 
 - Procrastination is not a result of boredom, it's a consequence of not knowing exactly what you should be doing in the moment.
   - For example, maybe you know that you should be working on your research paper. This is a monumental task, and it is easier to open Instagram than to grapple with such a vague responsibility.
-  - Conversely, if you decided beforehand that the /next/ task required for your paper is to record six notes for a specific scholarly article, you would have no problem executing. [[file:modularize_your_life.org][§Modularize Your Life]]
+  - Conversely, if you decided beforehand that the /next/ task required for your paper is to record six notes for a specific scholarly article, you would have no problem executing. [[id:a5607113-c615-4c99-ab2d-df7bf7365295][§Modularize Your Life]]
   - *Strive to reduce friction between tasks.*
 
 - As soon as you start to work on the problem at hand, your fear of failure goes down because you can influence the outcome.

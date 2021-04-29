@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       3740eb98-ab84-489b-98c5-bd7d90f809dc
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Spaced Repetition
 

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       445ca7ec-cbda-467c-84bc-984b7b483832
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Generalized Perspective Projection
 

@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       9f79da7b-9f7d-449f-a45b-2e2ac1e9bfbc
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Favourite Paintings
 
-- tags :: [[file:favourite_visual_artists.org][§Favourite Visual Artists]]
+- tags :: [[id:1a82a60d-b57c-45de-aaa4-e8a182097672][§Favourite Visual Artists]]
 
-  [[file:the_course_of_empire.org][§The Course of Empire]]
+  [[id:341dd546-4b81-423f-9aec-8058042218b4][§The Course of Empire]]

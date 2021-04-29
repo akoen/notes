@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       2e275160-8334-48cb-9651-1b9b054bf8c7
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Qubit
 

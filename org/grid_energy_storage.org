@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       c0bf126a-7e43-4d27-aeb7-8a94e70dade0
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Grid Energy Storage
 

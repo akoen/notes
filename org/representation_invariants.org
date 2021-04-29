@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       145afe9d-13f0-4b02-8733-dc8b6a8edd27
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Representation Invariants
 

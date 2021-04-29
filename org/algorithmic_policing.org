@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       3a93ff85-33a9-4547-9f68-8150a50555b9
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Algorithmic Policing
 
-Algorithmic policing is the practice of using computer algorithms and [[file:machine_learning.org][§Machine Learning]] to assist police departments with crime prevention. These algorithms include /Predictive Policing/ and /Algorithmic Surveillance/ technologies.
+Algorithmic policing is the practice of using computer algorithms and [[id:03f38845-378d-4a1e-82f1-e7c056f59f90][§Machine Learning]] to assist police departments with crime prevention. These algorithms include /Predictive Policing/ and /Algorithmic Surveillance/ technologies.
 
 *Predictive Policing Technologies* are used to predict where and by whom crimes will be committed in the future.
 - E.g. The VPD uses GeoDASH to predict the areas in Vancouver which are most likely to experience break-and-enters within a given time period.
@@ -14,11 +17,10 @@ Law enforcement agencies across Canada have begun to use algorithmic policing so
 
 This table shows the algorithmic policing technologies in use by police departments in Canada as of Sept. 2020. ([[https://citizenlab.ca/2020/09/to-surveil-and-predict-a-human-rights-analysis-of-algorithmic-policing-in-canada/][Source]])
 
-#+DOWNLOADED: https://citizenlab.ca/wp-content/uploads/2020/08/Screen-Shot-2020-08-31-at-6.53.44-PM.png @ 2020-09-04 21:48:38
 [[file:img/algorithmic_policing/Screen-Shot-2020-08-31-at-6.53.44-PM2020-09-04_21-48-38_.png]]
 
 * Ethical implications
 
-- The [[file:machine_learning.org][§neural networks]] used by these tools are generally trained on historical data, leading to [[file:algorithmic_bias.org][§Algorithmic Bias]].
+- The [[id:03f38845-378d-4a1e-82f1-e7c056f59f90][§neural networks]] used by these tools are generally trained on historical data, leading to [[id:4accb863-bbe1-42b0-a91d-c95c4f8017d5][§Algorithmic Bias]].
 
-- These technologies may create positive [[file:feedback_loops.org][§Feedback Loops]]: a pattern of crime is noticed so police pay special attention to that sector, leading to more arrests and a more evident pattern.
+- These technologies may create positive [[id:2982ab90-d3ca-4e94-8969-0ff5855de721][§Feedback Loops]]: a pattern of crime is noticed so police pay special attention to that sector, leading to more arrests and a more evident pattern.

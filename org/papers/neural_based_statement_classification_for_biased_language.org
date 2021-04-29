@@ -1,12 +1,16 @@
+:PROPERTIES:
+:ID:       09792476-88c0-491d-8c8e-859ad8974d6f
+:ROAM_REFS: cite:hubeNeuralBasedStatement2019
+:END:
 #+setupfile: .../hugo_setup.org
 #+TITLE: Neural Based Statement Classification for Biased Language
-#+ROAM_KEY: cite:hubeNeuralBasedStatement2019
+
 
 
 - keywords :: Computer Science - Computation and Language,WRDS150
 - author :: Hube, C., & Fetahu, B.
 
-The purpose of this study was to quantify biased phrasing in Wikipedia articles using [[file:../machine_learning.org][§Machine Learning]]—rather than feature-based—techniques.
+The purpose of this study was to quantify biased phrasing in Wikipedia articles using [[id:03f38845-378d-4a1e-82f1-e7c056f59f90][§Machine Learning]]—rather than feature-based—techniques.
 
 - Their model was able to detect biased statements with a precision of P = 91.7%.
   - This outperforms feature-based models by over 30%.

@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       3c422231-f385-4baf-8895-66984dc159d5
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Transportation

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       ea99c114-32bb-4cf0-8e51-739078129a99
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Python Version Management
 

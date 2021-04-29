@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       f980925b-ab0d-49c0-95bd-b764adff4ea3
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: How to be happy
 

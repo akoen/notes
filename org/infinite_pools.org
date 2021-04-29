@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       578890d0-df79-4179-8c70-7ee32268a39b
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Infinite Pools
 

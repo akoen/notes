@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       989b6521-6410-492e-b9a4-0997337a618c
+:END:
 #+setupfile: ../../hugo_setup.org
 #+title: Make Time
 

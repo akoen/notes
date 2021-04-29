@@ -1,6 +1,10 @@
+:PROPERTIES:
+:ID:       861466f9-3871-4f76-a9b4-b35f7530a51d
+:ROAM_REFS: cite:papacharissiDemocracyOnlineCivility2004
+:END:
 #+setupfile: .../hugo_setup.org
 #+TITLE: Democracy online: civility, politeness, and the democratic potential of online political discussion groups
-#+ROAM_KEY: cite:papacharissiDemocracyOnlineCivility2004
+
 
 
 - keywords :: WRDS150

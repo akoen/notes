@@ -1,3 +1,7 @@
+:PROPERTIES:
+:ID:       778f6d2f-efcd-441f-b639-20b149c3564c
+:ROAM_REFS: https://threadreaderapp.com/thread/1280159687393120256.html
+:END:
 #+setupfile: ../hugo_setup.org
            #+roam_key: https://threadreaderapp.com/thread/1280159687393120256.html
 #+title: Shane Parrish: What Canada should be doing
@@ -12,16 +16,16 @@
 
 - Build a domestic capability to create and manufacture microchips.
 
-- Ensure digital literacy and skills for the future, including implementing mandatory coding classes from early primary to Grade 12. Teach [[file:../digital_privacy.org][§online privacy]] in all of these grades as well. (see [[file:../what_classes_should_be_taught_in_school.org][§What classes should be taught in school?]])
+- Ensure digital literacy and skills for the future, including implementing mandatory coding classes from early primary to Grade 12. Teach [[id:690198da-5662-4141-a601-f93229f90675][§online privacy]] in all of these grades as well. (see [[id:cd1aa9a0-ca77-4cae-b880-17ebda7c2ae7][§What classes should be taught in school?]])
 
 - Build a high-speed rail network, starting with Montreal-Ottawa-Toronto corridor.
 
 - Repatriate critical know-how and manufacturing capabilities in key industries such as heath, aerospace, and silicon.
 
-- Launch a targeted repatriation/[[file:../immigration.org][§immigration]] program that would actively recruit and fund Canadians and non-Canadians living abroad with specific expertise to set up Canadian capabilities. (Pretend we run a sports team and recuit the best people to come build.)
+- Launch a targeted repatriation/[[id:f3cd67a4-6a90-4b16-aa3c-5e3a8df66006][§immigration]] program that would actively recruit and fund Canadians and non-Canadians living abroad with specific expertise to set up Canadian capabilities. (Pretend we run a sports team and recuit the best people to come build.)
 
 - Implement a government matching loan program to provide interest-free matching loans from $2M to $10M to proven entrepreneurs in addition to an equity stake. E.g. Proven entrepreneur invests $10M of own capital, Gov matches with interest-free loan for 10 years and 5% equity.
 
-- Rapidly scale up investments in [[file:../clean_energy.org][§Clean Energy]] infrastructure.
+- Rapidly scale up investments in [[id:c15f119b-dbc7-426c-a9fa-cc8f18d546dd][§Clean Energy]] infrastructure.
 
 - Let's get started. It's time to build the future. 

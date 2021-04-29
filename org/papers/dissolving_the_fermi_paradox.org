@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       0d8c9620-b0fe-4180-8006-b43c2e7364e9
+:END:
 #+setupfile: .../hugo_setup.org
 #+title: Dissolving the Fermi Paradox

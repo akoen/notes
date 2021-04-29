@@ -1,14 +1,17 @@
+:PROPERTIES:
+:ID:       6fd84cbe-adc9-4e86-a7fb-c182efa36e5e
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Elaboration
 
-- tags :: [[file:reading.org][§Reading]]
+- tags :: [[id:67885a0c-3251-46db-bee0-009edbcd5721][§Reading]]
 
-- [[https://sirupsen.com/read/][Simon Eskildsen]] believes that when [[file:reading.org][§Reading]], it is essential to relate concepts you learn to metaphors with which you're familiar. A potent example of this is asking yourself whether a past event in your life would have played out differently had you understood this concept. Try to learn new [[file:mental_models.org][§Mental Models]].
+- [[https://sirupsen.com/read/][Simon Eskildsen]] believes that when [[id:67885a0c-3251-46db-bee0-009edbcd5721][§Reading]], it is essential to relate concepts you learn to metaphors with which you're familiar. A potent example of this is asking yourself whether a past event in your life would have played out differently had you understood this concept. Try to learn new [[id:4ae16dcf-81dc-4c55-b9e9-6a9bcf67e997][§Mental Models]].
 
   #+BEGIN_QUOTE
   “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”
 
-  — [[file:richard_feynman.org][§Richard Feynman]]
+  — [[id:4bdd184b-5fe2-4f5b-bc49-e085d3269e52][§Richard Feynman]]
   #+END_QUOTE
 
 

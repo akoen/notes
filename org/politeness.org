@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       10205a00-b591-4064-8a65-f6a53d09c819
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Politeness
 

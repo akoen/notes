@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       419b6df1-25ca-4224-8319-a597badb3dda
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Exercise
 

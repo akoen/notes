@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       9967230e-a5fe-40de-83ed-18614c05c669
+:END:
 #+setupfile: ../../hugo_setup.org
 #+title:Privacy is Power

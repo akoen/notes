@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       627e7945-66e8-44c2-99c9-87b4f6d44c50
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Test-Driven Development
 

@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       494cbc52-16af-4300-8a43-acc583688416
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Hydrogen
 
-- tags :: [[file:climate_change.org][§Climate Change]] [[file:transportation.org][§Transportation]]
+- tags :: [[id:5736cee7-7a57-42b1-a81c-341ea54c011d][§Climate Change]] [[id:3c422231-f385-4baf-8895-66984dc159d5][§Transportation]]
 
 - Daniel Friedmann argues that the hydrogen economy didn't happen because there's just too much that needs to happen.
   
@@ -11,7 +14,7 @@
 - The primary cost of fuel cells comes from the high platinum requirement. A catalyst that did not involve large amounts of noble metals would be a huge step forward.
 
 - Hydrogen can be sourced from hydrocarbons. The lower the carbon content of the hydrocarbon, the less the emissions.
-  - An alternative to hydrogen as an energy storage mechanism is [[file:ammonia.org][§Ammonia]]
+  - An alternative to hydrogen as an energy storage mechanism is [[id:a9a48174-518c-492b-900b-00e72b7790f6][§Ammonia]]
 
 - While it is possible to use hydrogen as a fuel in internal combustion engines, it is rarely done cite:shell.
 

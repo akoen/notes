@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       75215bdc-c1ec-4c29-9fbd-9c5a95c8dd14
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Deindividualization Theory
 
 Deindividualization theory is the idea that a lack of self-awareness promotes transgressive behaviour. cite:dienerEffectsSelfawarenessAntinormative1976
 
-- This is often theorized as an explanation for the frequency of abusive and hateful comments posted on [[file:social_media.org][§Social Media]]. (wikipedia)
+- This is often theorized as an explanation for the frequency of abusive and hateful comments posted on [[id:93c93063-5101-4470-9f84-654bc03bfa14][§Social Media]]. (wikipedia)

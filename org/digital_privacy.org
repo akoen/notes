@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       690198da-5662-4141-a601-f93229f90675
+:END:
 #+setupfile: ../hugo_setup.org
 #+title:Digital Privacy
 

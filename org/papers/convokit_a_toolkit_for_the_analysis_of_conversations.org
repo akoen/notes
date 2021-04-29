@@ -1,6 +1,10 @@
+:PROPERTIES:
+:ID:       3ac3171e-a966-406c-8ffe-1cf836a3fa66
+:ROAM_REFS: cite:changConvoKitToolkitAnalysis2020
+:END:
 #+setupfile: .../hugo_setup.org
 #+TITLE: ConvoKit: A Toolkit for the Analysis of Conversations
-#+ROAM_KEY: cite:changConvoKitToolkitAnalysis2020
+
 
 
 - keywords :: Computer Science - Computation and Language,Computer Science - Social and Information Networks,Text_Analysis
@@ -12,4 +16,4 @@
 
 - Provides tools to analyze not just the utterances that make up conversations, but also the metadata that characterizes the conversations and the speakers that take part. 
 
-- Includes algorithms for [[file:../conversational_forecasting.org][§Conversational Forecasting]]
+- Includes algorithms for [[id:14bd50f5-4c78-46de-9806-e724de079828][§Conversational Forecasting]]

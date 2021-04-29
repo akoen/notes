@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       e7cc642d-190f-4b95-882e-4b1cea7dfcf3
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Sievert
 

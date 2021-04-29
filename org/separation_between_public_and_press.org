@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       44c29409-e75c-49b7-9fef-783d349bfa6d
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Separation Between Public and Press
 
@@ -8,6 +11,6 @@
   - "Objectivity was a defensive measure, an attempt to secure by quasi-scientific means a method for recording the world independent of the political and social forces that were shaping it" (p. 246).
   - Yet this oath to objectivity mandated a separation from the public—the public conversation could no longer be facilitated because effective public conversation had been lost to secrecy and bias. 
 
-- Nowadays, with the popularization of [[file:social_media.org][§Social Media]], [[file:journalism.org][§Journalism]] is inextricably tied to public discourse and opinion and these platforms have "pivotal roles in supporting new production and diffusion" [[cite:leeNewsSharingSocial2012][p.246]].
+- Nowadays, with the popularization of [[id:93c93063-5101-4470-9f84-654bc03bfa14][§Social Media]], [[id:8ca26835-8c8e-423b-892d-f87c40d02c0b][§Journalism]] is inextricably tied to public discourse and opinion and these platforms have "pivotal roles in supporting new production and diffusion" [[cite:leeNewsSharingSocial2012][p.246]].
 
 - 37% of internet users have shared news items online. cite:leeNewsSharingSocial2012

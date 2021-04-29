@@ -1,10 +1,13 @@
+:PROPERTIES:
+:ID:       7be75ce1-15f6-4ce0-a562-510086dfeef2
+:END:
 #+setupfile: ../../hugo_setup.org
 #+title: How to Become a Straight-A Student
 #+Author: Cal Newport
 #+Date: <2019-08-12 Mon>
 
-- author :: [[file:../cal_newport.org][§Cal Newport]]
-- tags :: [[file:../productivity.org][§Productivity]] [[file:../studying.org][§Studying]]
+- author :: [[id:c035a806-bd4d-45f3-82b0-8369b3ae117a][§Cal Newport]]
+- tags :: [[id:d996b5ee-745d-437b-82e0-29372a36a7f5][§Productivity]] [[id:67c5f9df-f684-463a-b713-88ad9670ff28][§Studying]]
 
 *About the author:* Cal Newport is a computer science professor at Georgetown University who writes about the effect of technology on our daily lives and techniques for getting more work done quickly.
 

@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       67c5f9df-f684-463a-b713-88ad9670ff28
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Studying
 

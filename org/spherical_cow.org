@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       e7ab89d0-2ee7-4476-9948-bc0eb52cbf6c
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Spherical Cow
 
-- tags :: [[file:physics.org][§Physics]]
+- tags :: [[id:83a06686-dab0-46f9-98ab-1c10e4afacb8][§Physics]]
 
   Copied from wikipedia:
 
@@ -13,7 +16,7 @@
   
 - The spherical cow is a metaphor for the ability to distill physical principles to their most basic and learn about the universe through these simplifications.
 
-  - For example, the [[file:conservation_of_momentum.org][§Conservation of Momentum]] is rarely observed in real life because of friction. However, by stripping away the complexities of real life, we are able to learn about the nature of the universe.
+  - For example, the [[id:d663f204-bf8c-4c9f-9c24-d1f0b24d3b30][§Conservation of Momentum]] is rarely observed in real life because of friction. However, by stripping away the complexities of real life, we are able to learn about the nature of the universe.
 
 - When the complexities are then re-added to the fundamental laws, patterns in nature can be predicted.
 

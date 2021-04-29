@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       93c93063-5101-4470-9f84-654bc03bfa14
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Social Media
 

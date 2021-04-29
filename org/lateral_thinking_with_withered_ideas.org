@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       a78c9eee-7ed8-41e4-b616-362a2d234136
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Lateral Thinking with Withered Technology
 
@@ -5,6 +8,6 @@ Lateral thinking with withered technology is a term coined by Gunpei Yokoi, the 
 
 The original idea for the Game Boy came to him one day while riding on a train. He saw a man next to him playing with a calculator and realized that the same technology—which was cheap and abundant at the time—could be employed to make a game console. By borrowing seasoned (withered) technology from other disciplines and finding new ways to make use of it (lateral thinking), Yokoi was able to come up with a new product that sold over 112 million units.
 
-Lateral thinking with withered technology is equally applicable to knowledge work, and especially [[file:writing.org][§Writing]]. [[file:steve_jobs.org][§Steve Jobs]] once said that "good artists copy; great artists steal". Old ideas can be learned, remixed, and later employed in new ways to come up with fresh material.
+Lateral thinking with withered technology is equally applicable to knowledge work, and especially [[id:63366b98-81a1-4f8a-a36f-95fa470825f4][§Writing]]. [[id:2addfac9-33dc-44f2-922c-e6feb2624277][§Steve Jobs]] once said that "good artists copy; great artists steal". Old ideas can be learned, remixed, and later employed in new ways to come up with fresh material.
 
-See [[file:david_perell.org][§David Perell]]'s [[https://perell.com/note/lateral-thinking-with-withered-ideas/][article]].
+See [[id:806a7fda-b943-4160-8af1-e71c19d6f9a7][§David Perell]]'s [[https://perell.com/note/lateral-thinking-with-withered-ideas/][article]].

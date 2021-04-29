@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       a2db11a4-dc1a-4796-beee-c71a686fe4c2
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Broken Windows Theory
 
@@ -5,6 +8,6 @@
 
 - "Broken windows" present the appearance of apathy.
 
-- This is extended to explain why minor unresolved bugs in [[file:programming.org][§Programming]] projects can lead to the entire project's demise or why a few dirty dishes left in the sink can lead to the house's decline into disarray.
+- This is extended to explain why minor unresolved bugs in [[id:ae6e5088-93af-496b-8f07-45ede80dec3f][§Programming]] projects can lead to the entire project's demise or why a few dirty dishes left in the sink can lead to the house's decline into disarray.
 
 - The solution is to clean up the visible signs of disorder. 

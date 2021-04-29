@@ -1,6 +1,10 @@
+:PROPERTIES:
+:ID:       9596abb8-47b1-4b5d-9228-f8b521e7847d
+:ROAM_ALIASES: "\"CBT\""
+:END:
 #+setupfile: ../hugo_setup.org
-#+ROAM_ALIAS: "CBT"
+
 #+title: Cognitive Behavioural Therapy
 
-- tags :: [[file:anxiety.org][§Anxiety]]
+- tags :: [[id:3a6ea48b-8699-46f6-97ca-6939fef9a82d][§Anxiety]]
 

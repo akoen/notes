@@ -1,6 +1,10 @@
+:PROPERTIES:
+:ID:       e7f330b5-817f-4ad4-b133-1e9317469f35
+:ROAM_REFS: cite:changTroubleHorizonForecasting2019
+:END:
 #+setupfile: .../hugo_setup.org
 #+TITLE: Trouble on the Horizon: Forecasting the Derailment of Online Conversations as they Develop
-#+ROAM_KEY: cite:changTroubleHorizonForecasting2019
+
 
 
 - keywords :: _tablet,Computer Science - Artificial Intelligence,Computer Science - Computation and Language,Computer Science - Computers and Society,Computer Science - Human-Computer Interaction,Physics - Physics and Society,Text_Analysis
@@ -14,7 +18,7 @@
 - The CRAFT model is trained for the purpose of /moderation/, not to promote self-awareness.
   - It's purpose is "to provide more timely notice to human moderators\ldots [and] to preemptively detect that a conversation is heading towards derailment before it actually turns toxic."
 
-- Separates the act of analyzing conversational dynamics from the act of [[file:../conversational_forecasting.org][§Conversational Forecasting]].
+- Separates the act of analyzing conversational dynamics from the act of [[id:14bd50f5-4c78-46de-9806-e724de079828][§Conversational Forecasting]].
 
   *Result*: the model can notify moderators of a conversation on the brink of toxicity an average of three hours or three comments beforehand.
 

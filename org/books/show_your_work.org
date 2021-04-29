@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       8e6238e2-6eaf-4703-ae4c-7d9ff93a1d40
+:END:
 #+setupfile: ../../hugo_setup.org
 #+title: Show Your Work
 
-- author :: [[file:../austin_kleon.org][§Austin Kleon]]
-- tags :: [[file:../productivity.org][§Productivity]], [[file:../learning.org][§Learning]]
+- author :: [[id:f9d90f04-a48b-4f05-ab23-5cfabf8a4181][§Austin Kleon]]
+- tags :: [[id:d996b5ee-745d-437b-82e0-29372a36a7f5][§Productivity]], [[id:698a8d51-5a32-4e47-91b1-ee8984c860ab][§Learning]]
 
 Note: I wrote a blog post about this book [[https://blog.alexkoen.com/posts/show-your-work/][here]].
 
@@ -10,7 +13,7 @@ Note: I wrote a blog post about this book [[https://blog.alexkoen.com/posts/show
 
 It is intimidating to show your work online. While we have no reservations about sharing our candid photos on Instagram or our thoughts on Twitter, something about sharing our /work/ under our own name is scary. For some reason, we believe that whatever material we publish online must be complete, and that anything less than perfection has no value.
 
-The premise of Austin Kleon's book /Show Your Work/ is that [[file:../learning_in_public.org][§Learning in Public]] is the most effective way to learn faster and gain an audience. By sharing what you're learning and how you're applying this newfound knowledge, you create tight [[file:../feedback_loops.org][§Feedback Loops]] that propel you towards mastery.
+The premise of Austin Kleon's book /Show Your Work/ is that [[id:123b12fa-b54d-4b99-9ee7-5d1efc6f404e][§Learning in Public]] is the most effective way to learn faster and gain an audience. By sharing what you're learning and how you're applying this newfound knowledge, you create tight [[id:2982ab90-d3ca-4e94-8969-0ff5855de721][§Feedback Loops]] that propel you towards mastery.
 
 This is a great book that can easily be read in an afternoon. That being said, most of the lessons that the author is preaching were taught to me by the likes of [[https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg][Ali Abdaal]], and so I found it less thought-provoking than I might have otherwise.
 
@@ -19,7 +22,7 @@ My rating: 4/5.
 * Notes
 
 - All of the most influential creative people incorporate sharing into their work.
-  - For example, [[file:../tiago_forte.org][§Tiago Forte]] and [[file:../ali_abdaal.org][§Ali Abdaal]] always share what courses they are taking, what projects they are working on etc.
+  - For example, [[id:daaf7a0e-7b41-4929-a39e-4ea2c6a25fa6][§Tiago Forte]] and [[id:8afb5c33-db02-426f-9d8b-fe283b555cd5][§Ali Abdaal]] always share what courses they are taking, what projects they are working on etc.
 - Surround yourself with others with whom you can share and compare work. This could be in person on or on the internet.
   - Find niches.
 

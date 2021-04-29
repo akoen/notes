@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       a1a36ae3-a7fb-4806-9e28-3a9ed4d22edc
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Racial Inequality in Western Societies
 

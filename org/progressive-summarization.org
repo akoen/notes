@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       76ae3377-2ead-4c81-9057-645197822d2c
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Progressive Summarization
 
-- tags :: [[file:note-taking.org][§Note-Taking]]
+- tags :: [[id:a393e121-be96-47d7-8e7c-f3c68d6e3a24][§Note-Taking]]
 
 [[https://praxis.fortelabs.co/progressive-summarization-a-practical-technique-for-designing-discoverable-notes-3459b257d3eb/]]

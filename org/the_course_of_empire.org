@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       341dd546-4b81-423f-9aec-8058042218b4
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: The Course of Empire
 

@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       78d3b7cd-074e-4a4a-962e-6bea59189785
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Resource Acquisition is Initialization
 
-RAII is a [[file:programming.org][§Programming]] paradigm which states that resources (e.g. memory) should be accessed via classes. This means that the class's constructor allocates the resources, and its destructor deallocates it.
+RAII is a [[id:ae6e5088-93af-496b-8f07-45ede80dec3f][§Programming]] paradigm which states that resources (e.g. memory) should be accessed via classes. This means that the class's constructor allocates the resources, and its destructor deallocates it.
 
 Here is an example of not using RAII:
 #+BEGIN_SRC c++

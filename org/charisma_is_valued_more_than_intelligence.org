@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       7549ea23-8842-4c09-b5ee-b4017cc91036
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Charisma is valued more than intelligence
 

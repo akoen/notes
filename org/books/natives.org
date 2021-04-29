@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       1860749e-5d11-4540-b566-ac3a4c052294
+:END:
 #+setupfile: ../../hugo_setup.org
 #+title: Natives
 
 - author :: Akala
-- tags ::  [[file:../racial_inequality_in_western_societies.org][§Racial Inequality in Western Societies]]
+- tags ::  [[id:a1a36ae3-a7fb-4806-9e28-3a9ed4d22edc][§Racial Inequality in Western Societies]]
 - rating :: 3/5 
 
   #+BEGIN_QUOTE

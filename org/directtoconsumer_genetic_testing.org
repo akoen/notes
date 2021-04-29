@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       2ca0a96a-7329-4ce4-bd62-3d6178a8a0b3
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Direct-to-Consumer (DTC) Genetic Testing
 
 - As of 2019, more than 26 million people have willingly undergone at-home genetic testing. cite:mit
-- Two companies, [[file:23andme.org][§23andMe]] and [[file:ancestry.org][§Ancestry]], dominate the market and now posess severa of the world's largest databases of human genetic information.
+- Two companies, [[id:153b5472-6977-4e00-babe-be9dcdbce2d2][§23andMe]] and [[id:d3bc0457-2346-4024-8b42-e0d0b54a1177][§Ancestry]], dominate the market and now posess severa of the world's largest databases of human genetic information.
 
 bibliography:./bib/20200227194913_directtoconsumer_genetic_testing.bib

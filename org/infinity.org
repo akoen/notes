@@ -1,6 +1,9 @@
+:PROPERTIES:
+:ID:       858ebc3b-7ddb-4517-8409-555830a05efb
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Infinity
 
-- tags :: [[file:physics.org][§Physics]]
+- tags :: [[id:83a06686-dab0-46f9-98ab-1c10e4afacb8][§Physics]]
   
 - There are an equal number of numbers between 0 and 1 as there are between -∞ and ∞. 

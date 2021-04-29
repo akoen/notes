@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       e927be7d-6f83-4afe-96f8-d5b2e14258a8
+:END:
 #+setupfile: ../../hugo_setup.org
 #+title: The Slight Edge
 
 - author :: Jeff Olson
-- tags :: [[file:../consistency.org][§Consistency]]
+- tags :: [[id:7c616579-0c7c-4436-9781-4f408738d161][§Consistency]]
   
   #+begin_quote
   Everything you need to do to transform your life is easy to do. It's easy to before healthy, fit and vibrant. It's easy to become financially independent. It's easy to have a happy family and a life rich with meaningful friendships. It's just a matter of mastering the mundane—of repeating simple little disciplines that, done consistently over time, will add up to the very biggest accomplishments.

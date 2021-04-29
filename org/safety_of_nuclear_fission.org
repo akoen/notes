@@ -1,7 +1,10 @@
+:PROPERTIES:
+:ID:       702772f1-ccd1-4ef2-87f5-0499dca07d6d
+:END:
 #+setupfile: ../hugo_setup.org
 #+title: Safety of Nuclear Fission
 
-When people think of nuclear safety, they think of two disasters: Chernobyl and Fukushima. Contrary to popular belief, [[file:nuclear_fission.org][§Nuclear Fission]] is extremely safe. This is summarized by the following graph:
+When people think of nuclear safety, they think of two disasters: Chernobyl and Fukushima. Contrary to popular belief, [[id:97dec96c-9f68-479b-910f-33929f70d0df][§Nuclear Fission]] is extremely safe. This is summarized by the following graph:
 
 #+DOWNLOADED: file:///home/alex/Downloads/death-energy-all-sources.png @ 2020-09-09 15:16:33
 [[file:img/safety_of_nuclear_fission/death-energy-all-sources2020-09-09_15-16-33_.png]]

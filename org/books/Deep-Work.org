@@ -1,8 +1,11 @@
+:PROPERTIES:
+:ID:       76a23740-1ab1-4786-b813-a6c48e77da44
+:END:
 #+setupfile: ../../hugo_setup.org
 #+title: Deep Work: Rules for Focused Success in a Distracted World
 
-- author :: [[file:../cal_newport.org][§Cal Newport]]
-- tags :: [[file:../deep_work.org][§Deep Work]]
+- author :: [[id:c035a806-bd4d-45f3-82b0-8369b3ae117a][§Cal Newport]]
+- tags :: [[id:37c742a1-d8d1-43ab-8375-2d0f359309af][§Deep Work]]
 
 #+BEGIN_QUOTE
 “Who you are, what you think, feel, and do, what you love—is the sum of what you focus on.”
@@ -10,7 +13,7 @@
 — Cal Newport
 #+END_QUOTE
 
-The thesis of Cal Newport's book is very simple: deep, focused work without distraction is more valuable than shallow, distracted work. While this may seem self evident, it is the extent to which this meaningless work pervades our daily lives that Newport describes, along with strategies to maximize our [[file:../productivity.org][§Productivity]] through deep work.
+The thesis of Cal Newport's book is very simple: deep, focused work without distraction is more valuable than shallow, distracted work. While this may seem self evident, it is the extent to which this meaningless work pervades our daily lives that Newport describes, along with strategies to maximize our [[id:d996b5ee-745d-437b-82e0-29372a36a7f5][§Productivity]] through deep work.
 
 *** *Part 1: The Idea*
 
@@ -31,7 +34,7 @@ The author continues by arguing that these two abilities are deeply intertwined 
 
 **** *Deep work is rare*
 
-Our lives nowadays are constantly filled with distractions. E-mail, [[file:../social_media.org][§Social Media]], instant messaging etc. occupy a great deal of our time without providing much benefit in return. Employers expect us answer messages within minutes without understanding the following key point: *every time we switch from one context to another, we sacrifice concentration. Society nowadays equates busyness with productivity, which is almost completely orthogonal from the truth.* If you can learn to work deeply, you can outperform almost everyone.
+Our lives nowadays are constantly filled with distractions. E-mail, [[id:93c93063-5101-4470-9f84-654bc03bfa14][§Social Media]], instant messaging etc. occupy a great deal of our time without providing much benefit in return. Employers expect us answer messages within minutes without understanding the following key point: *every time we switch from one context to another, we sacrifice concentration. Society nowadays equates busyness with [[id:d996b5ee-745d-437b-82e0-29372a36a7f5][Productivity]], which is almost completely orthogonal from the truth.* If you can learn to work deeply, you can outperform almost everyone.
 
 **** *Deep work is meaningful*
 
@@ -87,7 +90,7 @@ Finally, Newport suggests learning how to memorize a deck of cards using the mem
 
 **** *Quit social media*
 
-Evaluate the importance of each [[file:../social_media.org][§Social Media]] tool on your life. *Only use it if it brings significant value to your work or happiness.*
+Evaluate the importance of each [[id:93c93063-5101-4470-9f84-654bc03bfa14][§Social Media]] tool on your life. *Only use it if it brings significant value to your work or happiness.*
 
 /*The Craftsman Approach to Tool Selection*: Identify the core factors that determine success and happiness in your professional and personal life. Adopt a tool only if its positive impacts on these factors substantially outweigh its negative impacts./ 
 
