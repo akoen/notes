@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       6459819a-7183-46cd-a9f8-6a81ec96c918
+:END:
+#+setupfile: ../hugo_setup.org
+#+title:Trucking Industry
+
+- In the United States, there are 350,000 owner-operator truck drivers
+  - Must of them lease from a carrier.
+
+- 3.9 million truck drivers

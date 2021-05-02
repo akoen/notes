@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       fcacc0cc-5795-4019-83e1-bf66b7bebac6
+:END:
+#+setupfile: ../hugo_setup.org
+#+title:Academic Writing
+
+- tags :: [[id:63366b98-81a1-4f8a-a36f-95fa470825f4][Writing]]
+  
+- According to cite:keshav2007read, it is a good to idea to use a well-chosen figure as part of your abstract, so that it can be quickly understood by your audience.
+  
+
+bibliography:./bib/20200304142638_academic_writing.bib

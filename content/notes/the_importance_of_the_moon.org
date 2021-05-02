@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       c917f4a8-31a7-42f8-adc1-d43848573533
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: The importance of the moon
+
+The gravitational influence of the moon prevents the Earth's rotation from destabilizing, maintaining our moderate climate.

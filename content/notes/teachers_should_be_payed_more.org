@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       cebe9120-291d-42a7-a408-f324d85deed0
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Teachers should be payed more
+
+Highly skilled professionals do not become teachers because it is a low-paying and little-respected profession. If we payed teachers $100 000 a year as a base salary, made it extremely competitive, and continually encouraged teachers to improve their skills, we would empower the next generation to change the world.

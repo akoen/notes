@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8a686a73-4ec4-4f1c-8747-faddecae432d
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Derek Sivers
+
+#+BEGIN_QUOTE
+“Most days I don't look at the web or any apps. I just write, text friends, call friends, and check email. That's enough.”
+
+— Derek Sivers
+#+END_QUOTE

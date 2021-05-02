@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       63366b98-81a1-4f8a-a36f-95fa470825f4
+:END:
+#+setupfile: ../hugo_setup.org
+#+title:Writing
+
+- First drafts should be messy, experimental, and rushed. Spend your time rewriting, not getting it right the first time.
+
+- The ultimate goal is to make your writing so [[id:a0220f3c-bd51-40fb-ad6b-714c63136d59][Simple]] that the reader believes they could have done it themselves.
+
+ #+BEGIN_QUOTE
+ “Separate the processes of creation from improving. You can’t write and edit, or sculpt and polish, or make and analyze at the same time. If you do, the editor stops the creator. While you invent, don’t select. While you sketch, don’t inspect. While you write the first draft, don’t reflect. At the start, the creator mind must be unleashed from judgment.”
+
+ — Kevin Kelly
+ #+END_QUOTE
+
+ #+begin_quote
+- Good writing is bad writing with lots of editing.
+
+- Since everybody borrows other people's ideas, the people you think are original are actually just pulling from obscure sources.
+
+- Writing is like exercise. Do it every day, knowing that some days will be better than others. On any given day, you won't feel like you made any progress. But do it for years and the compounding benefits will astound you.
+
+— [[id:806a7fda-b943-4160-8af1-e71c19d6f9a7][David Perell]]
+ #+end_quote
+
+
+  
+- It is a common flaw in essay writing (notably [[id:fcacc0cc-5795-4019-83e1-bf66b7bebac6][Academic Writing]]) to make a statement accurate by making it vague. You may say that the issue is complex or that there are many factors involved. In general, avoid this.
+
+  - _Strive to make your writing as bold as possible without being false._
+
+    
+- Writing is everything. Do everything as if nothing counts except writing. [[id:a0b85e10-52ee-4f4f-b8b5-960875348749][How to Take Smart Notes]]

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       a81f03ed-d584-4547-a1ed-89ad6aff2dcd
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Michael Nielsen
+

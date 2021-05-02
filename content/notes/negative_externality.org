@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       a1024b08-7f68-4ba8-9e5c-de4592e7f6d1
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Negative Externality
+

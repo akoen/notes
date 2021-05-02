@@ -1,0 +1,86 @@
+
+rule org2md
+  command = emacs --batch -l ~/.emacs -l publish.el --eval "(jethro/publish \"$in\")"
+  description = org2md $in
+
+build content/notes/why_conversation_is_not_the_soul_of_democracy.md: org2md org/papers/why_conversation_is_not_the_soul_of_democracy.org
+
+build content/notes/racial_bias_in_pain_assessment_and_treatment_recommendations_and_false_beliefs_about_biological_differences_between_blacks_and_whites.md: org2md org/papers/racial_bias_in_pain_assessment_and_treatment_recommendations_and_false_beliefs_about_biological_differences_between_blacks_and_whites.org
+
+build content/notes/self_awareness_and_transgression_in_children_two_field_studies.md: org2md org/papers/self_awareness_and_transgression_in_children_two_field_studies.org
+
+build content/notes/paper_the_future_of_hydrogen.md: org2md org/papers/paper_the_future_of_hydrogen.org
+
+build content/notes/dissolving_the_fermi_paradox.md: org2md org/papers/dissolving_the_fermi_paradox.org
+
+build content/notes/convokit_a_toolkit_for_the_analysis_of_conversations.md: org2md org/papers/convokit_a_toolkit_for_the_analysis_of_conversations.org
+
+build content/notes/effects_of_self_awareness_on_antinormative_behavior.md: org2md org/papers/effects_of_self_awareness_on_antinormative_behavior.org
+
+build content/notes/conversations_gone_awry_detecting_early_signs_of_conversational_failure.md: org2md org/papers/conversations_gone_awry_detecting_early_signs_of_conversational_failure.org
+
+build content/notes/democracy_online_civility_politeness_and_the_democratic_potential_of_online_political_discussion_groups.md: org2md org/papers/democracy_online_civility_politeness_and_the_democratic_potential_of_online_political_discussion_groups.org
+
+build content/notes/making_black_women_scientists_under_white_empiricism_the_racialization_of_epistemology_in_physics.md: org2md org/papers/making_black_women_scientists_under_white_empiricism_the_racialization_of_epistemology_in_physics.org
+
+build content/notes/trouble_on_the_horizon_forecasting_the_derailment_of_online_conversations_as_they_develop.md: org2md org/papers/trouble_on_the_horizon_forecasting_the_derailment_of_online_conversations_as_they_develop.org
+
+build content/notes/paper_hydrogen_and_biogas.md: org2md org/papers/paper_hydrogen_and_biogas.org
+
+build content/notes/the_opioid_crisis_in_black_and_white_the_role_of_race_in_our_nation_s_recent_drug_epidemic.md: org2md org/papers/the_opioid_crisis_in_black_and_white_the_role_of_race_in_our_nation_s_recent_drug_epidemic.org
+
+build content/notes/neural_based_statement_classification_for_biased_language.md: org2md org/papers/neural_based_statement_classification_for_biased_language.org
+
+build content/notes/rocket_men.md: org2md org/books/rocket_men.org
+
+build content/notes/privacy_is_power.md: org2md org/books/privacy_is_power.org
+
+build content/notes/permanent_record.md: org2md org/books/permanent_record.org
+
+build content/notes/Peak.md: org2md org/books/Peak.org
+
+build content/notes/beyond_possible.md: org2md org/books/beyond_possible.org
+
+build content/notes/The-Slight-Edge.md: org2md org/books/The-Slight-Edge.org
+
+build content/notes/Never-Split-The-Difference.md: org2md org/books/Never-Split-The-Difference.org
+
+build content/notes/atomic_habits.md: org2md org/books/atomic_habits.org
+
+build content/notes/So-Good-They-Can_t-Ignore-You.md: org2md org/books/So-Good-They-Can_t-Ignore-You.org
+
+build content/notes/the_inner_game_of_tennis.md: org2md org/books/the_inner_game_of_tennis.org
+
+build content/notes/How-to-Take-Smart-Notes.md: org2md org/books/How-to-Take-Smart-Notes.org
+
+build content/notes/the_untethered_soul.md: org2md org/books/the_untethered_soul.org
+
+build content/notes/Deep-Work.md: org2md org/books/Deep-Work.org
+
+build content/notes/make_time.md: org2md org/books/make_time.org
+
+build content/notes/hello_world.md: org2md org/books/hello_world.org
+
+build content/notes/the_secret_of_our_success.md: org2md org/books/the_secret_of_our_success.org
+
+build content/notes/the_sleep_solution.md: org2md org/books/the_sleep_solution.org
+
+build content/notes/sandworm.md: org2md org/books/sandworm.org
+
+build content/notes/How-to-Become-a-Straight-A-Student.md: org2md org/books/How-to-Become-a-Straight-A-Student.org
+
+build content/notes/show_your_work.md: org2md org/books/show_your_work.org
+
+build content/notes/the_wright_brothers.md: org2md org/books/the_wright_brothers.org
+
+build content/notes/natives.md: org2md org/books/natives.org
+
+build content/notes/the_pragmatic_programmer.md: org2md org/books/the_pragmatic_programmer.org
+
+build content/notes/surely_you_re_joking_mr_feynman.md: org2md org/books/surely_you_re_joking_mr_feynman.org
+
+build content/notes/favourites.md: org2md org/lists/favourites.org
+
+build content/notes/augmenting-long-term-memory.md: org2md org/articles/augmenting-long-term-memory.org
+
+build content/notes/shane_parrish_canada_future.md: org2md org/websites/shane_parrish_canada_future.org

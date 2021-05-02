@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       4448d33d-80ec-4b12-9ab2-4227878caddc
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Marketing
+
+- Marketing is not the same thing as promotion. Entrepreneurs often feel that marketing is somehow 'dirty', yet marketing can be deeply respectful to the consumer.

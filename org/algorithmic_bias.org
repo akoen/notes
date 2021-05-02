@@ -4,12 +4,12 @@
 #+setupfile: ../hugo_setup.org
 #+title:Algorithmic Bias
 
-In her book [[id:ed64b25e-0281-4062-b7d4-598a0da1bc5b][§Hello World]], [[id:0ad3030e-a0d0-43a7-94ad-a3f28f790dca][§Hannah Fry]] argues that when algorithms are trained on historical datasets, they learn to perpetuate the biases found within.
+In her book [[id:ed64b25e-0281-4062-b7d4-598a0da1bc5b][Hello World]], [[id:0ad3030e-a0d0-43a7-94ad-a3f28f790dca][Hannah Fry]] argues that when algorithms are trained on historical datasets, they learn to perpetuate the biases found within.
 
-In [[id:9967230e-a5fe-40de-83ed-18614c05c669][§Privacy is Power]], philosopher Carissa Véliz argues that technology does not compensate for our shortcomings, it merely amplifies them.
+In [[id:9967230e-a5fe-40de-83ed-18614c05c669][Privacy is Power]], philosopher Carissa Véliz argues that technology does not compensate for our shortcomings, it merely amplifies them.
 
 #+begin_quote
 But however accurate the results might be, you could argue that using algorithms as a mirror to reflect the real world isn’t always helpful, especially when the mirror is reflecting a present reality that only exists because of centuries of bias.
 
-— [[id:0ad3030e-a0d0-43a7-94ad-a3f28f790dca][§Hannah Fry]] ([[id:ed64b25e-0281-4062-b7d4-598a0da1bc5b][§Hello World]])
+— [[id:0ad3030e-a0d0-43a7-94ad-a3f28f790dca][Hannah Fry]] ([[id:ed64b25e-0281-4062-b7d4-598a0da1bc5b][Hello World]])
 #+end_quote

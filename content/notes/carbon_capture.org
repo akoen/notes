@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       a1b96972-79f3-4c19-8a1f-fb6905a2e81b
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Carbon Capture
+

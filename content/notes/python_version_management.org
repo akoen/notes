@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       ea99c114-32bb-4cf0-8e51-739078129a99
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Python Version Management
+
+#+DOWNLOADED: https://miro.medium.com/max/700/1*wmfcor4t8qlD9ASawFb8Sw.png @ 2020-10-04 10:58:30
+[[file:img/python_version_management/1*wmfcor4t8qlD9ASawFb8Sw2020-10-04_10-58-30_.png]]

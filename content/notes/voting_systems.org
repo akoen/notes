@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       895de7be-5ff8-477a-96d7-3bdc0376f248
+:END:
+#+setupfile: ../hugo_setup.org
+#+title:Voting Systems
+
+The voting system used by a democracy has a significant impact on its quality.
+
+[[https://ncase.me/ballot/][Here]] is a great interactive simulation of different voting systems.

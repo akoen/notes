@@ -4,5 +4,5 @@
 #+setupfile: ../hugo_setup.org
 #+title: University
 
-- tags :: [[id:698a8d51-5a32-4e47-91b1-ee8984c860ab][§Learning]]
+- tags :: [[id:698a8d51-5a32-4e47-91b1-ee8984c860ab][Learning]]
 

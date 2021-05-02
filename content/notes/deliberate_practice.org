@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4c1fb45f-84c5-463f-98cc-caacd2979683
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Purposeful/Deliberate Practice
+
+*Practice that is performed simply through repetition leads to stagnation and eventual decline.*
+
+Purposeful practice:
+1. Has well-defined, specific goals.
+2. Is focused.
+3. Involves feedback.
+4. Gets you out of your comfort zone.
+
+Deliberate practice expands upon purposeful practice and:
+1. Develops skills that have /already/ been mastered by experts and for which effective training techniques have already been developed.
+2. Incorporates expert instructors to guide a student's practice and provide effective feedback.
+   
+However, popular culture has made the two effectively synonymous.

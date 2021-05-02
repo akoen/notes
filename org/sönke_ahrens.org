@@ -2,4 +2,4 @@
 :ID:       18aa0f57-e3cf-48ae-8efd-4563f3ca6dec
 :END:
 #+setupfile: ../hugo_setup.org
-#+title: Sönke Ahrens
+#+title:Sönke Ahrens

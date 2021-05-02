@@ -4,10 +4,10 @@
 #+setupfile: ../hugo_setup.org
 #+title: Two-Day Rule
 
-- tags :: [[id:d996b5ee-745d-437b-82e0-29372a36a7f5][§Productivity]]
+- tags :: [[id:d996b5ee-745d-437b-82e0-29372a36a7f5][Productivity]]
 
 - The Two-Day Rule states that you are not allowed to skip a habit more than one-day in a row.
 
-- Habits are formed through [[id:7c616579-0c7c-4436-9781-4f408738d161][§Consistency]], but that doesn't mean that no improvement will occur if you don't perform them every day.
+- Habits are formed through [[id:7c616579-0c7c-4436-9781-4f408738d161][Consistency]], but that doesn't mean that no improvement will occur if you don't perform them every day.
 
 - This is an effective way of maintaining motivation, since people often give up if they miss a single day.

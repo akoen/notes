@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       4bdd184b-5fe2-4f5b-bc49-e085d3269e52
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Richard Feynman
+

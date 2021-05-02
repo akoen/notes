@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       f37a651e-46f6-4cc5-b83e-a62bebb1b309
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Gun Control
+
+- In America, there are real problems that mandate the availability of firearms.
+  - For example, in Texas, [[https://www.smithsonianmag.com/science-nature/a-plague-of-pigs-in-texas-73769069/][feral hogs]] cause over $400 million in damages annually and number in the millions.
+  - Those in favour of the 4th amendment argue that it prevents the state from acquiring a monopoly on firearms.

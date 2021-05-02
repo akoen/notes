@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       a5607113-c615-4c99-ab2d-df7bf7365295
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Modularize Your Life
+

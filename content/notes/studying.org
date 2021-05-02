@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       67c5f9df-f684-463a-b713-88ad9670ff28
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Studying
+
+- Personal observation: I experience the greatest sense of flow when I do not allow myself to make any mistakes: I keep repeating a problem until I do it right. *Make yourself fix your mistakes.*
+  
+* Retrospective revision
+According to [[https://aliabdaal.com/retrospectiverevisiontimetables/][Ali Abdaal]], he finds it more productive to operate on a *retrospective* revision timetable rather than a prospective one. This works for two reasons:
+
+1. Making a prospective timetable is a form of procrastination.
+2. A retrospective timetable forces you to identify your weakest areas and study those.
+
+#+BEGIN_QUOTE
+“We often gravitate towards topics that we feel comfortable studying because we know the basic principles and it feels easier. But for your revision to be effective, you have to keep reminding yourself to study topics that you are least comfortable with.”
+
+— Ali Abdaal
+#+END_QUOTE
+
+** Here is an example of his retrospective revision timetable:
+
+
+#+DOWNLOADED: https://aliabdaal.com/content/images/2020/02/Screenshot-2020-02-13-at-09.59.45.png @ 2020-02-13 13:32:25
+[[file:img/studying/Screenshot-2020-02-13-at-09.59.452020-02-13_13-32-25_.png]]

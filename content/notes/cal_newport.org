@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c035a806-bd4d-45f3-82b0-8369b3ae117a
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Cal Newport

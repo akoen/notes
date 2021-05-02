@@ -4,8 +4,8 @@
 #+setupfile: ../hugo_setup.org
 #+title: Writing refines thinking
 
-- [[id:63366b98-81a1-4f8a-a36f-95fa470825f4][§Writing]] is the process by which ideas are transformed into concepts.
+- [[id:63366b98-81a1-4f8a-a36f-95fa470825f4][Writing]] is the process by which ideas are transformed into concepts.
   
-- [[id:18aa0f57-e3cf-48ae-8efd-4563f3ca6dec][§Sönke Ahrens]] argues that thinking is done on paper. It is not merely a record of thought. [[id:63366b98-81a1-4f8a-a36f-95fa470825f4][§Writing]] is thinking. [[id:a0b85e10-52ee-4f4f-b8b5-960875348749][#§How to Take Smart Notes]]
+- [[id:18aa0f57-e3cf-48ae-8efd-4563f3ca6dec][Sönke Ahrens]] argues that thinking is done on paper. It is not merely a record of thought. [[id:63366b98-81a1-4f8a-a36f-95fa470825f4][Writing]] is thinking. [[id:a0b85e10-52ee-4f4f-b8b5-960875348749][#How to Take Smart Notes]]
 
-  - [[id:63366b98-81a1-4f8a-a36f-95fa470825f4][§Writing]] provides us with the distance required to analyze an argument. Otherwise, it would occupy the same mental resources required for this scrutiny.
+  - [[id:63366b98-81a1-4f8a-a36f-95fa470825f4][Writing]] provides us with the distance required to analyze an argument. Otherwise, it would occupy the same mental resources required for this scrutiny.

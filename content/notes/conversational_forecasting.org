@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       14bd50f5-4c78-46de-9806-e724de079828
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Conversational Forecasting
+
+- Conversational forecasting is the task of using computer models to predict various properties of a conversation.
+  
+- For example, cite:zhangConversationsGoneAwry2018 and cite:changTroubleHorizonForecasting2019 using conversation forecasting to predict whether or not a conversation will result in personal attacks.

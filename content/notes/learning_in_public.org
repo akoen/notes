@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       123b12fa-b54d-4b99-9ee7-5d1efc6f404e
+:ROAM_ALIASES: "\"Working in Public\""
+:END:
+#+setupfile: ../hugo_setup.org
+
+#+title: Learning in Public

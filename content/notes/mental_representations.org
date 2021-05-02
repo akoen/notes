@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       a2857bde-9233-4ed3-97b1-8f0cc4bd6b44
+:ROAM_ALIASES: "\"Chunks\""
+:END:
+#+setupfile: ../hugo_setup.org
+
+#+title: Mental Representations

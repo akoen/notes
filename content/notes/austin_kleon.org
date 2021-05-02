@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       f9d90f04-a48b-4f05-ab23-5cfabf8a4181
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Austin Kleon
+

@@ -12,13 +12,13 @@ There was once a pottery teacher called Brian. One month, he decided to split hi
 At the end of the month, Brian judged the quality of the pots. Without exception, every one of the top 10 pots came from Group A, the guys that made one pot per day. None came from the group that focused on perfecting their single pot. 
 #+end_quote
 
-[[id:8afb5c33-db02-426f-9d8b-fe283b555cd5][§Ali Abdaal]] preaches the importance of quantity when starting a YouTube channel. He says that regardless of how talented you are, your first 100 videos will suck, so it makes sense to just get through those as quickly as possible.
+[[id:8afb5c33-db02-426f-9d8b-fe283b555cd5][Ali Abdaal]] preaches the importance of quantity when starting a YouTube channel. He says that regardless of how talented you are, your first 100 videos will suck, so it makes sense to just get through those as quickly as possible.
 
 #+begin_quote
 I’ve been wanting to learn (a) how to draw, and (b) how to write songs for years now. But what’s holding me back is a sense of “I don’t know how to do this”.
 
 Instead, I should just aim to draw 100 things, or write 100 songs, and figure the rest out along the way, like I did with YouTube. 
 
-— [[id:8afb5c33-db02-426f-9d8b-fe283b555cd5][§Ali Abdaal]] 
+— [[id:8afb5c33-db02-426f-9d8b-fe283b555cd5][Ali Abdaal]] 
 #+end_quote
 

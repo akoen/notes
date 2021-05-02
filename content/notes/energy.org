@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       fc3b6b42-307e-4dcd-a01d-a3e579764238
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Energy

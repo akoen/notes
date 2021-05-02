@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e52a7c43-d817-4e58-9fa4-05b0521b6215
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Greenhouse Gas Emissions
+
+- CO₂ in the atmosphere has increased from 0.02% in the pre-industrial era to 0.04% today.
+
+- CO₂ composes just 0.04% of the Earth's atmosphere. Human activities are responsible for 0.02% of that amount.

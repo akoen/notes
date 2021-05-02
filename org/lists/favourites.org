@@ -4,6 +4,6 @@
 #+setupfile: ../hugo_setup.org
 #+title:Favourites
 
-- [[id:1a82a60d-b57c-45de-aaa4-e8a182097672][§Favourite Visual Artists]]
-- [[id:9f79da7b-9f7d-449f-a45b-2e2ac1e9bfbc][§Favourite Paintings]]
-- [[id:a5f3b500-9189-4355-b002-d17ad8be3a0b][§Favourite Images]]
+- [[id:1a82a60d-b57c-45de-aaa4-e8a182097672][Favourite Visual Artists]]
+- [[id:9f79da7b-9f7d-449f-a45b-2e2ac1e9bfbc][Favourite Paintings]]
+- [[id:a5f3b500-9189-4355-b002-d17ad8be3a0b][Favourite Images]]

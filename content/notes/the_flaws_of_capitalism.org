@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       274a1b77-1726-4690-af0c-2c7e6866a9e1
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: The flaws of capitalism
+
+Capitalism is an effective economic system with several flawed assumptions, notably that the creation of profit is directly tied to the improvement of people's lives.
+
+* Tragedy of the commons
+
+Say that a river has a fixed number of fish. The fisherman would collectively prosper if they enforced catch limits for each boat to prevent over-fishing. Yet each individual fisherman profits the most if they catch as many fish as possible, leading to a situation known as the /tragedy of the commons/ where the fish die out because of collective greed.
+
+This is why socialist regulations are important. Corporations profit immensely in the short run by disrespecting the environment, for example, but will collectively suffer once resources are depleted.
+
+* Inelastic demand
+
+Healthcare demand, for example, does not vary as a function of price. If the alternative is to die, people will pay anything to get their insulin and so pharmaceutical companies can fix their prices arbitrarily high. Again, governmental regulations are necessary in these cases to prioritize the well-being of the people over profits.

@@ -4,9 +4,14 @@
 #+setupfile: ../hugo_setup.org
 #+title: Instant Runoff Voting
 
-Instant Runoff Voting is a [[id:895de7be-5ff8-477a-96d7-3bdc0376f248][§Voting System]] where voters rank their candidates in order of preference. Then, the following procedure is performed until a candidate reaches 50% of the vote and wins:
+Instant runoff voting, also known as ranked-choice voting is a [[id:895de7be-5ff8-477a-96d7-3bdc0376f248][Voting System]] where voters rank their candidates in order of preference. It works as following:
 
-- Anyone who voted for the last-place candidate has their vote transferred to their second-choice/third-choice etc.
+- Voters rank each candidate in order of preference
+- Votes are counted according to each voter's #1 choice.
+- Those who voted for the least popular candidate have their votes redistributing to their #2 choice.
 
-#+DOWNLOADED: 
+This procedure is repeated until a candidate reaches 50% of the votes and wins. This combats [[id:0e88d7c4-2e90-406b-91aa-5f93fe24eefb][Plurality Voting]]'s vote splitting flaw.
+
+#+CAPTION: In a FPTP system, blue would win because despite most voters aligning with either yellow or red, their votes would be split between the two. IRV solves this problem, allowing for more parties with subtely different platforms.
+#
 [[file:img/instant_runoff_voting/screenshot2020-11-04_22-10-01_.png]]

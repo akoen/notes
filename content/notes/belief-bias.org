@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       6afcdda8-af62-48a2-811b-d7f2b1e10d26
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Belief bias

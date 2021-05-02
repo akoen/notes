@@ -1,0 +1,94 @@
+:PROPERTIES:
+:ID:       c43889c1-1a4b-4f2a-8134-76fb0a41c9db
+:END:
+#+setupfile: ../../hugo_setup.org
+#+title: Sandworm
+
+- author :: Andry Greenbery
+
+* The Book in 3 Sentences
+- By exploiting vulnerabilities in computer software, hackers now have the ability to turn off the lights in your city and prevent you from turning them back on. This book is about state-sponsored—mostly Russian—hacking of infrastructure targets in foreign countries and the devastating effect these cyberattacks can have on society.
+
+* Impressions
+- This book terrified me, and rightfully so. Terrorists no longer even need to be anywhere close to the scene of their attacks to cause horrific and life-altering damage. It is well-written, and is a worthwhile read.
+* How the Book Changed Me
+- This book was a great complement to Edward Snowden's autobiography, /Permanent Record/, that I read the week before. It taught me about the importance of our intelligence agencies and their duty to prepare for these attacks (at which they are doing a poor job).
+
+* Top 3 Highlights
+
+#+begin_quote
+He was filling out a paper-and-pencil log, documenting another uneventful Saturday evening, when the station’s alarm suddenly sounded, a deafening continuous ringing. To his right, Zaychenko saw that two of the lights indicating the state of the transmission system’s circuits had switched from red to green—in the counterintuitive, universal language of electrical engineers, a sign that they had turned off. The technician picked up the black desk phone to his left and called an operator at Ukrenergo’s headquarters to alert him to the routine mishap. As he did, another light turned green. Then another. Zaychenko’s adrenaline began to kick in. While he hurriedly explained the situation to the remote operator, the lights kept flipping: red to green, red to green. Eight, then ten, then twelve.
+#+end_quote
+
+#+begin_quote
+At the checkout line, he found that there, too, the point-of-sale systems were down, and cashiers were taking only cash. He didn’t have enough bills left. So he went back out into the street and repeated his desperate hunt for cash, trying another five ATMs before he was able to find one that worked.
+
+...
+
+Life went very fast from ‘What’s new on Facebook?’ to ‘Do I have enough money to buy food for tomorrow?’
+#+end_quote
+
+
+#+begin_quote
+“In the 21st century we have seen a tendency toward blurring the lines between the states of war and peace,” the article began. “Wars are no longer declared and, having begun, proceed according to an unfamiliar template.”
+#+end_quote
+
+
+
+* Highlights
+
+- The Soviet regime manufactured a famine in Ukraine that would kill 3.9 million people,
+
+- Lee began to see those programmable logic controllers, digital brains capable of altering the physical world around them, as fundamental building blocks of infrastructure and economic development.
+
+- There has never been a time like this in which we have the power to create knowledge and the power to create havoc, and both those powers rest in the same hands.
+
+- Stuxnet, the most sophisticated cyberweapon in history.
+
+- When the NSA chose to let its Tailored Access Operations hackers abuse those software flaws, it prioritized military offense over civilian defense.
+
+- It turned out the DNC had secretly favored the candidate Hillary Clinton over her opponent Bernie Sanders as the presumptive Democratic nominee for president, despite the committee’s purported role as a neutral arbiter for the party.
+
+- The most powerful effect of those leaks may have been to distract from a shocking video released by The Washington Post on October 7, in which Trump bragged on the set of the TV show Access Hollywood that he had grabbed women’s genitals without their consent. WikiLeaks published the first Podesta leaks just hours after that tape surfaced.
+
+- He was filling out a paper-and-pencil log, documenting another uneventful Saturday evening, when the station’s alarm suddenly sounded, a deafening continuous ringing. To his right, Zaychenko saw that two of the lights indicating the state of the transmission system’s circuits had switched from red to green—in the counterintuitive, universal language of electrical engineers, a sign that they had turned off. The technician picked up the black desk phone to his left and called an operator at Ukrenergo’s headquarters to alert him to the routine mishap. As he did, another light turned green. Then another. Zaychenko’s adrenaline began to kick in. While he hurriedly explained the situation to the remote operator, the lights kept flipping: red to green, red to green. Eight, then ten, then twelve.
+
+- “When you deny a state’s ability to project power,” he argued, “it has to lash out.”
+
+- “Cyberspace is not a target in itself. It’s a medium,”
+
+- In other words, as the controversy around Russia’s role in his election victory began to grow, it seemed that Trump had no interest in discussing any sentence that contained the words “Russian” and “hacker,” no matter the context.
+
+- But for all the damage the NSA had claimed resulted from Snowden’s disclosures, he had never released actual zero-day vulnerabilities or hacking tools
+
+- the Shadow Brokers’ data dumps would prove to be vastly more damaging than anything Snowden had revealed—not just to U.S. intelligence agencies, but to the world.
+
+- At the checkout line, he found that there, too, the point-of-sale systems were down, and cashiers were taking only cash. He didn’t have enough bills left. So he went back out into the street and repeated his desperate hunt for cash, trying another five ATMs before he was able to find one that worked.
+
+- **Note:** Notpetya
+
+- “Life went very fast from ‘What’s new on Facebook?’ to ‘Do I have enough money to buy food for tomorrow?’ ”
+
+- Virtually all their Windows machines were now encrypted, though medical equipment running Linux and IBM operating systems had been spared.
+
+- In sum, by the end of June 27, NotPetya had struck at least four hospitals in Kiev alone, along with six power companies, two airports, more than twenty-two Ukrainian banks, ATMs, and card payment systems, and practically the entire federal government. According to ISSP, at least three hundred companies were hit, and one senior Ukrainian government official would later estimate that a total of 10 percent of all computers in the country were wiped; the country’s internet was literally decimated.
+
+- Merck, the $200 billion, New Jersey–based pharmaceutical giant, was hit early on the morning of NotPetya’s judgment day. It lost fifteen thousand Windows computers in ninety seconds, according to one of the company’s IT staffers, before administrators managed to shut down its entire network.
+
+- The only way you get an enemy to submit is by bringing the war to its people.
+
+- “In the 21st century we have seen a tendency toward blurring the lines between the states of war and peace,” the article began. “Wars are no longer declared and, having begun, proceed according to an unfamiliar template.”
+
+- watering hole attack, the technique of hacking certain websites to infect those sites’ visitors.
+
+- “The reason you carry out terrorism is rarely to kill those particular victims,” Hultquist said. “It doesn’t degrade the fighting capability of the adversary. That’s never why someone tried to hit me with an IED. It’s about scaring the shit out of people so they lose the will to fight, or change their mind about the legitimacy of their own security service, or overreact.”
+
+- Russia’s economy is smaller than Italy’s or Canada’s.
+
+- “You can’t come to New York and not eat a bagel”
+
+- A digital Geneva Convention remains a nice dream. In the meantime, the American government looks more likely to follow the most reflexive, primitive response to a cyberwar arms race: escalation.
+
+- “If you don’t pick up the latest fads, after a while you look like you’ve discarded modern life, but no, you just haven’t adopted it,” Geer explained.
+
+- “The societal advantage of having a ready, running, and known-to-work alternative if the current option were to blow up is not easy to measure, but I believe it’s important,”

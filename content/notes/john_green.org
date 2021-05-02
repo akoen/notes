@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       0ae2afed-88c3-4c4b-8130-e744d63fc646
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: John Green
+

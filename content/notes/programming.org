@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       ae6e5088-93af-496b-8f07-45ede80dec3f
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Programming
+
