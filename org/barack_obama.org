@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2415dbd0-8757-41f3-8ac8-5c2b931319a2
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Barack Obama
+

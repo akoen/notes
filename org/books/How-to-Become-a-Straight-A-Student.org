@@ -3,8 +3,8 @@
 :END:
 #+setupfile: ../../hugo_setup.org
 #+title: How to Become a Straight-A Student
-#+Author: Cal Newport
-#+Date: <2019-08-12 Mon>
+#+author: Cal Newport
+#+date: <2019-08-12 Mon>
 
 - author :: [[id:c035a806-bd4d-45f3-82b0-8369b3ae117a][Cal Newport]]
 - tags :: [[id:d996b5ee-745d-437b-82e0-29372a36a7f5][Productivity]] [[id:67c5f9df-f684-463a-b713-88ad9670ff28][Studying]]

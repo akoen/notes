@@ -4,7 +4,7 @@
 #+setupfile: ../hugo_setup.org
 #+title: Purposeful/Deliberate Practice
 
-*Practice that is performed simply through repetition leads to stagnation and eventual decline.*
+*Practice performed through repetition leads to stagnation and eventual decline.* Like an athlete, the best learners are those who plan their practice and then execute their plans /deliberately./
 
 Purposeful practice:
 1. Has well-defined, specific goals.
@@ -16,4 +16,4 @@ Deliberate practice expands upon purposeful practice and:
 1. Develops skills that have /already/ been mastered by experts and for which effective training techniques have already been developed.
 2. Incorporates expert instructors to guide a student's practice and provide effective feedback.
    
-However, popular culture has made the two effectively synonymous.
+However, outside of the original literature the term deliberate practice is typically used to refer to all of these principles collectively.

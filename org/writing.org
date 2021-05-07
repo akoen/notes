@@ -8,6 +8,13 @@
 
 - The ultimate goal is to make your writing so [[id:a0220f3c-bd51-40fb-ad6b-714c63136d59][Simple]] that the reader believes they could have done it themselves.
 
+#+begin_quote
+"I try to pull the language into such a sharpness that it jumps off the page. It must look easy, but it takes me forever to get it to look so easy. Of course, there are those critics — New York critics as a rule — who say, Well, Maya Angelou has a new book out and of course it’s good but then she’s a natural writer. Those are the ones I want to grab by the throat and wrestle to the floor because it takes me forever to get it to sing. I work at the language." 
+— Maya Angelou
+#+end_quote
+
+
+
  #+BEGIN_QUOTE
  “Separate the processes of creation from improving. You can’t write and edit, or sculpt and polish, or make and analyze at the same time. If you do, the editor stops the creator. While you invent, don’t select. While you sketch, don’t inspect. While you write the first draft, don’t reflect. At the start, the creator mind must be unleashed from judgment.”
 

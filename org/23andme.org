@@ -6,7 +6,7 @@
 
 - 23andMe is slowly transitioning from superficial level genetic analysis targeted at consumers to drug discovery. 
 - They use [[id:ff9c2864-1f26-478b-9a25-98cc1e858df3][Genome-wide Association Study (GWAS)]]
-  
+
 * SNP Chip
 - They use "SNP Chips" to test for SNPs.
   - Specifically, the Illumina Infinum Global Screening Array. cite:research
