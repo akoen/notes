@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       2b97ae0c-206d-4136-b2e3-f6ac32f11292
+:END:
+#+setupfile: ../../hugo_setup.org
+#+title: Wealth, Poverty, and Politics
+
+- author :: Thomas Sowell
+- tags ::
+
+* The Book in 3 Sentences
+
+* Impressions
+
+* How the Book Changed Me
+
+* Top 3 Highlights
+

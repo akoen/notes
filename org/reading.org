@@ -4,9 +4,13 @@
 #+setupfile: ../hugo_setup.org
 #+title: Reading
 
+
 - More than half (58%) of high school graduates in the US will never read a book again.
   
 - [[id:25731e61-a3b9-4509-9c05-b80c96bd8281][Elon Musk]] claims that most of what he has learned has been through reading—he complains about the "ridiculously" slow download speed of sitting in a classroom.
 
 - Most people feel obliged to finish any book they start, even if they aren't enjoying it. There is no shame in skimming through or quitting a book—there are too many good books out there to waste time on those you don't enjoy.
 
+* What to read
+
+Start lots of books, abandon most of them, and read the best ones again.

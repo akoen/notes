@@ -44,7 +44,7 @@ Like the anger within the black community, these resentments aren't always expre
 | Hispanic or Latino                        |       527 |
 | Other Race/Ethnicity/Ancestry             |       313 |
 
-#+begin_src jupyter-julia :var data=hate-crimes
+#+begin_src jupyter-julia :var data=hate-crimes :async no
 using Plots
 sort!(data, by=x->x[2],rev=true)
 data = hcat(data...)
@@ -55,5 +55,5 @@ ylabel!("Number of incidents")
 #+end_src
 
 #+RESULTS:
-[[file:./.ob-jupyter/865aed9f5e339439de422f0ecb5aa3b6441e4e14.svg]]
+[[file:./.ob-jupyter/03de6208cb2c114a00c679d927a69ec45f8661a0.svg]]
 

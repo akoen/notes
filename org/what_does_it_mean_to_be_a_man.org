@@ -4,14 +4,14 @@
 #+setupfile: ../hugo_setup.org
 #+title: What does it mean to be a man?
 
+Nowadays, social norms are changing faster than ever. To quote one of my favourite authors, Mark Manson, "We are either the first or second generation of men to grow up without a clear definition of what our social roles are supposed to be and without a model of what it is to be strong and attractive men."
+
+This confusion is especially damaging to young men like myself and boys who are subjected to vastly different behavioural expectations. On one hand, we are rightfully being asked to shed elements of /toxic masculinity/ that have undeniably oppressed women and others for centuries. Yet on the other, our culture still celebrates many of these same traits.
+
+* Misc
+
 #+begin_quote
 Life is a storm, my young friend. You will bask in the sunlight one moment, be shattered on the rocks the next. What makes you a man is what you do when that storm comes.
 
 — Alexandre Dumas, /The Count of Monte Cristo/
-#+end_quote
-
-#+begin_quote
-We are either the first or second generation of men to grow up without a clear definition of what our social roles are supposed to be and without a model of what it is to be strong and attractive men.
-
-— Mark Manson
 #+end_quote
