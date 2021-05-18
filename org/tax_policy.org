@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       fc2fffb3-690f-4573-ad06-f3981decf1de
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Tax Policy
+
+#+begin_quote
+Praise for billionaires who say that they are in favor of higher income tax rates is completely misplaced, when those higher tax rates will not touch their billions, even if such tax rate increases are a serious burden to other people, who are trying to get ahead and accumulate something to leave for their families after they are gone.
+— Thomas Sowell, [[id:2b97ae0c-206d-4136-b2e3-f6ac32f11292][Wealth, Poverty, and Politics]] 
+#+end_quote
+
+

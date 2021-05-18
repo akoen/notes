@@ -2,7 +2,7 @@
 :ID:       690198da-5662-4141-a601-f93229f90675
 :END:
 #+setupfile: ../hugo_setup.org
-#+title:Digital Privacy
+#+title: Digital Privacy
 
 
 - Convenience :: Privacy often comes at the cost of convenience. Corporations can use our information to provide us with incredible services—services like Google Maps, Instagram, and Zoom that provide unquestionable value to our lives. Nobody working at any of these companies /wants/ to exploit you, it's just that businesses need a business-model, and selling your data is currently the most profitable way to make money.

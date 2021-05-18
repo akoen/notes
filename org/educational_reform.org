@@ -7,6 +7,14 @@
 It is clear that modern education is antiquated and that much of what is taught in schools is a byproduct of the early-20^th century rush to train factory workers. Students are taught to learn what others have already decided, whereas life is about making discoveries.
 
 - Classes have not evolved to meet modern technological evolution. (see [[id:cd1aa9a0-ca77-4cae-b880-17ebda7c2ae7][What classes should be taught in school?]])
+- Children are not given the agency they need to develop into competent, self-directed adults.
+
+  #+begin_quote
+  If we want to raise healthy, high-agency children, we should give them the freedom to make decisions without removing them from the consequences of those decisions. Giving children agency now will help them avoid a dark cycle of work, pain, and reckless release in the future. *Even if a life of indulgent hedonism is fun in the short-term, it ultimately leaves a void in the heart.* 
+  — [[id:806a7fda-b943-4160-8af1-e71c19d6f9a7][David Perell]]
+  #+end_quote
+
+
 
 #+BEGIN_QUOTE
 “School’s don’t show you the world, they just show you a bunch of careers.”
