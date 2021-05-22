@@ -5,7 +5,7 @@
 #+title: The importance of privacy
 
 * Targeting = discrimination
-Nowadays, governments and corporations have unprecedented ability to target—to target individuals not only based on their age and race, but also based on their browsing history, their location, and by extension even very personal traits like sexual orientation and medical conditions.
+Nowadays, governments and corporations have unprecedented ability to target—to target individuals not only based on their age and race, but also based on their browsing history, their location, and by extension very personal traits like sexual orientation and medical conditions.
 
 This is a tremendous business opportunity, for advertising now accounts for 19% of the U.S. GDP, but it comes at an equally devastating cost, because *the power to target is also the power to discriminate.*
 
@@ -21,11 +21,11 @@ Privacy is how we blind the system so that it treats us impartially and fairly
 
 * Lack of regulation allows warrantless investigation of citizens
 
-- In 2020 it was revealed that the Department of Homeland Security had purchased a commercial database of location data which tracks the movement of millions of American cellphones ([[https://www.wsj.com/articles/federal-agencies-use-cellphone-location-data-for-immigration-enforcement-11581078600][source]]). This data was used to arrest immigrants suspected of crossing the border illegally.
+- In 2020 it was revealed that the Department of Homeland Security had purchased a commercial database of location data which tracks the realtime location of millions of American cellphones ([[https://www.wsj.com/articles/federal-agencies-use-cellphone-location-data-for-immigration-enforcement-11581078600][source]]). Because this data is for sale, they do not need a warrant.
 
-- Moreover, in 2021 it was revealed that a similar dataset was purchased by the Iowa Air National Guard, a military unit that carries out international drone strikes ([[https://www.vice.com/en/article/y3g97x/location-data-apps-drone-strikes-iowa-national-guard][source]]). This dataset includes the precise location of millions of smartphone users collected without their knowledge from thousands of different apps, notably including several high-profile Muslim prayer apps ([[https://www.vice.com/en/article/jgqm5x/us-military-location-data-xmode-locate-x][source]]).
+- Branches of the U.S. military, including a unit responsible for international [[https://www.vice.com/en/article/y3g97x/location-data-apps-drone-strikes-iowa-national-guard][drone strikes]], have regularly purchased similar datasets, including data from [[https://www.vice.com/en/article/jgqm5x/us-military-location-data-xmode-locate-x][Muslim prayer apps]].
 
-- The governments of many countries collect extremely sensitive data from citizens including those not suspected of any crime. For example, the British OPTICNERVE program, leaked by [[id:33e611d4-169a-4dd9-a441-e18fe284ba9b][Edward Snowden]] in 2013, covertly took pictures of Yahoo messenger users every 5 minutes through their webcams without their knowledge. In a six-month period, images of 1.8 million distinct users were collected.
+- The governments of many countries collect extremely sensitive data from citizens including those not suspected of any crime. For example, the British OPTICNERVE program, leaked by [[id:33e611d4-169a-4dd9-a441-e18fe284ba9b][Edward Snowden]] in 2013, covertly took pictures of Yahoo messenger users through their webcams every 5 minutes. In a six-month period, images of 1.8 million distinct users were collected.
 
 * Privacy is not antiquated
 * Privacy should be inalienable

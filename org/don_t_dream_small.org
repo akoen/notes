@@ -10,3 +10,9 @@ Yes. Yes, yes, yes. Whenever you wonder, the answer is yes. People don't want to
 — The Third Door
 #+end_quote
 
+#+begin_quote
+Men talk of killing time, while time quietly kills them.
+— Dion Boucicault
+#+end_quote
+
+

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       25628e0e-a54c-4644-a6a0-a8e66e4556fc
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: The Chilling Effect
+
+The Chilling Effect is a consequence of the surveillance state where citizens begin to fear repercussions for exercising their fundamental rights, like free speech or the right to protest.
+
+For example, a student might be afraid to attend a legal Black Lives Matter protest because they're afraid of being put on a list of "potential rioters".
