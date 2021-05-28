@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       ec9cf64b-4884-4f04-bb27-a03f04f82390
-:ROAM_ALIASES: "\"Fair\""
+:ROAM_ALIASES: "Fair"
 :END:
 #+setupfile: ../hugo_setup.org
 #+title: Fairness
