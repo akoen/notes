@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       e20ad40b-11b9-431a-a38d-d685ed31de48
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Real-time bidding
+
+- tags :: [[id:690198da-5662-4141-a601-f93229f90675][Digital Privacy]] 
+  
+Every time you visit a ad-enabled website, your personal information is sent to potentially hundreds of advertisers in a process known as [[https://en.wikipedia.org/wiki/Real-time_bidding#How_it_works][real-time-bidding]].
+
+[[file:img/real_time_bidding/pasted_image_02021-05-30_20-30-11_.png]]
+
+The industry is controlled almost entirely by Google.
+
+- Data is shared between advertisers.
+- Shadow-bidding :: companies place intentionally losing bids on a website to collect personal information for free.
+* Information potentially included
+
+- Cursor movement
+- Location
+- Time spent viewing certain content
+  https://web.archive.org/web/20210531021350/https://developers.google.com/adwords/api/docs/appendix/verticals
+
+  - Inferred demographic information, including:
+    - Health/Reproductive Health/Infertility
+    - Health/Substance Abuse
+    - Health/Health Conditions/Cancer
+    - /People & Society/Ethnic & Identity Groups/Lesbian, Gay, Bisexual & Transgender
+
+The information provided to each bidder by Google is specified by the Authorized Buyers real-time bidding protocol, specified at https://web.archive.org/web/20210531025015/https://developers.google.com/authorized-buyers/rtb/realtime-bidding-guidehttps://dehttized-buyers/rtb/realtime-bidding-guide.
+- Highlights include:
+  - Latitude and longitude
+  - Page Verticals
+  - Identifer for Advertising (IDFA, Apple) or Google Advertising ID (AAID)
+  - =cookie_match_data=. To enable "cookie syncing'
+  - Whether the user is included on a specific list provided by the advertiser
+
+  OpenRTB, specified at https://web.archive.org/web/20210531031340/https://www.iab.com/wp-content/uploads/2016/03/OpenRTB-API-Specification-Version-2-5-FINAL.pdf
+
+    - ip :: full ip address of the current device
+    - Object: Data Object: Segment :: key-value pairs of user interests/demographics
+    - gender ::
+    - ::
+* Google Customer Match
+
+#+begin_quote
+To make this more concrete: suppose a company wants to acquire data about expecting mothers. It can buy a list of a million device IDs that a data broker believes to belong to such women. The company can upload this list to Google and target an ad at those IDs. If even a small fraction—say, 1%—click on the ad, then 10,000 people are sent to the advertiser’s landing page, where they automatically share their IP address, cookies, and possibly geolocation data. The company now has sensitive medical data about 10,000 people served up to it on a silver platter. (Google prohibits targeting based on medical and other characteristics in its Customer Match terms of service, but it is unclear how the company audits or enforces them.)
+—https://www.eff.org/deeplinks/2020/03/google-says-it-doesnt-sell-your-data-heres-how-company-shares-monetizes-and
+#+end_quote
+
+

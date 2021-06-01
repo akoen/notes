@@ -75,7 +75,7 @@
 
 - If postal workers read our letters in the way that Gmail and third-party app developers have scanned our emails, they would go to jail.
 
-- Privately owned advertising and surveillance networks are called ‘communities’, citizens are ‘users’, addiction to screens is labelled ‘engagement’, our most sensitive information is considered ‘data exhaust’ or ‘digital breadcrumbs’, spyware is called ‘cookies’, documents that describe our lack of privacy are titled ‘privacy policies’, and what used to be considered wiretapping is now the bedrock of the internet economy.
+- *Privately owned advertising and surveillance networks are called ‘communities’, citizens are ‘users’, addiction to screens is labelled ‘engagement’, our most sensitive information is considered ‘data exhaust’ or ‘digital breadcrumbs’, spyware is called ‘cookies’, documents that describe our lack of privacy are titled ‘privacy policies’, and what used to be considered wiretapping is now the bedrock of the internet economy.*
 
 - Think about how voting booths are designed to protect you from external pressures – if no one can see who you vote for, no one can force you to vote against your wishes.
 
@@ -101,7 +101,7 @@
 
 - The origin of the dark sides of the data economy is in the development of personalized advertising
 
-- *Real-time bidding (RTB) sends your personal data to interested advertisers, often without your permission. Suppose Amazon gets that data and recognizes you as a user who has visited their website before in search of shoes. They might be willing to pay more than others to lure you into buying shoes. And that’s how you get shown an Amazon shoe ad.*
+- *[[id:e20ad40b-11b9-431a-a38d-d685ed31de48][Real-time bidding]] (RTB) sends your personal data to interested advertisers, often without your permission. Suppose Amazon gets that data and recognizes you as a user who has visited their website before in search of shoes. They might be willing to pay more than others to lure you into buying shoes. And that’s how you get shown an Amazon shoe ad.*
 
 - Preliminary research shows that advertising using cookies does increase revenues, but only by around 4 per cent
 
