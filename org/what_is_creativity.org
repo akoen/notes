@@ -10,4 +10,4 @@
 — [[id:2addfac9-33dc-44f2-922c-e6feb2624277][Steve Jobs]]
 #+END_QUOTE
 
-
+According to [[id:daaf7a0e-7b41-4929-a39e-4ea2c6a25fa6][Tiago Forte]], a common misconception is that creativity starts from nothing. In reality, creativity is about finding new connections between seemingly disparate ideas and extending them to make something new.

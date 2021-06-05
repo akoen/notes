@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5ce24462-b0de-4f8e-b739-1c2dfc4d11c1
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Privacy limits judgements of character
+
+- Put simply, your privacy is important because it limits the power of governments and corporations to make judgments about your character. (see [[id:20a8b435-ae34-45cc-9dab-84aab85d91aa][The importance of privacy]])
+  - These judgments, which may be inaccurate or biased, can then be used to make decisions about you—to selectively grant or deny you opportunities.
+
+

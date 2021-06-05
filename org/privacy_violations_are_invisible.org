@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       3f80b988-82bf-4519-918d-24f4b682d62f
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Privacy violations are invisible
+
+- tags :: [[id:20a8b435-ae34-45cc-9dab-84aab85d91aa][The importance of privacy]]
+
+Surveillance is not yet seen as an existential threat because it is invisible. Few people understand the true economic and social consequences of its development.
+
+
+#+begin_quote
+Privately owned advertising and surveillance networks are called ‘communities’, citizens are ‘users’, addiction to screens is labelled ‘engagement’, our most sensitive information is considered ‘data exhaust’ or ‘digital breadcrumbs’, spyware is called ‘cookies’, documents that describe our lack of privacy are titled ‘privacy policies’, and what used to be considered wiretapping is now the bedrock of the internet economy.
+— Carissa Véliz, [[id:9967230e-a5fe-40de-83ed-18614c05c669][Privacy is Power]]
+#+end_quote
