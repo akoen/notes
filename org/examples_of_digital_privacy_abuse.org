@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       cca31f2e-3534-4fb8-8524-edbe0877a8f2
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Examples of digital privacy abuse
+
+
+* Research
+Kosinski /et al./ were able to predict psychological and demographic traits of individuals with surprising accuracy using a median of 68 Facebook likes. For example, they were able to infer sexual orientation of men, political affiliation, and drug use with 88%, 85%, and 65% accuracy respectively. cite:kosinskiPrivateTraitsAttributes2013
+
+*  Corporations
+- In 2007, Google's then CEO Eric Shmidt [[https://web.archive.org/web/20210524225135/https://www.ft.com/content/c3e49548-088e-11dc-b11e-000b5df10621][said]] "the goal is to enable Google users to be able to ask the questions such as 'What shall I do tomorrow?' and 'What job shall I take?'". 
+  - For democracy to function, we need citizens to be autonomous, to think for themselves.
+    
+- The [[https://play.google.com/store/apps/details?id=com.mindstrong&hl=en_CA&gl=US][Mindstrong]] Android app infers whether or not you suffer from depression and other mental disorders based on the way you scroll, type, and tap your phone screen. [[https://www.technologyreview.com/2018/10/15/66443/the-smartphone-app-that-can-tell-youre-depressed-before-you-know-it-yourself/]]
+
+** Financial 
+- Experian, the world's largest credit reporting company, stores credit data on [[https://www.experianplc.com/media/2744/discover-experian-fy17.pdf][918 million]] people.
+
+- Experian scores citizens and sells that data to companies. For example, the description for their Connect^{SM} service for healthcare providers says "Before you begin a medical procedure and extend them financing, be more informed about your patient's financial situation. It may help in mitigating the risk of late payments and possible need for collections later on."
+
+The director of the Consumer Financial Protection Bureau, Richard Cordray, said that "the data managed by the consumer reporting companies – and the scores generated from that data – exert a tremendous influence over the ways and means of people’s financial lives." https://web.archive.org/web/20210525221056/https://www.consumerfinance.gov/about-us/newsroom/prepared-remarks-cfpb-director-richard-cordray-consumer-advisory-board-meeting-march-2017/
+- Cignify, an American credit analytics firm, recently partnered with Equifax to help firms offer loans to Latin American citizens. To do so, they purchase customer data from cell service providers, including "call duration, time calls are made, who initiates a call or test, numbers frequently called" to "help predict people's willingness and ability to repay a loan or propensity to respond to a marketing offer". [[https://web.archive.org/web/20201124145234if_/https://www.youtube.com/watch?v=3KeycN_50ac][Source]]
+  - A 2011 [[https://ieeexplore.ieee.org/abstract/document/5959587][Swiss study]] showed that a similar set of smartphone metadata could be used to predict personality traits with an accuracy up to 75.9%.
+
+* US Government
+- In 2020 it was revealed that the Department of Homeland Security had purchased a commercial database of location data which tracks the realtime location of millions of American cellphones ([[https://www.wsj.com/articles/federal-agencies-use-cellphone-location-data-for-immigration-enforcement-11581078600][source]]). Because this data is commercially available, they do not need a warrant.
+
+- Branches of the U.S. military, including a unit responsible for international [[https://www.vice.com/en/article/y3g97x/location-data-apps-drone-strikes-iowa-national-guard][drone strikes]], have regularly purchased similar datasets, including data from [[https://www.vice.com/en/article/jgqm5x/us-military-location-data-xmode-locate-x][Muslim prayer apps]].
+
+- The governments of many countries collect extremely sensitive data from citizens including those not suspected of any crime. For example, the British OPTICNERVE program, leaked by [[id:33e611d4-169a-4dd9-a441-e18fe284ba9b][Edward Snowden]] in 2013, covertly took pictures of Yahoo messenger users through their webcams every 5 minutes. In a six-month period, images of 1.8 million distinct users were collected.
+* Foreign governments
+Foreign governments incite polarization using ads, for example by [[https://www.businessinsider.com/russia-trolls-senate-intelligence-committee-hearing-2017-11?r=US&IR=T][promoting both pro-Islam and anti-Islam protests]] in the same place at the same time.
+
