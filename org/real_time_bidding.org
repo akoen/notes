@@ -16,7 +16,6 @@ The industry is controlled almost entirely by Google.
 - Shadow-bidding :: companies place intentionally losing bids on a website to collect personal information for free.
 * Information potentially included
 
-- Cursor movement
 - Location
 - Time spent viewing certain content
   https://web.archive.org/web/20210531021350/https://developers.google.com/adwords/api/docs/appendix/verticals

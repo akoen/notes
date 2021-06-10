@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       74d09af9-7770-4d68-abc4-f796440e28f2
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Skill-acquisition is compounding
+
+This is the premise of the book [[id:e927be7d-6f83-4afe-96f8-d5b2e14258a8][The Slight Edge]] by Jeff Olson.
+
+Life is easy—you're difficult. If you can master the most mundane of tasks and avoid distraction, you will live an extraordinary life.
+
+#+begin_quote
+The older I get, the clearer it becomes that our internal battle as the kindergarten teachers of our mind is like 97% of life’s struggle. The world is easy—you’re difficult. If you find yourself continually not executing your plans in life and your promises to yourself, you’ve uncovered your new #1 priority—becoming a better kindergarten teacher. Until you do, your life will be run by a bunch of primitive, short-sighted 5-year-olds, and your whole shit will suck. Trust me, I know.
+— [[id:751a3d5d-b78c-40cf-8760-c0de6f2b3f01][Tim Urban]]
+#+end_quote
+
+

@@ -18,7 +18,10 @@
 — [[id:daaf7a0e-7b41-4929-a39e-4ea2c6a25fa6][Tiago Forte]]
 #+END_QUOTE
 
-- Good tools don't add features; they remove all distractions from the main task, which is thinking. #[[id:d996b5ee-745d-437b-82e0-29372a36a7f5][Productivity]]
+#+begin_quote
+Good systems don't add options and features; they strip away complexity and distractions from the main work, which is thinking.
+—  [[id:daaf7a0e-7b41-4929-a39e-4ea2c6a25fa6][Tiago Forte]] (summary of [[id:a0b85e10-52ee-4f4f-b8b5-960875348749][How to Take Smart Notes]])
+#+end_quote
 
 - Simple does not mean easy. Take simple ideas seriously. [[id:a0b85e10-52ee-4f4f-b8b5-960875348749][How to Take Smart Notes]]
   
