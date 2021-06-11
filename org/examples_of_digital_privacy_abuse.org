@@ -14,6 +14,8 @@ Kosinski /et al./ were able to predict psychological and demographic traits of i
     
 - The [[https://play.google.com/store/apps/details?id=com.mindstrong&hl=en_CA&gl=US][Mindstrong]] Android app infers whether or not you suffer from depression and other mental disorders based on the way you scroll, type, and tap your phone screen. [[https://www.technologyreview.com/2018/10/15/66443/the-smartphone-app-that-can-tell-youre-depressed-before-you-know-it-yourself/]]
 
+  - In 2019, Facebook was [[https://web.archive.org/web/20201219124029/https://www.hud.gov/press/press_releases_media_advisories/HUD_No_19_035][charged]] by the U.S. government for discriminating the display of housing-related ads based on race and other protected classes.
+
 ** Financial 
 - Experian, the world's largest credit reporting company, stores credit data on [[https://www.experianplc.com/media/2744/discover-experian-fy17.pdf][918 million]] people.
 

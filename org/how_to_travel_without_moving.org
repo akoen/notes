@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       93ed7696-2e5b-45e5-96b9-0dc08a41b7cd
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: How to travel without moving
+
+- Visit [[https://www.window-swap.com/Window][Window Swap]] and look through a stranger's window.
