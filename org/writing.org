@@ -4,7 +4,7 @@
 #+setupfile: ../hugo_setup.org
 #+title: Writing
 
-- First drafts should be messy, experimental, and rushed. Spend your time rewriting, not getting it right the first time.
+- *First drafts should be messy, experimental, and rushed. Spend your time rewriting, not getting it right the first time.*
 
 - The ultimate goal is to make your writing so [[id:a0220f3c-bd51-40fb-ad6b-714c63136d59][Simple]] that the reader believes they could have done it themselves.
 

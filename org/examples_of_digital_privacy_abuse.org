@@ -25,6 +25,26 @@ The director of the Consumer Financial Protection Bureau, Richard Cordray, said 
 - Cignify, an American credit analytics firm, recently partnered with Equifax to help firms offer loans to Latin American citizens. To do so, they purchase customer data from cell service providers, including "call duration, time calls are made, who initiates a call or test, numbers frequently called" to "help predict people's willingness and ability to repay a loan or propensity to respond to a marketing offer". [[https://web.archive.org/web/20201124145234if_/https://www.youtube.com/watch?v=3KeycN_50ac][Source]]
   - A 2011 [[https://ieeexplore.ieee.org/abstract/document/5959587][Swiss study]] showed that a similar set of smartphone metadata could be used to predict personality traits with an accuracy up to 75.9%.
 
+  - Equifax offers [[https://www.equifax.com/business/customer-targeting-and-scoring/][numerous]] consumer scoring services. These include:
+    - [[https://www.equifax.com/business/affluence-index/][Affluence Index]] :: "a continuous household-based score of 1 to 1000 that ranks households by their estimated capacity to spend, save, or invest."
+
+    - [[https://www.equifax.com/business/wealthcomplete/][WealthComplete]] :: "provides estimates of total assets at the household level, based on the estimated total liquid financial assets held by all U.S. households."
+      
+** Advertising
+Moat Analytics, a subdivision of Oracle, provides, among other services, services to measure and improve "consumer attention". In their [[https://web.archive.org/web/20210611205501/https://www.oracle.com/a/ocom/docs/dc/em/mktg-7203-gbav-step-by-step-guide-v3c.pdf][marketing brochure]], they describe some of the ad metrics that they can measure:
+- In-View Time :: the duration that the user keeps the ad visible.
+- Touch Rate :: on mobile, whether or not your finger touches the ad, regardless of whether or not you click.
+- % of Video Played In-View :: what percentage of the video you watched while the frame was in view.
+
+  - Their purported goal is to reduce "wasted" ad spending. They have a [[https://www.youtube.com/watch?v=-VIJv1WwH_M][video series]] where the show off some of their capabilities.
+
+  - They have partnered with TVision Insights, the "leader in eyes on screen attention measurement."
+    - From their landing page [[https://www.tvisioninsights.com/resources/mit-profile]]:
+      - "Their computation software can be easily integrated into the graphic processing unit of any web camera. Once installed, their AI technique tracks how many people are watching, their attention level, even their emotions, all in real time."
+
+      - Trusted by: "FOX, Roku, hulu, Google, Microsoft, AMC NETWORKS."
+
+      - A competitor, Samba TV, offers a chip to manufacturers that they can embed in their devices. According to a Forbes [[https://www.forbes.com/sites/martyswant/2020/03/27/as-connected-tv-use-skyrockets-samba-tv-sees-massive-growth/][expose]], "For consumers who buy TVs with Samba TV's technology, it's a show-discovery platform that recommends programs based on their previous choices. For media companies, Samba lets them track exactly what viewers are watching, and who that audience is, at a second-by-second-rate."
 * US Government
 - In 2020 it was revealed that the Department of Homeland Security had purchased a commercial database of location data which tracks the realtime location of millions of American cellphones ([[https://www.wsj.com/articles/federal-agencies-use-cellphone-location-data-for-immigration-enforcement-11581078600][source]]). Because this data is commercially available, they do not need a warrant.
 
@@ -33,4 +53,3 @@ The director of the Consumer Financial Protection Bureau, Richard Cordray, said 
 - The governments of many countries collect extremely sensitive data from citizens including those not suspected of any crime. For example, the British OPTICNERVE program, leaked by [[id:33e611d4-169a-4dd9-a441-e18fe284ba9b][Edward Snowden]] in 2013, covertly took pictures of Yahoo messenger users through their webcams every 5 minutes. In a six-month period, images of 1.8 million distinct users were collected.
 * Foreign governments
 Foreign governments incite polarization using ads, for example by [[https://www.businessinsider.com/russia-trolls-senate-intelligence-committee-hearing-2017-11?r=US&IR=T][promoting both pro-Islam and anti-Islam protests]] in the same place at the same time.
-

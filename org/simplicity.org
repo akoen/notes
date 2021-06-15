@@ -19,6 +19,13 @@
 #+END_QUOTE
 
 #+begin_quote
+Simple, clear purpose and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior.
+— Dee Hock
+#+end_quote
+
+
+
+#+begin_quote
 Good systems don't add options and features; they strip away complexity and distractions from the main work, which is thinking.
 —  [[id:daaf7a0e-7b41-4929-a39e-4ea2c6a25fa6][Tiago Forte]] (summary of [[id:a0b85e10-52ee-4f4f-b8b5-960875348749][How to Take Smart Notes]])
 #+end_quote
