@@ -1,0 +1,27 @@
++++
+title = "Educational Reform"
+lastmod = 2021-06-16T12:17:49-07:00
+draft = false
++++
+
+It is clear that modern education is antiquated and that much of what is taught in schools is a byproduct of the early-20^th century rush to train factory workers. Students are taught to learn what others have already decided, whereas life is about making discoveries.
+
+-   Classes have not evolved to meet modern technological evolution. (see [What classes should be taught in school?]({{<relref "what_classes_should_be_taught_in_school.md" >}}))
+-   Children are not given the agency they need to develop into competent, self-directed adults.
+
+    > If we want to raise healthy, high-agency children, we should give them the freedom to make decisions without removing them from the consequences of those decisions. Giving children agency now will help them avoid a dark cycle of work, pain, and reckless release in the future. **Even if a life of indulgent hedonism is fun in the short-term, it ultimately leaves a void in the heart.**
+    > — [David Perell]({{<relref "david_perell.md" >}})
+
+-   Schools train students to be alike. Specific, marketable skills are taught through apprenticeships.
+
+> “School’s don’t show you the world, they just show you a bunch of careers.”
+>
+> — Michelle Obama
+
+<!--quoteend-->
+
+> “Is state education designed to encourage more Darwins and Newtons, or to create middle-management civil servants and workers? What tensions are brought into being when a child’s natural proclivity to question everything in their own unique way comes into contact with a one-size-fits-all mode of education?”
+>
+> — Akala
+
+-   What would happen if we completely removed grades and diplomas? Would it result in a meritocracy?

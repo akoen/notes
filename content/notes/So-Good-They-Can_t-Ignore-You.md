@@ -1,0 +1,80 @@
++++
+title = "So Good They Can't Ignore You"
+date = 2019-12-23T00:00:00-08:00
+lastmod = 2021-06-16T12:17:20-07:00
+draft = false
++++
+
+author
+: [Cal Newport]({{<relref "cal_newport.md" >}})
+
+**Thesis:** Career fulfillment is achieved by adopting the craftsman mindset. This mindset entails the acquisition of valuable skills over following a predetermined passion.
+
+This book is divided into 4 rules:
+
+
+## Rule 1: Don't Follow Your Passion {#rule-1-don-t-follow-your-passion}
+
+-   Society likes to preach the idea that career fulfillment is achieved first by identifying your passion, and then matching your career to this predetermined "calling". **This is wrong.**
+
+-   Passions should not be trusted because they are rare and often don't match our skills.
+
+-   Instead, successful careers are built by developing "career capital"—valuable skills that can be used to advance oneself in their profession.
+
+
+## Rule 2: Be So Good They Can't Ignore You {#rule-2-be-so-good-they-can-t-ignore-you}
+
+-   In general, the better we are at our jobs, the more autonomy and opportunity we have.
+
+-   By acquiring large amounts of career capital, we build a foundation for work we love
+
+-   Consequently, we should aim to acquire valuable skills to become "so good they can't ignore you."
+
+-   Fulfilled professionals don't ask themselves, "what can my career do for me," but rather "what can I do for my career?". This is the **craftsman mindset.**
+
+-   Career capital is best acquired through **deliberate practice** (see [Peak: Secrets from the New Science of Expertise]({{<relref "Peak.md" >}}))
+    -   While musicians, athletes etc. are intimately familiar with deliberate practice, knowledge workers are not. This is a huge advantage for you.
+
+> “deliberate practice, an approach to work where you deliberately stretch your abilities beyond where you’re comfortable and then receive ruthless feedback on your performance.”
+
+
+## Rule 3: Turn Down a Promotion (Or, the Importance of Control) {#rule-3-turn-down-a-promotion--or-the-importance-of-control}
+
+-   One of the most important components of work you love is _control_.
+
+-   Control gives you the autonomy to do work the work that you want to do
+
+-   After gaining enough career capital, you should invest this capital towards traits that define great work, such as control.
+
+-   The **First Control Trap:** Control that's acquired without career capital is not sustainable.
+    -   People who pursue control without first acquiring career capital gain their freedom, but cannot afford their next meal.
+
+    -   /For ex. although it may be tempting to drop out of school to become a travel photographer, it is unwise to do so because while some people do have success doing this, they had already refined their skills by the time they made the switch.
+
+-   The **Second Control Trap:** The more career capital you acquire, the more resistance there will be against you acquiring you autonomy.
+    -   As you become more valuable to your employer, they will try to convince you not to gain more control
+
+    -   Use your leverage to fight for it.
+
+-   Although this book dismisses "courage" in the sense of abandoning you career to pursue another career on a whim, courage is encourage _when you can back it up._
+
+-   In general, **only follow a pursuit for more control if you have evidence that people are willing to pay for it** (Law of Financial Viability)
+
+
+## Rule 4: Think Small, Act Big (Or, the importance of Mission) {#rule-4-think-small-act-big--or-the-importance-of-mission}
+
+-   Another of the most satisfying aspects of great work is mission—a unified focus for you career. It provides a sense of purpose.
+
+-   Again, **missions require career capital**. We are often dismayed when we don't have a mission in life—yet we are not yet the best at what we do.
+    -   The **adjacent possible**: the next big ideas in a field, right beyond the cutting edge.
+
+    -   Most great careers—ones with _missions_ — involve exploring the adjacent possible, yet one must reach the cutting edge before venturing into such terrain.
+
+-   **Missions stem from little bets: brief explorations of the adjacent possible.**
+    -   It is challenging, if not impossible, to identify your mission correctly the first time. By trying out small, one or two-month projects, you increase your chances of finding the right mission.
+
+    -   _Think of a famous comedian preparing for a big show. Beforehand, they'll write and try out tons of material, most of which will fall flat. However, by making these little bets, the comedian will identify a subset of the best jokes._
+
+    -   _Note: this relates to my philosophy of diving straight in to a problem without trying to solve every detail beforehand. It allows me to try out potential solutions and get instant feedback much faster than I would otherwise._
+
+-   Missions require marketing. **Make your work remarkable. Make people notice.**

@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       c0e6fa21-055c-4751-af6f-2ed5ecd09d84
+:ROAM_REFS: http://augmentingcognition.com/ltm.html
+:END:
+#+setupfile: ../hugo_setup.org
+#+filetags: articles
+#+title: Article: Augmenting Long-term Memory
+
+
+- author :: [[id:a81f03ed-d584-4547-a1ed-89ad6aff2dcd][Michael Nielsen]]
+- source :: [[http://augmentingcognition.com/ltm.html]]
+- tags :: [[id:93122ee5-d10c-414f-94f1-ff7f32d5beb8][Ephemerality of Memory]]
+
+- Nielsen estimates that he only spends 4 to 7 minutes reviewing cards in a 20 year period.
+
+- If something is worth 10 minutes to you—or it seems striking, make an Anki card for it.
+
+- Nielsen reads a paper in multiple passes, adding more complex cards to [[id:1ce77000-ab03-434c-a188-83c4a2095575][Anki]] during each pass. This is similar to the [[id:d4d193ee-fb48-4624-899f-981b772a132f][Three-Pass Method]].
+
+  - While reading one paper he made several hundred questions.
+
+  - Typically, he doesn't make that many cards. He will usually spend 10 to 60 minutes on a paper and make 10, 20 cards.
+
+  - Most cards come from the abstract, introduction, conclusion, figures, and figure captions.
+
+- It takes emotional commitment to invest in making and reviewing cards. Don't make cards for things that you are not interested in.
+
+#+BEGIN_QUOTE
+“Study hard what interests you in the most undisciplined, irreverent and original manner possible.”
+
+— [[id:4bdd184b-5fe2-4f5b-bc49-e085d3269e52][Richard Feynman]]
+#+END_QUOTE
+
+- Nielsen argues that it is more valuable to read a few important papers on a topic than to read a large number of papers. [[id:04654f55-3c5c-447b-b93d-5ff96bb2aa04][(Syntopic reading]])
+  
+- Make [[id:1ce77000-ab03-434c-a188-83c4a2095575][Anki]] cards atomic. *It is critical to be able to quickly identify your precise mistake when you fail a card.* Otherwise you're mind will not know where to focus.
+
+#+BEGIN_QUOTE
+“[[id:1ce77000-ab03-434c-a188-83c4a2095575][Anki]] isn't just a tool for memorizing simple facts. It's a tool for understanding almost anything.”
+
+— [[id:a81f03ed-d584-4547-a1ed-89ad6aff2dcd][Michael Nielsen]]
+#+END_QUOTE
+
+- Avoid making orphaned cards—cards that have no relatives. Instead, make many related cards to force [[id:6fd84cbe-adc9-4e86-a7fb-c182efa36e5e][Elaboration]] and draw connections between ideas.
+  - Make multiple variants of the same card, worded differently.
+
+- Don't succumb to the programmer's efficiency disease and try to make 1% improvements to your workflow. Use the basic features of [[id:1ce77000-ab03-434c-a188-83c4a2095575][Anki]], and use them well.
+
+- Anki is not a replacement for practice. You must apply your knowledge.
+
+- People complain that many books could have made their point in only a few dozen, or fewer, pages. Nielsen argues that reading is a form of [[id:3740eb98-ab84-489b-98c5-bd7d90f809dc][Spaced Repetition]], and by reading a longer book over a few weeks, the concepts are more firmly internalized.
+
+* Part 2: The importance of memory
+
+- People typically do not struggle with complex topics, they struggle with the basics. Think in terms of [[id:c648454d-c239-4723-af3e-af1e6f648266][First Principles]].
+  
+- Experts do not have a larger brain than anyone else. They simply have a large number of [[id:a2857bde-9233-4ed3-97b1-8f0cc4bd6b44][Chunks]] that allow them to understand more complex issues.
+
+- Having more complex mental representations means being able to reason at a higher level. Instead of relying on primitive, basic chunks to think through a problem, you are able to think more effectively.

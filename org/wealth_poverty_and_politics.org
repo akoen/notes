@@ -1,0 +1,168 @@
+:PROPERTIES:
+:ID:       2b97ae0c-206d-4136-b2e3-f6ac32f11292
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Wealth, Poverty, and Politics
+#+filetags: books
+
+- author :: Thomas Sowell
+
+* The Book in 3 Sentences
+
+* Impressions
+
+* How the Book Changed Me
+
+* Top 3 Highlights
+
+* Notes
+
+- Inequality has been the status quo throughout history.
+  - "Shocked as we may be today by drastic contrasts between the standards of living in modern industrial nations and the standards of living in Third World countries, such disparities have been common for thousands of years of recorded history." ([[id:2b97ae0c-206d-4136-b2e3-f6ac32f11292][Wealth, Poverty, and Politics]])
+
+- Standards of living increase when either wages /increase/ or the cost of goods /decreases/.
+
+- Reducing inequality and raising people out of poverty are opposing goals.
+
+- Affirmative action denies the most capable people from contributing to society as much as possible, hurting /everybody/.
+  - The real value of highly selective and intellectually elite high schools is in what their alumni go on to achieve that benefits vastly more other people than themselves.
+
+- 
+* Misc Highlights
+
+- Mountain regions discourage the budding of genius because they are areas of isolation, confinement, remote from the great currents of men and ideas that move along the river valleys.
+
+- The standard of living of a nation depends more on its output per capita than on the money received as income for producing that output. Otherwise, government could make us all rich, simply by printing more money.
+
+- *The real problem of poverty is not a problem of “distribution” but of production. The poor are poor not because something is being withheld from them but because, for whatever reason, they are not producing enough.*
+
+- “It is better to be roughly right than precisely wrong.”
+
+- By contrast, the African coastline is smooth, with few substantial indentations, few good natural harbors, and fewer islands and peninsulas—which make up only 2 percent of Africa’s land area. Moreover, coastal waters around sub-Saharan Africa are often too shallow for ocean-going ships to dock.
+
+- Even in the early twenty-first century, most of the mountain people in the world still practiced subsistence agriculture.
+
+- But how agriculture came to the Western world is known. It came from the Middle East, thousands of years ago, and apparently originated somewhere between the Tigris and Euphrates rivers, in what is today Iraq.
+
+- Agriculture seems to have started in North China in the region of the great bend of the Yellow River. . . In fact, this center of early Chinese civilization resembled in some ways the homes of other ancient civilizations—the flood plains of the Nile in Egypt, the Tigris and Euphrates in Mesopotamia, and the Indus in modern Pakistan.
+
+- Among the many deficiencies of the soil in sub-Saharan Africa is that the topsoil is often shallow, allowing little space for plant roots to reach deep into the ground for nutrients and water.109 Moreover, the dryness of much of Africa inhibits the use of fertilizers to supply the nutrients missing in the soil.
+
+- Africans are only about 50 percent more numerous than Europeans,
+
+- was said of a kindly Spanish priest, who went among the native peoples of the Western Hemisphere in friendship, as a missionary, that he was probably responsible for more deaths among them than even the most brutal conquistador.
+
+- In sub-Saharan Africa, the tropical diseases were so deadly to outsiders that, at one time, the average life expectancy of a white man in tropical Africa was said to be less than one year.
+
+- *That this is a matter of culture, rather than a matter of initial wealth upon arriving in a given country, is shown by how many groups have arrived in various countries far poorer than the existing population of the host country and have nevertheless eventually risen above the economic level of those who were there before them*.
+
+- *Today, in America, black youngsters seeking to speak the standard English of the larger society, often as part of a more general absorption of educational and other components of the larger culture, have been accused of “acting white”—a charge that can bring anything from ridicule to ostracism to harassment or outright violence from fellow blacks*.
+
+- Honesty is more than a moral issue. It is also an economic factor whose presence or absence can be of major importance.
+
+- Today, in New York City’s three elite and highly selective academic public high schools—Stuyvesant, Bronx Science and Brooklyn Tech—Asian students outnumber white students by more than two to one. This is in a city where Asians are only 14 percent of the public school students.
+
+- When it came to inventions in general, only 8 percent of the U.S. patents issued in 1851 went to residents of the Southern states, whose white population was approximately one-third of the white population of the country. Even in agriculture, the main economic activity of the region, only 9 out of 62 patents for agricultural implements went to Southerners.
+
+- In times and places where there were families so poor that they were living on the edge of subsistence, it was not uncommon to kill newborn babies. This was especially so when the baby was a girl, because she might not grow strong enough, soon enough, to produce enough food for her own survival, in a family where there was not enough food to keep feeding her without jeopardizing the survival of the family itself. Among the benefits of economic progress was reaching a level of productivity where such desperate and anguished decisions no longer had to be made.
+
+- The net result is that the age at which people receive their highest incomes has shifted upward in the United States.
+
+- *Equal opportunity, in the sense of being judged and rewarded by the same standards as others*.
+
+- The fact that the difference between black and white neighborhoods is visible to the naked eye, in a way that these other differences are not, does not make the black-white difference unique.
+
+- Jewish scientists fleeing threats to their personal survival in 1930s Europe played key roles in making the United States the first nuclear superpower.
+
+- In short, we cannot determine how much mobility—that is, opportunity to move upward—a given society has by how much upward movement actually takes place.
+
+- If low-income immigrants are able to move up, even when native-born Americans tend to stay in their same relative economic positions from one generation to the next, that strongly suggests that American society continues to offer opportunities to move up economically, but that not all groups make the same use of these opportunities.
+
+- *Today, with the specter of genetic determinism hovering in the background, many are loath to admit that there are major differences in developed mental capabilities among racial or ethnic groups*.
+  - /Note/: controversial my god.
+
+- Slippery use of the word “privilege” is part of a vogue of calling achievements “privileges”—a
+
+- The changing social climate of the 1960s and beyond included a celebration of the ghetto culture, essentially an offshoot of the dysfunctional redneck culture of the South, though often regarded as something uniquely black or even African, despite much evidence to the contrary.
+
+- *Legendary basketball star Kareem Abdul-Jabbar described what it was like for him as a youngster growing up in this culture: I got all A’s and was hated for it; I spoke correctly and was called a punk. I had to learn a new language simply to be able to deal with the threats. I had good manners and was a good little boy and paid for it with my hide.*
+
+- To have the proportion of the black population that is born to unwed teenage dropouts artificially increased by government policies is hardly a benefit to either the black population or to the society at large.
+
+- Today, tests that show some groups far better at some things than other groups are often dismissed as biased tests. Apparently, according to that view, some groups cannot possibly be better or worse than other groups at a given time or place, or at least we cannot publicly admit it.
+
+- Despite widespread misconceptions in the United States today that the institution of slavery was based on race, for most of the thousands of years in which slavery existed around the world, it was based on whoever was vulnerable to enslavement and within striking distance.
+
+- Africans were not singled out by race for ownership by Europeans, they were resorted to after the rise of nation-states with armies and navies in other parts of the world reduced the number of places that could be raided for slaves without great costs and risks.
+
+- *Unprotected coastal settlements in Europe, and European sailors at sea, were long vulnerable to slave raids by pirates from the Barbary Coast of North Africa. These pirates enslaved at least a million Europeans between 1500 and 1800. That is more than the number of African slaves transported to the United States and to the American colonies from which it was formed.*
+
+- *It was from the coastal peoples of West Africa that whites purchased slaves for shipment to the Western Hemisphere. In East Africa, both Africans and Arabs raided the more vulnerable tribes and enslaved them.*
+
+- In 2010, there were some 260,000 Nigerians in the U.S., a mere 0.7 percent of the black American population. Yet in 2013, 20 to 25 percent of the 120 black students at Harvard Business School were Nigerian. As early as 1999, Nigerians were overrepresented among black students at elite American colleges and universities by a factor of about ten.
+
+- *It is the Asian immigrants of a later time, many of whom have been refugees, who in many cases arrived on American shores with little money and a few words of broken English, but who have worked their way up from the bottom to a modest prosperity, and whose children excel in school and then head off to prestigious universities, who are threats to the egos of lagging groups in America who have made nothing like the same use of their own opportunities.*
+
+- Neither can individuals or groups lagging today automatically blame their lags on the injustices inflicted on their ancestors, when the cultural benefits available to them in later times were an unintended by-product of those injustices. Moral condemnation is not causal explanation, despite how often the two have been combined in a politically attractive package.
+
+- *One delusion common among America’s successful people is that they triumphed just because of hard work and intelligence. In fact, their big break came when they were conceived in middle-class American families who loved them, read them stories, and nurtured them with Little League sports, library cards and music lessons. They were programmed for success by the time they were zygotes.*
+
+- It is one of the most elementary principles of economics that prices artificially raised above the level set by supply and demand creates unsaleable surpluses, whether what is being sold is agricultural produce or labor—regardless of the presence or absence of empathy.
+
+- *However plausible, or even inspiring, it might seem that a lagging minority needs to unite in solidarity behind political leaders representing their interests to the larger society, in order to get ahead, the historical record shows no such pattern of success for politics, as compared to education, job skills and intact families.*
+
+- *Despite the ease with which some use the “legacy of slavery” argument to explain negative features of black communities today, there is seldom any attempt to examine the facts as to whether whatever is complained of—whether fatherless families, crime rates or other social pathology—was in fact worse in the first hundred years after slavery or in the first generation after the triumph of the welfare state vision in the 1960s.*
+
+- As the New York Times reported, looking back on New York’s earlier projects: These were not the projects of idle, stinky elevators, of gang-controlled stairwells where drug deals go down. In the 1940s, ’50s and ’60s, when most of the city’s public housing was built, a sense of pride and community permeated well-kept corridors, apartments and grounds.
+
+- What lower-class whites in England and ghetto blacks in the United States have in common is a legacy of a generations-long indoctrination in a welfare state ideology of victimhood, grievances and a vision of barriers stacked against them that make their prospects hopeless. This welfare state ideology is backed up by welfare state programs that subsidize an economically counterproductive and socially destructive lifestyle.
+
+- Among the consequences of the welfare state in both England and America is making it unnecessary for many people to develop their own productive capacities—their human capital—when they can live on what was produced by others.
+
+- In addition, the counterproductive lifestyles developed in subsidized idleness in a non-judgmental world impose serious psychic costs on other members of society, especially those financially unable to escape neighborhoods where the offensive and dangerous behavior of those whom the welfare state and its accompanying social vision have relieved from the norms of civilized behavior on both sides of the Atlantic.
+
+- In the United States, most households in the lowest 20 percent of income recipients have no one working.108 Most of the economic resources transferred to them are transferred in kind—subsidized housing, medical care and other such benefits—rather than in money. Therefore disparities expressed in money income statistics greatly exaggerate disparities in standards of living, especially for people living in what the welfare state chooses to define as poverty.
+
+- While differences of opinion on issues may be inevitable, confusion on issues is not.
+
+- The all too familiar cliché about “the paradox of poverty in an affluent society” is a paradox only to those who start with (1) a preconception of an egalitarian world, in defiance of history, and (2) a disregard of the arbitrary nature of the government-defined word “poverty.”
+
+- most American households—56 percent—are in the top decile at some point in their lives,15 usually in their older years.
+
+- Even the vaunted “top one percent,” so often discussed in the media, is a level reached by 12 percent of Americans at some point in their lives.
+
+- At a practical level, raising income tax rates to make “the rich” pay their undefined “fair share” is an exercise in futility, since income taxes do not touch wealth. It is a tax on people who may be trying to accumulate wealth, but people who already have accumulations of wealth, either personally earned or from inheritance, are exempt.
+
+
+- Few today are prepared to say that there should be absolute equality of income or wealth, but they seldom offer more than ad hoc pronouncements that current inequalities are “too much.”
+
+- Perhaps the closest they come to some principle is that current inequalities are greater than the inequalities in some other time or place. But this offers no principle on which to choose a particular time or place to serve as a standard for judging other times and places.
+
+- An obvious example of such changes has been the reduced value of physical labor as machine power has in many cases replaced human muscle, thereby making the male worker’s advantage in physical strength less relevant, reducing the pay gap between the sexes, even before there were equal pay laws.
+
+- Increased income disparities may also reflect the fact that an increasing proportion of the population can live without working, or with only sporadic or part-time work, thanks to the many benefits available from the welfare state. These benefits are not counted in income statistics, even though the value of these in-kind benefits—ranging from subsidized housing to medical care—greatly exceeds the recorded money income of people in the bottom 20 percent of income recipients.46
+
+- In a world where rewards were based solely on merit, there would be no obvious reason to pay the brain surgeon any more than the carpenter was paid. But, in a world where productivity matters, this is no longer a question of the relative merits of individuals. What is far more important than merit-based “social justice” to particular income recipients is the well-being of all the people who stand to benefit from what they produce.
+
+- Comfortable academics on ivy-covered campuses may be able to afford a preoccupation with statistical patterns and a preference for income numbers that fit their preconceptions.
+
+- people mired in poverty—genuine poverty, perhaps in the Third World—are wrong to welcome some billionaire investor who wants to set up a factory near them that will provide jobs enabling them to give their families things they have never been able to afford before,* just because that billionaire’s investment will also make him richer than before,
+
+- Latin America has by no means been unique on the world stage in not simply failing to reach the standards of productivity set by others, but in positively rejecting, resenting and restricting those who were more productive—and explaining away their own lags by blaming “exploitation” by others at home and abroad.
+
+  *Note:* Immigrants?
+
+- there is a major difference between equal opportunity and equal chances of achieving a given outcome—a
+
+- The strong emotions surrounding issues of income and wealth make careful—and honest—uses of words especially important, if our goal is truth, and not simply ideological victory in a contest of fencing with words.
+
+- What was peculiar to Western civilization was not that it had slavery, like non-Western civilizations around the world, but that Western civilization was where the drive to destroy slavery began—a drive that lasted more than a century, fought on many fronts and succeeded over the opposition of non-Western societies.
+
+- If the less fortunate peoples of the world are less fortunate primarily because they are victims of the more fortunate, then the goal to pursue in trying to make things right can be very different from what the goal would be if the less fortunate are seen as people lacking the geographic, cultural and other advantages enjoyed by others, largely through no fault of theirs or of others.
+
+- *When China, after the death of Mao, abandoned the original Communist emphasis on economic egalitarianism and adopted more market-oriented reforms under Deng Xiaoping—who said, “Let some people get rich first”—the economic growth rate hit new highs and literally hundreds of millions of people rose out of poverty.*
+
+- Emphasis on “income distribution”—and especially redistribution—to the neglect of production downplays the benefits to society at large, and to the poor especially, from what is produced in the course of earning higher incomes.
+
+- *Since the reduction of poverty and the closing of economic gaps are competing goals, on what basis can we choose between them?*
+

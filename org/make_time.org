@@ -1,0 +1,164 @@
+:PROPERTIES:
+:ID:       989b6521-6410-492e-b9a4-0997337a618c
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Make Time
+#+filetags: books
+
+
+- author :: John Zeratsky and Jake Knapp
+
+I wrote a post about this: https://alexkoen.com/writing/posts/more-time/
+
+* Favourite Highlights
+#+begin_quote
+If you reduce a few distractions, increase your physical and mental energy just a bit, and focus your attention on one bright spot, a blah day can become extraordinary.
+#+end_quote
+
+
+* Highlights
+
+- This is a book about slowing down the crazy rush. It’s about making time for things that matter. We believe it’s possible to feel less busy, be less distracted, and enjoy the present moment more.
+
+- With the average person spending four-plus hours a day on their smartphone and another four-plus hours watching TV shows, distraction is quite literally a full-time job.
+
+- Then it hit me: Being more productive didn’t mean I was doing the most important work; it only meant I was reacting to other people’s priorities faster.
+
+- something magic happens when you start the day with one high-priority goal.
+
+- Here’s a zoomed-out view of how each day looks:
+
+- Of course, your Highlight isn’t the only thing you’ll do each day. But it will be your priority. Asking yourself “What’s going to be the highlight of my day?” ensures that you spend time on the things that matter to you and don’t lose the entire day reacting to other people’s priorities.
+
+- We do not remember days, we remember moments. —CESARE PAVESE
+
+- I realized I didn’t need perfectly planned task lists or well-crafted long-term plans. Instead, it was simple but satisfying activities that helped stop the blurring of time.
+
+- You only waste time if you’re not intentional about how you spend it.
+
+- A good rule of thumb is to choose a Highlight that takes sixty to ninety minutes
+
+- We hate to-do lists. Checking off finished tasks feels good, but the fleeting glow of accomplishment masks an ugly truth: Most to-dos are just reactions to other people’s priorities, not yours.
+
+- To-do lists just perpetuate the feeling of “unfinishedness” that dogs modern life.
+
+- When you use a to-do list, you’re tempting yourself to put off those important tasks and knock off one of the easy items instead.
+
+- Whether you’re painting the living room, learning to juggle, or preparing a report for a new client, you’ll do better work and make faster progress if you keep at it for consecutive days.
+
+- It can be hard to stop work at the end of the day, because the Busy Bandwagon encourages a “just one more thing” mentality. One more email. One more to-do. Many people quit only when they’re too exhausted to go on, and even so, they check email again before they go to bed.
+
+- In our design sprints, we found that if we ended each workday before people were exhausted, the week’s productivity increased dramatically.
+
+- For a fascinating summary of this research and how it applies to work and life, check out Rapt by Winifred Gallagher. It’s one of JZ’s favorite books.
+
+- Tech companies make money when you use their products.
+
+- The two of us have found it can take a couple of hours of uninterrupted writing before we’re doing our best work; sometimes it even requires several consecutive days before we’re in the zone.
+
+- The longer you remain focused on your Highlight, the more engaging you’ll find it and the better work (or play) you’ll do.
+
+- We’ve both had distraction-free phones since 2012, and not only have we survived, we’ve thrived—becoming more effective in our work and just generally enjoying our days more.
+
+- A distraction-free phone restores a feeling of quiet throughout my day. The slower pace of attention is not only helpful when I’m trying to get into Laser mode; it’s also just a more pleasant way to spend time.
+
+- We check email on our phones to catch up, but the result is usually just a reminder that we’re falling behind.
+
+- Finally, you need to disable the Swiss Army knife of distraction: the Web browser.
+
+- Of course, there will be times when you sincerely have to use your email or a browser, and when that happens, you can temporarily reenable the apps you need for the task at hand.
+
+- A blank homescreen provides a tiny moment of quiet every time you use your phone.
+
+- Wear a Wristwatch
+
+- It’s very tempting to do a check-in first thing in the morning and get the latest updates; after all, something in the world always changes overnight. But as soon as you fire up that screen, you start a tug-of-war of attention between the present moment and everything out there on the Internet.
+
+- I can gather all the news I need on the weather report.
+
+- True breaking news will find you, and the rest isn’t urgent or just doesn’t matter.
+
+- Because you’re literally buckled into a chair, I’ve always found planes a terrific spot to do a lot of writing and reading and drawing and thinking. —AUSTIN KLEON
+
+- When it’s time to get into Laser mode, try turning the Internet off.
+
+- Canceling your Internet is not quite as extreme as it sounds, because you can still get online by using your phone as a hotspot. But that’s slow-ish and expensive-ish and a big hassle.
+
+- A late night watching TV might cost you an hour of sleeping in and a whole day of low energy.
+
+- A 2014 study by the University of British Columbia found that when people checked their email just three times a day (instead of as often as they wanted), they reported remarkably lower stress.
+
+- Give it a try. You can still skim your inbox for messages that really require a faster response, but respond only to those. For other urgent issues, you can ask your friends and family to contact you via text or phone.
+
+- Every time you check your email or another message service, you’re basically saying, “Does any random person need my time right now?”
+
+- “I’m slow to respond because I need to prioritize some important projects, but if your message is urgent, send me a text.”
+
+- The most corrosive piece of technology that I’ve ever seen is called television—but then, again, television, at its best, is magnificent. —STEVE JOBS
+
+- The closed door is your way of telling the world and yourself that you mean business. —STEPHEN KING, ON WRITING
+
+- Invented deadlines are the secret ingredient in our design sprints.
+
+- Shifting your focus to something that your mind perceives as a doable, completable task will create a real increase in positive energy, direction, and motivation.
+
+- It’s easier to set up fancy writing software on your laptop than to actually write the screenplay you’ve been dreaming of.
+
+- Paper improves focus, because you can’t waste time picking the perfect font or searching the Web instead of working on your Highlight.
+
+- Boredom gives your mind a chance to wander, and wandering often leads you to interesting places.
+
+- Of course, both physical rest and mental rest are extremely important. But if you’re feeling worn out and unable to focus, Brother David says you don’t always need to take a break. Sometimes, if you go all in and embrace the current task with wild abandon, you may find it becomes easier to focus. You may find the energy is already there.
+
+- If you can increase your energy every day, you’ll turn moments that might otherwise be lost to mental and physical fatigue into usable time for your Highlights.
+
+- When you don’t take care of your body, your brain can’t do its job.
+
+- Anthropologists estimate that ancient humans “worked” only thirty hours a week.
+
+- Compared with the life of a hunter-gatherer, farm work and village life sucked. Leisure time plummeted. Violence and disease skyrocketed. Unfortunately, there was no going back.1
+
+- Act Like a Caveman to Build Energy
+
+- What you do every day matters more than what you do once in a while. —GRETCHEN RUBIN
+
+- If you change the default from “ride when possible” to “walk when possible,” you’ll see opportunities everywhere.
+
+- I found that cooking with simple whole-food ingredients—like roasted meat with a salad—was much easier than following a long recipe point by point.
+
+- The tricky thing about caffeine is that if you wait to drink it until you get tired, it’s too late: The adenosine has already hooked up with your brain, and it’s hard to shake the lethargy.
+
+- Studies on shinrin-yoku show that even brief exposure to a forest lowers stress, heart rate, and blood pressure.
+
+- When walking through nature, you’re freed from having to direct your attention, as there are few challenges to navigate (like crowded street crossings), and experience enough interesting stimuli to keep your mind sufficiently occupied to avoid the need to actively aim your attention. This state allows your directed attention resources time to replenish.
+
+- We get it. We still feel embarrassed when we talk about meditation. In fact, we are embarrassed right now as we type these words.
+
+- an occasional headphone vacation for a day or just an hour is an easy way to put some quiet in your day and give your brain a moment to recharge.
+
+- When I’ve been working super hard and I get that “brain drain” feeling like my head is a squeezed-out sponge, I know it’s time to take a megabreak: I’ll stop everything and watch a whole movie.
+
+- It’s a cruel irony of modern life that we’re surrounded by people yet more isolated than ever.
+
+- Screen-based communication is efficient, but that’s part of the problem: It’s so easy that it often displaces higher-value real-life conversations.
+
+- Spending time with interesting, high-energy people is one of the best—and most enjoyable—ways to recharge your battery.
+
+- A Kindle is okay, too, because it’s not loaded with apps and other distractions; just make sure to turn off the bright white backlight.
+
+- it’s easier to change your environment than to rely on willpower to change your behavior.
+
+- “It’s tempting to try catching up by sleeping late,” Kristen said. “The problem is, it doesn’t work.”
+
+- The Highlight hypothesis If you set a single intention at the start of each day, we predict you’ll be more satisfied, joyful, and effective.
+
+- The Laser hypothesis If you create barriers around the Busy Bandwagon and the Infinity Pools, we predict you’ll focus your attention like a laser beam.
+
+- The Energize hypothesis If you live a little more like a prehistoric human, we predict you’ll enhance your mental and physical energy.
+
+- If you reduce a few distractions, increase your physical and mental energy just a bit, and focus your attention on one bright spot, a blah day can become extraordinary.
+
+- In Defense of Food by Michael Pollan
+
+- On Writing by Stephen King
+

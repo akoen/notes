@@ -1,0 +1,133 @@
+:PROPERTIES:
+:ID:       ed9d255d-9d6d-4759-8601-efd89eb9cca3
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: The Sleep Solution
+#+filetags: books
+
+- author :: Chris Winter
+- tags :: [[id:205fdd9a-e5b4-4141-b923-868be88f2499][Sleep]]
+
+* Ideas
+
+- We have four primary drives: the drives to eat, drink, [[id:205fdd9a-e5b4-4141-b923-868be88f2499][Sleep]], and procreate.
+  - Unlike the other drives, however, we do not have a choice about whether or not to [[id:205fdd9a-e5b4-4141-b923-868be88f2499][Sleep]]. When we become tired enough, our body will force sleep upon us, whether we like it or not.
+
+- *The difference between sleepy and fatigued:*
+
+  - Sleepy :: when your body wants to sleep.
+
+  - Fatigued :: when your body is low on energy e.g. after a hard day of exercise.
+
+  - It is easy to confuse the two. If we go to bed when we are fatigued, but not sleepy, then we will lie awake.
+
+- *6 – 7 hours of [[id:205fdd9a-e5b4-4141-b923-868be88f2499][Sleep]] are typically adequate. Those who struggle with sleep believe they need more because their sleep quality is poor.*
+
+- There are two regulatory systems that drive sleep:
+
+  1. The homeostatic system of sleep (the system that urges us to sleep the longer we stay awake) is driven by adenosine.
+     - Caffeine inhibits adenosine
+
+  2. The circadian rhythm system of sleep is driven by melatonin.
+
+- Individuals who think of themselves as good sleepers function better during the day, regardless of their sleep patterns.
+
+#+DOWNLOADED: screenshot @ 2020-03-21 09:24:48
+[[file:img/the_sleep_solution/screenshot2020-03-21_09-24-48_.png]]
+
+  - In rare instances dreams can occur during deep sleep.
+
+  - During N3 sleep growth hormone is secreted.
+
+  - Waking up from REM sleep is often unpleasant.
+  - Nightmares are often a result of waking up directly from REM sleep.
+
+  - The opposite of sleepiness is *vigilance*.
+
+  - Sleepiness always increases. Typically, the source of sleep difficulty is vigilance.
+
+  - When people are anxious about sleeping, they become more vigilant and consequently cannot sleep.
+
+  - Paradoxical insomnia :: the condition where a patient feels that he or she is sleeping less than he or she actually is.
+
+    - People will say that they watched the clock the entire night, but they in fact slept for many hours. This is because it is easy to fall asleep and not notice the passage of time. *It is easy to sleep without perceiving it.*
+
+*Sleep hygiene:* 
+What follow is an ideal sleep routine. It may not be possible to perform all of these tasks daily, but each one individually has the potential to improve your sleep. *The secret to being sleepy at night is to be as awake as possible during the day.*
+
+    - Exercise in the morning to expose yourself to natural light. This regulates the circadian rhythm.
+
+    - Eat a high-protein breakfast. Low-calorie, high protein diets have been shown to improve sleep.
+
+    - Eat lunch at a consistent time.
+
+    - Do not eat 2–3 hours before bed.
+
+    - Take a hot shower/bath an hour before going to bed.
+
+    - Dim lights.
+
+    - Perform light exercise or meditation as part of your bedtime routine.
+
+    - Dim the lights.
+
+    - Read a book (ideally paper) until you fall asleep.
+
+    - Make your room as dark as possible. *If you can see your hands in front of your face it's not dark enough.*
+   
+
+- The 20-minute rule :: people often believe that if you cannot fall asleep after 20 minutes, you should get up and perform a relaxing activity until you feel sleepy again. This is fine, unless you develop anxiety about not falling asleep within this artificial time constraint. *However, there is nothing wrong with simply lying there; resting without sleeping is still beneficial.*
+
+- *If you consistently cannot fall asleep and don't feel particularly sleepy, go to bed later.*
+
+- Spending time in nature (especially sleeping in nature) can improve your sleep.
+
+*Insomnia:*
+
+- Insomnia :: A self-diagnosed condition characterized by a patient simply not being satisfied with the quality or duration of his or her sleep.
+
+  - Those with anxiety disorders, even slight, are predisposed to insomnia.
+    
+  - *Insomnia ≠ lack of sleep.* A lack of sleep is serious, insomnia typically isn't.
+
+  - When we are anxious about going to sleep, the anxiety is self-propelling. The more we struggle to fall asleep, the more anxious we become, and the more vigilant we find ourselves.
+
+  - The most effective treatment by far for insomnia is [[id:9596abb8-47b1-4b5d-9228-f8b521e7847d][Cognitive Behavioural Therapy]] for insomnia (CBT-I). It is composed of six critical components:
+
+    1. Sleep education.
+
+    2. Sleep hygiene.
+
+    3. Stimulus control (the bedroom is for sleep, and sleep only).
+
+    4. Sleep restriction (reducing the amount of time we spend in bed not sleeping by going to bed later).
+
+       - Don't go to bed until you're exhausted. Imagine that you're never hungry at 17:00 for dinner. Would you start eating dinner earlier to "make up" for it?
+
+    5. Relaxation training. This entails contracting and releasing parts of the body.
+
+    6. Cognitive therapy. This involves retraining our negative thoughts about sleeping, and is best facilitated by a CBT-I therapist.
+
+
+- Good sleepers have a relaxed attitude towards their sleep. To them, it's not big deal if they don't sleep well.
+  
+- Your sleep may be poor because of fatigue, not sleepiness. If you feel terrible in the morning, don't automatically blame it on a lack of sleep.
+
+- Make it a habit to never talk about how poorly you sleep.
+
+- Most sleep medications target GABA, the primary inhibitory neurotransmitter in the brain. This neurotransmitter reduces neural activity in the brain, promoting relaxation.
+
+- No sleeping pill have ever been shown to improve daytime performance, and most have the opposite effect.
+
+- The actual effects of most sleeping pills are slight at best, and are overshadowed by the psychological comfort they provide.
+  - Notably, melatonin is less effective than performing a 180° turn in your bed
+
+- The single most important thing you can do for your sleep is to never sleep in. Pick a wake-up time and stick with it, regardless of when you go to bed.
+
+- _The reason you feel terrible during the day is more likely a result of poor sleep efficiency, not sleep quantity._
+
+- Naps should never make up for lost sleep. Only nap when you have slept well but are still sleepy.
+
+- Even better, schedule you naps beforehand, and never nap for longer than ~20 minutes.
+
+- That headachy feeling you get waking up from a long nap is the feeling of waking up from deep sleep—not good.

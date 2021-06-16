@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       e301ec78-e2e5-46c5-837d-52c424b4b6be
 :END:
+#+setupfile: ../hugo_setup.org
 #+title: To-Do Lists
 
 - To-Do lists allow us to [[id:eb67fe87-9cb9-466b-9212-767e1316b761][procrastinate]] by selecting items on the list that are easier or lower-priority than others. This allows us to avoid big responsibilities.

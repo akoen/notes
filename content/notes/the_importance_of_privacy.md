@@ -1,0 +1,37 @@
++++
+title = "The importance of privacy"
+lastmod = 2021-06-16T12:22:14-07:00
+draft = false
++++
+
+## Targeting = discrimination {#targeting-discrimination}
+
+Nowadays, governments and corporations have unprecedented ability to target—to target individuals not only based on their age and race, but also based on their browsing history, their location, and by extension very personal traits like sexual orientation and medical conditions.
+
+This is a tremendous business opportunity, for advertising now accounts for 19% of the U.S. GDP, but it comes at an equally devastating cost, because **the power to target is also the power to discriminate.**
+
+**Privacy is about preventing those in power from gaining more control.** It is the right for you to choose what information you share, with whom you share it, and for your personal information not be used against you. Privacy is inalienable from freedom—without it you lose your autonomy.
+
+> In crucial areas of life such as finance, insurance, housing, healthcare, welfare, law enforcement, and employment, many would agree that inacrruate, biased or discriminatory automated decisions based on digital profiles about consumers can harm individuals and vulnerable population group.
+> — [Corporate Surveillance in Everyday Life]({{<relref "christlCorporateSurveillanceEveryday2017.md" >}})
+
+<!--quoteend-->
+
+> Privacy is how we blind the system so that it treats us impartially and fairly
+> — Carissa Véliz, [Privacy is Power]({{<relref "privacy_is_power.md" >}})
+
+-   Companies should be required by law to collect only the data that is strictly required to provide you with their services.
+    -   Any other data is _never_ used to benefit you.
+
+
+## Privacy is not antiquated {#privacy-is-not-antiquated}
+
+
+## Privacy should be inalienable {#privacy-should-be-inalienable}
+
+Some argue that we should be able to see our personal data to companies. While this is better than our current system, it is a bad idea for two reasons:
+
+1.  You don't know what you're consenting to. If you sell your health data to medical researchers, that data might be used to deny you insurance.
+2.  Privacy is a collective concern. If you expose your genetic data, you're also exposing the genetic data of your family, who may not have consented. If you expose your location data, you're also exposing the location of your coworkers, because that data is also used to identify those you work with.
+
+Data collection shouldn't be a "necessary evil" required for access to education, healthcare, and safety.

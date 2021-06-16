@@ -13,7 +13,7 @@ This is a tremendous business opportunity, for advertising now accounts for 19% 
 
 #+begin_quote
 In crucial areas of life such as finance, insurance, housing, healthcare, welfare, law enforcement, and employment, many would agree that inacrruate, biased or discriminatory automated decisions based on digital profiles about consumers can harm individuals and vulnerable population group.
-— [[id:51e4f5d1-8e2b-43e5-b25b-6fc13c66cc77][Corporate {{Surveillance}} in {{Everyday Life}]]
+— [[id:51e4f5d1-8e2b-43e5-b25b-6fc13c66cc77][Corporate Surveillance in Everyday Life]]
 #+end_quote
 
 

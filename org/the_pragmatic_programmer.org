@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       98c8d91b-3c8c-4194-aa00-c253febc5883
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: The Pragmatic Programmer
+#+filetags: books
+
+- author :: David Thomas, Andrew Hunt
+- tags :: [[id:ae6e5088-93af-496b-8f07-45ede80dec3f][Programming]]
+
+* Notes
+
+- Software rot—a project's slow but inevitable decline into disarray—is caused by a single entropy source.
+  - This is [[id:a2db11a4-dc1a-4796-beee-c71a686fe4c2][Broken Windows Theory]]
+
+  - *Fix small bugs immediately.*
+
+- Continually invest in your knowledge portfolio:
+  - Aim to learn at least one language a year.
+
+  - Read technical books.
+
+- Never duplicate information -> Remember the acronym DRY (Don't Repeat Yourself). This applies to:
+  - Code <–> Comments :: don't explain code that explains itself.
+
+  - Code <–> Code :: always try to write modular components that can be re-used. Don't write a new function because it requires slightly different functionality than another function.
+
+  - Code <–> Documentation :: when code is updated, documentation is often ignored. Consider how this could be mitigated. Could the code be generated from the documentation i.e. [[id:0e69f9ea-bd01-4687-80b4-b3aa85ac5bea][Literate Programming]]?
+
+- Similarly, modules should be orthogonal -> try to limit interdependencies between modules. Changing the functionality of one should not affect the others.
+  - For example, the GNU utils and Unix programs in general are small and simple but are orthogonal and can be easily chained together.
+
+  - Orthogonality applies equally to team structure. The responsibilities of individual team members should overlap minimally.
+
+  - This is the reasoning behind [[id:96bcc797-5404-46b4-8cb9-3b7c73646617][Aspect-Orientated Programming]]
+
+- Avoid global data.
+  
+- Use getters and setters whenever possible to protect private values.
+
+- All decisions and implementations should be reversible. Abstract database functionality so that the choice of vendor is interchangeable, or even allow for changes in language.
