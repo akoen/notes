@@ -10,4 +10,10 @@
 — [[id:2addfac9-33dc-44f2-922c-e6feb2624277][Steve Jobs]]
 #+END_QUOTE
 
+A similar quote by the inventor of the Clojure programming language, Rich Hickey:
+#+begin_quote
+Design is separating into things that can be composed. (see [[id:a0220f3c-bd51-40fb-ad6b-714c63136d59][Simplicity]])
+— Rich Hickey
+#+end_quote
+
 According to [[id:daaf7a0e-7b41-4929-a39e-4ea2c6a25fa6][Tiago Forte]], a common misconception is that creativity starts from nothing. In reality, creativity is about finding new connections between seemingly disparate ideas and extending them to make something new.

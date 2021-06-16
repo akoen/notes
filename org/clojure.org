@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       14f07f17-deee-4f0d-964d-09bd954b0f82
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Clojure
+
+Clojure is a literate [[id:ae6e5088-93af-496b-8f07-45ede80dec3f][Programming]] language.
+
+* In use
+[[https://tylerxhobbs.com]] makes amazing generative artwork in Clojure and processing

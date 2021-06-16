@@ -5,3 +5,11 @@
 #+title: Favourite Visual Artists
 
 My favourite visual [[id:25ce6ebd-6ab7-46df-b954-6fed14500da4][Artist]]s.
+
+* Tyler Hobbs
+
+[[https://tylerxhobbs.com/][Tyler Hobbs]] makes beautiful generative artwork using [[id:14f07f17-deee-4f0d-964d-09bd954b0f82][Clojure]].
+
+[[file:img/favourite_visual_artists/tyler-hobbs-ectogenesis-175-2019-med2021-06-15_10-40-35_.jpg]]
+
+[[file:img/favourite_visual_artists/tyler-hobbs-blue-white-black-48-2018-med2021-06-15_10-42-13_.jpg]]

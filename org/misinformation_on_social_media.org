@@ -5,6 +5,8 @@
 #+title: Misinformation on Social Media
 - tags :: [[id:93c93063-5101-4470-9f84-654bc03bfa14][Social Media]]
 
+  - *Political agents make statements that are broad, simple, easy to remember, and wrong.* While these statements often make intuitive sense, they either manipulate statistics or consider only one-side of a complex issue.
+
   - The large diversity of opinions on the internet allow like-minded individuals to form /echo chambers/ that insulate members from other viewpoints and polarize their views cite:allcottSocialMediaFake2017.
     
   - As of 2016, "62% of US adults get news on social media" [[cite:allcottSocialMediaFake2017][[p. 212]]. #[[id:8ca26835-8c8e-423b-892d-f87c40d02c0b][Journalism]]
