@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       e52d044d-793d-463d-a50b-109c4d20eef8
-:END:
-#+setupfile: ../../hugo_setup.org
-#+title: Atomic Habits
-
-- author :: [[id:aaa55533-7fa1-4caa-b587-1eb48a4f0ab4][James Clear]]
-- tags ::

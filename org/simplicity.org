@@ -3,7 +3,6 @@
 :ROAM_ALIASES: "\"Simple\""
 :END:
 #+setupfile: ../hugo_setup.org
-#+setupfile:./hugo_setup.org
 
 #+title: Simplicity
 

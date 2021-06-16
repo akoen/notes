@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       64d36e19-50b6-4f4e-8175-7bf8e823fb6b
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: The Effect of Politeness in Online Communities
-
-According to cite:burkeMindYourPs2008, "[[id:10205a00-b591-4064-8a65-f6a53d09c819][Politeness]] increases reply rates in some technical groups, but rudeness is more effective in some political groups."

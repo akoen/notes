@@ -2,8 +2,8 @@
 :ID:       778f6d2f-efcd-441f-b639-20b149c3564c
 :ROAM_REFS: https://threadreaderapp.com/thread/1280159687393120256.html
 :END:
-#+setupfile: ../hugo_setup.org
-           #+roam_key: https://threadreaderapp.com/thread/1280159687393120256.html
+#+setupfile: ../../hugo_setup.org
+#+roam_key: https://threadreaderapp.com/thread/1280159687393120256.html
 #+title: Shane Parrish: What Canada should be doing
 
 -  source :: https://threadreaderapp.com/thread/1280159687393120256.html

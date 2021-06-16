@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       0ad3030e-a0d0-43a7-94ad-a3f28f790dca
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Hannah Fry

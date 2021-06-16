@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       81f120d2-cead-4d8c-bbfd-61e30859f8a4
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Parkinson's Law
-
-Parkinson's Law states that work expands to fill the time available for its completion.

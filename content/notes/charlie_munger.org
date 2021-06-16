@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       9ffc1287-8f3a-42ee-87c9-3cc7ccdd9948
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Charlie Munger

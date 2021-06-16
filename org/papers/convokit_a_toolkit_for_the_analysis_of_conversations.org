@@ -2,7 +2,7 @@
 :ID:       3ac3171e-a966-406c-8ffe-1cf836a3fa66
 :ROAM_REFS: cite:changConvoKitToolkitAnalysis2020
 :END:
-#+setupfile: .../hugo_setup.org
+#+setupfile: ../../hugo_setup.org
 #+TITLE: ConvoKit: A Toolkit for the Analysis of Conversations
 
 

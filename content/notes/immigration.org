@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       f3cd67a4-6a90-4b16-aa3c-5e3a8df66006
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Immigration

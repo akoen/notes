@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       93beb162-f4c7-4f3f-8cf5-18094d940a93
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Specialization Versus Generalization
-
-- We are more impressed by specialists upon first meeting them, but we admire generalists more over time.

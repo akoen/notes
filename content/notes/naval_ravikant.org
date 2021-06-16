@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       99eca2da-71fa-424c-8b78-9a10efaea703
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Naval Ravikant
-

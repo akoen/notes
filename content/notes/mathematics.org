@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       bebd2157-ce9d-49cb-961f-b363d6aa5f56
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Mathematics
-
-- According to researchers at [[https://news.mit.edu/2012/thinking-logarithmically-1005][MIT]], humans naturally perceive numbers logarithmically, not linearly. If you ask a child what number falls between 0 and 9, they will likely answer 3.
-  - This is why a billion does not seem much larger than a million.

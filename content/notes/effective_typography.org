@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       09ac3908-ca23-4f28-96d8-df13c3adc765
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Effective typography
-
-https://typographyhandbook.com/

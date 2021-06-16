@@ -1,5 +1,0 @@
-:PROPERTIES:
-:ID:       3995d3bf-ceab-49d9-a759-3e840106e797
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Cooking

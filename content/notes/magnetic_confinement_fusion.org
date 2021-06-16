@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       81fe9d60-597f-42f9-a471-3873a88f3d09
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Magnetic Confinement Fusion
-
-- Uses a strong magnetic field to contain the [[id:e5eaef1b-c26a-42c3-9525-99c10c4d8035][Plasma]] used in a fusion reaction.
-  - The field keeps the plasma away from the walls.

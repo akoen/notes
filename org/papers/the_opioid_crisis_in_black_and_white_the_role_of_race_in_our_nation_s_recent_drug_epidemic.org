@@ -2,7 +2,7 @@
 :ID:       d1955467-079b-450c-8943-bdad843c61ba
 :ROAM_REFS: cite:omOpioidCrisisBlack2018
 :END:
-#+setupfile: .../hugo_setup.org
+#+setupfile: ../../hugo_setup.org
 #+TITLE: The opioid crisis in black and white: the role of race in our nation's recent drug epidemic
 
 

@@ -4,7 +4,6 @@
 #+setupfile: ../hugo_setup.org
 #+title: Examples of digital privacy abuse
 
-
 * Research
 Kosinski /et al./ were able to predict psychological and demographic traits of individuals with surprising accuracy using a median of 68 Facebook likes. For example, they were able to infer sexual orientation of men, political affiliation, and drug use with 88%, 85%, and 65% accuracy respectively. cite:kosinskiPrivateTraitsAttributes2013
 

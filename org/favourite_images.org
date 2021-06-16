@@ -11,5 +11,5 @@
 [[file:img/favourite_images/norge_kingsbay2021-04-03_14-11-12_.jpg]]
 
 
-#+CAPTION: The first ever picture of the earth taken by a human. 21 Dec., 1968, Jim Lovell, Apollo 8. See [[id:4efc4c4f-e99b-4d28-afdc-c6a208f437a3][Rocket Men]] for the story. Photo restored by Toby Ord [[http://www.tobyord.com/earth]].
+#+CAPTION: The first ever picture of the earth taken by a human. 21 Dec., 1968, Jim Lovell, Apollo 8. Photo restored by Toby Ord [[http://www.tobyord.com/earth]].
 [[file:img/favourite_images/AS08-16-25932021-05-08_11-47-41_.jpg]]

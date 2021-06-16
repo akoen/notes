@@ -2,7 +2,7 @@
 :ID:       98163346-7d25-402e-8f65-c0a2b4604ba0
 :ROAM_REFS: cite:alves
 :END:
-#+setupfile: .../hugo_setup.org
+#+setupfile: ../../hugo_setup.org
 
 #+title: Paper: Overview of hydrogen production technologies from biogas and the applications in fuel cells
 

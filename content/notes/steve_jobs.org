@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       2addfac9-33dc-44f2-922c-e6feb2624277
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Steve Jobs
-

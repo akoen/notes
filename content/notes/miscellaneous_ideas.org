@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       581a4aff-8350-48b9-bbad-2ae2a539abf4
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Miscellaneous Ideas
-
-- If you notice that something feels wrong, it is.
-- It doesn't always take an extraordinary effort to have a big impact on someone. https://traffic.libsyn.com/secure/perell/Tiago_Forte_3_V2.mp3?dest-id=885821 [01:27:58]

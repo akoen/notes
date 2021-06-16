@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       54f20014-90aa-47e2-8014-76923919ff38
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Human Running Adaptations
-
-The endurance running hypothesis states that endurance running played an important role for early humans in finding food. These adaptations include:
-
-- The nuchal ligament in our neck projects our head against the forces induced by running. Only other running animals have this adaptation.

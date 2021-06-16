@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       bc574182-d198-49ae-9e69-7809e98b2b24
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Geneology
-
-- Geneology :: The study of family history.

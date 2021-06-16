@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       4ae16dcf-81dc-4c55-b9e9-6a9bcf67e997
-:ROAM_ALIASES: "\"Interpretation Schemes\""
+:ROAM_ALIASES: "Interpretation Schemes"
 :END:
 #+setupfile: ../hugo_setup.org
 #+title: Mental Models

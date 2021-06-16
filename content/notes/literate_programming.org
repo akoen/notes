@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       0e69f9ea-bd01-4687-80b4-b3aa85ac5bea
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Literate Programming
-
-- tags :: [[id:ae6e5088-93af-496b-8f07-45ede80dec3f][Programming]]

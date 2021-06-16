@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       8afb5c33-db02-426f-9d8b-fe283b555cd5
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Ali Abdaal
-
-Ali Abdaal is an online content creator and doctor who hosts a successful [[https://www.youtube.com/user/Sepharoth64][YouTube channel]] about lifestyle and productivity and is the founder of several businesses and online courses.
-
-Above all, Ali is a master of learning from others and repackaging that wisdom into simple principles to be shared with the world.

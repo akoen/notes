@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       80c76fe9-9baa-40c4-82ff-a08e449d9f2a
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Shane Parrish
-

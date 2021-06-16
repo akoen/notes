@@ -2,7 +2,7 @@
 :ID:       6e6810d6-8953-4e6b-8d5a-780619ffecc5
 :ROAM_REFS: cite:dienerEffectsSelfawarenessAntinormative1976
 :END:
-#+setupfile: .../hugo_setup.org
+#+setupfile: ../../hugo_setup.org
 #+TITLE: Effects of self-awareness on antinormative behavior
 
 

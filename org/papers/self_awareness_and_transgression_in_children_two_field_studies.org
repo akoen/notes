@@ -2,7 +2,7 @@
 :ID:       0cab1f79-639e-4ff4-acbb-a5e1419e0b8f
 :ROAM_REFS: cite:beamanSelfawarenessTransgressionChildren1979
 :END:
-#+setupfile: .../hugo_setup.org
+#+setupfile: ../../hugo_setup.org
 #+TITLE: Self-awareness and transgression in children: Two field studies.
 
 

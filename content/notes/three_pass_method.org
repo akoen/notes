@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       d4d193ee-fb48-4624-899f-981b772a132f
-:END:
-#+setupfile: ../hugo_setup.org
-#+title:Three-Pass Method
-

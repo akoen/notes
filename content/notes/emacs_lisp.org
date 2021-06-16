@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       72280684-1ef9-43c0-8e67-77db5c44d5be
-:ROAM_ALIASES: Elisp
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Emacs Lisp
-
-

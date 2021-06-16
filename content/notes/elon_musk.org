@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       25731e61-a3b9-4509-9c05-b80c96bd8281
-:END:
-
-#+setupfile: ../hugo_setup.org
-#+title: Elon Musk
-- Elon Musk's approach to business: "Here we look at it the other way around—the product is successful when it’s great, and the company becomes great because of that."
-  - This is similar to the business philosophy of [[id:8a686a73-4ec4-4f1c-8747-faddecae432d][Derek Sivers]].

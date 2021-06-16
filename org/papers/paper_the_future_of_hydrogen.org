@@ -2,7 +2,7 @@
 :ID:       571b6a20-18e5-4536-8b10-2060c503e93f
 :ROAM_REFS: cite:birol
 :END:
-#+setupfile: .../hugo_setup.org
+#+setupfile: ../../hugo_setup.org
 
 #+title: Paper: The Future of Hydrogen
 

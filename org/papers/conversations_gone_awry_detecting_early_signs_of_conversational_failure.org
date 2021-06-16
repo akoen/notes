@@ -2,7 +2,7 @@
 :ID:       a2a4e2da-a09c-4bc6-96e2-1878ac19d8c7
 :ROAM_REFS: cite:zhangConversationsGoneAwry2018
 :END:
-#+setupfile: .../hugo_setup.org
+#+setupfile: ../../hugo_setup.org
 #+TITLE: Conversations Gone Awry: Detecting Early Signs of Conversational Failure
 
 

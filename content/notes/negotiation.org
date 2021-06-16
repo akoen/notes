@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       d1e3fa5e-3d92-4865-a088-c244a58246fb
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Negotiation
-

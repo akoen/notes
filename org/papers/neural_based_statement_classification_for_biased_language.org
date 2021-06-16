@@ -2,7 +2,7 @@
 :ID:       09792476-88c0-491d-8c8e-859ad8974d6f
 :ROAM_REFS: cite:hubeNeuralBasedStatement2019
 :END:
-#+setupfile: .../hugo_setup.org
+#+setupfile: ../../hugo_setup.org
 #+TITLE: Neural Based Statement Classification for Biased Language
 
 

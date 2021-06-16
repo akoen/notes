@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       88ddac25-070a-4cd4-a1c9-54e4de275fda
-:END:
-#+setupfile: ../hugo_setup.org
-#+title:Tim Ferriss
-

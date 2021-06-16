@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       fee6b120-a137-4721-ad6a-ab9abf2dbe3b
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Inertial Confinement Fusion
-

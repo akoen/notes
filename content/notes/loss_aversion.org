@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       a9c71a6a-ad6f-4da9-a76d-4255c877e07c
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Loss Aversion
-

@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       4b847297-33d8-4f69-ae5d-f3714cad21ef
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Prioritize content over tools
-
-- *No editor can improve an argument.* (from [[id:a0b85e10-52ee-4f4f-b8b5-960875348749][How to Take Smart Notes]])
-
-  It is much easier to spend time choosing the right music production software than to actually make music. In my case, it is much easier to tweak my [[id:715be305-6060-4c71-a474-b762253b771a][Emacs]] configuration than to actually spend time refining these notes.

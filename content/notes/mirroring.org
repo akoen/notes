@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       a15059a7-bda0-441c-84a6-d66bc8c07194
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Mirroring
-
-Mirroring is a [[id:d1e3fa5e-3d92-4865-a088-c244a58246fb][Negotiation]] technique in which you repeat back the last few words of what the other person said.

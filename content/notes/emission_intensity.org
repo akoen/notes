@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       7dc67971-7a25-4e52-b5d0-642e5613ee08
-:ROAM_ALIASES: "\"GHG Intensity\""
-:END:
-#+setupfile: ../hugo_setup.org
-
-#+title: Emission Intensity
-
-Emission intensity (also know as GHG intensity) is a measure of the carbon emissions of a particular means of energy production per kWh of energy produced.

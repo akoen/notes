@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       f886baf6-0ed5-45ea-b2d6-03869f1e7aca
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Children should be taught to do nothing
-
-In school, children are given tight schedules to follow like a NASA astronaut. They have little agency, and while they are faced with consequences for under-performing, in general they do not get to choose /what/ it is that they get to work on. To quote [[id:806a7fda-b943-4160-8af1-e71c19d6f9a7][David Perell]], "If we want to raise healthy, high-agency children, we should give them the freedom to make decisions without removing them from the consequences of those decisions. Giving children agency now will help them avoid a dark cycle of work, pain, and reckless release in the future."
-
-In the quest to bring widespread [[id:8c7dad95-3946-4dfd-a3ca-ba015d3a47ef][Educational Reform]], schools should teach children to do nothing—to sit quietly with their thoughts and resist distraction.

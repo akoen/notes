@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       b8b04b01-611e-40b6-a15e-00c8e5eebaea
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Flashcards
-
-
-- Flashcards are effective because they implement [[id:3740eb98-ab84-489b-98c5-bd7d90f809dc][Spaced Repetition]]. However, the disadvantage of flashcards is that the information they contain loses context, and thus it is challenging to [[id:6fd84cbe-adc9-4e86-a7fb-c182efa36e5e][Elaborate]] on this information to create connections between topics.

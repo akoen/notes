@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       90f1789f-dbf0-4fff-bef2-ca391c5a2585
 :END:
-#+setupfile: ../hugo_setup.org
+#+setupfile: ../../hugo_setup.org
 #+title:Favourites
 
 - [[id:1a82a60d-b57c-45de-aaa4-e8a182097672][Favourite Visual Artists]]

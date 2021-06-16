@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       fd7eeb84-ce26-48dc-85c5-aa7e2e3646a1
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Ambient Privacy
-
-Ambient [[id:690198da-5662-4141-a601-f93229f90675][privacy]] is a term coined by Maciej Ceglowski which encapsulates the idea that there is value in having the small details of our daily lives be forgotten.
-
-- There should not be a record of our private conversations or what we do when we're home by ourselves.

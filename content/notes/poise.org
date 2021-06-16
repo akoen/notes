@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       ec1e5063-77f3-46f7-94d4-0bf1912e6d72
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Poise
-
-- Poise is a mix of confidence and self-control.
-
-- Poise is how successful people react to threats, not anger.

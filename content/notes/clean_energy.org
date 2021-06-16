@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       c15f119b-dbc7-426c-a9fa-cc8f18d546dd
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Clean Energy
-
-Clean energy refers to energy generated from renewable resources and which contributes minimally to [[id:5736cee7-7a57-42b1-a81c-341ea54c011d][Climate Change]].

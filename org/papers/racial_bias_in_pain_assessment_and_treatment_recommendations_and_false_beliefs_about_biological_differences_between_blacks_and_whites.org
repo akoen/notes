@@ -2,7 +2,7 @@
 :ID:       47872b91-895f-473a-a288-e8084494167e
 :ROAM_REFS: cite:hoffmanRacialBiasPain2016
 :END:
-#+setupfile: .../hugo_setup.org
+#+setupfile: ../../hugo_setup.org
 #+TITLE: Racial bias in pain assessment and treatment recommendations, and false beliefs about biological differences between blacks and whites
 
 

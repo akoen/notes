@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       a504a935-92bd-45ce-b9a0-bc07b509f598
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Revise
-
- - tags :: [[id:1b25e8c7-0b2d-416a-b56f-f7a5f1e2b5a0][Writing refines thinking]]
-
- Good ideas don't come to you. They're hidden, obscured behind layers and layers of brain fog, poor rhetoric, and lack of understanding. To uncover them, you must dig—dig like hell, scrape away all the dirt like a truffle hog until you find what you're looking for. Only then will you have something worthwhile. Discard the unnecessary, find the [[id:a0220f3c-bd51-40fb-ad6b-714c63136d59][Simple.]]

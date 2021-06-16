@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       f742e22d-917d-4726-a950-1910a96bbdba
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Learning by Intuition
-
-People often try to learn a skill by identifying flaws in their performance and then trying to intentionally correct for them.
-
-[[id:698a8d51-5a32-4e47-91b1-ee8984c860ab][Learning]] by intuition means being [[id:25648458-9346-4332-8744-482ef91e6bf5][Mindful]] of the sensations experienced throughout task and allowing the body to naturally correct for inefficiencies. Timothy Galley's book [[id:41d61f01-5482-48d2-9b51-76471e432ef1][The Inner Game of Tennis]] refers to this as /nonjudgmental awareness/.

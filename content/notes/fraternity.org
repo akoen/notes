@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       7d46e48a-1c56-4e1e-9525-1dc1d2e7a1fd
-:END:
-#+setupfile: ../hugo_setup.org
-#+title: Fraternity
-
-- tags :: [[id:03a97f88-f4d2-4d38-997c-b63f733692ae][University]]

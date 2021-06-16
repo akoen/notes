@@ -1,7 +1,503 @@
 
 rule org2md
-  command = emacs --batch -l ~/.emacs -l publish.el --eval "(jethro/publish \"$in\")"
+  command = emacs --batch -l publish.el --eval "(my--org-roam-publish \"$in\")"
   description = org2md $in
+
+build content/notes/write_for_yourself.md: org2md org/write_for_yourself.org
+
+build content/notes/academic_writing.md: org2md org/academic_writing.org
+
+build content/notes/tags.md: org2md org/tags.org
+
+build content/notes/personal_networking.md: org2md org/personal_networking.org
+
+build content/notes/qubit.md: org2md org/qubit.org
+
+build content/notes/the_overton_window.md: org2md org/the_overton_window.org
+
+build content/notes/societal_complexity.md: org2md org/societal_complexity.org
+
+build content/notes/two_day_rule.md: org2md org/two_day_rule.org
+
+build content/notes/infinity.md: org2md org/infinity.org
+
+build content/notes/tim_urban.md: org2md org/tim_urban.org
+
+build content/notes/inertial_confinement_fusion.md: org2md org/inertial_confinement_fusion.org
+
+build content/notes/writing.md: org2md org/writing.org
+
+build content/notes/don_t_dream_small.md: org2md org/don_t_dream_small.org
+
+build content/notes/solar_power.md: org2md org/solar_power.org
+
+build content/notes/specialization_versus_generalization.md: org2md org/specialization_versus_generalization.org
+
+build content/notes/james_clear.md: org2md org/james_clear.org
+
+build content/notes/how_to_drive_a_manual_transmission.md: org2md org/how_to_drive_a_manual_transmission.org
+
+build content/notes/elaboration.md: org2md org/elaboration.org
+
+build content/notes/why_little_is_done_about_climate_change.md: org2md org/why_little_is_done_about_climate_change.org
+
+build content/notes/algorithmic_bias.md: org2md org/algorithmic_bias.org
+
+build content/notes/the_chilling_effect.md: org2md org/the_chilling_effect.org
+
+build content/notes/next_generation_sequencing.md: org2md org/next_generation_sequencing.org
+
+build content/notes/emacs_lisp.md: org2md org/emacs_lisp.org
+
+build content/notes/list_of_edible_mushrooms.md: org2md org/list_of_edible_mushrooms.org
+
+build content/notes/don_t_be_shy.md: org2md org/don_t_be_shy.org
+
+build content/notes/talk_how_to_take_a_digital_note.md: org2md org/talk_how_to_take_a_digital_note.org
+
+build content/notes/personalized_living_communities_are_an_unexplored_way_of_life.md: org2md org/personalized_living_communities_are_an_unexplored_way_of_life.org
+
+build content/notes/ephemerality_of_memory.md: org2md org/ephemerality_of_memory.org
+
+build content/notes/machine_learning.md: org2md org/machine_learning.org
+
+build content/notes/cal_newport.md: org2md org/cal_newport.org
+
+build content/notes/flow_state.md: org2md org/flow_state.org
+
+build content/notes/nuclear_energy.md: org2md org/nuclear_energy.org
+
+build content/notes/aspect_orientated_programming.md: org2md org/aspect_orientated_programming.org
+
+build content/notes/covid_19.md: org2md org/covid_19.org
+
+build content/notes/john_green.md: org2md org/john_green.org
+
+build content/notes/the_value_of_reading.md: org2md org/the_value_of_reading.org
+
+build content/notes/how_to_write_an_email.md: org2md org/how_to_write_an_email.org
+
+build content/notes/us_politics.md: org2md org/us_politics.org
+
+build content/notes/magnetic_confinement_fusion.md: org2md org/magnetic_confinement_fusion.org
+
+build content/notes/when_learning_a_new_skill_quantity_trumps_quality.md: org2md org/when_learning_a_new_skill_quantity_trumps_quality.org
+
+build content/notes/clojure.md: org2md org/clojure.org
+
+build content/notes/sleep.md: org2md org/sleep.org
+
+build content/notes/voting_systems.md: org2md org/voting_systems.org
+
+build content/notes/genomewide_association_study_gwas.md: org2md org/genomewide_association_study_gwas.org
+
+build content/notes/anonymity_facilitates_changing_opinions.md: org2md org/anonymity_facilitates_changing_opinions.org
+
+build content/notes/artist.md: org2md org/artist.org
+
+build content/notes/quotes.md: org2md org/quotes.org
+
+build content/notes/optical_coherence_tomography.md: org2md org/optical_coherence_tomography.org
+
+build content/notes/steve_jobs.md: org2md org/steve_jobs.org
+
+build content/notes/negative_externality.md: org2md org/negative_externality.org
+
+build content/notes/the_course_of_empire.md: org2md org/the_course_of_empire.org
+
+build content/notes/quantum_computing.md: org2md org/quantum_computing.org
+
+build content/notes/how_to_be_happy.md: org2md org/how_to_be_happy.org
+
+build content/notes/alan_watts.md: org2md org/alan_watts.org
+
+build content/notes/reading.md: org2md org/reading.org
+
+build content/notes/python_version_management.md: org2md org/python_version_management.org
+
+build content/notes/learning.md: org2md org/learning.org
+
+build content/notes/marketing.md: org2md org/marketing.org
+
+build content/notes/flashcards.md: org2md org/flashcards.org
+
+build content/notes/children_should_be_taught_to_do_nothing.md: org2md org/children_should_be_taught_to_do_nothing.org
+
+build content/notes/immigration.md: org2md org/immigration.org
+
+build content/notes/rachel_pohl.md: org2md org/rachel_pohl.org
+
+build content/notes/barack_obama.md: org2md org/barack_obama.org
+
+build content/notes/how_to_live_an_unhappy_life.md: org2md org/how_to_live_an_unhappy_life.org
+
+build content/notes/studying.md: org2md org/studying.org
+
+build content/notes/ammonia.md: org2md org/ammonia.org
+
+build content/notes/nuclear_waste.md: org2md org/nuclear_waste.org
+
+build content/notes/fukushima_nuclear_disaster.md: org2md org/fukushima_nuclear_disaster.org
+
+build content/notes/mathematics.md: org2md org/mathematics.org
+
+build content/notes/base_load_electricity.md: org2md org/base_load_electricity.org
+
+build content/notes/human_connection.md: org2md org/human_connection.org
+
+build content/notes/meditation.md: org2md org/meditation.org
+
+build content/notes/ambient_privacy.md: org2md org/ambient_privacy.org
+
+build content/notes/infinite_pools.md: org2md org/infinite_pools.org
+
+build content/notes/grid_energy_storage.md: org2md org/grid_energy_storage.org
+
+build content/notes/teachers_should_be_payed_more.md: org2md org/teachers_should_be_payed_more.org
+
+build content/notes/effective_typography.md: org2md org/effective_typography.org
+
+build content/notes/fuel_cell.md: org2md org/fuel_cell.org
+
+build content/notes/what_is_creativity.md: org2md org/what_is_creativity.org
+
+build content/notes/three_pass_method.md: org2md org/three_pass_method.org
+
+build content/notes/social_media.md: org2md org/social_media.org
+
+build content/notes/values.md: org2md org/values.org
+
+build content/notes/learning_in_public.md: org2md org/learning_in_public.org
+
+build content/notes/representation_invariants.md: org2md org/representation_invariants.org
+
+build content/notes/directtoconsumer_genetic_testing.md: org2md org/directtoconsumer_genetic_testing.org
+
+build content/notes/goal_setting.md: org2md org/goal_setting.org
+
+build content/notes/mental_representations.md: org2md org/mental_representations.org
+
+build content/notes/tim_ferriss.md: org2md org/tim_ferriss.org
+
+build content/notes/relative_cost_of_energy_generation.md: org2md org/relative_cost_of_energy_generation.org
+
+build content/notes/separation_between_public_and_press.md: org2md org/separation_between_public_and_press.org
+
+build content/notes/plurality_voting.md: org2md org/plurality_voting.org
+
+build content/notes/how_to_learn.md: org2md org/how_to_learn.org
+
+build content/notes/mental_models.md: org2md org/mental_models.org
+
+build content/notes/how_to_get_hired.md: org2md org/how_to_get_hired.org
+
+build content/notes/causes_of_modern_day_racism_in_america.md: org2md org/causes_of_modern_day_racism_in_america.org
+
+build content/notes/carbon_capture.md: org2md org/carbon_capture.org
+
+build content/notes/programming.md: org2md org/programming.org
+
+build content/notes/neuroevolution_of_augmenting_topologies.md: org2md org/neuroevolution_of_augmenting_topologies.org
+
+build content/notes/artificial_intelligence.md: org2md org/artificial_intelligence.org
+
+build content/notes/rehabilitation.md: org2md org/rehabilitation.org
+
+build content/notes/clocks.md: org2md org/clocks.org
+
+build content/notes/exercise.md: org2md org/exercise.org
+
+build content/notes/public_opinion_of_nuclear_energy.md: org2md org/public_opinion_of_nuclear_energy.org
+
+build content/notes/hydrogen.md: org2md org/hydrogen.org
+
+build content/notes/digital_privacy.md: org2md org/digital_privacy.org
+
+build content/notes/loss_aversion.md: org2md org/loss_aversion.org
+
+build content/notes/racial_inequality_in_western_societies.md: org2md org/racial_inequality_in_western_societies.org
+
+build content/notes/quantum_mechanics.md: org2md org/quantum_mechanics.org
+
+build content/notes/cooking.md: org2md org/cooking.org
+
+build content/notes/university.md: org2md org/university.org
+
+build content/notes/sievert.md: org2md org/sievert.org
+
+build content/notes/david_whyte.md: org2md org/david_whyte.org
+
+build content/notes/misinformation_on_social_media.md: org2md org/misinformation_on_social_media.org
+
+build content/notes/discipline_is_invisible.md: org2md org/discipline_is_invisible.org
+
+build content/notes/examples_of_digital_privacy_abuse.md: org2md org/examples_of_digital_privacy_abuse.org
+
+build content/notes/broken_windows_theory.md: org2md org/broken_windows_theory.org
+
+build content/notes/ancestry.md: org2md org/ancestry.org
+
+build content/notes/what_classes_should_be_taught_in_school.md: org2md org/what_classes_should_be_taught_in_school.org
+
+build content/notes/magnetized_target_fusion.md: org2md org/magnetized_target_fusion.org
+
+build content/notes/edward_snowden.md: org2md org/edward_snowden.org
+
+build content/notes/simplicity.md: org2md org/simplicity.org
+
+build content/notes/ali_abdaal.md: org2md org/ali_abdaal.org
+
+build content/notes/miscellaneous_ideas.md: org2md org/miscellaneous_ideas.org
+
+build content/notes/revise.md: org2md org/revise.org
+
+build content/notes/emacs.md: org2md org/emacs.org
+
+build content/notes/privacy_violations_are_invisible.md: org2md org/privacy_violations_are_invisible.org
+
+build content/notes/human_running_adaptations.md: org2md org/human_running_adaptations.org
+
+build content/notes/derek_sivers.md: org2md org/derek_sivers.org
+
+build content/notes/james_turrell.md: org2md org/james_turrell.org
+
+build content/notes/wind_power.md: org2md org/wind_power.org
+
+build content/notes/algorithmic_policing.md: org2md org/algorithmic_policing.org
+
+build content/notes/the_value_of_minimalism.md: org2md org/the_value_of_minimalism.org
+
+build content/notes/world_energy_usage.md: org2md org/world_energy_usage.org
+
+build content/notes/happiness.md: org2md org/happiness.org
+
+build content/notes/conservation_of_momentum.md: org2md org/conservation_of_momentum.org
+
+build content/notes/the_importance_of_the_moon.md: org2md org/the_importance_of_the_moon.org
+
+build content/notes/what_does_it_mean_to_be_a_man.md: org2md org/what_does_it_mean_to_be_a_man.org
+
+build content/notes/epigenetics.md: org2md org/epigenetics.org
+
+build content/notes/small_web.md: org2md org/small_web.org
+
+build content/notes/literate_programming.md: org2md org/literate_programming.org
+
+build content/notes/deliberate_practice.md: org2md org/deliberate_practice.org
+
+build content/notes/the_importance_of_privacy.md: org2md org/the_importance_of_privacy.org
+
+build content/notes/belief-bias.md: org2md org/belief-bias.org
+
+build content/notes/learning_by_intuition.md: org2md org/learning_by_intuition.org
+
+build content/notes/precautionary_principle.md: org2md org/precautionary_principle.org
+
+build content/notes/plasma.md: org2md org/plasma.org
+
+build content/notes/deep_work.md: org2md org/deep_work.org
+
+build content/notes/spherical_cow.md: org2md org/spherical_cow.org
+
+build content/notes/trucking_industry.md: org2md org/trucking_industry.org
+
+build content/notes/how_to_decide_what_to_do_with_your_time.md: org2md org/how_to_decide_what_to_do_with_your_time.org
+
+build content/notes/fairness.md: org2md org/fairness.org
+
+build content/notes/prioritize_content_over_tools.md: org2md org/prioritize_content_over_tools.org
+
+build content/notes/cognitive_behavioural_therapy.md: org2md org/cognitive_behavioural_therapy.org
+
+build content/notes/parkinson_s_law.md: org2md org/parkinson_s_law.org
+
+build content/notes/educational_reform.md: org2md org/educational_reform.org
+
+build content/notes/david_perell.md: org2md org/david_perell.org
+
+build content/notes/mirroring.md: org2md org/mirroring.org
+
+build content/notes/politeness.md: org2md org/politeness.org
+
+build content/notes/privacy_limits_judgements_of_character.md: org2md org/privacy_limits_judgements_of_character.org
+
+build content/notes/the_mind_illuminated.md: org2md org/the_mind_illuminated.org
+
+build content/notes/resource_acquisition_is_initialization.md: org2md org/resource_acquisition_is_initialization.org
+
+build content/notes/michael_nielsen.md: org2md org/michael_nielsen.org
+
+build content/notes/tesla.md: org2md org/tesla.org
+
+build content/notes/how_to_wake_up_in_the_morning.md: org2md org/how_to_wake_up_in_the_morning.org
+
+build content/notes/syntopic_reading.md: org2md org/syntopic_reading.org
+
+build content/notes/transportation.md: org2md org/transportation.org
+
+build content/notes/don_t_expect_that_progress_will_be_easy.md: org2md org/don_t_expect_that_progress_will_be_easy.org
+
+build content/notes/shame.md: org2md org/shame.org
+
+build content/notes/tiago_forte.md: org2md org/tiago_forte.org
+
+build content/notes/general_fusion.md: org2md org/general_fusion.org
+
+build content/notes/spaced_repetition.md: org2md org/spaced_repetition.org
+
+build content/notes/nuclear_fission.md: org2md org/nuclear_fission.org
+
+build content/notes/gun_control.md: org2md org/gun_control.org
+
+build content/notes/to_do_lists.md: org2md org/to_do_lists.org
+
+build content/notes/atrial_fibrillation.md: org2md org/atrial_fibrillation.org
+
+build content/notes/innovation.md: org2md org/innovation.org
+
+build content/notes/anki.md: org2md org/anki.org
+
+build content/notes/note-taking.md: org2md org/note-taking.org
+
+build content/notes/police_reform.md: org2md org/police_reform.org
+
+build content/notes/climate_change.md: org2md org/climate_change.org
+
+build content/notes/austin_kleon.md: org2md org/austin_kleon.org
+
+build content/notes/linguistic_hedging.md: org2md org/linguistic_hedging.org
+
+build content/notes/geneology.md: org2md org/geneology.org
+
+build content/notes/naval_ravikant.md: org2md org/naval_ravikant.org
+
+build content/notes/procrastination.md: org2md org/procrastination.org
+
+build content/notes/how_to_travel_without_moving.md: org2md org/how_to_travel_without_moving.org
+
+build content/notes/generalized_perspective_projection.md: org2md org/generalized_perspective_projection.org
+
+build content/notes/hannah_fry.md: org2md org/hannah_fry.org
+
+build content/notes/physics.md: org2md org/physics.org
+
+build content/notes/ephemeralization.md: org2md org/ephemeralization.org
+
+build content/notes/skill_acquisition_is_compounding.md: org2md org/skill_acquisition_is_compounding.org
+
+build content/notes/energy.md: org2md org/energy.org
+
+build content/notes/favourite_visual_artists.md: org2md org/favourite_visual_artists.org
+
+build content/notes/elon_musk.md: org2md org/elon_musk.org
+
+build content/notes/feature_positive_effect.md: org2md org/feature_positive_effect.org
+
+build content/notes/deindividualization_theory.md: org2md org/deindividualization_theory.org
+
+build content/notes/lateral_thinking_with_withered_ideas.md: org2md org/lateral_thinking_with_withered_ideas.org
+
+build content/notes/favourite_images.md: org2md org/favourite_images.org
+
+build content/notes/anxiety.md: org2md org/anxiety.org
+
+build content/notes/feedback_loops.md: org2md org/feedback_loops.org
+
+build content/notes/poise.md: org2md org/poise.org
+
+build content/notes/charlie_munger.md: org2md org/charlie_munger.org
+
+build content/notes/summarize_content_to_build_mental_models.md: org2md org/summarize_content_to_build_mental_models.org
+
+build content/notes/shane_parrish.md: org2md org/shane_parrish.org
+
+build content/notes/slow_work.md: org2md org/slow_work.org
+
+build content/notes/concern_trolling.md: org2md org/concern_trolling.org
+
+build content/notes/acceptance_and_commitment_therapy.md: org2md org/acceptance_and_commitment_therapy.org
+
+build content/notes/progressive-summarization.md: org2md org/progressive-summarization.org
+
+build content/notes/consistency.md: org2md org/consistency.org
+
+build content/notes/negotiation.md: org2md org/negotiation.org
+
+build content/notes/zettelkasten.md: org2md org/zettelkasten.org
+
+build content/notes/active-recall.md: org2md org/active-recall.org
+
+build content/notes/emission_intensity.md: org2md org/emission_intensity.org
+
+build content/notes/clean_energy.md: org2md org/clean_energy.org
+
+build content/notes/fraternity.md: org2md org/fraternity.org
+
+build content/notes/modularize_your_life.md: org2md org/modularize_your_life.org
+
+build content/notes/love.md: org2md org/love.org
+
+build content/notes/electric_vehicles.md: org2md org/electric_vehicles.org
+
+build content/notes/strategies_for_collaborative_learning.md: org2md org/strategies_for_collaborative_learning.org
+
+build content/notes/favourite_paintings.md: org2md org/favourite_paintings.org
+
+build content/notes/writing_refines_thinking.md: org2md org/writing_refines_thinking.org
+
+build content/notes/real_time_bidding.md: org2md org/real_time_bidding.org
+
+build content/notes/journalism.md: org2md org/journalism.org
+
+build content/notes/greenhouse_gas_emissions.md: org2md org/greenhouse_gas_emissions.org
+
+build content/notes/safety_of_nuclear_fission.md: org2md org/safety_of_nuclear_fission.org
+
+build content/notes/org-roam.md: org2md org/org-roam.org
+
+build content/notes/instant_runoff_voting.md: org2md org/instant_runoff_voting.org
+
+build content/notes/the_flaws_of_capitalism.md: org2md org/the_flaws_of_capitalism.org
+
+build content/notes/test_driven_development.md: org2md org/test_driven_development.org
+
+build content/notes/mindfulness.md: org2md org/mindfulness.org
+
+build content/notes/daily_highlight.md: org2md org/daily_highlight.org
+
+build content/notes/conversational_forecasting.md: org2md org/conversational_forecasting.org
+
+build content/notes/charisma_is_valued_more_than_intelligence.md: org2md org/charisma_is_valued_more_than_intelligence.org
+
+build content/notes/mobility.md: org2md org/mobility.org
+
+build content/notes/the_importance_of_arts_education.md: org2md org/the_importance_of_arts_education.org
+
+build content/notes/nuclear_fusion.md: org2md org/nuclear_fusion.org
+
+build content/notes/privacy_creates_stagnancy.md: org2md org/privacy_creates_stagnancy.org
+
+build content/notes/sönke_ahrens.md: org2md org/sönke_ahrens.org
+
+build content/notes/how_to_have_more_time.md: org2md org/how_to_have_more_time.org
+
+build content/notes/tax_policy.md: org2md org/tax_policy.org
+
+build content/notes/performing_under_pressure.md: org2md org/performing_under_pressure.org
+
+build content/notes/the_effect_of_politeness_in_online_communities.md: org2md org/the_effect_of_politeness_in_online_communities.org
+
+build content/notes/first-principles.md: org2md org/first-principles.org
+
+build content/notes/richard_feynman.md: org2md org/richard_feynman.org
+
+build content/notes/self_improvement.md: org2md org/self_improvement.org
+
+build content/notes/productivity.md: org2md org/productivity.org
+
+build content/notes/23andme.md: org2md org/23andme.org
+
+build content/notes/christlCorporateSurveillanceEveryday2017.md: org2md org/papers/christlCorporateSurveillanceEveryday2017.org
 
 build content/notes/why_conversation_is_not_the_soul_of_democracy.md: org2md org/papers/why_conversation_is_not_the_soul_of_democracy.org
 
@@ -52,6 +548,8 @@ build content/notes/So-Good-They-Can_t-Ignore-You.md: org2md org/books/So-Good-T
 build content/notes/the_inner_game_of_tennis.md: org2md org/books/the_inner_game_of_tennis.org
 
 build content/notes/How-to-Take-Smart-Notes.md: org2md org/books/How-to-Take-Smart-Notes.org
+
+build content/notes/wealth_poverty_and_politics.md: org2md org/books/wealth_poverty_and_politics.org
 
 build content/notes/the_untethered_soul.md: org2md org/books/the_untethered_soul.org
 
