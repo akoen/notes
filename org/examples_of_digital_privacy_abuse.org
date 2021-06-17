@@ -8,8 +8,6 @@
 Kosinski /et al./ were able to predict psychological and demographic traits of individuals with surprising accuracy using a median of 68 Facebook likes. For example, they were able to infer sexual orientation of men, political affiliation, and drug use with 88%, 85%, and 65% accuracy respectively. cite:kosinskiPrivateTraitsAttributes2013
 
 *  Corporations
-
-- Privacy policies are written to be incomprehensible to the average person.
   
 - In 2007, Google's then CEO Eric Shmidt [[https://web.archive.org/web/20210524225135/https://www.ft.com/content/c3e49548-088e-11dc-b11e-000b5df10621][said]] "the goal is to enable Google users to be able to ask the questions such as 'What shall I do tomorrow?' and 'What job shall I take?'". 
   - For democracy to function, we need citizens to be autonomous, to think for themselves.
@@ -55,7 +53,7 @@ Moat Analytics, a subdivision of Oracle, provides, among other services, service
       - Facebook allows advertisers to exclude specific groups of "Ethnic Affinities". In an investigation, [[https://www.propublica.org/article/facebook-lets-advertisers-exclude-users-by-race][ProPublica]] was able to place an ad for housing that excluded those of African American, Asian America, or Hispanic descent.
 ** Employment
 
-As of 2017, [[https://www2.deloitte.com/us/en/insights/focus/human-capital-trends/2017/people-analytics-in-hr.html..html][71 %]] of companies rate /people analytics/ — the use of algorithms in hiring and compensation decisions—as "highly important".
+As of 2017, [[https://www2.deloitte.com/us/en/insights/focus/human-capital-trends/2017/people-analytics-in-hr.html..html][71 %]] of companies rate /people analytics/ — the use of algorithms in hiring and compensation decisions—as "highly important" to their business.
 
 Often, they pay companies like [[https://www.cornerstoneondemand.com/][Cornerstone]] to score potential candidates. For example, candidates may be scored more favourably if they use certain browsers (Chrome/Firefox over Safari/Edge) and have lower commute times. cite:adler-bellDataficationEmployment While trends like these may be broadly true, they unintentionally discriminate those who must use the default browsers on library computers or who cannot afford to live near urban centres, for example.
 

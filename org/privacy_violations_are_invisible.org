@@ -8,6 +8,8 @@
 
 Surveillance is not yet seen as an existential threat because it is invisible. Few people understand the true economic and social consequences of its development.
 
+- Privacy policies are written to be incomprehensible to the average person.
+
 
 #+begin_quote
 Privately owned advertising and surveillance networks are called ‘communities’, citizens are ‘users’, addiction to screens is labelled ‘engagement’, our most sensitive information is considered ‘data exhaust’ or ‘digital breadcrumbs’, spyware is called ‘cookies’, documents that describe our lack of privacy are titled ‘privacy policies’, and what used to be considered wiretapping is now the bedrock of the internet economy.
