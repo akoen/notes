@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       227f736b-1c34-4245-bb80-c02f5477380a
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Write first, edit later
+
+#+begin_quote
+Putting it on paper lets you start fixing it. If it stays in your head, a perfect idea, you'll never share it with anyone.
+—  Pixar's Guide to Storytelling
+#+end_quote
+
+
