@@ -1,8 +1,11 @@
 +++
 title = "Don't expect that progress will be easy"
-lastmod = 2021-06-16T12:17:53-07:00
+lastmod = 2021-06-22T22:23:02-07:00
 draft = false
 +++
+
+> The will to win is not important as the will to prepare to win.
+> — Vince Lombardi
 
 Nowadays, society promotes the idea that it is possible to make progress easily by working strategically. This includes:
 
@@ -23,3 +26,6 @@ Progress is exponential, and until you cross the linear line that you expect to 
 > — [Derek Sivers]({{<relref "derek_sivers.md" >}})
 
 Yet the effort required to improve is precisely what makes it worthwhile. In her book _Death: The Final Stage of Growth_, psychiatrist Elisabeth Kübler Ross remarks that "the most beautiful people we have known are those who have known defeat, known suffering, known struggle, known loss, and have found their way out of the depths. These persons have an appreciation, an sensitivity, and an understanding of life that fills the with compassion, gentleness, and a deep loving concern. Beautiful people do not just happen."
+
+> How many times have people told you, ‘You can’t interview these types of people’? How many times have they said, ‘No way’? Don’t let anyone tell you your dream isn’t possible. When you have a vision, you’ve got to hang in there. You’ve got to stay in the fight. It’s going to get tough. You’re going to hear no. But you’ve got to keep pushing. You’ve got to keep fighting. You’ve got to use your Hidden Reservoir. It’s not going to be easy, but it’s possible.
+> — "Sugar" Ray Leonard, _The Third Door_

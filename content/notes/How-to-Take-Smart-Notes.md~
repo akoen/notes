@@ -1,0 +1,156 @@
++++
+title = "How to Take Smart Notes"
+lastmod = 2021-06-16T12:17:31-07:00
+draft = false
++++
+
+author
+: [Sönke Ahrens]({{<relref "sönke_ahrens.md" >}})
+
+
+## Ideas {#ideas}
+
+-   Keep your notes and your system simple. Do not overcomplicate it.
+    -   Software tends to interfere with our workflow.
+-   Simplicity is paramount:
+    -   Strive to keep your system simple and organized, yet free of categories.
+    -   **Don't sort your notes by topic, instead, place them where you are most likely to stumble upon them again.**
+-   <span class="underline">Notes should not serve as reminders of the referenced material, but instead should capture the idea itself.</span>
+-   Notes should be **brief and too the point.**
+-   **Learn to enjoy the process of working.** Do not give yourself rewards for completing a difficult task, because you will soon learn to circumvent the task but still give yourself the reward.
+-   Do not take mediocre notes. Do not take fleeting notes if you will not come back to them.
+    -   Writing forces us to confront our ignorance of a topic. We must think through our ideas to record them concise and specific.
+    -   Our brain tends to ignore inconsistencies in our thinking.
+-   Students who rely on textbooks or secondary literature have no chance of becoming "worldly wise".
+-   When we decide on a hypothesis, we immediately disregard any contradictory information and look only for arguments which support our thesis. ([Belief bias]({{<relref "belief-bias.md" >}}))
+    -   For this reason, research should be conducted before choosing a thesis.
+-   **Collecting quotes without context is an ineffective research technique.**
+    -   It is much more valuable to take "Smart Notes" on the main point.
+    -   Reading is ineffective because we are only presented with the material with which we are familiar—not with the gaps in our understanding.
+-   Active recall is an example of **elaboration** — thinking about how the material you're currently learning relates to other topics.
+    -   Try to answer questions before learning the material.
+    -   Test yourself. Make yourself work to learn.
+-   <span class="underline">Add anything to the slipbox that adds to the discussion.</span>
+-   Teachers sabotage their students by organizing class material in a way that makes it _easy_ to review; it is more valuable to be forced to sort through the material and build neural connections.
+-   The slipbox is effective because it removes the burden of having to remember facts and details.
+
+| **Brain**                                           | **Slipbox**                                                     |
+|-----------------------------------------------------|-----------------------------------------------------------------|
+| Free to focus on the meaning, rather than the facts | Keeps a permanent record                                        |
+|                                                     | Effective for facts and details that must be recorded precisely |
+|                                                     | Facilitates active learning                                     |
+
+-   While language is inherently limiting, Ahrens claims that no argument can be made without a fixed language.
+
+<!--listend-->
+
+-   **Context is critical for learning.** Creating links between chunks of knowledge is essential.
+
+-   According to Dr. James Zull, Professor of Biology at Case Western University, our natural form of perception is comparing.
+    -   Our brain's are incredibly adept at perceiving differences between two of anything, in this case notes.
+    -   The [Zettelkasten]({{<relref "zettelkasten.md" >}}) system forces us to compare notes.
+    -   _However_, **comparison does not uncover ideas that are not already there.**
+
+-   To uncover new ideas, ask about the problems, not the solutions.
+    -   Ask "what if?"
+    -   Instead of inquiring about the benefits of democracy, ask "what would people do if we lived in a society without an elected government?"
+
+> “Sometimes, it is more important to rediscover the problems for which we already have a solution than to think solely about the problems that are present to us.”
+>
+> — Sönke Ahrens
+
+-   This is thinking with [First Principles]({{<relref "first-principles.md" >}})
+    -   When using [Zettelkasten]({{<relref "zettelkasten.md" >}}), Ahrens recommends limiting the length of a note, even while using the computer program.
+
+-   Evolution happens through trial and error, not planning.
+
+-   We can never hope to change our way of thinking if we are not aware that it is a thought pattern in the first place.
+
+-   The worst thing is to be stuck working on a project that you aren't sure is worth doing. Therefore, it is important to follow your interests in life.
+
+-   Your knowledge and interests are complimentary to one another. When you follow your interest, you slowly build a scaffolding of knowledge that—like a sunflower—grows to support this new direction of thought.
+    -   The important thing here to keep in mind is that the scaffolding is critical to support new knowledge, as argued by [Cal Newport]({{<relref "cal_newport.md" >}}) in [So Good They Can't Ignore You]({{<relref "So-Good-They-Can_t-Ignore-You.md" >}})
+
+-   Luhnmann would write several books simultaneously, always switching between them whenever he felt stuck.
+
+-   We are terrible judges of our time. Studies (Buehler, Griffin and Ross 1995) have shown that fewer than 45% of students were able to complete a paper in the time that they were 99% percent sure would be sufficient in the worst-case scenario.
+
+-   Trick yourself into discarding unecessary passages from a paper by moving them to a separate file and telling yourself that you'll come back to them later.
+
+
+## The note-taking process: {#the-note-taking-process}
+
+This workflow is described by Sönke Ahrens in his book, _How to Take Smart Notes_, which is based on the [Zettelkasten]({{<relref "zettelkasten.md" >}}) system.
+
+{{< figure src="/ox-hugo/diagram2020-02-18_11-08-15_.svg" >}}
+
+1.  Always have something available with which to record notes. Whenever you have an idea, take a 'fleeting' note. These can be recorded on a notebook, a napkin, your phone, or anything else you have available. What's important is that your **write everything down.**
+
+2.  **Take literature notes:** Whenver you read something, record key ideas. **Don't copy quotes without taking the time to understand what they mean.**
+
+3.  Within a few days, revise your fleeing notes.
+    -   Do not take fleeting notes if you will not come back to them.
+    -   Do not take mediocre notes.
+    -   These notes are then placed in the slipbox, where your are most likely to stumble upon them again.
+    -   These notes should be self-explanatory. **Write them as if you are teaching them to yourself for the first time.**
+
+4.  Literature notes are placed in a reference management system.
+
+
+## Highlights {#highlights}
+
+Writing is not what follows research, learning or studying, it is the medium of all this work.
+
+“Some people are just like that,” “writing has to be difficult,” “the struggle is part of the deal” are just a few of the mantras that keep too many from inquiring what exactly distinguishes successful writing strategies from less successful ones.
+
+Nobody needs willpower not to eat a chocolate bar when there isn’t one around. And nobody needs willpower to do something they wanted to do anyway. Every task that is interesting, meaningful and well-defined will be done, because there is no conflict between long- and short-term interests.
+
+Most people try to reduce complexity by separating what they have into smaller stacks, piles or separate folders. They sort their notes by topics and sub-topics, which makes it look less complex, but quickly becomes very complicated.
+
+And while the notes on the literature were brief, he wrote them with great care, not much different from his style in the final manuscript: in full sentences and with explicit references to the literature from which he drew his material
+
+Be extra selective with quotes – don’t copy them to skip the step of really understanding what they mean.
+
+The slip-box follows the Russian model: Focus on the essentials, don’t complicate things unnecessarily.
+
+no editor can improve an argument.
+
+Even if you decide never to write a single line of a manuscript, you will improve your reading, thinking and other intellectual skills just by doing everything as if nothing counts other than writing.
+
+In the old system, the question is: Under which topic do I store this note? In the new system, the question is: In which context will I want to stumble upon it again?
+
+The notes are no longer reminders of thoughts or ideas, but contain the actual thought or idea in written form.
+
+****Tags:**** favorite
+
+Any attempts to trick ourselves into work with external rewards (like doing something nice after finishing a chapter) are only short-term solutions with no prospect of establishing a positive feedback loop. These are very fragile motivational constructions. Only if the work itself becomes rewarding can the dynamic of motivation and reward become self-sustainable and propel the whole process forward (DePasque and Tricomi, 2015).
+
+“Specifically, the problem-solving behavior of eminent scientists can alternate between extraordinary levels of focus on specific concepts and playful exploration of ideas. This suggests that successful problem solving may be a function of flexible strategy application in relation to task demands.” (Vartanian 2009, 57)
+
+This is why it is so much easier to remember things we understand than things we don’t. It is not that we have to choose to focus either on learning or understanding. It is always about understanding – and if it is only for the sake of learning. Things we understand are connected, either through rules, theories, narratives, pure logic, mental models or explanations.
+
+While we have a walk or a shower or clean the house, the brain cannot help but play around with the last unsolved problem it came across. And that is why we so often find the answer to a question in rather casual situations.
+
+While content-related decisions have to be made (on what is more and what is less important in an article, on the connections between notes, the structure of a text, etc.), most organisational decisions can be made up front, once and for all, by deciding on one system. By always using the same notebook for making quick notes, always extracting the main ideas from a text in the same way and always turning them into the same kind of permanent notes, which are always dealt with in the same manner, the number of decisions during a work session can be greatly reduced.
+
+As well, the mere copying of quotes almost always changes their meaning by stripping them out of context, even though the words aren’t changed
+
+“If one were to attempt to identify a single problematic aspect of human reasoning that deserves attention above all others, the confirmation bias would have to be among the candidates for consideration” (Nickerson 1998, 175).
+
+“Nonage [immaturity] is the inability to use one’s own understanding without another’s guidance.
+
+We have to choose between feeling smarter or becoming smarter
+
+Coherent arguments require the language to be fixed,
+
+The brain, as Kahneman writes, is “a machine for jumping to conclusions” (Kahneman, 2013, 79).
+
+Without a very thorough filter, our brains would constantly be flooded by memories, making it impossible to focus on anything in our surroundings.
+
+He advocates looking out for the most powerful concepts in every discipline and to try to understand them so thoroughly that they become part of our thinking.
+
+You may have noticed students who just try to remember and pound back what is remembered. Well, they fail in school and in life.
+
+Sometimes, it is more important to rediscover the problems for which we already have a solution than to think solely about the problems that are present to us.
+
+It is also difficult to change behaviour in times of stress. The more pressure we feel, the more we tend to stick to our old routines – even when these routines caused the problems and the stress in the first place.

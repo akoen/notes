@@ -1,6 +1,6 @@
 +++
 title = "Corporate Surveillance in Everyday Life"
-lastmod = 2021-06-16T12:23:42-07:00
+lastmod = 2021-06-22T22:22:55-07:00
 draft = false
 +++
 

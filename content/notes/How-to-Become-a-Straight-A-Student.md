@@ -2,7 +2,7 @@
 title = "How to Become a Straight-A Student"
 author = ["Cal Newport"]
 date = 2019-08-12T00:00:00-07:00
-lastmod = 2021-06-16T12:17:51-07:00
+lastmod = 2021-06-22T22:23:01-07:00
 draft = false
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = "The Inner Game of Tennis"
-lastmod = 2021-06-16T12:17:20-07:00
+lastmod = 2021-06-22T22:22:55-07:00
 draft = false
 +++
 
@@ -84,7 +84,7 @@ I have always struggled to perform under pressure. When my ability to perform a 
 
 -   To Self 2, a picture is worth a thousand words.
 
--   Many students of tennis are too stroke-conscious and not attentive enough to results.
+-   **Many students of tennis are too stroke-conscious and not attentive enough to results.**
 
 -   It is often helpful for these players to shift their attention from means to ends.
 

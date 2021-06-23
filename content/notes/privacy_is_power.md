@@ -1,6 +1,6 @@
 +++
 title = "Privacy is Power"
-lastmod = 2021-06-16T12:20:10-07:00
+lastmod = 2021-06-22T22:22:55-07:00
 draft = false
 +++
 

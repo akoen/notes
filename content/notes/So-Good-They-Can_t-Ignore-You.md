@@ -1,7 +1,7 @@
 +++
 title = "So Good They Can't Ignore You"
 date = 2019-12-23T00:00:00-08:00
-lastmod = 2021-06-16T12:17:20-07:00
+lastmod = 2021-06-22T22:22:55-07:00
 draft = false
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = "Examples of digital privacy abuse"
-lastmod = 2021-06-16T12:17:20-07:00
+lastmod = 2021-06-22T22:22:55-07:00
 draft = false
 +++
 
@@ -10,8 +10,6 @@ Kosinski _et al._ were able to predict psychological and demographic traits of i
 
 
 ## Corporations {#corporations}
-
--   Privacy policies are written to be incomprehensible to the average person.
 
 -   In 2007, Google's then CEO Eric Shmidt [said](https://web.archive.org/web/20210524225135/https://www.ft.com/content/c3e49548-088e-11dc-b11e-000b5df10621) "the goal is to enable Google users to be able to ask the questions such as 'What shall I do tomorrow?' and 'What job shall I take?'".
     -   For democracy to function, we need citizens to be autonomous, to think for themselves.
@@ -66,7 +64,7 @@ Touch Rate
 
 ### Employment {#employment}
 
-As of 2017, [71 %](https://www2.deloitte.com/us/en/insights/focus/human-capital-trends/2017/people-analytics-in-hr.html..html) of companies rate _people analytics_ — the use of algorithms in hiring and compensation decisions—as "highly important".
+As of 2017, [71 %](https://www2.deloitte.com/us/en/insights/focus/human-capital-trends/2017/people-analytics-in-hr.html..html) of companies rate _people analytics_ — the use of algorithms in hiring and compensation decisions—as "highly important" to their business.
 
 Often, they pay companies like [Cornerstone](https://www.cornerstoneondemand.com/) to score potential candidates. For example, candidates may be scored more favourably if they use certain browsers (Chrome/Firefox over Safari/Edge) and have lower commute times. <sup id="cf5cf049e4e7fb960369aa2aa48129a2"><a href="#adler-bellDataficationEmployment" title="">adler-bellDataficationEmployment</a></sup> While trends like these may be broadly true, they unintentionally discriminate those who must use the default browsers on library computers or who cannot afford to live near urban centres, for example.
 

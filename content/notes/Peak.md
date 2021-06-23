@@ -2,7 +2,7 @@
 title = "Peak: Secrets from the New Science of Expertise"
 author = ["Anders Ericsson and Robert Pool"]
 date = 2019-08-22T00:00:00-07:00
-lastmod = 2021-06-16T12:20:10-07:00
+lastmod = 2021-06-22T22:22:55-07:00
 draft = false
 +++
 
