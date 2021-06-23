@@ -3,6 +3,7 @@
 :END:
 #+setupfile: ../hugo_setup.org
 #+title: Write first, edit later
+- tags :: writing
 
 #+begin_quote
 Putting it on paper lets you start fixing it. If it stays in your head, a perfect idea, you'll never share it with anyone.

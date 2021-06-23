@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       2de2e612-d6f5-4c5e-9ee7-7478ea110917
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Score Voting
+
+Score voting is a [[id:895de7be-5ff8-477a-96d7-3bdc0376f248][Voting System]] where a voter may score each candidate on a predefined scale. They may give multiple candidates the same score or give some none at all.
+
+* Flaws
+
+In this scenario, blue wins when using any voting method other than approval and score. While this scenario feels unfair, in practice a third party would likely align themselves with the majority view. Generated using https://ncase.me/ballot/sandbox/sandbox.html
+[[file:img/score_voting/screenshot2021-06-22_22-12-20_.png]]
+
