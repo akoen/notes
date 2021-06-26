@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4d54e68d-3b9c-432f-8f3f-75a4bc644dc9
+:END:
+#+setupfile: ../hugo_setup.org
+#+title: Escaping the sedentary lifestyle
+
+1. Eat less
+2. Move more
+
+  "Most people are sitting on devices most of the day. Then, when we get a break from work, we sit and eat. Or sit and chat. Or sit and stare at the blank wall wishing we were staring at the TV."
