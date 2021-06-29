@@ -11,6 +11,7 @@ Kosinski /et al./ were able to predict psychological and demographic traits of i
   
 - In 2007, Google's then CEO Eric Shmidt [[https://web.archive.org/web/20210524225135/https://www.ft.com/content/c3e49548-088e-11dc-b11e-000b5df10621][said]] "the goal is to enable Google users to be able to ask the questions such as 'What shall I do tomorrow?' and 'What job shall I take?'". 
   - For democracy to function, we need citizens to be autonomous, to think for themselves.
+  - In its nascence, the purpose of Android was "to create more mobile page views, from more compelling content, which will create more ad views. It's making a bigger, tastier pie." https://twitter.com/TechEmails/status/1407755758230552583/photo/1
     
 - The [[https://play.google.com/store/apps/details?id=com.mindstrong&hl=en_CA&gl=US][Mindstrong]] Android app infers whether or not you suffer from depression and other mental disorders based on the way you scroll, type, and tap your phone screen. [[https://www.technologyreview.com/2018/10/15/66443/the-smartphone-app-that-can-tell-youre-depressed-before-you-know-it-yourself/]]
 
